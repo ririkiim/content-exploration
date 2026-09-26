@@ -1,0 +1,29 @@
+services:
+  pgdatabase:
+    image: postgres:18
+    environment:
+      POSTGRES_USER: "root"
+      POSTGRES_PASSWORD: "root"
+      POSTGRES_DB: "content_exploration"
+    volumes:
+      - content_exploration_postgres_data:/var/lib/postgresql
+    ports:
+      - "127.0.0.1:5433:5432"
+
+
+  pgadmin:
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: "admin@admin.com"
+      PGADMIN_DEFAULT_PASSWORD: "root"
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+    ports:
+      -  "127.0.0.1:8086:80"
+    depends_on:
+      - pgdatabase
+
+
+volumes:
+  content_exploration_postgres_data:
+  pgadmin_data:
