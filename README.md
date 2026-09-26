@@ -27,3 +27,21 @@ KMDb 원본 JSON 파일 → PostgreSQL JSONB 적재
 - `fetch`: 외부 API 호출 및 원본 JSON 파일 저장
 - `load`: 저장된 JSON 파일을 PostgreSQL JSONB로 적재
 - `match`: TMDB와 KMDb가 동일 작품인지 확인
+
+## 적재 결과
+
+### TMDB 원본 데이터
+
+![TMDB 원본 데이터](docs/images/raw_tmdb_content.png)
+
+## JSONB 데이터 조회 예시
+
+![JSONB 출연진 조회 결과](docs/images/jsonb_cast_query.png)
+
+### KMDb 원본 데이터
+
+![KMDb 원본 데이터](docs/images/raw_kmdb_search.png)
+
+### TMDB·KMDb 매칭 결과
+
+![TMDB-KMDb 매칭 결과](docs/images/match_movie_sources.png)
