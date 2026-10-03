@@ -6,4 +6,4 @@ BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 TMDB_RAW_DIR = DATA_DIR / "raw" / "tmdb"
 KMDB_RAW_DIR = DATA_DIR / "raw" / "kmdb"
-YES24_RAW_DIR = DATA_DIR / "raw" / "yes24"
+YES24_RAW_DIR = DATA_DIR / "raw" / "yes24" / "selected"
