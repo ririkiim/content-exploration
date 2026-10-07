@@ -1,6 +1,6 @@
 services:
   pgdatabase:
-    image: postgres:18
+    image: pgvector/pgvector:pg18
     environment:
       POSTGRES_USER: "root"
       POSTGRES_PASSWORD: "root"
