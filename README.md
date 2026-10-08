@@ -72,7 +72,9 @@ Evidence-grounded cross-media exploration across movies, TV series, and books.
 - topic_name
 - topic_description
 - UNIQUE(topic_name)
-- content_topic
+
+
+### content_topic
 - content_id PK/FK → content.content_id
 - topic_id PK/FK → topic.topic_id
 - INDEX(topic_id)
