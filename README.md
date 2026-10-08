@@ -4,12 +4,12 @@ Evidence-grounded cross-media exploration across movies, TV series, and books.
 # 테이블 구조 (임시)
 
 ### content
-content_id PK
-content_type
-title
-release_date
-description
-normalized_title
+- content_id PK
+- content_type
+- title
+- release_date
+- description
+- normalized_title
 
 
 ### movie
