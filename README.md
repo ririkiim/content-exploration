@@ -13,30 +13,30 @@ Evidence-grounded cross-media exploration across movies, TV series, and books.
 
 
 ### movie
-content_id PK/FK
-genre
-nation
-keywords
+- content_id PK/FK
+- genre
+- nation
+- keywords
 
 
 ### tv
-content_id PK/FK
-genre
-nation
-keywords
+- content_id PK/FK
+- genre
+- nation
+- keywords
 
 
 ### book
-content_id PK/FK
-goods_sort_nm
-isbn10
-isbn13
+- content_id PK/FK
+- goods_sort_nm
+- isbn10
+- isbn13
 
 
 ### content_source_map
-content_id FK
-source_name
-source_id
-match_method
+- content_id FK
+- source_name
+- source_id
+- match_method
 
-UNIQUE(source_name, source_id)
+- UNIQUE(source_name, source_id)
