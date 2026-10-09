@@ -84,9 +84,33 @@ Evidence-grounded cross-media exploration across movies, TV series, and books.
 - INDEX(topic_id)
 
 
-### content_semantic_expansion
-- content_id
+### topic_semantic_expansion
+- expansion_id
+- topic_id
 - expansion_type
 - value
-- source
+- generation_method
 - model_version
+- created_at
+
+
+### relationship_semantic_expansion
+- expansion_id
+- relationship_id
+- expansion_type
+- value
+- generation_method
+- model_version
+- created_at
+
+### content_topic_extraction_status
+- content_id
+- status - pending 대기, processing 처리 중, success 성공, failed 실패
+- attempt_count
+- topic_count
+- last_error
+- prompt_version
+- model_name
+- started_at
+- completed_at
+- updated_at
