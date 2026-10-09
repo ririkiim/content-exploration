@@ -53,6 +53,10 @@ Evidence-grounded cross-media exploration across movies, TV series, and books.
 - fact_status
 - evidence
 - visibility
+- next_hop_eligible
+- candidate_score
+- score_version
+- scored_at
 - INDEX(source_type, source_id)
 - INDEX(target_type, target_id)
 - INDEX(relationship_type)
@@ -79,3 +83,10 @@ Evidence-grounded cross-media exploration across movies, TV series, and books.
 - topic_id PK/FK → topic.topic_id
 - INDEX(topic_id)
 
+
+### content_semantic_expansion
+- content_id
+- expansion_type
+- value
+- source
+- model_version
