@@ -70,13 +70,15 @@ INSERT INTO book (
     content_id,
     goods_sort_nm,
     isbn10,
-    isbn13
+    isbn13,
+    bookintroduction
 )
 VALUES (
     %(content_id)s,
     %(goods_sort_nm)s,
     %(isbn10)s,
-    %(isbn13)s
+    %(isbn13)s,
+    %(bookintroduction)s
 );
 """
 
@@ -407,10 +409,7 @@ def load_yes24_content(cursor):
         # 설명
         # -------------------------------------------------
 
-        content_detail = data.get(
-            "contentDetail",
-            {},
-        )
+        content_detail = data.get("contentDetail") or {}
 
         book_introduction = content_detail.get(
             "bookIntroduction"
@@ -420,22 +419,8 @@ def load_yes24_content(cursor):
             "bookSummary"
         )
 
-        description_parts = []
 
-        if book_introduction:
-            description_parts.append(
-                book_introduction
-            )
-
-        if book_summary:
-            description_parts.append(
-                "[Summary] " + book_summary
-            )
-
-        description = (
-            "\n".join(description_parts)
-            or None
-        )
+        description = book_summary or None
 
         # -------------------------------------------------
         # 도서 정보
@@ -487,6 +472,7 @@ def load_yes24_content(cursor):
                 "goods_sort_nm": goods_sort_nm,
                 "isbn10": isbn10,
                 "isbn13": isbn13,
+                "bookintroduction": book_introduction,
             },
         )
 
