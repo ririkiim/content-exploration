@@ -201,4 +201,4 @@ verified 관계 생성 :	새 검증 관계를 만들어 내지 않음
 
 
 ### 출력 예시
-<img width="718" height="961" alt="image" src="https://github.com/user-attachments/assets/f1e9cc3b-2823-44b1-b37a-a8e8f44d959f" />
+<img width="350" height="425" alt="image" src="https://github.com/user-attachments/assets/f1e9cc3b-2823-44b1-b37a-a8e8f44d959f" />
