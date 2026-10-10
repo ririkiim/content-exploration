@@ -403,5 +403,6 @@ verified 관계 생성 :	새 검증 관계를 만들어 내지 않음
 
 
 ### 출력 예시
-<img width="309" height="482" alt="image" src="https://github.com/user-attachments/assets/3ecb9213-dc95-47b0-be1d-b831bc2e6612" />
+<img width="265" height="482" alt="image" src="https://github.com/user-attachments/assets/80d25749-0055-4fcf-b458-5a61819e1fd1" />
+
 
