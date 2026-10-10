@@ -1,0 +1,331 @@
+{
+  "type": "item",
+  "id": "Q16748867",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "basic emotion"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "emotions more \"basic\" than others according to the theory of emotion"
+    }
+  },
+  "claims": {
+    "P2579": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2579",
+          "hash": "9c371fd14a469e6aa2a73f576f96c56c5ec35f55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9357054,
+              "id": "Q9357054"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q16748867$80258e8c-47a9-14cd-afc4-749b3558a8b3",
+        "rank": "normal"
+      }
+    ],
+    "P18": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "ca8e869668d76f1e293d045a2eb06521505c08ef",
+          "datavalue": {
+            "value": "Emotions - 3.png",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q16748867$35a2fc41-45aa-836c-5b27-181601300a44",
+        "rank": "deprecated"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "8a5f526da2cebf4e54f59032af04203bc98645ce",
+          "datavalue": {
+            "value": "Plutchik-wheel.svg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q16748867$da14d0c0-4fd6-e346-25f6-86c55e476d3e",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "c9542b2db694d9fc0b7acd513e1891e188cbcbc6",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9415,
+              "id": "Q9415"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q16748867$e9cf7657-4414-c1b6-8427-bf5e5f84fcd6",
+        "rank": "normal"
+      }
+    ],
+    "P10565": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10565",
+          "hash": "2ed4f388631ca38f53f4d4d6ae214ecf5ec12414",
+          "datavalue": {
+            "value": "26512",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q16748867$0e9f1a1f-4c31-5508-358e-73a22ef12df2",
+        "rank": "normal"
+      }
+    ],
+    "P460": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P460",
+          "hash": "c1392e6549a767458d7d8f7d2a257b0fea666d37",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1526770,
+              "id": "Q1526770"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q16748867$afb8df4a-4def-9583-f621-27f53ee5d4e7",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "4fee1378f05a2d3abdce0dc81ffc4d2a27f4627f",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 20521260,
+              "id": "Q20521260"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q16748867$e658a12c-4b93-e583-465a-daf16beaddbd",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "32008f84b1a15317ffaf94dbc7a575b41e0a2f52",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a9cbf55e3f22e551aa99b008d5cb18382643e31b",
+                  "datavalue": {
+                    "value": "https://zenodo.org/records/17477547",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "3d5c51f5fa97b104d08fb147a0c584ca324f34f6",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 138789286,
+              "id": "Q138789286"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q16748867$94886497-47f6-919c-c660-9846dc5fcd86",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "32008f84b1a15317ffaf94dbc7a575b41e0a2f52",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a9cbf55e3f22e551aa99b008d5cb18382643e31b",
+                  "datavalue": {
+                    "value": "https://zenodo.org/records/17477547",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "5890eefa8650adf7059804800e1da92b6624ff52",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 29999579,
+              "id": "Q29999579"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q16748867$210ab18f-4ad0-7687-92d9-d819860a3472",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "32008f84b1a15317ffaf94dbc7a575b41e0a2f52",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a9cbf55e3f22e551aa99b008d5cb18382643e31b",
+                  "datavalue": {
+                    "value": "https://zenodo.org/records/17477547",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P14541": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14541",
+          "hash": "94258c09954de737c4b3006f6b3a1541ce9c35cd",
+          "datavalue": {
+            "value": "12sji9",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "8cd2d7e7d06c3cd9651e078bd78b01b87615eff6",
+              "datavalue": {
+                "value": "基本情绪",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P5017": [
+            {
+              "snaktype": "value",
+              "property": "P5017",
+              "hash": "4102f68ef6a3e38f38a98753d6cc1bfbff5c97c5",
+              "datavalue": {
+                "value": {
+                  "time": "+2022-01-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P5017"
+        ],
+        "id": "Q16748867$A4CA09F3-C341-44DF-B767-51CDA4F3E402",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "4267db0fc3ca524dd2987f38ee1e2fabda11f234",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "32f4bddab7db999db9db6c6c07d040fd09749c88",
+                  "datavalue": {
+                    "value": "https://www.zgbk.com/ecph/words?SiteID=1&Name=%E5%9F%BA%E6%9C%AC%E6%83%85%E7%BB%AA",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

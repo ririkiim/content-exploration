@@ -1,0 +1,125 @@
+{
+  "type": "item",
+  "id": "Q19832712",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "historical administrative division"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "과거에 존재했던 행정 구역"
+    }
+  },
+  "descriptions": {
+    "ko": {
+      "language": "ko",
+      "value": "문헌 상으로 존재가 확인된 과거의 행정 구역 (단, 폐지된 행정 구역은 Q19953632를 사용)"
+    },
+    "en": {
+      "language": "en",
+      "value": "administrative division which existed in the past, that may or may not still exist (Use subclass Q19953632 for divisions which no longer exist)"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "9df82d2b02fcf0e27f59ce4667e8f5c2ca95c5c3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 56061,
+              "id": "Q56061"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q19832712$81f657b1-4fed-1c70-9a73-a2995f517dba",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "003d4659635036e6a71ca44e3bf8960666eabef3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1620908,
+              "id": "Q1620908"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q19832712$8a7392d5-49ba-1211-d7f5-2e553aec6503",
+        "rank": "normal"
+      }
+    ],
+    "P2452": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2452",
+          "hash": "3f59cc4668eb3b1bf5439dddb3974e9c861009b8",
+          "datavalue": {
+            "value": "A.ADMDH",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q19832712$5CFC8C11-7F49-4455-9E4E-BDB3C888E3A0",
+        "rank": "normal"
+      }
+    ],
+    "P460": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P460",
+          "hash": "a70fab2b09c3876315a3ab6d8d6fb60596da7cb7",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 19953632,
+              "id": "Q19953632"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q19832712$914841ab-45be-56a5-c2bb-529c5649e137",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "e7ec8d0f0db89b8db5569f23cee0fe3cc4d6c653",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 28864185,
+              "id": "Q28864185"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q19832712$151E7259-5F43-4DFC-930E-18A93BB64115",
+        "rank": "normal"
+      }
+    ]
+  }
+}

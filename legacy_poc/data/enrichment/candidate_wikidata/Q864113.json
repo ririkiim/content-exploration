@@ -1,0 +1,813 @@
+{
+  "type": "item",
+  "id": "Q864113",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "대리 전쟁"
+    },
+    "en": {
+      "language": "en",
+      "value": "proxy war"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "conflict between two actors in which neither directly engages the other"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "5bb7dc6e2e04d8ac1c3b526882569c904bd9bfc7",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 198,
+              "id": "Q198"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "q864113$8937c935-45c8-135d-9a6e-8b14a2454c19",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "c34220cb26cf1727b964553220d3f4fd04be1d41",
+          "datavalue": {
+            "value": "/m/02rz7y",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q864113$B8318DC6-CEA2-4BED-A386-E37666346012",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "e445bf18fb64a201188c4812f43c4032e25646b8",
+          "datavalue": {
+            "value": "Proxy-War",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q864113$92BC96F8-DBF6-4BBA-BC19-CCA1B95B0066",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "3b0a5bb3c1f955edce73740124f7d935698092ad",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3ac9682e789a3a3791d4fd088b265ea03abef101",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 51711,
+                      "id": "Q51711"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3827": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3827",
+          "hash": "73f9fb120e7e157d0ab8d843b5458c4a2d1a27e1",
+          "datavalue": {
+            "value": "proxy-wars",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q864113$F379BC9A-2A07-400A-9D40-F7C28F7A46FE",
+        "rank": "normal"
+      }
+    ],
+    "P8814": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8814",
+          "hash": "30e551cdf8c28e0d13b7023337698f476d42a818",
+          "datavalue": {
+            "value": "14005248-n",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q864113$480C841B-9F00-4C53-903B-9E31B0C24D89",
+        "rank": "normal"
+      }
+    ],
+    "P2347": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2347",
+          "hash": "767b984efd8d4613a864fc0a5d4c1442c5dc23af",
+          "datavalue": {
+            "value": "39234",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "836bc2af9ff3bea814300296f2003237a8dfe8c5",
+              "datavalue": {
+                "value": {
+                  "text": "ombudskrig",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "16b2ac51a698d1fb8d2b4613de9540db886658ca",
+              "datavalue": {
+                "value": {
+                  "text": "sijaissota",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "6f36178edf6c5042745ff098e17de955570984fa",
+              "datavalue": {
+                "value": {
+                  "text": "proxy war",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P14458": [
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "c0395bd14d9da1b65866b4ef0f5f428f836f3cd5",
+              "datavalue": {
+                "value": {
+                  "text": "krig genom ombud",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "1051438264daa785ec96b2ab89de6deda3f0aee1",
+              "datavalue": {
+                "value": {
+                  "text": "proxy warfare",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "8a94c03948dc8faba116ae28890c1483d1ee39ef",
+              "datavalue": {
+                "value": {
+                  "text": "proxy-sota",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "8df49871a3109591c8b3aaca73547d6fc78ab2cf",
+              "datavalue": {
+                "value": {
+                  "text": "proxykrig",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "b01b1a10d38b7c14eee921d1bbfc408f469aec75",
+              "datavalue": {
+                "value": {
+                  "text": "war by proxy",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457",
+          "P14458"
+        ],
+        "id": "Q864113$56184b8b-4017-4b94-06be-297b403f08aa",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d19ad1f44caeb78a2d422f34f02fc9c4e92b036b",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "7133f11674741f52cadaae6029068fad9cbb52e3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 89345680,
+                      "id": "Q89345680"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "c706549a8bef6c78719377f37228572a639d63f7",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-04-30T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P244": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P244",
+          "hash": "1dff969723fcf50f2e0a2de060c9ed414d0c8a6b",
+          "datavalue": {
+            "value": "sh2013002437",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q864113$51af7d0c-49cb-6c17-f5ca-6b8308f24de3",
+        "rank": "normal"
+      }
+    ],
+    "P8189": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8189",
+          "hash": "ee212e824371fc50c004af28b5239662bb3c4f42",
+          "datavalue": {
+            "value": "987007574824205171",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "ba15b4cc1d27441820bea8cca15230cbe6448e41",
+              "datavalue": {
+                "value": {
+                  "text": "Proxy war",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "84ee70658b72c17496f81366bbd7bd5b4f028c50",
+              "datavalue": {
+                "value": {
+                  "text": "מלחמת פרוקסי",
+                  "language": "he"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "f93ef34a0a586d0f5c29dc91bca59322c580f8c9",
+              "datavalue": {
+                "value": {
+                  "text": "الحرب بالوكالة",
+                  "language": "ar"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q864113$662BA3E1-7B43-49D7-9F98-616B33590E68",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c8a47202c92936005b390eb36ddd267921b51f43",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "0ea73b3596b49258a7b7ec6495950779b99e875d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188915,
+                      "id": "Q188915"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P6839": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6839",
+          "hash": "7a4107c3587adf533102b273f6b1dd73ac86b5ac",
+          "datavalue": {
+            "value": "Main/ProxyWar",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q864113$e9441ab7-499c-75f2-c34d-dca0261578b3",
+        "rank": "normal"
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "fa33214b99224ec2221820764f9b2d76aeb37103",
+          "datavalue": {
+            "value": "ph1055689",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "3db89b1789bef2e5a192924b99d1f76f8b299c00",
+              "datavalue": {
+                "value": "zástupná válka",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q864113$D662E3C5-AC45-45B3-8AD5-0014CF0BECD4",
+        "rank": "normal"
+      }
+    ],
+    "P5034": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5034",
+          "hash": "8b8c777831d20fc7ed5a5efc3221a1be4fe3f4cf",
+          "datavalue": {
+            "value": "KSH2000000747",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "6b1e38ed7f839cd23a6892cbff2a047f8a083266",
+              "datavalue": {
+                "value": "대리 전쟁",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q864113$d8089132-4dfb-4226-cc1e-bafd791b1134",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "ad52cb647876c4fd7811ac94f34863383768a349",
+          "datavalue": {
+            "value": "Proxy wars",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q864113$d7ca6e3d-cde6-4d4a-ad98-c6b538bf15ca",
+        "rank": "normal"
+      }
+    ],
+    "P4839": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4839",
+          "hash": "35b6446801c0fc9ee3a430d070c8ab3a266c02dd",
+          "datavalue": {
+            "value": "Entity[\"Concept\", \"ProxyWar::5v557\"]",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q864113$8B0DB7A6-823F-480E-99C0-76CBD5B88B70",
+        "rank": "normal"
+      }
+    ],
+    "P3222": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3222",
+          "hash": "5856f965ddde61ff390b2f0c8e5c2d875a59ab71",
+          "datavalue": {
+            "value": "ombudskrig",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q864113$97F392B8-7C61-4A56-ACBE-B0162C56D917",
+        "rank": "normal"
+      }
+    ],
+    "P7870": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7870",
+          "hash": "24300fe9251dc5409a5cd3fba0588938d19b0cd4",
+          "datavalue": {
+            "value": "97936",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q864113$9FA0608A-DAC7-42C8-9430-A940300EAC6E",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "e983f370ff4db7ffa0debe17e36d2283efa50fd0",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 124867660,
+              "id": "Q124867660"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q864113$605e768e-4f2c-1f2c-bc47-85a22398077e",
+        "rank": "normal"
+      }
+    ],
+    "P2354": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2354",
+          "hash": "b8c525209896f8f9bec09cf53dddc81e46d3b49c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6635531,
+              "id": "Q6635531"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q864113$0d673072-4207-df0c-b5e7-24c401405571",
+        "rank": "normal"
+      }
+    ],
+    "P5063": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5063",
+          "hash": "7c2280bb76a579aeb740d1ec727c6ec62f59442c",
+          "datavalue": {
+            "value": "i110410",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q864113$93C9A384-6FBC-495E-A951-106823676825",
+        "rank": "normal"
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "0e4109ad0a723f404b5d8ced51daef06866c1876",
+          "datavalue": {
+            "value": "concept/7cbf97d8-0f21-4b23-a9de-ad6e540e83b1",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q864113$3DD6B68F-6740-492D-88A9-FFFE504AFB76",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "e566cd38d3d7c0b9a658a791d4fb63e107390151",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 15958719,
+              "id": "Q15958719"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q864113$29EBC5D4-5DFE-49A1-95D3-0486F44C61C5",
+        "rank": "normal"
+      }
+    ],
+    "P1417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1417",
+          "hash": "a43920fcb732f513fdc38b211b562656e48c7726",
+          "datavalue": {
+            "value": "topic/proxy-war",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "edeb9e36798391a58003ed879d80ada3012545b6",
+              "datavalue": {
+                "value": "proxy war",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q864113$27498537-447e-ce8f-1f07-c0ee8ec6933e",
+        "rank": "normal"
+      }
+    ],
+    "P227": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P227",
+          "hash": "37e51b8c781402649ac7d77599e502899a074455",
+          "datavalue": {
+            "value": "1199288152",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q864113$D73086CD-8332-41B2-9BB9-7AB6BCE7387A",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "764eeecc037235bb153960a75860d61e5585fdd4",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 36578,
+                      "id": "Q36578"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "7d75dfe680b764c410cf813a587761d31a9f2d84",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-09-26T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

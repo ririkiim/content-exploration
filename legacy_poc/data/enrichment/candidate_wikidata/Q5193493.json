@@ -1,0 +1,415 @@
+{
+  "type": "item",
+  "id": "Q5193493",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "culture change"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "문화 변동"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "in public policy, change in the beliefs or practices of a group of people"
+    }
+  },
+  "claims": {
+    "P1296": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1296",
+          "hash": "283f998cdce3020df5a92cea2e198db8cc70e51e",
+          "datavalue": {
+            "value": "0173552",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5193493$4815335c-40df-4b27-4eab-50bfa74e1d11",
+        "rank": "normal"
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "6d1ac4f58de36a8671f9a239f01e0ad83b9e362e",
+          "datavalue": {
+            "value": "Culture-Change",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5193493$9BE522F2-D271-44E9-87C3-E9502A8167D6",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "3b0a5bb3c1f955edce73740124f7d935698092ad",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3ac9682e789a3a3791d4fd088b265ea03abef101",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 51711,
+                      "id": "Q51711"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "188d8eb975fe53abe5d0566804af1e88d8f88f19",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1150070,
+              "id": "Q1150070"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5193493$1c9a6485-40ac-fae0-38dd-a3fad3c19b02",
+        "rank": "normal"
+      }
+    ],
+    "P5198": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5198",
+          "hash": "e112387dbe61a34d1d527fa3a6120b1b89f3ea2b",
+          "datavalue": {
+            "value": "294906592",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5193493$2330CC35-800F-48A1-8A4D-E17DEDB0E77D",
+        "rank": "normal"
+      }
+    ],
+    "P6366": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6366",
+          "hash": "06470300b0b4c14223e381d6bd2d5392817e40a0",
+          "datavalue": {
+            "value": "2777011882",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5193493$A0C57DBA-080A-4922-9A48-34A0D0B49D84",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "17fb820f65f564ab7fd049a943e31f292a52619d",
+          "datavalue": {
+            "value": "/m/02wx2d9",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5193493$B789E53D-F1BD-4143-A3DB-34990A64DBCD",
+        "rank": "normal"
+      }
+    ],
+    "P2347": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2347",
+          "hash": "20998277d900dad6932623731d967376b6eeebcf",
+          "datavalue": {
+            "value": "6139",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "189ef3e94bfc3f1251d39dd10bb405057839f9c2",
+              "datavalue": {
+                "value": {
+                  "text": "cultural change",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "f83eb2de7ca8821e2c9863989a9f3575462c197a",
+              "datavalue": {
+                "value": {
+                  "text": "kulturförändring",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "e3334388f22dd98f8557fd1b662b72bbeb8d2675",
+              "datavalue": {
+                "value": {
+                  "text": "kulttuurin muutos",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "73c7cffa43dcc3515a669ada06a96461d8a5cb13",
+              "datavalue": {
+                "value": {
+                  "text": "kulturnuppástus",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P14458": [
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "52ba8006845422b171f97ebcd7df622513876c9b",
+              "datavalue": {
+                "value": {
+                  "text": "kulttuurinmuutos",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457",
+          "P14458"
+        ],
+        "id": "Q5193493$2ab6ee6b-4a5b-4543-c9bb-acbc5f83ff36",
+        "rank": "normal"
+      }
+    ],
+    "P10283": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10283",
+          "hash": "de3c3fea0cf5f4ff04555d736707483bee53e7ab",
+          "datavalue": {
+            "value": "C2777011882",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5193493$F60560D3-95F5-42E1-9003-C51D4688B6E1",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c13ba4d7902ead2693f79396bc25bd35d4d14030",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4a4f26a5361b5707266e48e425bf2be2f99fd2ab",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 107507571,
+                      "id": "Q107507571"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "435834d08182bb9f3dbe974ba9840af0f12899cc",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-26T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a4a4bf53f22268815c51ec10fed608da703c9c7f",
+                  "datavalue": {
+                    "value": "https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3916": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3916",
+          "hash": "7148681d4007feb4fbebdc39d8d88fa3aef7031a",
+          "datavalue": {
+            "value": "concept256",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5193493$C4A90EBD-0C95-43E6-965E-C7305C5313DB",
+        "rank": "normal"
+      }
+    ],
+    "P5019": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5019",
+          "hash": "49decb34e23b0b7cad343810b793e48f5a8942a3",
+          "datavalue": {
+            "value": "kulturwandel",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5193493$201E3AF8-CA05-487D-AE74-6CB59D31019F",
+        "rank": "normal"
+      }
+    ],
+    "P1269": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1269",
+          "hash": "4542d7e9c6c3031b2b25d6d4391062315663f044",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11042,
+              "id": "Q11042"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5193493$a391250b-44ba-e13d-3660-e438afc60281",
+        "rank": "normal"
+      }
+    ],
+    "P12385": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12385",
+          "hash": "cb7176de90753ad1bc86a7d6d122a512ace669ac",
+          "datavalue": {
+            "value": "canvi-cultural",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5193493$3b81d93c-4576-470b-95a7-43c7033f9702",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "738bd56693915c859350941811cf5ac8e29e2171",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 32415267,
+              "id": "Q32415267"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5193493$b496c197-4fe5-c131-4509-14909d10c36f",
+        "rank": "normal"
+      }
+    ]
+  }
+}

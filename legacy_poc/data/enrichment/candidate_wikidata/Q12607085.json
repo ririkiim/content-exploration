@@ -1,0 +1,343 @@
+{
+  "type": "item",
+  "id": "Q12607085",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "연무읍"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yeonmu"
+    }
+  },
+  "descriptions": {
+    "ko": {
+      "language": "ko",
+      "value": "논산시의 읍"
+    },
+    "en": {
+      "language": "en",
+      "value": "town"
+    }
+  },
+  "claims": {
+    "P17": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P17",
+          "hash": "ab4105e4f6c3449ba4a6ca949a3aaafaa67f5be8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 884,
+              "id": "Q884"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q12607085$D6E97B1F-F4F9-4E6C-A419-A24C8E34CC38",
+        "rank": "normal"
+      }
+    ],
+    "P856": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P856",
+          "hash": "b5d143a9cc56bdfa3eefe662a558d8106e9dbea4",
+          "datavalue": {
+            "value": "http://yeonmu.nonsan.go.kr/yeonmu.do",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q12607085$CF247E10-656A-4BC1-BFEE-2F2A1AB98927",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "08be9f116c5c541d7fa461ad59ad559a42ffd6ed",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "56f99b6701feb379816767ae88bb77e0e74981b3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17985,
+                      "id": "Q17985"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2046": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2046",
+          "hash": "da9d994b144c5bd418f9d887727541ba56b2103a",
+          "datavalue": {
+            "value": {
+              "amount": "+59.455",
+              "unit": "http://www.wikidata.org/entity/Q712226"
+            },
+            "type": "quantity"
+          },
+          "datatype": "quantity"
+        },
+        "type": "statement",
+        "id": "Q12607085$C81F8E6A-BD41-4B7A-B0F5-EB2554174498",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "08be9f116c5c541d7fa461ad59ad559a42ffd6ed",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "56f99b6701feb379816767ae88bb77e0e74981b3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17985,
+                      "id": "Q17985"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "0c7f03670700c6568c344b069ee422df3bda7567",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 24024848,
+              "id": "Q24024848"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q12607085$384D79DA-9CCF-4F2B-A917-304721F0C203",
+        "rank": "normal"
+      }
+    ],
+    "P1566": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1566",
+          "hash": "c2c296b487aa09901d3cc3499f31328d9562642e",
+          "datavalue": {
+            "value": "8690992",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q12607085$9D568E50-B98F-4E4D-A88C-8927E9DCED9D",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "bd49d3e4f67bc460ce7a06b6ac3027347cf5ee55",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e84b0343e79e2a9aa8abadd7301051e15fba52d6",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 169514,
+                      "id": "Q169514"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P625": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P625",
+          "hash": "aeee24d809a00b89eac3ff0f2d8f113877783ea6",
+          "datavalue": {
+            "value": {
+              "latitude": 36.10687,
+              "longitude": 127.1025,
+              "altitude": null,
+              "precision": 1e-05,
+              "globe": "http://www.wikidata.org/entity/Q2"
+            },
+            "type": "globecoordinate"
+          },
+          "datatype": "globe-coordinate"
+        },
+        "type": "statement",
+        "id": "Q12607085$B45E4440-91DB-4125-96BF-F523B55A86DB",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "43a0088c51fd85e5a85d1b46412c3a635e6d4edc",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "d8fbf8671e3c630db61bfac691068cfb6857f243",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 837615,
+                      "id": "Q837615"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P131": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P131",
+          "hash": "dca76897043c0d4679ace52b52c070a7a3b3b666",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 42088,
+              "id": "Q42088"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q12607085$16F6DC52-C443-4F6B-9588-9C8E1319FE64",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "05dddebfc2d86c21063361502bdf61aa9922e4d1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e84b0343e79e2a9aa8abadd7301051e15fba52d6",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 169514,
+                      "id": "Q169514"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "e0e18be45eb3fad81d84448159c189db61d58595",
+                  "datavalue": {
+                    "value": "https://sv.wikipedia.org/w/index.php?title=Yeonmu-eup&oldid=40360194",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "08a226d85a6797ccceeefbba609a3e5cd6899a4d",
+          "datavalue": {
+            "value": "/g/121v2fcy",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q12607085$D2B2FEB4-069D-4321-9BF5-CD5F552B57C1",
+        "rank": "normal"
+      }
+    ],
+    "P8885": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8885",
+          "hash": "c8cf3ab64c6e345a3abef514f74943b8834046b1",
+          "datavalue": {
+            "value": "연무읍",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q12607085$fbc3e924-4314-9c2a-3080-819c457d0fd0",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "type": "item",
+  "id": "Q2141565",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "situation"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "상황"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "position with respect to conditions, circumstances and contexts"
+    }
+  },
+  "claims": {
+    "P227": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P227",
+          "hash": "8874597af10691fb4e86f3a16a6c4681531d4cc3",
+          "datavalue": {
+            "value": "4055181-7",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q2141565$C02264B3-7075-49FE-9C79-528C4C2AAE22",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48183,
+                      "id": "Q48183"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P460": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P460",
+          "hash": "a39b68d5850adb088d67e78f1cce99ecef9a8d34",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 813912,
+              "id": "Q813912"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q2141565$772bed4a-4912-41c9-8812-20f2962b8114",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "987c20ee517dbf274ae2151b3fcc507f49b6949e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 813912,
+              "id": "Q813912"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P13044": [
+            {
+              "snaktype": "value",
+              "property": "P13044",
+              "hash": "7a330e740a331e0768775c451715ab5f1d56a98a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 488383,
+                  "id": "Q488383"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P13044"
+        ],
+        "id": "Q2141565$58b582f6-4c76-334c-97a6-92b1f2d006b1",
+        "rank": "normal"
+      }
+    ],
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "2e0117cae1805b2e95638c2c344398e40b013e51",
+          "datavalue": {
+            "value": "Situation",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q2141565$EC3DFF59-3736-460C-A7EC-CAE52285DCB9",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "5ab073e419ff62698c63579027478b96a73df4ab",
+          "datavalue": {
+            "value": "/g/112ygckkr",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q2141565$8A514CF1-F94E-40D1-A8D3-F3E1EAA3DBE1",
+        "rank": "normal"
+      }
+    ],
+    "P1382": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1382",
+          "hash": "8d19be3a56bc2f0011da2257dfff09d0764fd8d8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2249676,
+              "id": "Q2249676"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q2141565$ab35528b-4aec-21e6-2cdf-928efe724544",
+        "rank": "normal"
+      }
+    ],
+    "P244": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P244",
+          "hash": "afb4bc32c65b89ff2b1213baac6e006421f0e11c",
+          "datavalue": {
+            "value": "sh85123043",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "b6ddf6f23f5f038743d903b2ff156bc86b876cfb",
+              "datavalue": {
+                "value": "Situation (Philosophy)",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q2141565$C0371358-C73A-4430-8F89-963B0A355C33",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "ced024eb12b5fe38ed87cb5720ea18f3c54229a9",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 36578,
+                      "id": "Q36578"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8189": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8189",
+          "hash": "82ad773c88f9d2b2e1af9ac5a3057c615b337c38",
+          "datavalue": {
+            "value": "987007546141805171",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "53b3584c5a6b00d362538c3b92b1e5ee01464b2c",
+              "datavalue": {
+                "value": {
+                  "text": "Situation (Philosophy)",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "a6110203d2f3abaa0c9603f07139345e99917c08",
+              "datavalue": {
+                "value": {
+                  "text": "מצב (פילוסופיה)",
+                  "language": "he"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q2141565$6A1532A3-431D-4F0A-8CD9-A73CA86FE373",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "ecb7a39cf436eb1fba419853af168ef9f2ba1dab",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a03bb6ffe37be9554492f4eea5bd18afcb57df19",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 106509962,
+                      "id": "Q106509962"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1709": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1709",
+          "hash": "c20076d918cbf740b5413c674142d87c12e96c2d",
+          "datavalue": {
+            "value": "http://semanticweb.org/STEaMINg/ContextOntology-COInd4#Situation",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q2141565$7a8811f1-493e-6d6b-8604-de3e683c2c97",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "382446f484ed8df919ec0b527192b73226130968",
+            "snaks": {
+              "P2699": [
+                {
+                  "snaktype": "value",
+                  "property": "P2699",
+                  "hash": "8b64399e0a643f07183922b95ef6877f7c4f19f7",
+                  "datavalue": {
+                    "value": "https://gitlab.insa-rouen.fr/fgiustozzi/STEaMINg-Ontology",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P2699"
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "30fcf808a0dfca7c85a61e5a03b7e06ffdec6a21",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 130459448,
+              "id": "Q130459448"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q2141565$9c25b5dc-4311-cbf1-1108-827f0752792c",
+        "rank": "normal"
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "c4d10e710409e779078bf35a2bdb5faddcf7c778",
+          "datavalue": {
+            "value": "concept/ac11b647-c40d-4fc6-82bf-6c9f7c9b83a3",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q2141565$3C113348-0A5E-4B2B-AB0C-FBD883000AC8",
+        "rank": "normal"
+      }
+    ]
+  }
+}

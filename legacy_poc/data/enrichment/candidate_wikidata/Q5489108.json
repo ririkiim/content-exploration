@@ -1,0 +1,255 @@
+{
+  "type": "item",
+  "id": "Q5489108",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "experience"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "experience of emotion"
+    }
+  },
+  "claims": {
+    "P2347": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2347",
+          "hash": "39793a0f3a9958c6fe341e043aa54206f22df8d3",
+          "datavalue": {
+            "value": "3211",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "57c2ec8cee61050c3599bddf310267ba0b010b90",
+              "datavalue": {
+                "value": {
+                  "text": "eallámuš",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "41a1931635c67a77a904cfa6ed23eb61c188b443",
+              "datavalue": {
+                "value": {
+                  "text": "elämys",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "59ba839eb6c561e40513d1fa53bb55f201120a1d",
+              "datavalue": {
+                "value": {
+                  "text": "experience (enjoyment)",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "34f0479d7fdf2046d76e0689935a53c250a0ad6b",
+              "datavalue": {
+                "value": {
+                  "text": "upplevelse",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P14458": [
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "749b72bd52b488f428928983b22b0006bee876f8",
+              "datavalue": {
+                "value": {
+                  "text": "upplevelse (förnimmelse)",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "638ba10110d19de51a42fd3ae5a65b37f594fda8",
+              "datavalue": {
+                "value": {
+                  "text": "elämykset",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457",
+          "P14458"
+        ],
+        "id": "Q5489108$3D45982A-41FB-42EA-A868-A3383C8A178B",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "f9bf1a1f034ddd51bd9928ac535e0f57d748e2cf",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "7133f11674741f52cadaae6029068fad9cbb52e3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 89345680,
+                      "id": "Q89345680"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "ac8b98aeba16039ecd5c136be311b58fce6d311d",
+          "datavalue": {
+            "value": "/g/122dlq4k",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5489108$8EDCD1D3-A472-4476-9710-98CC894A8FBD",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "5e11e982f601583265f30d275b26a41ddac4522a",
+          "datavalue": {
+            "value": "/g/120y3chp",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5489108$CA3FDABD-F361-4D40-9194-14198E890E9D",
+        "rank": "normal"
+      }
+    ],
+    "P11514": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11514",
+          "hash": "3198a87d9878c2b16d6af5f3699d359ef9b3fc7c",
+          "datavalue": {
+            "value": "perezhivanie-c41f7c",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5489108$5CB1B09E-199B-487E-9AC7-6C2411F78904",
+        "rank": "normal"
+      }
+    ],
+    "P12455": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12455",
+          "hash": "336e979d90148a57f23cb32c280eed2d8401ea27",
+          "datavalue": {
+            "value": "Experiencer_focused_emotion",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5489108$44cd541d-40df-cfd2-bc7f-c6e9c7e195fb",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "c9542b2db694d9fc0b7acd513e1891e188cbcbc6",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9415,
+              "id": "Q9415"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5489108$1d0c6fa4-4917-2137-49d1-e74f2ba14df1",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "39d4918674936efcf7cb2b250b75831c094e41d1",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1355373,
+              "id": "Q1355373"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5489108$a485e75d-4904-1ceb-bd97-e37c7e3e2199",
+        "rank": "normal"
+      }
+    ]
+  }
+}

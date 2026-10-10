@@ -1,0 +1,170 @@
+{
+  "type": "item",
+  "id": "Q41386",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "administrative territorial entity of North Korea"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조선민주주의인민공화국의 행정 구역"
+    }
+  },
+  "descriptions": {
+    "ko": {
+      "language": "ko",
+      "value": "조선민주주의인민공화국의 지역 구분 체계."
+    },
+    "en": {
+      "language": "en",
+      "value": "overview of the administrative divisions of North Korea"
+    }
+  },
+  "claims": {
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "5b6203a2671977fdeb65964282912485f2837337",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6484321,
+              "id": "Q6484321"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q41386$96AAC68C-3018-48D0-A7EA-18A9A4070B46",
+        "rank": "normal"
+      }
+    ],
+    "P17": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P17",
+          "hash": "f9d1f68374f351ebf2d6d29d83bf1a810d090ab1",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 423,
+              "id": "Q423"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q41386$b3794e1d-490a-35b6-0f0b-cfac2c59b917",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "0ca31f02dfc812146005a1c6439f44f470cc27a2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3268571,
+              "id": "Q3268571"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q41386$D0DB99A9-AD21-430B-A5E9-76383D33317C",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "546e212de58ea961d4a3faae7b41e1f15ff4b6ce",
+          "datavalue": {
+            "value": "Subdivisions of North Korea",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q41386$D3AA4C21-C8F5-4F46-ACF8-2D47A7721D8F",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "2b9904666cae5815a25d98f105aecd18028dfce5",
+          "datavalue": {
+            "value": "/m/011bp7v4",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q41386$06F2AADA-E30D-43FE-B7B3-16070944A398",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "fbf0f237052b751873189bfd621cd11c6dc87f24",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 41156,
+              "id": "Q41156"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q41386$0ACD1654-D74E-4D3E-969E-998485C6EDAD",
+        "rank": "normal"
+      }
+    ]
+  }
+}

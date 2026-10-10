@@ -1,0 +1,302 @@
+{
+  "type": "item",
+  "id": "Q5151404",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "comedic genre"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "class of comedy"
+    }
+  },
+  "claims": {
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "dcb37d268e3eeefbfdd0c4e8c232dbd98c045c8e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6740877,
+              "id": "Q6740877"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5151404$5F708AE8-5D8E-4E7E-971E-44888AF9947D",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "6b1127d3cd96f20786845e3776f3d9843d3465ad",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1792379,
+              "id": "Q1792379"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5151404$4fc6e9b9-4b76-1166-df45-19057b8cfff5",
+        "rank": "normal"
+      }
+    ],
+    "P1014": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1014",
+          "hash": "e46cf08312e25c54a561a323dd4fe3bf8e070dcb",
+          "datavalue": {
+            "value": "300055911",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5151404$26D64049-65D2-4665-917D-FA8715E552AD",
+        "rank": "normal"
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "a6a6a3b448c4a9fb415dc8e3ce4e687b94e1b184",
+          "datavalue": {
+            "value": "Comedic-Genres",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5151404$03F0738F-4AB7-4B2F-AD92-643C651A4542",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "3b0a5bb3c1f955edce73740124f7d935698092ad",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3ac9682e789a3a3791d4fd088b265ea03abef101",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 51711,
+                      "id": "Q51711"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2581": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2581",
+          "hash": "ed8df4af6a39fa5aa0c81bdd4959600d782aae7e",
+          "datavalue": {
+            "value": "03360337n",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5151404$FA8015D2-5427-49A6-B653-CC86D140B96E",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "248ac337a217a5f5eed7139a82a4e60931611af0",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "25b816aab41db18565946259c950aed6de05dd1e",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 4837690,
+                      "id": "Q4837690"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "a262cd58c600422616dee0791aa8617705f515ee",
+          "datavalue": {
+            "value": "PropositionalConceptualWork-ComedyGenre",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5151404$6404CE47-8165-4235-AD88-F103459C43CE",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "0f0535014f63892321c90f374841d469942866f5",
+          "datavalue": {
+            "value": "/m/0ds__m",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5151404$B56DC4EC-064D-4A2C-BF1C-EE45F42280BC",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "7da57eb60376f9d19baffdd4d0ca6f041582f24e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 19478619,
+              "id": "Q19478619"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5151404$49e8d0bc-4308-a596-4188-3ce194690b4a",
+        "rank": "normal"
+      }
+    ],
+    "P8225": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8225",
+          "hash": "42a769aab9d48cf33b294c6df4274bd15a9c74fb",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 40831,
+              "id": "Q40831"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5151404$137a1501-426f-bc6d-3724-d27f84fff9a4",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "08aff57b6ed6cc19117bfb8a59b5a7507f719797",
+          "datavalue": {
+            "value": "Comedy genres",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q5151404$ce883d1b-9b25-4498-993c-70956e6b9184",
+        "rank": "normal"
+      }
+    ]
+  }
+}

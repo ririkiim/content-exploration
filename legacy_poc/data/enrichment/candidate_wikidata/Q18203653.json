@@ -1,0 +1,145 @@
+{
+  "type": "item",
+  "id": "Q18203653",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "미생 프리퀄"
+    },
+    "en": {
+      "language": "en",
+      "value": "incomplete life:Prequel"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "short film"
+    }
+  },
+  "claims": {
+    "P856": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P856",
+          "hash": "24e4b446a40f76248dd34972415423df28c8acac",
+          "datavalue": {
+            "value": "http://mobile.daum.net/web/promotion.daum?serviceId=misaeng",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q18203653$85D25339-EB25-4A70-ACDC-5F717B8AC7EE",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "08be9f116c5c541d7fa461ad59ad559a42ffd6ed",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "56f99b6701feb379816767ae88bb77e0e74981b3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17985,
+                      "id": "Q17985"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "d0a5b7a98f57a6f83f2848ae75efd28aaf447ac9",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 24862,
+              "id": "Q24862"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q18203653$C9E72430-D9F3-42A9-AD37-0870CC69095F",
+        "rank": "normal"
+      }
+    ],
+    "P495": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P495",
+          "hash": "c0a3edda06eb357cb4e7b36d4589111f68794325",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 884,
+              "id": "Q884"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q18203653$ADCC255E-1221-4B15-8477-69490954021C",
+        "rank": "normal"
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "60c541bbb5a62bc855e35e6816686fce01a377ce",
+          "datavalue": {
+            "value": "/g/11b6b2q8fw",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q18203653$C0646B0D-96E8-4B0A-8C86-AB5DAA3E0ABD",
+        "rank": "normal"
+      }
+    ],
+    "P364": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P364",
+          "hash": "9c5cb3e5536eb94cba56e1c93fa75d9944422331",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9176,
+              "id": "Q9176"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q18203653$80817B13-5D8E-4CEE-9CAE-9D630AD0233A",
+        "rank": "normal"
+      }
+    ]
+  }
+}

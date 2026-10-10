@@ -1,0 +1,77 @@
+{
+  "type": "item",
+  "id": "Q2352921",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "offense against sexual self-determination"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "type of offense"
+    }
+  },
+  "claims": {
+    "P1001": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1001",
+          "hash": "d2a7142f81e7bb98a2ba2275f3d89545283e3b45",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 183,
+              "id": "Q183"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q2352921$B5BA6DD2-32FF-4169-AAB8-365A55B9D2C2",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "c2df4f89a22e3d7c76873037a589dd319ddcb89e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1456832,
+              "id": "Q1456832"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q2352921$9368fe46-4680-bdf4-86da-320fefa43ffb",
+        "rank": "normal"
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "cf9227a76f0ad9f3ed9e6c1d768f575ff1aef868",
+          "datavalue": {
+            "value": "/g/1hf_cr6cx",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q2352921$CB42E9F8-058E-4250-B224-E17232984B53",
+        "rank": "normal"
+      }
+    ]
+  }
+}

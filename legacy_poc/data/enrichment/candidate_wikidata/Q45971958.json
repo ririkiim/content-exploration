@@ -1,0 +1,81 @@
+{
+  "type": "item",
+  "id": "Q45971958",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "performing arts genre"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "genre of the performing arts (such as drama, drama with music, opera, ballet, etc.)"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "6b1127d3cd96f20786845e3776f3d9843d3465ad",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1792379,
+              "id": "Q1792379"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q45971958$df53c423-46ae-f603-f400-3e9f0fd9d442",
+        "rank": "normal"
+      }
+    ],
+    "P8225": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8225",
+          "hash": "337dbb7c453fd50732f53d38ce3b41fabe77dc1d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 184485,
+              "id": "Q184485"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q45971958$39c79cf5-4ccd-2261-3b46-4811f1c99923",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "09b5a7c7e8592a3fcbceed1b7808c54a73143669",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 140354262,
+              "id": "Q140354262"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q45971958$6729dbe6-408f-a3d9-c43b-048973129139",
+        "rank": "normal"
+      }
+    ]
+  }
+}

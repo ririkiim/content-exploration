@@ -1,0 +1,216 @@
+{
+  "type": "item",
+  "id": "Q3027597",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Taoist deity"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "deity in Taoism"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "69ce836203453c5308e0d970c02ef0fcf76033ba",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 178885,
+              "id": "Q178885"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3027597$9ac7729d-4430-d737-b476-c4e1c023dba7",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "611f9a9c03002e303efc1af1df165d947a09dd96",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9103501,
+              "id": "Q9103501"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3027597$2288A94F-22A3-4346-A886-1A484CFCF538",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 8447,
+                      "id": "Q8447"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          },
+          {
+            "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 206855,
+                      "id": "Q206855"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "75af1acf32a0e38ab531373334e19f1999bc7c7f",
+          "datavalue": {
+            "value": "Taoist deities",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q3027597$451EA503-8AB3-49B3-89F9-16AF2A3E39CF",
+        "rank": "normal"
+      }
+    ],
+    "P1049": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1049",
+          "hash": "5c6bb6ab7e922c96483e17a36704b3c92fc17338",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9598,
+              "id": "Q9598"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3027597$9828c5bd-4ccc-f9f0-0afb-4b460dc590ea",
+        "rank": "normal"
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "aed6ffb152182150015799c63655c3a72c5a1ea7",
+          "datavalue": {
+            "value": "/g/121n9w22",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3027597$62FB38E2-2CC7-4751-AA44-43770095A1BA",
+        "rank": "normal"
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "223256dac715cbb45486719f1d05c8cac38db96b",
+          "datavalue": {
+            "value": "ph883512",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "acd541e0fbab3b282b6ee598cf7d71b2fbdc3ec6",
+              "datavalue": {
+                "value": "taoistická božstva",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q3027597$2BE7E32A-5049-40E2-9FAA-FB8BFDAA4AE8",
+        "rank": "normal"
+      }
+    ],
+    "P18": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "ca4bc67514ff00867751c2282be04672361ee355",
+          "datavalue": {
+            "value": "Shangdi and Doumu altar in Chengxu Temple, Zhouzhuang, Jiangxi.png",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q3027597$06022485-4b9b-b5aa-2b98-f393d1e5e0ee",
+        "rank": "normal"
+      }
+    ]
+  }
+}

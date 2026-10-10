@@ -1,0 +1,107 @@
+{
+  "type": "item",
+  "id": "Q20181813",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "colonial power"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "식민지배국"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "country that controls colonies"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "식민지를 지배하는 국가"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "5c3d83821d5c6934ccaa8a0eafb9e53dcbabefad",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3624078,
+              "id": "Q3624078"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q20181813$04972037-41bf-d59e-8d22-db91caca012f",
+        "rank": "normal"
+      }
+    ],
+    "P227": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P227",
+          "hash": "e2495d4bbb399ff0b5ef8904941fbc1430291887",
+          "datavalue": {
+            "value": "4164711-7",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q20181813$982AF0E5-5DBE-4AE7-8636-9C7AB6993BF1",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48183,
+                      "id": "Q48183"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "029e8de7c18a2b2d2f51bbcfd30a383329586dff",
+          "datavalue": {
+            "value": "/g/121kw1zp",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q20181813$47D66D1B-420E-4EDF-8351-3FA6CB23FC54",
+        "rank": "normal"
+      }
+    ]
+  }
+}

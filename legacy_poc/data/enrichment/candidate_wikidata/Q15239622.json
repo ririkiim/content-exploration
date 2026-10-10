@@ -1,0 +1,406 @@
+{
+  "type": "item",
+  "id": "Q15239622",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "disputed territory"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "분쟁 영토"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "territory, which status is controversial between two or more existing states"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "둘 이상의 나라에서 영유권을 가지고 다투는 지역"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "ff827d8c0afa91d9e4f315728a47bf86f04a0288",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 15642566,
+              "id": "Q15642566"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15239622$6cc6fbbc-4d2b-d727-784f-0fdcaafe9cfc",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "dbd34fcd1455f2a63ed6242bf42bf6d41f01c540",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 183366,
+              "id": "Q183366"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15239622$4C91277D-0A04-4E15-BC70-C85E896AB85F",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "07609254ef346e4d5bad4fb21228cad48364d4a2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5754919,
+              "id": "Q5754919"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15239622$ABE8A53F-AE47-4BD9-9FF8-F7710FB663CD",
+        "rank": "normal"
+      }
+    ],
+    "P2354": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2354",
+          "hash": "4ef820b3a7de9d1759f765fe2bf9e79d2835f841",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 913234,
+              "id": "Q913234"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15239622$8b2ed735-422a-f5ec-57bf-7162b940164b",
+        "rank": "normal"
+      }
+    ],
+    "P1014": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1014",
+          "hash": "1e18e1d81649d2ff9a0d73aa362482650f1a932e",
+          "datavalue": {
+            "value": "300387142",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q15239622$5E2788C0-5DF8-44BC-9E3B-1B5D8281F8F8",
+        "rank": "normal"
+      }
+    ],
+    "P1424": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1424",
+          "hash": "4f8094fc0d8c40a5f3819d30f2d7843dea4c0932",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 13033943,
+              "id": "Q13033943"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15239622$5908d150-140f-4b75-b8e4-49b517cb993a",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "cd65211249d067fefb1e618ebc44c5cd7cc74493",
+            "snaks": {
+              "P3452": [
+                {
+                  "snaktype": "value",
+                  "property": "P3452",
+                  "hash": "a2633a9c69454fc3e797322bcc1cf55d466050dc",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 13033943,
+                      "id": "Q13033943"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P3452"
+            ]
+          }
+        ]
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "8e0ed893cde4d5b12d937eb32309fa3d430881ab",
+          "datavalue": {
+            "value": "Disputed territories",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q15239622$9495acb4-425e-f6b4-3a1f-2b5dbd04f616",
+        "rank": "normal"
+      }
+    ],
+    "P973": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P973",
+          "hash": "1bdb29284f28c39c0b7ffdbe8d4c38194a8d0b90",
+          "datavalue": {
+            "value": "https://www.whosonfirst.org/docs/placetypes/#disputed",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q15239622$3c28b6da-4133-a455-6115-098b2565cdbd",
+        "rank": "normal"
+      }
+    ],
+    "P1557": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1557",
+          "hash": "037407ebbaff21bf59c653b933fa731b115dfcb0",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1078001,
+              "id": "Q1078001"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15239622$5595e7e7-4311-2169-3fbe-7661243f8015",
+        "rank": "normal"
+      }
+    ],
+    "P4527": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4527",
+          "hash": "7a1bcbee3045fcade7bde880347bb01705624b7d",
+          "datavalue": {
+            "value": "9676",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "b9a3f7226ff007f6e85566d85ad654b0b9d3776e",
+              "datavalue": {
+                "value": "Disputed territories",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q15239622$a82c1cad-4380-d564-e4b6-f69fbccb3e99",
+        "rank": "normal"
+      }
+    ],
+    "P1282": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1282",
+          "hash": "f2a8bce19f13d7efaa9d1123d5472eedc1fd8a29",
+          "datavalue": {
+            "value": "boundary=disputed",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q15239622$45f8ad94-4be2-0c96-19d4-daa7d4071329",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "a30b696d32c8576a4c7e543b86162103900d1615",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "c008dfc34df9528825554d372a4efb8d4463e979",
+                  "datavalue": {
+                    "value": "https://taginfo.openstreetmap.org/tags/boundary=disputed",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "329296e43f1799955f834561f5aca5ed863b46d9",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1078001,
+              "id": "Q1078001"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15239622$6fb23d8e-486c-57f4-23fe-db8e69276d89",
+        "rank": "normal"
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "a85fe50c36a250d25f564e912649bcbc023f7a89",
+          "datavalue": {
+            "value": "Territory-Dispute",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q15239622$798916F0-50AF-4EB8-BEC5-8785554A9BB3",
+        "rank": "normal"
+      }
+    ],
+    "P18": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "6adacf7149de4c834ad999bead14cca761b2ba77",
+          "datavalue": {
+            "value": "The Green Line. Lefkoşa Nicosia (32321018331).jpg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q15239622$88ae2fb1-46db-795b-0daf-2bc34003e32f",
+        "rank": "normal"
+      }
+    ],
+    "P10": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10",
+          "hash": "9abc60b8d57f8ce84af1f971ba202f128917e94a",
+          "datavalue": {
+            "value": "Lefkosia no man's land.webm",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q15239622$9a205010-4769-6f68-ac1f-502ddd859775",
+        "rank": "normal"
+      }
+    ],
+    "P13786": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13786",
+          "hash": "84f26b2e7e05508abe93c9ca6fef00d40b5fe1cd",
+          "datavalue": {
+            "value": "disputed",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q15239622$d865c444-46e0-15ba-0d0d-78d50de103dc",
+        "rank": "deprecated"
+      }
+    ],
+    "P14692": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14692",
+          "hash": "a4c48df17ea41855e3cc6d1958b982d4564b5104",
+          "datavalue": {
+            "value": "Q19308",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q15239622$A43D2DB4-E9A6-47E4-951A-9AA17DD46157",
+        "rank": "normal"
+      }
+    ]
+  }
+}

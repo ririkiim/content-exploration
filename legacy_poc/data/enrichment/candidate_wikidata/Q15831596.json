@@ -1,0 +1,171 @@
+{
+  "type": "item",
+  "id": "Q15831596",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "class of fictional entities"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "허구의 개념"
+    }
+  },
+  "descriptions": {
+    "ko": {
+      "language": "ko",
+      "value": "작품 속에서만 등장하는 가공의 개념"
+    },
+    "en": {
+      "language": "en",
+      "value": "collection of fictional entities defined by common characteristics"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "33c0fd1431aa0fb276f87bb51b4a956d9440bb15",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 16889133,
+              "id": "Q16889133"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2670": [
+            {
+              "snaktype": "value",
+              "property": "P2670",
+              "hash": "2f86dd4a27c1cb529cb10624703974d9a9aeb984",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 14897293,
+                  "id": "Q14897293"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2670"
+        ],
+        "id": "Q15831596$0dc077ad-4576-6b80-53dd-2fb6a5581ba5",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "9d31d99ce62f7f1424d6d2be409f25a62397445f",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 23958852,
+              "id": "Q23958852"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15831596$9d2c1d34-472e-9bf6-3fb0-789d32ff325e",
+        "rank": "normal"
+      }
+    ],
+    "P8225": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8225",
+          "hash": "7a51a402ed3f69a1838fb14d532000e4b55b2ead",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 14897293,
+              "id": "Q14897293"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15831596$e5ba9742-416e-79e0-1cd1-c6cfdf41b20b",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "9a99dc20c4169de14758f3c6b9eeec88bd305ce5",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 123000623,
+              "id": "Q123000623"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15831596$f399379a-4c03-5ebb-6dbc-1f92b73948e1",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "31522ffb8c59b6922af8865f9b952311e22f7544",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 126366865,
+              "id": "Q126366865"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15831596$3c231314-4aa4-2535-47d2-47aa43ea0c73",
+        "rank": "normal"
+      }
+    ],
+    "P1382": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1382",
+          "hash": "061aec264ba269815a87ea4f6cae68ae217638d3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 33294038,
+              "id": "Q33294038"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15831596$d08f05cb-4c7a-b130-8937-cbba2038e999",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,5849 @@
+{
+  "type": "item",
+  "id": "Q8663",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Korean War"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "6·25 전쟁"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "war between North and South Korea, 1950–1953"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "대한민국과 조선민주주의인민공화국의 전쟁 (1950-1953)"
+    }
+  },
+  "claims": {
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "9565c30f04dc02f1cfff5baa28b89ddc708fc7fa",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 198,
+              "id": "Q198"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$f5c3f35d-4944-b2a9-72a4-7dedf40d235f",
+        "rank": "normal"
+      }
+    ],
+    "P508": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P508",
+          "hash": "8c7b6edd770e7608711f4aa821182d8d3f2be788",
+          "datavalue": {
+            "value": "29239",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "q8663$92F22B68-4432-4F4D-89D1-18240F12F7F8",
+        "rank": "normal"
+      }
+    ],
+    "P580": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P580",
+          "hash": "0d14f4b045051a5f2e892bf7a3d49e07d9bcea2d",
+          "datavalue": {
+            "value": {
+              "time": "+1950-06-25T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4241": [
+            {
+              "snaktype": "value",
+              "property": "P4241",
+              "hash": "7624ff6bad1ca25bf9b02218246f7f6b402af3ff",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 41618081,
+                  "id": "Q41618081"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P421": [
+            {
+              "snaktype": "value",
+              "property": "P421",
+              "hash": "f783add5ddfaa87ed38182d6ef29b61b75b549e0",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 76133,
+                  "id": "Q76133"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4241",
+          "P421"
+        ],
+        "id": "q8663$8565f7d9-43e9-5e29-3aa0-621461d43a22",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c19ab80344164708ef95eedc5eddcfcaf55af89b",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1417": [
+                {
+                  "snaktype": "value",
+                  "property": "P1417",
+                  "hash": "8f99695ab4b9c3913b1c2dee6968df18f02a8bdb",
+                  "datavalue": {
+                    "value": "facts/Korean-War",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "495f20629dc7b139a77793a45f2f56f4cf64925d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1417",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P582": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P582",
+          "hash": "378cc5b122359d91e9834ab9344db534c8b43a47",
+          "datavalue": {
+            "value": {
+              "time": "+1953-07-27T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "id": "Q8663$89c0b404-477e-169d-3ded-381bd07f48c3",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c19ab80344164708ef95eedc5eddcfcaf55af89b",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1417": [
+                {
+                  "snaktype": "value",
+                  "property": "P1417",
+                  "hash": "8f99695ab4b9c3913b1c2dee6968df18f02a8bdb",
+                  "datavalue": {
+                    "value": "facts/Korean-War",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "495f20629dc7b139a77793a45f2f56f4cf64925d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1417",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P227": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P227",
+          "hash": "02e709311822ad1fcc1f330351df4a55c9418c20",
+          "datavalue": {
+            "value": "4032467-9",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "q8663$bfc2ae7e-4249-d6d8-cf98-64868837b596",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48183,
+                      "id": "Q48183"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "4432733bdc157cff0ea58952dae70fa9e776a580",
+          "datavalue": {
+            "value": "Korean War",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "q8663$082A14C4-5FEF-4F79-A49F-7F71A8F9672E",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "5b8ee78c6b15af5e9ed177f51fb4221a06dbd318",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7336749,
+              "id": "Q7336749"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$8B737C9B-533A-4B2B-8316-41A6B95104CB",
+        "rank": "normal"
+      }
+    ],
+    "P349": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P349",
+          "hash": "bb6d6192386abddff844f609299cfa7116987679",
+          "datavalue": {
+            "value": "00573716",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$c74a9eec-4d08-db5b-4176-f0767f77cd76",
+        "rank": "normal"
+      }
+    ],
+    "P935": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P935",
+          "hash": "da16067c614cf2e3ba4d730ee8aa6eb1a6254b22",
+          "datavalue": {
+            "value": "Korean War",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q8663$AA1E197E-3A78-4CC2-94F3-26ADB9205119",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "814eee1aa17ee1360930d18a43d3abf035936339",
+          "datavalue": {
+            "value": "/m/048n7",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$EA3AF883-E08D-49CC-BB06-91C763037D4A",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "234294d237f651a5ceee5b17dc912333ab02cd30",
+          "datavalue": {
+            "value": "Korean War Montage 2.png",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q8663$8730CDAF-C332-449D-A109-0F862D04B5BA",
+        "rank": "normal"
+      }
+    ],
+    "P276": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P276",
+          "hash": "1f3a12792657c2308b1aa96cde2f8950889752ce",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 52052,
+              "id": "Q52052"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$1D2CCB53-401A-4F5E-B540-CB591ED21EA1",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P276",
+          "hash": "7bbcb19d1981f138d79015e87e79db4f150a2aa5",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 27092,
+              "id": "Q27092"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$61C13422-3F05-4004-9A46-B2AD162578B4",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P276",
+          "hash": "d5408ce5c063e2e0fbc568795b9afe54df2b5930",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 483134,
+              "id": "Q483134"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$03F24EB9-F32C-4C63-BE4E-486F31DAA448",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c19ab80344164708ef95eedc5eddcfcaf55af89b",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1417": [
+                {
+                  "snaktype": "value",
+                  "property": "P1417",
+                  "hash": "8f99695ab4b9c3913b1c2dee6968df18f02a8bdb",
+                  "datavalue": {
+                    "value": "facts/Korean-War",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "495f20629dc7b139a77793a45f2f56f4cf64925d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1417",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1296": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1296",
+          "hash": "1ba05b613e9e6816495b75002741cd3526e3e4d4",
+          "datavalue": {
+            "value": "0019837",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$157A7E56-0A5A-4DF8-A1CD-5922E0AD6B50",
+        "rank": "normal"
+      }
+    ],
+    "P948": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P948",
+          "hash": "b5160278172ada56a3eceab213c8423393ee371c",
+          "datavalue": {
+            "value": "Korean War Banner.jpg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q8663$3ABABF14-13F4-4C6A-BC59-65792B18CA0C",
+        "rank": "normal"
+      }
+    ],
+    "P244": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P244",
+          "hash": "ee9ce72b392840bd7acb2b9527c534301f45d36e",
+          "datavalue": {
+            "value": "sh85073117",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$bd23045d-4e46-4639-0621-c253b0abe29c",
+        "rank": "normal"
+      }
+    ],
+    "P3221": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3221",
+          "hash": "c130546e6eab9814fdcafe15e41d265e261fda73",
+          "datavalue": {
+            "value": "subject/korean-war",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$7AD52E81-1BEA-44F8-BA7A-030ABA4D7560",
+        "rank": "normal"
+      }
+    ],
+    "P3569": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3569",
+          "hash": "79f256d41187894cf4e0f72b768e036a9748df13",
+          "datavalue": {
+            "value": "geschiedenis-1900-2000/koreaanse-oorlog",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$B7D5BF74-D844-4CFD-B728-E2C5FC328803",
+        "rank": "normal"
+      }
+    ],
+    "P710": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "32540fac03947238ed7d6c3e361ca92fd894b08a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 884,
+              "id": "Q884"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$b198ed30-4d0c-2034-30c5-8b3fee8c4695",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c19ab80344164708ef95eedc5eddcfcaf55af89b",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1417": [
+                {
+                  "snaktype": "value",
+                  "property": "P1417",
+                  "hash": "8f99695ab4b9c3913b1c2dee6968df18f02a8bdb",
+                  "datavalue": {
+                    "value": "facts/Korean-War",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "495f20629dc7b139a77793a45f2f56f4cf64925d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1417",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "420abe0ecc3be831042aee6cceaedabce795e34c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 423,
+              "id": "Q423"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$c268f90a-4ccb-0f29-cfc8-3408ad53ba03",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c19ab80344164708ef95eedc5eddcfcaf55af89b",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1417": [
+                {
+                  "snaktype": "value",
+                  "property": "P1417",
+                  "hash": "8f99695ab4b9c3913b1c2dee6968df18f02a8bdb",
+                  "datavalue": {
+                    "value": "facts/Korean-War",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "495f20629dc7b139a77793a45f2f56f4cf64925d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1417",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "d1d940bcd9c9d8aae87fc6a9355e7b56a21e0822",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 30,
+              "id": "Q30"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$ef11f454-4b13-b2de-a69b-4e46eb545d5d",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c19ab80344164708ef95eedc5eddcfcaf55af89b",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1417": [
+                {
+                  "snaktype": "value",
+                  "property": "P1417",
+                  "hash": "8f99695ab4b9c3913b1c2dee6968df18f02a8bdb",
+                  "datavalue": {
+                    "value": "facts/Korean-War",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "495f20629dc7b139a77793a45f2f56f4cf64925d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1417",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "b7c292b942f4128e04e833c9814250b7557143e3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 145,
+              "id": "Q145"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$a5bd70c1-4022-9c60-7bf2-d85470b4f68d",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "eba23f1787b8a7ab4c712f82536b5b8e729ade81",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 16,
+              "id": "Q16"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$87558e50-41a4-ea4c-a9be-3bc33539e742",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "46b0697b5a6f52d7a3aba5cc41d57cd2297ad153",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 43,
+              "id": "Q43"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$be5a8727-4603-0907-936c-3e3cfdb6ee19",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "88fbba6506e8ab7e655f16e2efd0b9bf81c49ced",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 408,
+              "id": "Q408"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$502076fe-4c0e-6f15-f61d-43bd2cbafdbc",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "6b958f451f67ae446b33976ddd06367158604d1b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 115,
+              "id": "Q115"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$581dcc8c-4fb0-591f-1564-06164bb6603f",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "33187f8957b074ac9a5f24cd8bbc0cbc739035e5",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 928,
+              "id": "Q928"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$20706e69-41c2-b565-b260-faca0fa5cb95",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "28ff0c0e5f58e813b26f1a98caab19171db54fa3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 664,
+              "id": "Q664"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$2252fc0c-4fcd-f284-f408-2ddbe4e87e79",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "2912caf810fd09752f8a2da8bcd943ecd09ed835",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 869,
+              "id": "Q869"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$8a16f2eb-43fc-9ae8-41f0-06d51b93dcd9",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "7a0399617e5a88e743f64956b33fcab3c4c657d7",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 41,
+              "id": "Q41"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$af56151a-4048-8cf3-ca69-4738191ab91d",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "fdff35e5ee81a4d71af2ebb44802489c3f516221",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 142,
+              "id": "Q142"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$a9f473bd-4527-c6c9-b407-62a9522f501f",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "8db7e27c075d375beb3ee604b65558cbb37cd8a4",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 739,
+              "id": "Q739"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$45ba50eb-4eaf-852d-4bec-92e900b955c5",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "f8d5a39386426731d7873ae60e2b2caa23530522",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 31,
+              "id": "Q31"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$de37462e-4f35-634d-39f2-36d42a373a67",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "04f93b600b0e1c1a108076096e818dc3c1d34707",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 258,
+              "id": "Q258"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$28a9c2d9-4ea6-c186-87eb-2a06126f2a6d",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "008cdb58a5a78784381ff0ff4eef717d60a1f42b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 55,
+              "id": "Q55"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$b8bc4173-4881-ae8e-c727-367de6eea85a",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "220b093eda70ee32d02074b27e8b6fa136df7da5",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 32,
+              "id": "Q32"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$a131caa8-4420-0ca3-8c80-72e1ffb7f566",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "91d2a039ac8a0e77704dd6d1ff32b8473dd8680a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 148,
+              "id": "Q148"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$e24582e3-498c-4bc6-4986-36d475851d3a",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c19ab80344164708ef95eedc5eddcfcaf55af89b",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1417": [
+                {
+                  "snaktype": "value",
+                  "property": "P1417",
+                  "hash": "8f99695ab4b9c3913b1c2dee6968df18f02a8bdb",
+                  "datavalue": {
+                    "value": "facts/Korean-War",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "495f20629dc7b139a77793a45f2f56f4cf64925d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1417",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "8b87ebf0f4d1fc0eabe85551d325e63577aaa21a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 15180,
+              "id": "Q15180"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$d41e95a1-4272-9f0d-1805-c9fd665c3df8",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "d3e4d9725aa7a30bc3b12113175dc1736bca2ba3",
+          "datavalue": {
+            "value": "Korean-War-1950-53",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$6c15cf6b-4f8b-e57e-30fa-cff09437c012",
+        "rank": "normal"
+      }
+    ],
+    "P1417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1417",
+          "hash": "753c74116da0739ecd414e613970ec964329dc52",
+          "datavalue": {
+            "value": "event/Korean-War",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "f6bc82ae0d58891912ea6930d4bf34e66a670968",
+              "datavalue": {
+                "value": "Korean War",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P2093": [
+            {
+              "snaktype": "value",
+              "property": "P2093",
+              "hash": "54cf6010ae03f713682856a0a615b844a0ebdf98",
+              "datavalue": {
+                "value": "Allan R. Millett",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P2093"
+        ],
+        "id": "Q8663$B547B4F4-DE6D-4988-9EDB-972179906935",
+        "rank": "normal"
+      }
+    ],
+    "P4220": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4220",
+          "hash": "fcd28c1563829113062bd7a9110a5b9d74edc18b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7863410,
+              "id": "Q7863410"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$afa3cc1e-4461-1f98-a49d-7437478ae60c",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4220",
+          "hash": "08f4b8c1616e787ddc74fc1c914a43925336f757",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7863171,
+              "id": "Q7863171"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$789ed013-42f7-9235-e2fd-fa2f97f8ee0b",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4220",
+          "hash": "1265337e44f2fc8d3ae1529179c366623ddd94c8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 4824360,
+              "id": "Q4824360"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$b05ec1f4-4a62-3058-c7d5-81776f84cc0d",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4220",
+          "hash": "f361107483e9e941dd432268ab9d83eccae72621",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6431947,
+              "id": "Q6431947"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$05d52273-46ee-180e-d5bb-aeff327f050f",
+        "rank": "normal"
+      }
+    ],
+    "P1225": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1225",
+          "hash": "4f56e941080a29613ff331f5f6a80b611b31a9a5",
+          "datavalue": {
+            "value": "10637595",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$999B9C78-EBAA-4ADB-BAE8-588000386D0A",
+        "rank": "normal"
+      }
+    ],
+    "P486": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P486",
+          "hash": "e5101f4bd4c22ecc781a17e67c01d9521dd23f2d",
+          "datavalue": {
+            "value": "D047869",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "f6bc82ae0d58891912ea6930d4bf34e66a670968",
+              "datavalue": {
+                "value": "Korean War",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q8663$F5EFFE09-380F-43CB-8717-148D60D14FB9",
+        "rank": "normal"
+      }
+    ],
+    "P2581": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2581",
+          "hash": "d2fb32932dec935cd3155a612781b9020ad82b2e",
+          "datavalue": {
+            "value": "00049433n",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$14BAD829-F7BA-4B3C-8112-25F9680A1FE9",
+        "rank": "normal"
+      }
+    ],
+    "P2924": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2924",
+          "hash": "8a1a28ab55e7788c36e39aa0f37d2ef2fb70193e",
+          "datavalue": {
+            "value": "2096372",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "6ec59c0b79ffb6cce45a6b8da71df294e96beea3",
+              "datavalue": {
+                "value": "КОРЕЙСКАЯ ВОЙНА 1950–53",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q8663$9fa17bab-4583-f72c-ff7c-f1fd5d27b9a8",
+        "rank": "normal"
+      }
+    ],
+    "P3219": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3219",
+          "hash": "cbbc5d42295842c3cce8445fa0f7285764226a01",
+          "datavalue": {
+            "value": "guerre-de-coree",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$7B66C271-E397-4607-A54F-DA615363E481",
+        "rank": "normal"
+      }
+    ],
+    "P1705": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "dc1d0b0029911230cda0c8dd1500147a2b2b96f8",
+          "datavalue": {
+            "value": {
+              "text": "한국 전쟁",
+              "language": "ko"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2001": [
+            {
+              "snaktype": "value",
+              "property": "P2001",
+              "hash": "50754bae969baaf51557df1e0668ccbde8646034",
+              "datavalue": {
+                "value": "Han-guk Jeonjaeng",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P1942": [
+            {
+              "snaktype": "value",
+              "property": "P1942",
+              "hash": "4bb33297688a4398d701421a28717ed133211a05",
+              "datavalue": {
+                "value": "Han’guk Chŏnjaeng",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P2441": [
+            {
+              "snaktype": "value",
+              "property": "P2441",
+              "hash": "a8f2fade3b205c0b7ad0ae9cbe1b7d965ca569e1",
+              "datavalue": {
+                "value": {
+                  "text": "Korea War",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2001",
+          "P1942",
+          "P2441"
+        ],
+        "id": "Q8663$668ce1c6-4f6e-e098-2606-58adc498e185",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "54824a2f2a69c5aa256c628ece413026209e20de",
+          "datavalue": {
+            "value": {
+              "text": "조선전쟁",
+              "language": "ko-kp"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2001": [
+            {
+              "snaktype": "value",
+              "property": "P2001",
+              "hash": "a4ef3af9875eaf98dcb9423e492b81d49bcea943",
+              "datavalue": {
+                "value": "Joseon Jeonjaeng",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P1942": [
+            {
+              "snaktype": "value",
+              "property": "P1942",
+              "hash": "f7c02baf1b56d17946e96c45251cf6c61f1c65c8",
+              "datavalue": {
+                "value": "Chosŏn Chŏnjaeng",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P2441": [
+            {
+              "snaktype": "value",
+              "property": "P2441",
+              "hash": "a8f2fade3b205c0b7ad0ae9cbe1b7d965ca569e1",
+              "datavalue": {
+                "value": {
+                  "text": "Korea War",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2001",
+          "P1942",
+          "P2441"
+        ],
+        "id": "Q8663$6319dc1e-46a9-5dc1-8680-fc1d7f4f16d2",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "986341e843a710d54897bcfb87d1091a8d9f8413",
+          "datavalue": {
+            "value": {
+              "text": "조국해방전쟁",
+              "language": "ko-kp"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2001": [
+            {
+              "snaktype": "value",
+              "property": "P2001",
+              "hash": "8799e53fee8846f3bb83e74490fef9a01862257f",
+              "datavalue": {
+                "value": "Joguk Haebang Jeonjaeng",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P1942": [
+            {
+              "snaktype": "value",
+              "property": "P1942",
+              "hash": "32fbe755a723279c82509815458455103db4408b",
+              "datavalue": {
+                "value": "Choguk Haebang Chŏnjaeng",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P2441": [
+            {
+              "snaktype": "value",
+              "property": "P2441",
+              "hash": "30125e188da0761cd5390ae100b1402636592ece",
+              "datavalue": {
+                "value": {
+                  "text": "Fatherland Liberation War",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2001",
+          "P1942",
+          "P2441"
+        ],
+        "id": "Q8663$f538ea91-47d2-4bbd-8979-4769128fd284",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "9d536c4230a11a04d087474364881f4bd6674bba",
+          "datavalue": {
+            "value": {
+              "text": "육이오 사변",
+              "language": "ko"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2001": [
+            {
+              "snaktype": "value",
+              "property": "P2001",
+              "hash": "42cca370b8516bb52698399aa97e7562ef54ced7",
+              "datavalue": {
+                "value": "Yugio Sabyeon",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P1942": [
+            {
+              "snaktype": "value",
+              "property": "P1942",
+              "hash": "16a55a7be37acc43501ca39fae95bbd790d9c4fa",
+              "datavalue": {
+                "value": "Yugio Sabyŏn",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P2441": [
+            {
+              "snaktype": "value",
+              "property": "P2441",
+              "hash": "3332a2a05156815b78393005f51f76d1e567930f",
+              "datavalue": {
+                "value": {
+                  "text": "6-2-5 Disaster",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2001",
+          "P1942",
+          "P2441"
+        ],
+        "id": "Q8663$843e801c-40c1-1221-ecea-bcd01aeb48f7",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "25ecb7ff2a5bed0c276c95101e1f94cf74c61feb",
+          "datavalue": {
+            "value": {
+              "text": "육이오 전쟁",
+              "language": "ko"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2001": [
+            {
+              "snaktype": "value",
+              "property": "P2001",
+              "hash": "5e4c23032a55d3634beb39b543ea8e2be96e442e",
+              "datavalue": {
+                "value": "Yugio Jeonjaeng",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P1942": [
+            {
+              "snaktype": "value",
+              "property": "P1942",
+              "hash": "d4b9522f49601fef12f3fe4f0847fe36b064ef01",
+              "datavalue": {
+                "value": "Yugio Chŏnjaeng",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P2441": [
+            {
+              "snaktype": "value",
+              "property": "P2441",
+              "hash": "024da9bc0d28f254ff916363a676f0ba1a490344",
+              "datavalue": {
+                "value": {
+                  "text": "6-2-5 War",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2001",
+          "P1942",
+          "P2441"
+        ],
+        "id": "Q8663$604dba19-4d8a-042a-d5f1-0222dc5e55b3",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "39039a5eb53673a31e514d8a19cb61e94dbf82e3",
+          "datavalue": {
+            "value": {
+              "text": "한국동란",
+              "language": "ko"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2001": [
+            {
+              "snaktype": "value",
+              "property": "P2001",
+              "hash": "7749b3e2c92c347520dc79e6a9c3c9fad01f7ce9",
+              "datavalue": {
+                "value": "Han-guk Dongnan",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P1942": [
+            {
+              "snaktype": "value",
+              "property": "P1942",
+              "hash": "0a2b761fb716181de6aad6a5269fcb9946fe458e",
+              "datavalue": {
+                "value": "Han’guk Tongnan",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P1942",
+              "hash": "8924851ce41409489d22f97cf8d39bbe3055bf6d",
+              "datavalue": {
+                "value": "Korea Disturbance",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2001",
+          "P1942"
+        ],
+        "id": "Q8663$733abd03-48a9-9602-80a1-bd3c41834052",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "8058cad43d6f69c5d61a6b16335de718096c8fdc",
+          "datavalue": {
+            "value": {
+              "text": "육이오 동란",
+              "language": "ko"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2001": [
+            {
+              "snaktype": "value",
+              "property": "P2001",
+              "hash": "c5bf6182bb67436f618e30724779a3b4236a9613",
+              "datavalue": {
+                "value": "Yugio Dongnan",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P1942": [
+            {
+              "snaktype": "value",
+              "property": "P1942",
+              "hash": "611999d3292a5a24af6dc44549a2031acdb4eb4c",
+              "datavalue": {
+                "value": "Yugio Tongnan",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P2441": [
+            {
+              "snaktype": "value",
+              "property": "P2441",
+              "hash": "6286517025d53f490c1229db76a050dedd4f42e1",
+              "datavalue": {
+                "value": {
+                  "text": "6-2-5 Disturbance",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2001",
+          "P1942",
+          "P2441"
+        ],
+        "id": "Q8663$548ada6b-4974-f6ee-77d3-3dd85d566708",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "0cebe3c6e2d45ab21b47b2376a8c0725bc4aa8f2",
+          "datavalue": {
+            "value": {
+              "text": "경인동란",
+              "language": "ko"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2001": [
+            {
+              "snaktype": "value",
+              "property": "P2001",
+              "hash": "97ceb308813d447ad5c77770725da5fa28e53ea8",
+              "datavalue": {
+                "value": "Gyeong-in Dongnan",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P1942": [
+            {
+              "snaktype": "value",
+              "property": "P1942",
+              "hash": "738bba2add321b4360716c4831ad9b045b6101b2",
+              "datavalue": {
+                "value": "Kyŏng’in Tongnan",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P2441": [
+            {
+              "snaktype": "value",
+              "property": "P2441",
+              "hash": "ab8ca8aa1c889a025b9592ae3e774cff2f818edf",
+              "datavalue": {
+                "value": {
+                  "text": "Gengyin [year of the sexagenery cycle] Disturbance",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2001",
+          "P1942",
+          "P2441"
+        ],
+        "id": "Q8663$91251a46-4e68-c19f-f86e-bb2728aa4b5d",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "10ed631705bfb413103a15ab9abe1455cb0b5b88",
+          "datavalue": {
+            "value": {
+              "text": "朝鮮戰爭",
+              "language": "zh-hant"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2441": [
+            {
+              "snaktype": "value",
+              "property": "P2441",
+              "hash": "54ffb420b81df1cdbb015c3bd0e046e451096d74",
+              "datavalue": {
+                "value": {
+                  "text": "Korean War",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2441"
+        ],
+        "id": "Q8663$a7e7a659-45a4-bb96-3d5a-3bb514b33a81",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "719be8f1bf9e5be1af3cef1116699764354faa7b",
+          "datavalue": {
+            "value": {
+              "text": "抗美援朝戰爭",
+              "language": "zh-hant"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2441": [
+            {
+              "snaktype": "value",
+              "property": "P2441",
+              "hash": "a2c28d8cd7152ff4be74806bff1b0a535ab750a3",
+              "datavalue": {
+                "value": {
+                  "text": "Anti-U.S. Pro-Korean War",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2441"
+        ],
+        "id": "Q8663$7f570c77-4b09-16b8-03a9-ab3a49b61fd7",
+        "rank": "normal"
+      }
+    ],
+    "P5395": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5395",
+          "hash": "98c6fc1a6bcf7a3df13d6b8c2dafd856b0772d4c",
+          "datavalue": {
+            "value": "korean-war",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$F328682D-9868-47CA-B759-57D21EE4509A",
+        "rank": "normal"
+      }
+    ],
+    "P361": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P361",
+          "hash": "1a36266f6e456d009b86c0ec00fb7da9f4e7ad64",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8683,
+              "id": "Q8683"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$16A5AFE7-7D7E-441F-BFE6-FC0D16D7A2B2",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "699767b6122de8801e76b436958fd9bfe781a71f",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1417": [
+                {
+                  "snaktype": "value",
+                  "property": "P1417",
+                  "hash": "7c92469d36f45045c407bcc5fdd38d713dff99e5",
+                  "datavalue": {
+                    "value": "event/Cold-War",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "495f20629dc7b139a77793a45f2f56f4cf64925d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1417",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P5905": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5905",
+          "hash": "179bb38e123e645426f5e12a4fd5da07e21f4efc",
+          "datavalue": {
+            "value": "4015-56353",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$D9FC053D-7D7D-4374-B7EC-911DEB19C117",
+        "rank": "normal"
+      }
+    ],
+    "P4839": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4839",
+          "hash": "2d28ec5f1da518ae5985b764fd9dcb01a829a843",
+          "datavalue": {
+            "value": "Entity[\"MilitaryConflict\", \"KoreanWar\"]",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$DA62C704-1405-430B-B464-94C1655B5099",
+        "rank": "normal"
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "f99d9edd3c19f782e3beec785004c8c422b48888",
+          "datavalue": {
+            "value": "ph121858",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "d3a23cff2185559f3dd050ee968cf29ddc4358e2",
+              "datavalue": {
+                "value": "korejská válka (1950-1953)",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q8663$D2A26371-9422-42A9-BDEA-F3A398B1E6AD",
+        "rank": "normal"
+      }
+    ],
+    "P4527": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4527",
+          "hash": "5b2680f9f562d39b6a9ed8b9e28d4ffff8eb61cc",
+          "datavalue": {
+            "value": "11211",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "f6bc82ae0d58891912ea6930d4bf34e66a670968",
+              "datavalue": {
+                "value": "Korean War",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q8663$5CB4DC7F-BD51-4C2F-BE3A-6A7585B2B985",
+        "rank": "normal"
+      }
+    ],
+    "P5247": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5247",
+          "hash": "504f3738fb1fb8d65f88cdaea2d4f3af1ea17ea4",
+          "datavalue": {
+            "value": "3015-7874",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$31DECA62-C00E-4295-B77D-12FDFDBF75E1",
+        "rank": "normal"
+      }
+    ],
+    "P7695": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7695",
+          "hash": "08948bfcd68a90b917d941ddf7af23b6a8d2d609",
+          "datavalue": {
+            "value": "1254",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$957B4B07-AD4C-4009-A628-E6883923D02F",
+        "rank": "normal"
+      }
+    ],
+    "P7685": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7685",
+          "hash": "6e971622a898b7570dba77505ec8714df343ffb5",
+          "datavalue": {
+            "value": "korean-war-4526",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$89D34D45-0848-4EE8-9BBB-780150FA5A15",
+        "rank": "normal"
+      }
+    ],
+    "P7723": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7723",
+          "hash": "b548070ba896d06b238f10716200929e8f46125d",
+          "datavalue": {
+            "value": "KO002",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$DE44855E-A484-4B62-9295-6CD70D72FD00",
+        "rank": "normal"
+      }
+    ],
+    "P7644": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7644",
+          "hash": "ca7f5abe2402bf17cc9b3ff5f77aed878da0f0af",
+          "datavalue": {
+            "value": "k/korean-war",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$91106261-AB49-4E2A-82C0-4EF1D5CF3A89",
+        "rank": "normal"
+      }
+    ],
+    "P3222": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3222",
+          "hash": "d9eaec11379b2481ff5c2770962973cfec8143f8",
+          "datavalue": {
+            "value": "koreakriget",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$6C398D34-1FDB-474A-A51F-93AD12E33088",
+        "rank": "normal"
+      }
+    ],
+    "P2347": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2347",
+          "hash": "2ab5ca164bec868ddbec6885cf6e72ffdd2ae002",
+          "datavalue": {
+            "value": "7567",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "a7cf97cf9a2a261ae13c7ce9f5de452a8a7f8e31",
+              "datavalue": {
+                "value": {
+                  "text": "Korean War",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "bc2e7bb45682273694bf7ec28b888ddb874befcb",
+              "datavalue": {
+                "value": {
+                  "text": "Koreakriget",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "742ec5022f2066f9945d40dd6c9e1888c3ea7ac9",
+              "datavalue": {
+                "value": {
+                  "text": "Korea soahti",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "2be56ede7349d9a453d47df17b122b74f60d3ab5",
+              "datavalue": {
+                "value": {
+                  "text": "Korean sota",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q8663$DB8CA130-AB7A-4A02-A62C-6E334AC8A9E9",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "f9bf1a1f034ddd51bd9928ac535e0f57d748e2cf",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "7133f11674741f52cadaae6029068fad9cbb52e3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 89345680,
+                      "id": "Q89345680"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1424": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1424",
+          "hash": "b0fa7502302c944edb2df4b68f7f03fc56fb62e7",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 19274316,
+              "id": "Q19274316"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$a341f3e1-4d65-6989-b7cb-0352ae7a000d",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1424",
+          "hash": "7b1bf7ac3e58f51d7f5a23c335fe3636ea938f10",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6855994,
+              "id": "Q6855994"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$dd3d6a40-15ba-476d-863f-9df841baa79e",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "166841a5f0a973a5e0ec38320d7574df735086b2",
+            "snaks": {
+              "P3452": [
+                {
+                  "snaktype": "value",
+                  "property": "P3452",
+                  "hash": "968263c3642b7b017fcb26e55247277faaee0c6b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 6855994,
+                      "id": "Q6855994"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P3452"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "99962eb6bef98b4e0720ec5c40ebe1ff3ffdd18b",
+          "datavalue": {
+            "value": "KoreanWar",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$6A191488-B2F4-43DA-8F62-C8DFC973EF86",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P5063": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5063",
+          "hash": "3e22732c3fb0d37b1a0b24795b429f83daba4933",
+          "datavalue": {
+            "value": "i42220",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$388B5D97-100A-4800-819D-9D99139D2BD7",
+        "rank": "normal"
+      }
+    ],
+    "P8814": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8814",
+          "hash": "d512bde65be0eca7cdc99de8e0c425d0cc3ee0df",
+          "datavalue": {
+            "value": "01308042-n",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$5C8AA7C9-5993-440E-9CCA-DE2841BC4B5D",
+        "rank": "normal"
+      }
+    ],
+    "P9281": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9281",
+          "hash": "e1ee8bcde160d4673ebc939113160e2f8d472290",
+          "datavalue": {
+            "value": "korean-war",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$02C663A0-4C4B-489A-A171-2C3E4C688575",
+        "rank": "normal"
+      }
+    ],
+    "P9350": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9350",
+          "hash": "d3ac20c052cdc1e52be45d6dcdda6dbe46970887",
+          "datavalue": {
+            "value": "6c6g3gspp",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$a35487cf-4254-858a-ec4b-e468970e8b1a",
+        "rank": "normal"
+      }
+    ],
+    "P950": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P950",
+          "hash": "d2a9668f626be710110cec70303276a9d863aa68",
+          "datavalue": {
+            "value": "XX537222",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "4f3df945d7391a23a363750d1f04b0cb1f603d20",
+              "datavalue": {
+                "value": "Guerra de Corea, 1950-1953",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q8663$731a9a01-f02e-45ff-8475-b3aaf5e0fc32",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "b1df4c1b95d393eb974c1f1310fb403f0ebc1300",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3b090a7bae73c288393b2c8b9846cc7ed9a58f91",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 16583225,
+                      "id": "Q16583225"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "9ad6f60ab3e75be758809b23b943292947f46d8a",
+                  "datavalue": {
+                    "value": "https://thes.bncf.firenze.sbn.it/termine.php?id=29239",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "7721e97431215c374db84a9df785dc964a16bd17",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-06-15T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854",
+              "P813"
+            ]
+          },
+          {
+            "hash": "07f90256001fbeba7ca2adb8df51d89d150f8f67",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "f0094b041fc8f052ea2ba8614aa130e4dc59ce99",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 97285695,
+                      "id": "Q97285695"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1476": [
+                {
+                  "snaktype": "value",
+                  "property": "P1476",
+                  "hash": "f5749e3a8641338fde01fd5b48823d07ffd4929f",
+                  "datavalue": {
+                    "value": {
+                      "text": "Registros de autoridad de \"Materia\" de la Biblioteca Nacional de España",
+                      "language": "es"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "68cb1f2679543f92423b7cbadc891a595dbdba89",
+                  "datavalue": {
+                    "value": "https://www.bne.es/media/datosgob/catalogo-autoridades/materia/materia-UTF8.zip",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "11f94d433f27563cf0d9161bfc4a8dd9ec756612",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2023-07-21T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1476",
+              "P854",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3553": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3553",
+          "hash": "a09576dda17c69d4f8b17b8ce7d950482166458b",
+          "datavalue": {
+            "value": "19656624",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "6973d62782fbb97ab3b657775b6724d07eb0d3e7",
+              "datavalue": {
+                "value": "朝鲜战争",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q8663$2DE42666-47CB-4D41-B182-5A94CF39A486",
+        "rank": "normal"
+      }
+    ],
+    "P8189": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8189",
+          "hash": "0460c1f645a357e6bc671c3f23ae7a4f791e3803",
+          "datavalue": {
+            "value": "987007548486805171",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "c44555d76ad7f0873dddd838d0bbae84f5bfb824",
+              "datavalue": {
+                "value": {
+                  "text": "Korean War, 1950-1953",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "78eb9251acd10710a8b0792493715ce695e91159",
+              "datavalue": {
+                "value": {
+                  "text": "מלחמת קוריאה, 1950-1953",
+                  "language": "he"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "10cdcda60ceb6e5c100072572fe9daa7a5191cb4",
+              "datavalue": {
+                "value": {
+                  "text": "الحرب الكورية، 1950-1953",
+                  "language": "ar"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q8663$8E1FE9C2-2B07-4E29-AF96-1571EB7A1DF8",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c8a47202c92936005b390eb36ddd267921b51f43",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "0ea73b3596b49258a7b7ec6495950779b99e875d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188915,
+                      "id": "Q188915"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P6385": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6385",
+          "hash": "15c57ffcb21cca4e15e1d48aa0c3401808353e3a",
+          "datavalue": {
+            "value": "istoriya/KORESKAYA_VONA.html",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$25605023-4263-3758-e980-874ed74a33a7",
+        "rank": "normal"
+      }
+    ],
+    "P10297": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10297",
+          "hash": "c95b3a71922b4fdead7efad8edb4cd1ba88af9e4",
+          "datavalue": {
+            "value": "m048n7",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$c44514fd-487a-b61c-ebea-0781d05f2a03",
+        "rank": "normal"
+      }
+    ],
+    "P8313": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8313",
+          "hash": "2ce95951bf90065010b137616d5c95397000c556",
+          "datavalue": {
+            "value": "Koreakrigen",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$9D243AC6-7911-4868-9E8A-C0214049D613",
+        "rank": "normal"
+      }
+    ],
+    "P268": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P268",
+          "hash": "4d2029c4503a6f6d8f764b37ab82ef29931902ba",
+          "datavalue": {
+            "value": "11952040m",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "65a140891a9b2d48f0bd6474874ac0dc1652aeae",
+              "datavalue": {
+                "value": "Guerre de Corée (1950-1953)",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q8663$b0f87eea-41ea-3265-2ac2-50319c9c8970",
+        "rank": "normal"
+      }
+    ],
+    "P5034": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5034",
+          "hash": "6b207ea7541c51a23f11cffdaf5370561ff29d8f",
+          "datavalue": {
+            "value": "KSH1998000932",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "d6602a9071a0309da1df4fa138028b3c70e42f46",
+              "datavalue": {
+                "value": "한국 전쟁",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q8663$d7c4c6b0-4b09-990e-72a8-ef91ca92430e",
+        "rank": "normal"
+      }
+    ],
+    "P10913": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10913",
+          "hash": "d356b84e698fe796e56f67877f85a72f4fbc5a9e",
+          "datavalue": {
+            "value": "f8/mt805/7007/13302",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "2de2d533e7053cfdc47bfb1b800c007b80811326",
+              "datavalue": {
+                "value": "Korean War (1950-1953)",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q8663$0CEFA44E-AA9B-4990-9953-785001C2EACC",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "125f5c80b5c55af4416e0ff1e2af8348ef4fcd4e",
+            "snaks": {
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "94a9d74d5e15edf6d20d20383de5ed56c5419fb8",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-08-23T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P5008": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5008",
+          "hash": "136e3fbe19158e73e4bfebf3f2d98a9df8638b7e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6173448,
+              "id": "Q6173448"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P585": [
+            {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "7661f66dd5b82a1ea92515ddb16c09ce3088edea",
+              "datavalue": {
+                "value": {
+                  "time": "+2022-10-31T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P585"
+        ],
+        "id": "Q8663$B463975A-5402-41D0-8F7C-424C66F60290",
+        "rank": "normal"
+      }
+    ],
+    "P4342": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4342",
+          "hash": "4b00e18fed964dd4feb16cc810c4dca21760f7fb",
+          "datavalue": {
+            "value": "Koreakrigen",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$DC8DEBFB-5DF7-4137-A0E3-87FBBFEC639C",
+        "rank": "normal"
+      }
+    ],
+    "P7775": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7775",
+          "hash": "f18a4413b9e0fb3c35eb7326519aa75a1001a17c",
+          "datavalue": {
+            "value": "Korean_War",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$b7fb2c81-4373-bf48-957f-6e6a8ec35bc4",
+        "rank": "normal"
+      }
+    ],
+    "P9037": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9037",
+          "hash": "60c7540092ce8651bde46ec25d6d4240a58953bb",
+          "datavalue": {
+            "value": "f3248a99-abc8-4050-9692-bad3f83a5164",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$1CEEEE19-2186-44ED-ADED-EAB2FB0BC514",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "853697ff5283b5c71643016e9fdea6b90bbab02d",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "36652acb3b591d852e55294ce860131f9cd71787",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 63411600,
+                      "id": "Q63411600"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "4bd2409eb34a4ec16dcc2fdab49e24a103c55f03",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2023-04-19T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P958": [
+                {
+                  "snaktype": "value",
+                  "property": "P958",
+                  "hash": "eed436971bb30477c9384ccd3fd1a8b6a95103ce",
+                  "datavalue": {
+                    "value": "856u",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ],
+              "P9037": [
+                {
+                  "snaktype": "value",
+                  "property": "P9037",
+                  "hash": "60c7540092ce8651bde46ec25d6d4240a58953bb",
+                  "datavalue": {
+                    "value": "f3248a99-abc8-4050-9692-bad3f83a5164",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "0dcdf8792536329165111bf9ecdd8521a3667a56",
+                  "datavalue": {
+                    "value": "https://biblio.hiu.cas.cz/records/f3248a99-abc8-4050-9692-bad3f83a5164",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P958",
+              "P9037",
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2892": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2892",
+          "hash": "6f85122f79674847528a1918d1afad6638438ad8",
+          "datavalue": {
+            "value": "C1449776",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$42D07C8D-D6B6-469E-BBD6-D5B3FBECEC00",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "84a86b2096ce3b54ac349f67a0f238e8ed0be477",
+            "snaks": {
+              "P887": [
+                {
+                  "snaktype": "value",
+                  "property": "P887",
+                  "hash": "0f284e521850e663d708d293bf3ecf0e36528c45",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 118645058,
+                      "id": "Q118645058"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "0dffc9c217cd4550d6e1be4e56268ece7068efc2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 118645236,
+                      "id": "Q118645236"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "933ad62150a32ca0e9449cef21f75a79d5634988",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2023-05-25T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P887",
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1617": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1617",
+          "hash": "f975039099aeafe5407d0959f314a3e927cdcba1",
+          "datavalue": {
+            "value": "fde8e051-a9ef-4998-9a1f-a3911f7b571c",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$9E7D9A5E-C142-4409-B9D2-187B4CA8E2B6",
+        "rank": "normal"
+      }
+    ],
+    "P11196": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11196",
+          "hash": "5cea6a1f3845cb65e43caf3bbc9b0489ed905b6e",
+          "datavalue": {
+            "value": "抗美援朝",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P3740": [
+            {
+              "snaktype": "value",
+              "property": "P3740",
+              "hash": "fe65eaa43ff6022697fa2ee693eace8379c16a70",
+              "datavalue": {
+                "value": {
+                  "amount": "+183064",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            }
+          ],
+          "P585": [
+            {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "f895c7fa5d07a65735c622cb922cbcb673b57a68",
+              "datavalue": {
+                "value": {
+                  "time": "+2023-04-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P3740",
+          "P585"
+        ],
+        "id": "Q8663$D0F14CC8-BD26-43B3-BD91-373837E7DC19",
+        "rank": "normal"
+      }
+    ],
+    "P9475": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9475",
+          "hash": "f950c2209e7fee91921967c57658e069c9a36729",
+          "datavalue": {
+            "value": "E0042143",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$90702d5f-4f52-b124-39fb-89b47c602233",
+        "rank": "normal"
+      }
+    ],
+    "P6900": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6900",
+          "hash": "8e5aaa53bbfee62d607502f571eb9e71d0e9eb0b",
+          "datavalue": {
+            "value": "朝鮮戦争",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$2c9aa4bf-46e7-556a-30c7-2160f6bcbb3c",
+        "rank": "normal"
+      }
+    ],
+    "P6058": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6058",
+          "hash": "1fac21953cb8842784fb7911d1239dc232cd4cec",
+          "datavalue": {
+            "value": "divers/wd/114672",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$53c0a3fb-4cc4-f304-0c43-260751ab80fa",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6058",
+          "hash": "deb4f55d814b997c7e3237b8cf70c9821bfcd451",
+          "datavalue": {
+            "value": "images/La_guerre_de_Corée_1950/1011360",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$c1259de1-4194-58cb-8d0d-9e4938df2987",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6058",
+          "hash": "e3bf01015fa833a25ecb1bb01747fffa2774eada",
+          "datavalue": {
+            "value": "images/La_guerre_de_Corée_1951/1011361",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$40294e86-471b-79e1-ed9d-c3a4c49532d4",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6058",
+          "hash": "a1361330a8bb37127ddcbe30b845a6db7227f1de",
+          "datavalue": {
+            "value": "images/La_guerre_de_Corée_1951_à_1953/1011362",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$121f0092-4489-6e2c-8d00-8cd895fe97c0",
+        "rank": "normal"
+      }
+    ],
+    "P12086": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12086",
+          "hash": "ef002722b33780a6f615fe0cbc2b181eda925762",
+          "datavalue": {
+            "value": "Koreaanse_Oorlog",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P9675": [
+            {
+              "snaktype": "value",
+              "property": "P9675",
+              "hash": "4347e37b5978b9804efd35560bd655ceca1ab326",
+              "datavalue": {
+                "value": "67013",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P9675"
+        ],
+        "id": "Q8663$A06F19ED-F43A-4F8F-BCA3-A4B0D7E47E52",
+        "rank": "normal"
+      }
+    ],
+    "P12385": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12385",
+          "hash": "6a13304662f4ca53b06ed329f9a189921d11c6e8",
+          "datavalue": {
+            "value": "guerra-de-corea",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$faf86fb9-3500-4139-9bcb-2221fd216228",
+        "rank": "normal"
+      }
+    ],
+    "P706": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P706",
+          "hash": "31328d40c1681795c43d1dde386f8901d641ff85",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 483134,
+              "id": "Q483134"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$67b40c32-4c8e-5d8f-f585-3b291df8d55e",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "628a5e33655d622d7dfa534889be99fc508eb2eb",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "b949f92475f866250da42294babf8ea294fd253f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48952,
+                      "id": "Q48952"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "9c4a8f546682311b3cad272bf6731dd6c9b50bb8",
+                  "datavalue": {
+                    "value": "https://fa.wikipedia.org/?oldid=37542225",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P706",
+          "hash": "09a5d5862c4a7cfcaf163902d37c2b2f10d748cd",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 37960,
+              "id": "Q37960"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$111bb268-4808-c48a-e807-78300a24626f",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "628a5e33655d622d7dfa534889be99fc508eb2eb",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "b949f92475f866250da42294babf8ea294fd253f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48952,
+                      "id": "Q48952"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "9c4a8f546682311b3cad272bf6731dd6c9b50bb8",
+                  "datavalue": {
+                    "value": "https://fa.wikipedia.org/?oldid=37542225",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P706",
+          "hash": "fbd27f9f9948c738a85cc76c80ba72ccc76ecf22",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 27092,
+              "id": "Q27092"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$b695a455-4394-fca8-8888-0d599de5ea8e",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "628a5e33655d622d7dfa534889be99fc508eb2eb",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "b949f92475f866250da42294babf8ea294fd253f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48952,
+                      "id": "Q48952"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "9c4a8f546682311b3cad272bf6731dd6c9b50bb8",
+                  "datavalue": {
+                    "value": "https://fa.wikipedia.org/?oldid=37542225",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P706",
+          "hash": "ce31725accc77c9126797196f5e08e676b9b84fd",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 52052,
+              "id": "Q52052"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$89f44a11-44f7-6866-2a0a-14098a643504",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "628a5e33655d622d7dfa534889be99fc508eb2eb",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "b949f92475f866250da42294babf8ea294fd253f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48952,
+                      "id": "Q48952"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "9c4a8f546682311b3cad272bf6731dd6c9b50bb8",
+                  "datavalue": {
+                    "value": "https://fa.wikipedia.org/?oldid=37542225",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P706",
+          "hash": "0384b2b5210b0fd998cd5389ef6c9dde77ed1470",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1060616,
+              "id": "Q1060616"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$48aa3c49-449d-42cc-cafe-2094145ccc9a",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "628a5e33655d622d7dfa534889be99fc508eb2eb",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "b949f92475f866250da42294babf8ea294fd253f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48952,
+                      "id": "Q48952"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "9c4a8f546682311b3cad272bf6731dd6c9b50bb8",
+                  "datavalue": {
+                    "value": "https://fa.wikipedia.org/?oldid=37542225",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8885": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8885",
+          "hash": "30e920e386a7f0a8842d39b3feb9b18df6b47d0d",
+          "datavalue": {
+            "value": "6.25 전쟁",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$2020e223-4369-2b66-f1a9-4f58eedc75af",
+        "rank": "normal"
+      }
+    ],
+    "P672": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P672",
+          "hash": "d5fdf36651dbb1e046ccce3d08599099e88e07e4",
+          "datavalue": {
+            "value": "I01.880.735.950.250.813",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4900": [
+            {
+              "snaktype": "value",
+              "property": "P4900",
+              "hash": "072a2d0b2adb7797ddc48ec468fd7d6f878923b2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 350604,
+                  "id": "Q350604"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4900"
+        ],
+        "id": "Q8663$d3705c01-45e6-be01-f3a5-cd32e096f429",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P672",
+          "hash": "69de964ef68fdfa560fe27a87f5ac8fa6711bd7a",
+          "datavalue": {
+            "value": "K01.400.504.968.500",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4900": [
+            {
+              "snaktype": "value",
+              "property": "P4900",
+              "hash": "4f3e17532c1f4c3634f06c7cef6a9d4ecc36365c",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 6927,
+                  "id": "Q6927"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4900"
+        ],
+        "id": "Q8663$62f09168-40b9-b4b7-a3dc-ae15a06d9170",
+        "rank": "normal"
+      }
+    ],
+    "P7982": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7982",
+          "hash": "ba6184a0b9d8597a25fa7b4b13b9c0c89ce2b181",
+          "datavalue": {
+            "value": "33159",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$87528715-AB93-4844-8710-5A030ACEA7FA",
+        "rank": "normal"
+      }
+    ],
+    "P8349": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8349",
+          "hash": "8b7984b5a2e7e43230fe7ef2f94ee70613ba87cb",
+          "datavalue": {
+            "value": "32436",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$EFC1FCDB-DF62-4938-9FF3-3610CEEEECD5",
+        "rank": "normal"
+      }
+    ],
+    "P5019": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5019",
+          "hash": "b66e8eddec73a47e889c5111db0de88a7c8df830",
+          "datavalue": {
+            "value": "koreakrieg",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$072C7CEE-6056-486F-85DB-92E7FD65F2A9",
+        "rank": "normal"
+      }
+    ],
+    "P8370": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8370",
+          "hash": "f317566946916cd9af2d5cc46d1821e86576e96b",
+          "datavalue": {
+            "value": "1003535",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$70B8774B-38C2-4D42-9983-1BDD7D9DFE46",
+        "rank": "normal"
+      }
+    ],
+    "P920": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P920",
+          "hash": "5b0c89012fbaf63157a3ad11275479c8fb2e259b",
+          "datavalue": {
+            "value": "LEM201004284",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$3F116CDC-44A2-4CF7-A401-B7E7D60C24B2",
+        "rank": "normal"
+      }
+    ],
+    "P9272": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9272",
+          "hash": "6f92e54fba16f741db39f85d2e20c8e7f389a97b",
+          "datavalue": {
+            "value": "38893",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$B1DB9385-2F17-4653-8327-37A1AEB0866D",
+        "rank": "normal"
+      }
+    ],
+    "P11137": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11137",
+          "hash": "6fd8fe212bc118a7e343ef8a9d7f22ae456ce953",
+          "datavalue": {
+            "value": "korean_war",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$5EAC6C0E-EBB3-416A-B4CB-C66F5702CA44",
+        "rank": "normal"
+      }
+    ],
+    "P11514": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11514",
+          "hash": "b61e76ea06ca4bb3eb681189201dd0c035a97743",
+          "datavalue": {
+            "value": "koreiskaia-voina-1950-1953-921d2b",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$67CD1269-3DEA-4B29-B14B-BA4A6453E69E",
+        "rank": "normal"
+      }
+    ],
+    "P17": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P17",
+          "hash": "f9d1f68374f351ebf2d6d29d83bf1a810d090ab1",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 423,
+              "id": "Q423"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$85586443-D953-4C42-867D-F7EA05C6B972",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P17",
+          "hash": "ab4105e4f6c3449ba4a6ca949a3aaafaa67f5be8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 884,
+              "id": "Q884"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$037d5420-49db-ce9e-6d12-0b21f5e57760",
+        "rank": "normal"
+      }
+    ],
+    "P12800": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12800",
+          "hash": "b04f05009723c2f6cc6fc226f326ad85c6798610",
+          "datavalue": {
+            "value": "fr:Guerre_de_Corée",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$C274B595-528D-4E7E-A8CB-8AE4D730F06B",
+        "rank": "normal"
+      }
+    ],
+    "P5737": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5737",
+          "hash": "89c0e656f4fb3d75b923799d5fcae02fe3de9df1",
+          "datavalue": {
+            "value": "朝鲜战争",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P9675": [
+            {
+              "snaktype": "value",
+              "property": "P9675",
+              "hash": "6fdc5cbd90f69e1c95a0917b5def7899bd12f71c",
+              "datavalue": {
+                "value": "458758",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "3b33ca235f16338704ecefe35d73712fbf0377a5",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 7850,
+                  "id": "Q7850"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P9675",
+          "P407"
+        ],
+        "id": "Q8663$FC194BDD-4057-4FD9-A336-E72CCE383BA9",
+        "rank": "normal"
+      }
+    ],
+    "P9346": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9346",
+          "hash": "137d319a26f84dfb3ff15a0fd78d32a68d5f3213",
+          "datavalue": {
+            "value": "guerre-de-corée",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$8766BB14-623E-4D25-A20B-985BB964E1A9",
+        "rank": "normal"
+      }
+    ],
+    "P1542": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1542",
+          "hash": "657cf54425c3b54e6be7133a52b16967c112c1d3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 17510383,
+              "id": "Q17510383"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$803134df-4242-9bf3-b682-a7a5c508c71e",
+        "rank": "normal"
+      }
+    ],
+    "P2592": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2592",
+          "hash": "ee367d5e9cfa5a72113eedf50c58f71369439215",
+          "datavalue": {
+            "value": "24646",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$b78c9c9e-4b71-41c5-6023-6a4bdf2d4d0d",
+        "rank": "normal"
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "7efef96d030e53c66c00e3b1fd4d32ffd45e1b02",
+          "datavalue": {
+            "value": "activity/6c5ba949-c5cc-48f1-8f03-4da2afc3ca51",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$0E595339-74A0-4D89-909C-ACF9F5032D18",
+        "rank": "normal"
+      }
+    ],
+    "P13613": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13613",
+          "hash": "6f035c6a9c7d422b390e56e9d42657c63d1f5198",
+          "datavalue": {
+            "value": "105715",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$76e90438-45ca-6a3c-60ea-795004136f50",
+        "rank": "normal"
+      }
+    ],
+    "P13059": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13059",
+          "hash": "c3c410f7400d87902ea8e1876c7d572f8109a583",
+          "datavalue": {
+            "value": "82394",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$3CF53A59-CC10-4BD1-BF60-6C3AB5CD9DFC",
+        "rank": "normal"
+      }
+    ],
+    "P1036": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1036",
+          "hash": "5650d6426778310a42b8451b132826a18c60c648",
+          "datavalue": {
+            "value": "951.9042",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$1F5CD228-025C-4EE9-9B8C-1A20C61948B8",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "494657667e37dc2acbc17a7e5d286706eef0d51d",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3b090a7bae73c288393b2c8b9846cc7ed9a58f91",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 16583225,
+                      "id": "Q16583225"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P508": [
+                {
+                  "snaktype": "value",
+                  "property": "P508",
+                  "hash": "8c7b6edd770e7608711f4aa821182d8d3f2be788",
+                  "datavalue": {
+                    "value": "29239",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "6d4c9e5b0416a20f72876d06319d4d54168395a8",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2025-11-21T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P508",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P13956": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13956",
+          "hash": "cfe6a10158400bded7b3878676ae4f93bc698ea4",
+          "datavalue": {
+            "value": "0705",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$3F239717-928C-492C-856A-BCFF9232D381",
+        "rank": "normal"
+      }
+    ],
+    "P11924": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11924",
+          "hash": "94431ec9ea6c808c03a8a42462e07f37e0d0402d",
+          "datavalue": {
+            "value": "korean-war",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$3CA833DF-AEAC-4CE2-A6F1-70056CA9D966",
+        "rank": "normal"
+      }
+    ],
+    "P2163": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2163",
+          "hash": "cd95271450381a1506a836bbd62327e0b6a8dee1",
+          "datavalue": {
+            "value": "988609",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$4e4bb13f-424d-2a59-6479-562a3f2721ca",
+        "rank": "normal"
+      }
+    ],
+    "P269": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P269",
+          "hash": "6ef39530162fd3823d1204c1b4af23486a4715d4",
+          "datavalue": {
+            "value": "027492796",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$067cf331-40ac-20ef-3389-88e7d8c64471",
+        "rank": "normal"
+      }
+    ],
+    "P13204": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13204",
+          "hash": "a80e06029d6d46911af08e3a0ffc63bccd307620",
+          "datavalue": {
+            "value": "tp7xhycw",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$7354E34D-A6A6-4D47-BC7A-08C186BA8A7C",
+        "rank": "normal"
+      }
+    ],
+    "P793": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P793",
+          "hash": "af118269db34a7b310132ef66400902f7b9c31f3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 483039,
+              "id": "Q483039"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$ae9d96b2-469f-4d48-b548-e94f6551ec5e",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "65155df4935433b195dae6b6fd98bf7172ec3278",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1417": [
+                {
+                  "snaktype": "value",
+                  "property": "P1417",
+                  "hash": "753c74116da0739ecd414e613970ec964329dc52",
+                  "datavalue": {
+                    "value": "event/Korean-War",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "495f20629dc7b139a77793a45f2f56f4cf64925d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1417",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P793",
+          "hash": "b2622c1c67c7d62ddb0b533492ac551e337e4414",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 277337,
+              "id": "Q277337"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$8c0c5658-4137-49fa-faee-1d6299aefeca",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "65155df4935433b195dae6b6fd98bf7172ec3278",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1417": [
+                {
+                  "snaktype": "value",
+                  "property": "P1417",
+                  "hash": "753c74116da0739ecd414e613970ec964329dc52",
+                  "datavalue": {
+                    "value": "event/Korean-War",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "495f20629dc7b139a77793a45f2f56f4cf64925d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1417",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P793",
+          "hash": "e18fb298e8eddc73fe3df07478ce04c2c9f8e92f",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 713018,
+              "id": "Q713018"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$13de771e-4d72-7240-1b07-dcd325ea4f22",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "65155df4935433b195dae6b6fd98bf7172ec3278",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1417": [
+                {
+                  "snaktype": "value",
+                  "property": "P1417",
+                  "hash": "753c74116da0739ecd414e613970ec964329dc52",
+                  "datavalue": {
+                    "value": "event/Korean-War",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "495f20629dc7b139a77793a45f2f56f4cf64925d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1417",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3342": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3342",
+          "hash": "5dddab4edf87aa65fbf78bd7d9cfcce53d3b58f5",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9916,
+              "id": "Q9916"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$e636a06d-4c80-ed57-0240-c9d9a114aa3e",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "65155df4935433b195dae6b6fd98bf7172ec3278",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1417": [
+                {
+                  "snaktype": "value",
+                  "property": "P1417",
+                  "hash": "753c74116da0739ecd414e613970ec964329dc52",
+                  "datavalue": {
+                    "value": "event/Korean-War",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "495f20629dc7b139a77793a45f2f56f4cf64925d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1417",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3342",
+          "hash": "64b6a50c5b605ef79174c053dab3c9eee2b59911",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5816,
+              "id": "Q5816"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$7aa1aaf3-44d1-1f7a-345b-b624675a7ef3",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "65155df4935433b195dae6b6fd98bf7172ec3278",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1417": [
+                {
+                  "snaktype": "value",
+                  "property": "P1417",
+                  "hash": "753c74116da0739ecd414e613970ec964329dc52",
+                  "datavalue": {
+                    "value": "event/Korean-War",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "495f20629dc7b139a77793a45f2f56f4cf64925d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1417",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3342",
+          "hash": "30d717e05ca2dce42f3e4e197ef2e799d709e3d9",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 855,
+              "id": "Q855"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$b3f2b7db-4af2-28e4-7171-a1dde271ac51",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "65155df4935433b195dae6b6fd98bf7172ec3278",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1417": [
+                {
+                  "snaktype": "value",
+                  "property": "P1417",
+                  "hash": "753c74116da0739ecd414e613970ec964329dc52",
+                  "datavalue": {
+                    "value": "event/Korean-War",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "495f20629dc7b139a77793a45f2f56f4cf64925d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1417",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3342",
+          "hash": "aec7eb2c64ca9efdd32dcccae7f6b7c90ae5b3bd",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11613,
+              "id": "Q11613"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$f72565f8-46d5-857a-7294-25fa492ec493",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "65155df4935433b195dae6b6fd98bf7172ec3278",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1417": [
+                {
+                  "snaktype": "value",
+                  "property": "P1417",
+                  "hash": "753c74116da0739ecd414e613970ec964329dc52",
+                  "datavalue": {
+                    "value": "event/Korean-War",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "495f20629dc7b139a77793a45f2f56f4cf64925d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1417",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3342",
+          "hash": "93d1c7adb83c856cb9803d92b2688258bcfb3707",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 12790767,
+              "id": "Q12790767"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8663$4cf49e21-48aa-9f1e-2183-44322901d482",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "65155df4935433b195dae6b6fd98bf7172ec3278",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1417": [
+                {
+                  "snaktype": "value",
+                  "property": "P1417",
+                  "hash": "753c74116da0739ecd414e613970ec964329dc52",
+                  "datavalue": {
+                    "value": "event/Korean-War",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "495f20629dc7b139a77793a45f2f56f4cf64925d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1417",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "7dc8923d70cdadfc45148a904c7c517cd2705c17",
+          "datavalue": {
+            "value": "h0008906-korejska-valka-19501953",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$7375A226-5128-42AF-8AD6-3EFE63E74239",
+        "rank": "normal"
+      }
+    ],
+    "P13772": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13772",
+          "hash": "77e77597c39a050570d500c48e7d2c4f5e430c25",
+          "datavalue": {
+            "value": "1950-1953",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$A654A85B-A135-48D9-B0E4-BECBE0AA0ED9",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13772",
+          "hash": "9b9350bba04a0ee4c4002e584657e324f9940e73",
+          "datavalue": {
+            "value": "korean-war",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$AFA09BB6-435B-46DB-875C-2E095D92D858",
+        "rank": "normal"
+      }
+    ],
+    "P443": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P443",
+          "hash": "cbec73259a97baf67f0645269f1608c1808154f3",
+          "datavalue": {
+            "value": "De-Koreakrieg.ogg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 188,
+                  "id": "Q188"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P898": [
+            {
+              "snaktype": "value",
+              "property": "P898",
+              "hash": "0a74efe83586340e5d0de51f0f022078f24db207",
+              "datavalue": {
+                "value": "koˈʁeːaˌkʁiːk",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P5168": [
+            {
+              "snaktype": "value",
+              "property": "P5168",
+              "hash": "7426ed1e7e7ce42d190a290f47eb50963fdb9672",
+              "datavalue": {
+                "value": {
+                  "text": "Koreakrieg",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407",
+          "P898",
+          "P5168"
+        ],
+        "id": "Q8663$f9745e73-409b-8abd-0a51-4232cde5f5d0",
+        "rank": "normal"
+      }
+    ],
+    "P7773": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7773",
+          "hash": "6b674f45c64d8f5dfa3fac7b97426c4a226b4972",
+          "datavalue": {
+            "value": "GC02800498",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$4BBC1223-C442-41B9-8AC8-4C5D6F7EB6FB",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7773",
+          "hash": "83b0e175c6abfb5483341c2b31633c7625bfee40",
+          "datavalue": {
+            "value": "GC01800643",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$3FF46700-0DF8-425A-BFAD-6AF75244E967",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7773",
+          "hash": "985208a8fce30ec45ae463339b38f79f15720f22",
+          "datavalue": {
+            "value": "GC06300574",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$D320F090-1CC3-4C0D-B5C0-123EEE888038",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7773",
+          "hash": "e965f0481da688fe7b2f51090b0653d0b8100489",
+          "datavalue": {
+            "value": "GC03100414",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$20154B97-BD7B-468D-B35F-FDAB317282A5",
+        "rank": "normal"
+      }
+    ],
+    "P14470": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14470",
+          "hash": "fdd63ea531fdad3128b74ad1b4d22e68fec5cd6b",
+          "datavalue": {
+            "value": "Concepts/Korean_War",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P9675": [
+            {
+              "snaktype": "value",
+              "property": "P9675",
+              "hash": "68d53ad21df692306be20719cdd9e1e4ff0fbaba",
+              "datavalue": {
+                "value": "90496",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P9675"
+        ],
+        "id": "Q8663$FCC67E08-A15C-429E-8943-C9169B6B15F5",
+        "rank": "normal"
+      }
+    ],
+    "P11693": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11693",
+          "hash": "c71e1e8ab8ea6b5299e781526e911fee48203964",
+          "datavalue": {
+            "value": "12521066639",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8663$b01c64c7-2c3a-4170-b47b-377f018881fb",
+        "rank": "normal"
+      }
+    ]
+  }
+}

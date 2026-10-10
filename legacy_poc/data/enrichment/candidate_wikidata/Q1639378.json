@@ -1,0 +1,1104 @@
+{
+  "type": "item",
+  "id": "Q1639378",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "social system"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "사회 체계"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "patterned series of interrelationships existing between individuals, groups, and institutions"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "e946852520d10bfbdd72623733f06d565a999fff",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 58778,
+              "id": "Q58778"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1639378$d938da73-461f-1469-fe1b-cdc375a4d90b",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "b793cf75349d70c8f916ea7440e2522b8e44ab2c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6642900,
+              "id": "Q6642900"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1639378$D33D8AC0-379C-4AB5-848F-AC84AE48B5C4",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "2899ee42940a4070dc8b7425014f3f693bf3d512",
+          "datavalue": {
+            "value": "/m/05b6rkp",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1639378$5BF3C63C-CC2B-466F-B2D7-C33824C03650",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "837796e544c8c0872afe105fc3eba114b410a6db",
+          "datavalue": {
+            "value": "Social systems",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q1639378$098FA75A-FDCC-4417-A633-E577961DB2DA",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3916": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3916",
+          "hash": "87c8fa85d8f8d0c1d7e378feb5bc49f819fb5a96",
+          "datavalue": {
+            "value": "concept402",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1639378$083C4B86-3456-4828-A0E0-CCD5B8F49E8B",
+        "rank": "normal"
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "f375dca6e9d5908014d9022fac113ba80319e5b3",
+          "datavalue": {
+            "value": "Social-Systems",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1639378$109374a9-47b1-fc29-8a22-6d0549e2508c",
+        "rank": "normal"
+      }
+    ],
+    "P244": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P244",
+          "hash": "44bf1652901595e0e79962747a0f07065e092096",
+          "datavalue": {
+            "value": "sh85124081",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1639378$F2AEF43A-213C-483E-B206-31CD78080A0D",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "ac5d47e9fbcc281bc0d27a205ae02e22ad24ce31",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "b560dc6b281a39d061e189d2eb299a426a06f1a2",
+                  "datavalue": {
+                    "value": "https://github.com/JohnMarkOckerbloom/ftl/blob/master/data/wikimap",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "0dcf4f64e93fdcc654e2c7534285881fe48b9f3d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-04-03T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P6404": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6404",
+          "hash": "d5d96ffb919eba180a01495e02c5c02a37c82205",
+          "datavalue": {
+            "value": "sistema-sociale",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "3e576d2962cde03f07c50fecb4fd408e7b8cd2f8",
+              "datavalue": {
+                "value": "sistema sociale",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P577": [
+            {
+              "snaktype": "value",
+              "property": "P577",
+              "hash": "d2a40d22655021267a9386d3086e000722b5a2d3",
+              "datavalue": {
+                "value": {
+                  "time": "+2011-01-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P577"
+        ],
+        "id": "Q1639378$FA3A2DC0-0616-47D1-B573-21A01A6EE698",
+        "rank": "normal"
+      }
+    ],
+    "P6366": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6366",
+          "hash": "de1755961a1d78671b0b8d19032ca056e08cd26f",
+          "datavalue": {
+            "value": "179133015",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1639378$029BD639-7C4E-4E65-A054-D13D9079B6FE",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "a332db11048a3479bbdf04ae34c2c186fdbc100d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 96116695,
+              "id": "Q96116695"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1639378$7daf3f58-4839-9a15-e090-b58b55330cf5",
+        "rank": "normal"
+      }
+    ],
+    "P9084": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9084",
+          "hash": "d3b99718480461b8f5046cdece0fd1dd088177f4",
+          "datavalue": {
+            "value": "social-systems",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1639378$EEF04229-1D80-451C-B57B-69D8B36F735A",
+        "rank": "normal"
+      }
+    ],
+    "P10283": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10283",
+          "hash": "c6bca0bd360e82c803fbe4ee91b03a83c568a051",
+          "datavalue": {
+            "value": "C179133015",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1639378$3882001B-C323-4C73-8CF3-D8793026B1AC",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "e0b27d817c9a9b3247df341000fc490bafcba862",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4a4f26a5361b5707266e48e425bf2be2f99fd2ab",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 107507571,
+                      "id": "Q107507571"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "435834d08182bb9f3dbe974ba9840af0f12899cc",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-26T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a4a4bf53f22268815c51ec10fed608da703c9c7f",
+                  "datavalue": {
+                    "value": "https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P1065": [
+                {
+                  "snaktype": "value",
+                  "property": "P1065",
+                  "hash": "3134281f51e2490f88272d53c56ee95d9cc24e2c",
+                  "datavalue": {
+                    "value": "https://web.archive.org/web/20220125070108/https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P2960": [
+                {
+                  "snaktype": "value",
+                  "property": "P2960",
+                  "hash": "f7ff3a0de7f9571ecb5e0740cba4122c6703e1ec",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-25T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P854",
+              "P1065",
+              "P2960"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2347": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2347",
+          "hash": "6454ffd6d6fd095a1aee136de45c542bbe8a9ca1",
+          "datavalue": {
+            "value": "4494",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "97c2987f1dfc68b8a9c3047ff04501445a22b561",
+              "datavalue": {
+                "value": {
+                  "text": "social system",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "2b63b50c33d261f54f9905096cd6c279be965244",
+              "datavalue": {
+                "value": {
+                  "text": "sosiála vuogádat",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "53b344ad5f1e69c6f0436e1bb1ea07d830172978",
+              "datavalue": {
+                "value": {
+                  "text": "socialt system",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "a663ce9d1ca4ec529d086554345905d07d629745",
+              "datavalue": {
+                "value": {
+                  "text": "sosiaalinen järjestelmä",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q1639378$e842aa3f-4684-24b6-35ee-133c4fccef73",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "1490cfce30d19fdf8e74cb305d0a1da9cf7ea1cc",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "7133f11674741f52cadaae6029068fad9cbb52e3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 89345680,
+                      "id": "Q89345680"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "ea4f2e3cd3c400565520e87f93b74b2158d99221",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-03-30T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8189": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8189",
+          "hash": "a91901f90de5fde88a17e2b2b6b03c3753fdb81d",
+          "datavalue": {
+            "value": "987007551151005171",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "46d41b2fa95e4cd9eed3a0c4db9bd2e110f736f7",
+              "datavalue": {
+                "value": {
+                  "text": "Social systems",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "ceb492b0076c3bc0a5bfc3194ae063e12663aa90",
+              "datavalue": {
+                "value": {
+                  "text": "מערכות חברתיות",
+                  "language": "he"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "1ade2b3fb50606b748544df2fbc28a83f2bf1554",
+              "datavalue": {
+                "value": {
+                  "text": "الأنظمة الاجتماعية",
+                  "language": "ar"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q1639378$E9B76587-B13A-4DF7-B78D-76F3F566761B",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "ecb7a39cf436eb1fba419853af168ef9f2ba1dab",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a03bb6ffe37be9554492f4eea5bd18afcb57df19",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 106509962,
+                      "id": "Q106509962"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1382": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1382",
+          "hash": "b92c4db704bf794ac9ecb5f1bf978a481f1850dc",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 4430243,
+              "id": "Q4430243"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1639378$3e327027-449a-9ad5-ba7e-bc6de7464242",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1382",
+          "hash": "68ab81d996f98fd3cb0a98127a7aa80782e0f36d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1641112,
+              "id": "Q1641112"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1639378$f47b9899-4f04-7668-d0c0-b6352361c5a7",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1382",
+          "hash": "6b4121e76f853c77c01dbb2a803df5c481ba66c9",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7552762,
+              "id": "Q7552762"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1639378$d8bcd466-40bc-5aae-f1ac-e0f962db5583",
+        "rank": "normal"
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "9657314363f457b4d23bf3a05d9772196687b014",
+          "datavalue": {
+            "value": "ph125816",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "e930bac8d1007fa4e4f3e9104fbeda04b9eb755b",
+              "datavalue": {
+                "value": "sociální systémy",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1639378$E5ADD9F3-D5A7-4200-BF37-174EB51EA704",
+        "rank": "normal"
+      }
+    ],
+    "P527": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "b73ff3cef2576da5d7db87b93b61b154480ff1de",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 874405,
+              "id": "Q874405"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1639378$154f1dd4-40f7-703a-0988-6950989574b3",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "25e73c3b1a2e43851cdb5668d805ebd32b1e40d0",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 609298,
+              "id": "Q609298"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1639378$84ee492b-4faf-9b6e-8cdd-a8af97d3385d",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "309977df55e25b80d6e882cc2d143817eee8c62d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 178706,
+              "id": "Q178706"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1639378$db68ca2c-4750-2da7-7d4d-0e47afe55381",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "81caa325146b47310d4fac91b0d9b9ea270bbebd",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11042,
+              "id": "Q11042"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1639378$46641b18-4b8a-4589-1a26-7e9e34aa6e1c",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "f127c721de6bed607dfe567c699459e99fe6e597",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2478386,
+              "id": "Q2478386"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1639378$c43b0d3b-49fb-f246-44a7-5f69fa00a65d",
+        "rank": "normal"
+      }
+    ],
+    "P2579": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2579",
+          "hash": "5cf7f5c2a90e98a5739940e28d1b0e72a5d3a9ea",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 21201,
+              "id": "Q21201"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1639378$01cb80f3-4d09-22ef-ddb1-c38734fa833d",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2579",
+          "hash": "d87b22481cb839065106c3d7ab99e35fb4a9cabb",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 34749,
+              "id": "Q34749"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1639378$dca917d2-4c9f-abea-2392-53a5da66e197",
+        "rank": "normal"
+      }
+    ],
+    "P9497": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9497",
+          "hash": "e90913b22da479406ae853acb3f06735731c860b",
+          "datavalue": {
+            "value": "3904",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1639378$E584E474-548A-4C8F-B8E9-745B24CDE3EE",
+        "rank": "normal"
+      }
+    ],
+    "P1552": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1552",
+          "hash": "a5b29709d50979757c46631bd0f17016a537663d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 609298,
+              "id": "Q609298"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1639378$9e6d6788-4779-0c82-32e5-5a63ad6ede1f",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1552",
+          "hash": "1051a9b2fe5bfa7fc72322a34241199fff044670",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 211606,
+              "id": "Q211606"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1639378$29CF96F7-48FB-410D-A874-D8A217C7EB24",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1552",
+          "hash": "57aeea91a7ae30503630664647447235f9fbc3b4",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 205665,
+              "id": "Q205665"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1639378$9779ed6f-4ded-3a55-7215-ccbc10da3eb7",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1552",
+          "hash": "790d4bbb642f753a575d85818dd080bb931c7080",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 194417,
+              "id": "Q194417"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1639378$c91b0950-412d-681a-abac-2b01458dbf55",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1552",
+          "hash": "51aa220808db7b9916e898e503450c02f8803aa2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3738275,
+              "id": "Q3738275"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1639378$e2d0409d-4c94-e25e-4ad5-22dc89fd94bb",
+        "rank": "normal"
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "8bd866df446110e83a820b6be63ec2b4290342d6",
+          "datavalue": {
+            "value": "concept/0d6e7b35-8a1b-460d-a7cd-67892fe24924",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1639378$D1D39AB9-7BB8-4086-A1AA-4409AE41ECF6",
+        "rank": "normal"
+      }
+    ],
+    "P7666": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7666",
+          "hash": "29c4d5e5700aabefe0d6ca87f1d7f90a62476f1f",
+          "datavalue": {
+            "value": "socialine-sistema",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1639378$4ebeb21e-4538-49fd-c9e5-03dad8f32ec5",
+        "rank": "normal"
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "e205da6aceb5a62be61ca02a169e422d185170bf",
+          "datavalue": {
+            "value": "h0007137-socialni-systemy",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1639378$96A68299-9E89-4EAD-A60A-40128B575864",
+        "rank": "normal"
+      }
+    ],
+    "P950": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P950",
+          "hash": "24b8d00b777d444abef1fdfa954f2ce71bc7aa86",
+          "datavalue": {
+            "value": "XX532581",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1639378$61f4ee30-45ef-5cce-9c4e-ea793fa0d515",
+        "rank": "normal"
+      }
+    ]
+  }
+}

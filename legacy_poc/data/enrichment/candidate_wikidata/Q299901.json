@@ -1,0 +1,156 @@
+{
+  "type": "item",
+  "id": "Q299901",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Melo"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "멜로"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Wikimedia disambiguation page"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "위키미디어 동음이의어 문서"
+    }
+  },
+  "claims": {
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "0ebb78ffecd3415a2dbc8db900881ff784fead2a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 4167410,
+              "id": "Q4167410"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q299901$67127368-6452-41FC-8172-4DAE009E3370",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          },
+          {
+            "hash": "60cce5d0acf0cc060796196012001192a048d885",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "390e3b73e7cd926978cab220968d0e3451cfb814",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 199698,
+                      "id": "Q199698"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "59758dacec9df3ac1260776ca7fc4ac27538d348",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10328432,
+              "id": "Q10328432"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1013": [
+            {
+              "snaktype": "value",
+              "property": "P1013",
+              "hash": "94271bee1daecc0a84c7ff0e80a6f5e76c330944",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 27924673,
+                  "id": "Q27924673"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1013"
+        ],
+        "id": "Q299901$7BB95972-7E79-48F4-84BB-26A01982E640",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "b1bdbb8c7a4e998e9d684d06aa5aa90b941837e8",
+          "datavalue": {
+            "value": "Melo",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q299901$64810350-d0bd-4799-8997-4a1c85aea9ce",
+        "rank": "normal"
+      }
+    ]
+  }
+}

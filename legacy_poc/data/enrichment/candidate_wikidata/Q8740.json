@@ -1,0 +1,5074 @@
+{
+  "type": "item",
+  "id": "Q8740",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Vietnam War"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "베트남 전쟁"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "armed conflict in Vietnam, Laos, and Cambodia between North Vietnam and South Vietnam, from 1955 to 1975"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "1955년부터 1975년까지 동남아시아의 냉전 분쟁"
+    }
+  },
+  "claims": {
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "53b50972780e8fc8976d33a023bf4e95bc36620b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 864113,
+              "id": "Q864113"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$619c67ee-469d-39ff-ce1f-312f6576f248",
+        "rank": "normal"
+      }
+    ],
+    "P361": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P361",
+          "hash": "1a36266f6e456d009b86c0ec00fb7da9f4e7ad64",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8683,
+              "id": "Q8683"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$b1e4e1be-4e83-a736-1bab-7b780da034d1",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P361",
+          "hash": "cea46c76cbad25e1f8cbfd51a2e6306ae5018f3e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2342102,
+              "id": "Q2342102"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$5609B0A3-7D31-461E-B0C1-6578144F644B",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P580": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P580",
+          "hash": "4d2866d731af9649220b97173bd8b79c0e49918c",
+          "datavalue": {
+            "value": {
+              "time": "+1955-11-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "id": "Q8740$04C08CEB-C045-4F27-802A-74486DEBB580",
+        "rank": "normal"
+      }
+    ],
+    "P582": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P582",
+          "hash": "6de16e252e7f64ac28829e916c6c078da6007312",
+          "datavalue": {
+            "value": {
+              "time": "+1975-04-30T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "id": "Q8740$d030ac07-4a3e-a5c2-1f60-f56b7383f0c2",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "04f9eabd2ee6de5c28573b4aa98e8c41cd7d974a",
+          "datavalue": {
+            "value": "Vietnam War",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "q8740$3E812808-D459-4FCB-97FB-6462C3BA8D5B",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "b38258f51fc087924a31f4d914cb66e3acc4889c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6584901,
+              "id": "Q6584901"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$7BAACBC2-3552-49CE-96CC-47EFBA9C7566",
+        "rank": "normal"
+      }
+    ],
+    "P349": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P349",
+          "hash": "e9d810cd421ac842d45b8c84e2c58fba1dd4f6b3",
+          "datavalue": {
+            "value": "00560641",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$192C2DD7-A1C4-4D00-B2D1-93189DCE503B",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "7999fd9bbc629ee3d9bf141ed05e508c152ffc07",
+          "datavalue": {
+            "value": "/m/07_nf",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$F2819B18-60A5-4AF3-B52E-1E5D2A3261AC",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P227": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P227",
+          "hash": "c79dee72c138f31ec1a63b9ebfafeaa237b43b8f",
+          "datavalue": {
+            "value": "4063516-8",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$D9920879-78B3-4845-8BC7-5C62FEBCEA5E",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "b8720f61b53cf1b7681f992fb69921c869d48f79",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "3dce547213341f2343bceaf99782a0e78aa98f96",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1211233,
+                      "id": "Q1211233"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P244": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P244",
+          "hash": "fd6b6dd149afde69e8a68c15e349dba755a8235f",
+          "datavalue": {
+            "value": "sh85143277",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$D9AC5B16-1313-443F-BDB8-A03233353F55",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "3a9ae9bfa47ac44aa2d0bd982f57898883838b22",
+            "snaks": {
+              "P13388": [
+                {
+                  "snaktype": "value",
+                  "property": "P13388",
+                  "hash": "94c153063120daa6080cc7bc30997de2fed14a27",
+                  "datavalue": {
+                    "value": "isut275",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "077f749048025e52d493195f4cf603981f01810a",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 131863070,
+                      "id": "Q131863070"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "7d777e2c2d457dccb2c6d13aa1dd0f4fc464fa7e",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2025-03-16T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13388",
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1842": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1842",
+          "hash": "6b1d0b4ba20c3addc4510f748df0fd7dea1402fe",
+          "datavalue": {
+            "value": "Vietnam War (1954-85)",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$278AB5ED-DDFE-4432-861A-3A989DB448CD",
+        "rank": "normal"
+      }
+    ],
+    "P1296": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1296",
+          "hash": "d30f74a1626fb56f203febf0c57dbf182401e26b",
+          "datavalue": {
+            "value": "0070540",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$8925D239-2FFB-4C0E-8A27-EF7596332EC5",
+        "rank": "normal"
+      }
+    ],
+    "P268": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P268",
+          "hash": "927e54eb6a4194024a6f30f0ca013ffb64c9414f",
+          "datavalue": {
+            "value": "11937639v",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$d564cf09-40b3-1dee-070b-e26f90e7fdb6",
+        "rank": "normal"
+      }
+    ],
+    "P3221": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3221",
+          "hash": "6dba77e4fcf64bff3f65263846964b25b9327a48",
+          "datavalue": {
+            "value": "subject/vietnam-war",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$1A596C3C-6DB3-4F52-AC0A-34702C9BD2E5",
+        "rank": "normal"
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "4ad03cd55b2fa462f9e6ba1f45c2bd39586196a0",
+          "datavalue": {
+            "value": "Vietnam-War",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$C56BF34C-B5D6-493C-98E7-E4D3F2AF4BBC",
+        "rank": "normal"
+      }
+    ],
+    "P1120": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1120",
+          "hash": "491bbbbccac83e2680a4b2cf46b199e662fcbba3",
+          "datavalue": {
+            "value": {
+              "amount": "+1291426",
+              "unit": "1"
+            },
+            "type": "quantity"
+          },
+          "datatype": "quantity"
+        },
+        "type": "statement",
+        "id": "Q8740$faab0af5-4c5b-523a-1d67-9ce6f31f2d99",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1120",
+          "hash": "c0df180732b103031ca3da040cb77e129df38d14",
+          "datavalue": {
+            "value": {
+              "amount": "+4211459",
+              "unit": "1"
+            },
+            "type": "quantity"
+          },
+          "datatype": "quantity"
+        },
+        "type": "statement",
+        "id": "Q8740$ac5598b4-4925-3a23-9306-f17816bf5b6e",
+        "rank": "normal"
+      }
+    ],
+    "P3612": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3612",
+          "hash": "0de974a0ee6fc732ab1305896418da888d1ed1c7",
+          "datavalue": {
+            "value": "sujet/guerreduvietnam",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$DCD75137-2987-414D-B679-4339D6ADD094",
+        "rank": "normal"
+      }
+    ],
+    "P710": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "e22bbcebb9a15f6644227d72f2772f0021ae017f",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 180573,
+              "id": "Q180573"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$66fa5fd5-4c13-37d9-cb44-425f7cbb10be",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "d1d940bcd9c9d8aae87fc6a9355e7b56a21e0822",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 30,
+              "id": "Q30"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$5fc977e4-46ed-4b05-6d49-82b8fc08e9f2",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fc165f7ae0068551236ac69e5e7eaa893c189704",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a6b712cd339f20ce071610fa587a309b3c84cae0",
+                  "datavalue": {
+                    "value": "https://www.britannica.com/event/Vietnam-War",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "9ec851edf402381066d6731d683da3550392da96",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-06T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "32540fac03947238ed7d6c3e361ca92fd894b08a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 884,
+              "id": "Q884"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$ef9be447-46d8-e0f5-23ec-173fcb1855a7",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "2912caf810fd09752f8a2da8bcd943ecd09ed835",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 869,
+              "id": "Q869"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$5fb4f1de-4db7-0951-bb42-e9f215756042",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "33187f8957b074ac9a5f24cd8bbc0cbc739035e5",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 928,
+              "id": "Q928"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$97e52ab0-4855-c72a-1fc3-6714625640db",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "28ff0c0e5f58e813b26f1a98caab19171db54fa3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 664,
+              "id": "Q664"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$74ed36a7-4f8b-2569-23af-035b250c788a",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "5273afc06fd02a6626b03ea3fc6ceda0588b9506",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1054184,
+              "id": "Q1054184"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$e27400b4-424f-edf9-47d6-dfb2a5c4fb3b",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "2c872af2ee97b800b743bbf723e58f851a9499b5",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 870055,
+              "id": "Q870055"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$5707ec69-4956-b62f-6587-9dc4abcdecd9",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "0b41ef10c3632da8a1bb7aeda5f3322a12385994",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 172640,
+              "id": "Q172640"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$7be4c036-46ca-8a96-8904-55890b5c65dc",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "f4a596eeabd2d27ce3f44533808737f1a31b1d96",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 174423,
+              "id": "Q174423"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$e2d8468e-4bb0-407c-e54b-aec60fce4608",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fc165f7ae0068551236ac69e5e7eaa893c189704",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a6b712cd339f20ce071610fa587a309b3c84cae0",
+                  "datavalue": {
+                    "value": "https://www.britannica.com/event/Vietnam-War",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "9ec851edf402381066d6731d683da3550392da96",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-06T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "fefdc0a8ce2b6ce4b6d5468f47d748dc483c0efa",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 191764,
+              "id": "Q191764"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$78180630-40b5-9df0-f6e8-4cd5975d55d2",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "38d9c690e676ce3de46e0cf544ef7794f93b8ce7",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 858887,
+              "id": "Q858887"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$5b329397-4d6c-93a9-ce63-96e6dbca3a14",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "91d2a039ac8a0e77704dd6d1ff32b8473dd8680a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 148,
+              "id": "Q148"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$866f8384-4edd-2982-d0f2-c5858c102994",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "420abe0ecc3be831042aee6cceaedabce795e34c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 423,
+              "id": "Q423"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$3a5b4b64-4f2f-2530-902b-e395d88eef78",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "bfc3a73b0b1198c1b3f9acd0c620027524264a0b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 221066,
+              "id": "Q221066"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$1dcf3ffe-46ef-431d-285e-6255c1798465",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "bc9b49eb6b76abb362c28de4b8064bb880f10c6a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2638486,
+              "id": "Q2638486"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$baf815a3-43f1-f5da-b8f7-1123497ee2d4",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "88fbba6506e8ab7e655f16e2efd0b9bf81c49ced",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 408,
+              "id": "Q408"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$968eeeb9-4b12-fcbe-b3cf-84573eb65690",
+        "rank": "normal"
+      }
+    ],
+    "P508": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P508",
+          "hash": "2615fd49527c58da046a15f2dfac676fe7c019f5",
+          "datavalue": {
+            "value": "17249",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$1051b37e-4506-ad98-dadf-d7542641e65a",
+        "rank": "normal"
+      }
+    ],
+    "P4073": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4073",
+          "hash": "ab38d58929c32a13a4bd06b8a356eb7647cee5bb",
+          "datavalue": {
+            "value": "vietnamwar",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1860,
+                  "id": "Q1860"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "id": "Q8740$E0EC2328-1549-483A-A576-B55E82F9EA60",
+        "rank": "normal"
+      }
+    ],
+    "P1225": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1225",
+          "hash": "6b215ce7a96f367c41fea99547e43f2f349b67f8",
+          "datavalue": {
+            "value": "10643608",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$62DAA945-4BCA-4205-BB40-984E68F29A45",
+        "rank": "normal"
+      }
+    ],
+    "P2581": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2581",
+          "hash": "882adef751041e18c6565cb68d3fcd63835f6a5d",
+          "datavalue": {
+            "value": "00079982n",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$AB63D7EF-B5C4-4FCC-B4FE-3FA1DFE8104C",
+        "rank": "normal"
+      }
+    ],
+    "P3219": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3219",
+          "hash": "7a92d03e80e2b0c7c79c0bcceeb101298f00415f",
+          "datavalue": {
+            "value": "vietnam-reperes-chronologiques",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$E96569F5-CA19-438F-AEFD-B1C14F6CB498",
+        "rank": "normal"
+      }
+    ],
+    "P5008": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5008",
+          "hash": "d8037e40c3d12c404489a97a78937213939ff1cd",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5460604,
+              "id": "Q5460604"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$13F0F81A-6CCE-44AA-B464-6B04300B1855",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5008",
+          "hash": "136e3fbe19158e73e4bfebf3f2d98a9df8638b7e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6173448,
+              "id": "Q6173448"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P585": [
+            {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "7661f66dd5b82a1ea92515ddb16c09ce3088edea",
+              "datavalue": {
+                "value": {
+                  "time": "+2022-10-31T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P585"
+        ],
+        "id": "Q8740$1A24369C-9419-48F2-A78E-52C1C6FE11A1",
+        "rank": "normal"
+      }
+    ],
+    "P5125": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5125",
+          "hash": "cc4d3e007bf86af11ceb5b91f85dcb115083ea8d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8192852,
+              "id": "Q8192852"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$CBDFCA87-A7B5-4023-B508-CE897FDD30E3",
+        "rank": "normal"
+      }
+    ],
+    "P4342": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4342",
+          "hash": "34b2c368f74d67ce733afe5f7ee1bb88a35b64bc",
+          "datavalue": {
+            "value": "Vietnamkrigen",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4390": [
+            {
+              "snaktype": "value",
+              "property": "P4390",
+              "hash": "1a4df62914ea9afca349bd5fb5d8efd5832d83fa",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 39893449,
+                  "id": "Q39893449"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4390"
+        ],
+        "id": "Q8740$2E1BD011-C26B-470B-806D-2E56F6D516A7",
+        "rank": "normal"
+      }
+    ],
+    "P527": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "94f173964f15554c21b86364ec7218625385d3f6",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 280468,
+              "id": "Q280468"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$979d5f8d-457f-ebb5-77ca-72062e63a121",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "51098e62a72cd8289e7d620920e74a592db86430",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6753335,
+              "id": "Q6753335"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$6f7e50db-49b2-e719-2c20-b1f376881307",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "8f314efcdd34fbd060361ec2de440d92b7dae2e5",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 82542,
+              "id": "Q82542"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$7bb85e4f-4f29-e4c3-3c8f-eacbf60cee51",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "53d8cd4a123dc03c9cc1b6c94865f1bb1a4fb37a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5254589,
+              "id": "Q5254589"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$097a1682-4b5f-8367-9390-f970bd24ab2b",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "dd6accc1a04d0634b558ab7d68ef5fab2bef6f89",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10829784,
+              "id": "Q10829784"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$75388E43-5582-474C-B975-4B5A470E6D8F",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "ac962e80956d262789cca7df4ec81d35260dc614",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 85790887,
+              "id": "Q85790887"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$2EC62B74-BA61-4982-B115-AA25AD8E4C40",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "d641afe842283072869c562bc5d08c80c285807b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 17651565,
+              "id": "Q17651565"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$DFDA49A9-AC05-4AD3-8BBF-BD340B1B8378",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "72badc37e2c340bc9e5c54afe0e1c6c0a7955914",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 183421,
+              "id": "Q183421"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$DD61BAAA-5E66-4509-9CAF-235F9B39DBB5",
+        "rank": "normal"
+      }
+    ],
+    "P1417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1417",
+          "hash": "6df4fe3424a6327b3669eef21f37edb50ad74b1e",
+          "datavalue": {
+            "value": "event/Vietnam-War",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "a6b47bc91209c252ccd841f47a22e93810066070",
+              "datavalue": {
+                "value": "Vietnam War",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P2093": [
+            {
+              "snaktype": "value",
+              "property": "P2093",
+              "hash": "f087ae5674f59ddfc4f6b2908b606fb5e4ad2aa4",
+              "datavalue": {
+                "value": "Ronald H. Spector",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P2093"
+        ],
+        "id": "Q8740$1CE04498-9AE5-4BDD-A7F5-269F954B5950",
+        "rank": "normal"
+      }
+    ],
+    "P486": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P486",
+          "hash": "ceef8340318b43f35c93b3e0936b668d210799c7",
+          "datavalue": {
+            "value": "D047829",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "e75ec7dad96a57ed6d4520aba3aeb55a66888ba9",
+              "datavalue": {
+                "value": "Vietnam Conflict",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q8740$01B49711-60FC-4E79-8647-31D9283EDFC2",
+        "rank": "normal"
+      }
+    ],
+    "P5019": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5019",
+          "hash": "1fbdd498659af312eebacac95f5a6a9f249cff3d",
+          "datavalue": {
+            "value": "vietnamkrieg",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$a1ccca4e-41f6-3648-fc3f-5ff3d0bd7a2b",
+        "rank": "normal"
+      }
+    ],
+    "P2924": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2924",
+          "hash": "83b1c47d7be3e7d9a1c39ff01c2de31a5eb352c7",
+          "datavalue": {
+            "value": "2380343",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "2617ff63312c339ee58fbb89b71226b55dfefb2d",
+              "datavalue": {
+                "value": "«ВЬЕТНАМСКАЯ ВОЙНА»",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q8740$753EC005-7311-495F-BE60-B79B58B1B900",
+        "rank": "normal"
+      }
+    ],
+    "P276": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P276",
+          "hash": "d9aab80950a3ab6241046f43f72df5423b475a63",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 819,
+              "id": "Q819"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$6d5d2672-4bd8-07d9-e5c5-6b24954be90a",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P276",
+          "hash": "0d413eb443e95a6ab26f0cf926cc5a5ed78f6534",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 424,
+              "id": "Q424"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$669171e5-4e0f-ddf8-2223-d4b225e7d8a1",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P276",
+          "hash": "862bd6fc99b9c63f3e874dc9f73f5c64fddbbdc6",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 881,
+              "id": "Q881"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$81b02bc4-4349-fc4a-fc50-714535b3f61c",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fc165f7ae0068551236ac69e5e7eaa893c189704",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a6b712cd339f20ce071610fa587a309b3c84cae0",
+                  "datavalue": {
+                    "value": "https://www.britannica.com/event/Vietnam-War",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "9ec851edf402381066d6731d683da3550392da96",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-06T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P276",
+          "hash": "7b9c36fc69c519cba4d60825e73db36138c9eb63",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 180573,
+              "id": "Q180573"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$2d586195-47d2-3265-1345-64ab959e2d02",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "08695a1cf592e74943d227d4be6bd7141f6e482a",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "4a713f1b9c73c024784e593b0da93f2244c86d3f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 58251,
+                      "id": "Q58251"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "19eb55385fc4cb25ba6e147b855bf155ae7c51f6",
+                  "datavalue": {
+                    "value": "https://az.wikipedia.org/?oldid=8890978",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P276",
+          "hash": "270268ffc2590401004d447edd08faef6d22d8ac",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 172640,
+              "id": "Q172640"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$16f8dd4c-4237-0c0e-f782-6181037aa084",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "08695a1cf592e74943d227d4be6bd7141f6e482a",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "4a713f1b9c73c024784e593b0da93f2244c86d3f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 58251,
+                      "id": "Q58251"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "19eb55385fc4cb25ba6e147b855bf155ae7c51f6",
+                  "datavalue": {
+                    "value": "https://az.wikipedia.org/?oldid=8890978",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P276",
+          "hash": "63656ebc4f3794167b468649cc5665271515f4f9",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 37660,
+              "id": "Q37660"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$25d21d7a-4d6e-e647-2d44-b7745bc86e86",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "08695a1cf592e74943d227d4be6bd7141f6e482a",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "4a713f1b9c73c024784e593b0da93f2244c86d3f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 58251,
+                      "id": "Q58251"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "19eb55385fc4cb25ba6e147b855bf155ae7c51f6",
+                  "datavalue": {
+                    "value": "https://az.wikipedia.org/?oldid=8890978",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P276",
+          "hash": "d5dfc34f3bef11cb4cf2b7664a0e367f55aaa100",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 131217,
+              "id": "Q131217"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$1d89fde5-4f10-74ab-0e9f-839b1e6f59d5",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "08695a1cf592e74943d227d4be6bd7141f6e482a",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "4a713f1b9c73c024784e593b0da93f2244c86d3f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 58251,
+                      "id": "Q58251"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "19eb55385fc4cb25ba6e147b855bf155ae7c51f6",
+                  "datavalue": {
+                    "value": "https://az.wikipedia.org/?oldid=8890978",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "a913d3ee99c0b6ead53198e629f3b9f391de71cf",
+          "datavalue": {
+            "value": "ph127100",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "bbfd908d2b581103f1a32aa3aea15fb86d570725",
+              "datavalue": {
+                "value": "vietnamská válka (1961-1975)",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q8740$dbc3a483-417d-6088-2e31-319ad872844b",
+        "rank": "normal"
+      }
+    ],
+    "P3222": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3222",
+          "hash": "a89d7751ebbfd87ac069e5e73fd998488ca5368f",
+          "datavalue": {
+            "value": "vietnamkriget",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$46DA1436-3DED-4B7E-99EB-B7458A061A49",
+        "rank": "normal"
+      }
+    ],
+    "P5905": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5905",
+          "hash": "6085941ea92271849a8fe8af7eadd066c71dc6b6",
+          "datavalue": {
+            "value": "4015-56024",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$96861398-073B-467A-987A-B1A0224D8B37",
+        "rank": "normal"
+      }
+    ],
+    "P6713": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6713",
+          "hash": "9914bc217cb04f8dbec19abf0fd88d591b134e77",
+          "datavalue": {
+            "value": "CN28",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$549F7D72-56D1-4E43-A48A-D6807AAB8A64",
+        "rank": "normal"
+      }
+    ],
+    "P5986": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5986",
+          "hash": "2a68ca0162e960f9284d669bf8f68c51c59bc4f4",
+          "datavalue": {
+            "value": "901000043",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$456F8EF6-2B69-4F8B-BCA5-19D3FB2740AE",
+        "rank": "normal"
+      }
+    ],
+    "P2716": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2716",
+          "hash": "3da88984c98ec331074e0b6cc8db221a6cfaf0e8",
+          "datavalue": {
+            "value": "VietnamMural.jpg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2096": [
+            {
+              "snaktype": "value",
+              "property": "P2096",
+              "hash": "014a7f5b656af160e684891ee0ed54aaafe026c4",
+              "datavalue": {
+                "value": {
+                  "text": "'''Зверху злева па гадзінны стрэлцы:''' марскія пехацінцы ЗША падчас [[Тэцкае наступленне (1968)|Тэцкага наступлення]]; пагрузка амерыканскіх салдат у верталёты, аперацыя Wahiawa, май 1966 года; спаленне базавага лагера партызан НФВПВ у ваколіцах [[Мітхо]], 1968 год; расстраляныя амерыканскімі салдатамі мірныя жыхары ў [[Масавае забойства ў Сангмі|Сангмі]], сакавік 1968 года.",
+                  "language": "be"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2096"
+        ],
+        "id": "Q8740$3e8efb49-4b04-7e8d-24c4-8611b3d43ec6",
+        "rank": "normal"
+      }
+    ],
+    "P4527": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4527",
+          "hash": "c2ae4f17beee0aed4fa118d3c739af46c277ec1f",
+          "datavalue": {
+            "value": "13616",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "a6b47bc91209c252ccd841f47a22e93810066070",
+              "datavalue": {
+                "value": "Vietnam War",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q8740$05BC4C91-6317-4F7E-9B4B-CCD8419E2F50",
+        "rank": "normal"
+      }
+    ],
+    "P7695": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7695",
+          "hash": "00ec2032f7069143feac893e67b2c5b456c7a2c6",
+          "datavalue": {
+            "value": "869",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$16C62979-E2A1-43B6-9A70-1507E447C61B",
+        "rank": "normal"
+      }
+    ],
+    "P7688": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7688",
+          "hash": "7a3ad2b164816c3661e5ae23e614b19d51d2f6f3",
+          "datavalue": {
+            "value": "vietnam-war",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$EF383F4A-51F2-4B2B-928C-CCE3D459C6E5",
+        "rank": "normal"
+      }
+    ],
+    "P7644": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7644",
+          "hash": "aac374bbb07ad236733db73d5402938ed4901dba",
+          "datavalue": {
+            "value": "v/vietnam-war",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$4924D1DE-8F52-419B-A469-BE4D1B79647C",
+        "rank": "normal"
+      }
+    ],
+    "P6366": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6366",
+          "hash": "c2cac08f0dd32a2cd8d05b777190bd40b15344ba",
+          "datavalue": {
+            "value": "54589662",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$03F11E6F-5A62-4445-92F9-928D0226FFB2",
+        "rank": "normal"
+      }
+    ],
+    "P7952": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7952",
+          "hash": "031c49e82d96e7e92616b553ec6f5eb31303ae65",
+          "datavalue": {
+            "value": "1101",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$34FCF04F-9C66-438C-A451-1DB0B6E49A93",
+        "rank": "normal"
+      }
+    ],
+    "P2347": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2347",
+          "hash": "f9f130bef02157f592154842a523362a9f36f576",
+          "datavalue": {
+            "value": "18334",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "4522fe0b29586369842d8379835d45cf4c464997",
+              "datavalue": {
+                "value": {
+                  "text": "Vietnam War",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "e09e360fcf1ef6accb141ef10f7cbb76b3ef124c",
+              "datavalue": {
+                "value": {
+                  "text": "Vietnamin sota",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "552eda981c5d303618799110670faa2172d4e410",
+              "datavalue": {
+                "value": {
+                  "text": "Vietnam soahti",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "4fa9842171d485ba310869d14531967dc96921f3",
+              "datavalue": {
+                "value": {
+                  "text": "Vietnamkriget",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P14458": [
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "912ec24eaed693b225d9427939126914d8a41803",
+              "datavalue": {
+                "value": {
+                  "text": "andra Indokinakriget",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "91a6ac749da2af73b93207a81b5b83e4d1447e07",
+              "datavalue": {
+                "value": {
+                  "text": "Second Indochina War",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "ae3dc2fce3407c7dcc37112075919d1c7e525885",
+              "datavalue": {
+                "value": {
+                  "text": "toinen Indokiinan sota",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457",
+          "P14458"
+        ],
+        "id": "Q8740$F5D1962B-7C06-4DB7-9AE9-3E451506E0BA",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "f9bf1a1f034ddd51bd9928ac535e0f57d748e2cf",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "7133f11674741f52cadaae6029068fad9cbb52e3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 89345680,
+                      "id": "Q89345680"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "3cf9b5a550d2f4f02c08647c72e92e5b8ecf073b",
+          "datavalue": {
+            "value": "VietnamWar",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$07BBD3A1-AB3C-4A53-8D2F-FF12E44C5BED",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P5063": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5063",
+          "hash": "fe794cfc4e8dd50f0dba5d15e6bd3b2fd5e4dde1",
+          "datavalue": {
+            "value": "i42237",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$A26B535A-B8D7-497A-A1B7-033E6AF47658",
+        "rank": "normal"
+      }
+    ],
+    "P8814": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8814",
+          "hash": "69c94e16d79d0b11d0d5785594e1b1cfb9277e82",
+          "datavalue": {
+            "value": "01312298-n",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$8C2EAFBD-3339-4247-AC5B-889A4E1F4173",
+        "rank": "normal"
+      }
+    ],
+    "P9281": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9281",
+          "hash": "02944c148a19663992f24923728d61c04957f00c",
+          "datavalue": {
+            "value": "vietnam-war",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$5F9DA2B1-EE73-4175-8A1C-361FE9CD7F44",
+        "rank": "normal"
+      }
+    ],
+    "P950": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P950",
+          "hash": "5f9892feb1660f1b9e5baeb87b3c21c3a9e1d13f",
+          "datavalue": {
+            "value": "XX527896",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "db25d5a6620157c6729ef68c900b6ff771f44070",
+              "datavalue": {
+                "value": "Guerra del Vietnam, 1961-1975",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q8740$cb2cde8e-0bc4-4589-a747-d6c3ed5eecc9",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d0192bbfe49a002d91b9a9f7ff6cb4723b76a039",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3b090a7bae73c288393b2c8b9846cc7ed9a58f91",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 16583225,
+                      "id": "Q16583225"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "189cccf0543c5e88c8cc582b15fd86ede59678e8",
+                  "datavalue": {
+                    "value": "https://thes.bncf.firenze.sbn.it/termine.php?id=17249",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "09605b06f747dbbaf6e1418b14bc02970b818f18",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-06-14T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854",
+              "P813"
+            ]
+          },
+          {
+            "hash": "07f90256001fbeba7ca2adb8df51d89d150f8f67",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "f0094b041fc8f052ea2ba8614aa130e4dc59ce99",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 97285695,
+                      "id": "Q97285695"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1476": [
+                {
+                  "snaktype": "value",
+                  "property": "P1476",
+                  "hash": "f5749e3a8641338fde01fd5b48823d07ffd4929f",
+                  "datavalue": {
+                    "value": {
+                      "text": "Registros de autoridad de \"Materia\" de la Biblioteca Nacional de España",
+                      "language": "es"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "68cb1f2679543f92423b7cbadc891a595dbdba89",
+                  "datavalue": {
+                    "value": "https://www.bne.es/media/datosgob/catalogo-autoridades/materia/materia-UTF8.zip",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "11f94d433f27563cf0d9161bfc4a8dd9ec756612",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2023-07-21T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1476",
+              "P854",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3553": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3553",
+          "hash": "df3c3cf6887fb47943d73af70c5ae2b4ae3dc376",
+          "datavalue": {
+            "value": "19575811",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "8c99ff7b527292797cf50e45022f349aed59b66a",
+              "datavalue": {
+                "value": "越南战争",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q8740$16BF6D30-5A70-4E66-979E-25A9AFBE0093",
+        "rank": "normal"
+      }
+    ],
+    "P1424": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1424",
+          "hash": "0d8cdd2495a4c02d6fb51c3ac2e820840b51598e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8085558,
+              "id": "Q8085558"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$43bc0a5b-acb6-4aa9-99ac-1d8c4962e002",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "49f365d35ae02a04b2d5f04d1872802f6ee5dbc0",
+            "snaks": {
+              "P3452": [
+                {
+                  "snaktype": "value",
+                  "property": "P3452",
+                  "hash": "11d0c25cf79c7ba34a60717cf6eeddf6e7583ce2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 8085558,
+                      "id": "Q8085558"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P3452"
+            ]
+          }
+        ]
+      }
+    ],
+    "P6385": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6385",
+          "hash": "9694bbc1494de6f79a0421bbc1845f8c2e465aee",
+          "datavalue": {
+            "value": "istoriya/VETNAMSKAYA_VONA.html",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$2803f77f-4669-4201-3492-55aece27c798",
+        "rank": "normal"
+      }
+    ],
+    "P8189": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8189",
+          "hash": "247ff6757a5c3f177f6cbfbf18986f5708bcbef7",
+          "datavalue": {
+            "value": "987007538904905171",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "5992e0fd6250fb61830f93d047c8b8fd1b607d85",
+              "datavalue": {
+                "value": {
+                  "text": "Vietnam War, 1961-1975",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "ecaa86bdf2b14fc40370a9b3bd702037bbbe249d",
+              "datavalue": {
+                "value": {
+                  "text": "מלחמת וייטנאם, 1961-1975",
+                  "language": "he"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "8a10fbdf889489980ee930804b84834d9a1dae7a",
+              "datavalue": {
+                "value": {
+                  "text": "حرب فيتنام، 1961-1975",
+                  "language": "ar"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q8740$4D603809-D6DF-4B4A-A602-6AAB88FB07BA",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c8a47202c92936005b390eb36ddd267921b51f43",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "0ea73b3596b49258a7b7ec6495950779b99e875d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188915,
+                      "id": "Q188915"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P10283": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10283",
+          "hash": "1d3be7e660cc69ef874918d260ee7c82bad09007",
+          "datavalue": {
+            "value": "C54589662",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$200941A3-0B56-44D4-8B0E-065967610FAA",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c13ba4d7902ead2693f79396bc25bd35d4d14030",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4a4f26a5361b5707266e48e425bf2be2f99fd2ab",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 107507571,
+                      "id": "Q107507571"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "435834d08182bb9f3dbe974ba9840af0f12899cc",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-26T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a4a4bf53f22268815c51ec10fed608da703c9c7f",
+                  "datavalue": {
+                    "value": "https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8313": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8313",
+          "hash": "b17a0f18acedf56e82a3f17d6ae8fff8beb43dde",
+          "datavalue": {
+            "value": "Vietnamkrigen",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$961D82F4-3D83-4F44-8C26-9FB1DE1EA454",
+        "rank": "normal"
+      }
+    ],
+    "P10": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10",
+          "hash": "3ba36ad7ad71728091b4a558d5fe6003331820c3",
+          "datavalue": {
+            "value": "1965-02-08 Showdown in Vietnam.ogv",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q8740$45B107F6-BE51-4236-88A3-0E410E0E22E2",
+        "rank": "normal"
+      }
+    ],
+    "P460": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P460",
+          "hash": "82605194a346e8000b76186aecd4f3ecf800547f",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 4127808,
+              "id": "Q4127808"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$5b357487-48c0-23e2-9423-08635f0ca94f",
+        "rank": "normal"
+      }
+    ],
+    "P10913": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10913",
+          "hash": "e92cfbf185cda4ad6b2bab849bacbec372c618e0",
+          "datavalue": {
+            "value": "f8/mt805/7007/18317",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "c10ebdd70f1a9fd9a9570d9ccfc1f4767be233b3",
+              "datavalue": {
+                "value": "Vietnam War (1945-1975)",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q8740$7024C123-0FB9-4597-A1F6-B2BB1950B348",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "125f5c80b5c55af4416e0ff1e2af8348ef4fcd4e",
+            "snaks": {
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "94a9d74d5e15edf6d20d20383de5ed56c5419fb8",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-08-23T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P156": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P156",
+          "hash": "ffd5bb9952b60cb66f58843da8737d6f51193833",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 16481442,
+              "id": "Q16481442"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$af323732-4230-b2ae-435c-80d5f827d95d",
+        "rank": "normal"
+      }
+    ],
+    "P1617": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1617",
+          "hash": "8917ba6015fd377e3f9c32bd95a3189846102928",
+          "datavalue": {
+            "value": "c5d502cb-f315-4154-ba7f-78adc4bef808",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$78204fca-1679-4714-97e8-5becf6a9f0f3",
+        "rank": "normal"
+      }
+    ],
+    "P6200": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6200",
+          "hash": "a40eb994575f7ecaa959666a59473a77a67f5efd",
+          "datavalue": {
+            "value": "cyyk3v0xwlnt",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$931439a2-ecaf-4d73-a203-ce1a994fb656",
+        "rank": "normal"
+      }
+    ],
+    "P2892": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2892",
+          "hash": "d6c7777cc85b808fc2fa53ee8664f58552943f99",
+          "datavalue": {
+            "value": "C1449760",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$9FCA1B87-21B0-4F9C-84D1-7963F2740AD4",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "84a86b2096ce3b54ac349f67a0f238e8ed0be477",
+            "snaks": {
+              "P887": [
+                {
+                  "snaktype": "value",
+                  "property": "P887",
+                  "hash": "0f284e521850e663d708d293bf3ecf0e36528c45",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 118645058,
+                      "id": "Q118645058"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "0dffc9c217cd4550d6e1be4e56268ece7068efc2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 118645236,
+                      "id": "Q118645236"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "933ad62150a32ca0e9449cef21f75a79d5634988",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2023-05-25T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P887",
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P6900": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6900",
+          "hash": "03acb20b26d696bca1494f1fb21654a7f70f8943",
+          "datavalue": {
+            "value": "ベトナム戦争",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$cf6109f5-4472-8853-1bfd-9fb28515d8ec",
+        "rank": "normal"
+      }
+    ],
+    "P12086": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12086",
+          "hash": "95ef6a30e03f354a8db55e5ed7690bf126b7fdfb",
+          "datavalue": {
+            "value": "Vietnamoorlog",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P9675": [
+            {
+              "snaktype": "value",
+              "property": "P9675",
+              "hash": "8fef865473554e744466b11832667d467d2d9543",
+              "datavalue": {
+                "value": "67009",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P9675"
+        ],
+        "id": "Q8740$05DCE644-F426-498F-842C-2AE8260DFB4E",
+        "rank": "normal"
+      }
+    ],
+    "P6058": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6058",
+          "hash": "d39bcf54e7da276505837504133b70262ebfd024",
+          "datavalue": {
+            "value": "divers/wd/148881",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$1748fab4-4aeb-464b-72c4-40ccd20a9012",
+        "rank": "normal"
+      }
+    ],
+    "P12385": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12385",
+          "hash": "addcf1dc7a3a05cfff25002189b0130970be00fb",
+          "datavalue": {
+            "value": "guerra-del-vietnam",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$758b1b48-3f2a-4869-bb97-cb8ce333271a",
+        "rank": "normal"
+      }
+    ],
+    "P12596": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12596",
+          "hash": "2f3269aa91b11adaa95b0c42789ded2bedee9f15",
+          "datavalue": {
+            "value": "3446",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$363F3110-3BB0-402A-829B-EAA8F86304C9",
+        "rank": "normal"
+      }
+    ],
+    "P672": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P672",
+          "hash": "db05ea97f6b128fc403c01a883795b5291dbedfb",
+          "datavalue": {
+            "value": "I01.880.735.950.250.937",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4900": [
+            {
+              "snaktype": "value",
+              "property": "P4900",
+              "hash": "072a2d0b2adb7797ddc48ec468fd7d6f878923b2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 350604,
+                  "id": "Q350604"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4900"
+        ],
+        "id": "Q8740$f4abafa7-4209-4cee-e700-ffaf860c2f27",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P672",
+          "hash": "ff4161c3c93fa3baa399fbd35904d536d7575957",
+          "datavalue": {
+            "value": "K01.400.504.968.850",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4900": [
+            {
+              "snaktype": "value",
+              "property": "P4900",
+              "hash": "4f3e17532c1f4c3634f06c7cef6a9d4ecc36365c",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 6927,
+                  "id": "Q6927"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4900"
+        ],
+        "id": "Q8740$b069d275-4122-4357-ee79-32ee94acfb7d",
+        "rank": "normal"
+      }
+    ],
+    "P12800": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12800",
+          "hash": "93da6ddf2bf610256d378995862b6a3358d554ab",
+          "datavalue": {
+            "value": "fr:Guerre_du_Viêt_Nam",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$A29FEE3A-9915-4808-88AA-A9823E609A14",
+        "rank": "normal"
+      }
+    ],
+    "P9497": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9497",
+          "hash": "45890359488944ed6e5813cffb605586641ac3f8",
+          "datavalue": {
+            "value": "2474",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$39732323-FA50-4A73-86D3-9BD0694C8088",
+        "rank": "normal"
+      }
+    ],
+    "P18": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "f1935c116b85ffd377675e4a052852818a4be70b",
+          "datavalue": {
+            "value": "VietnamMural.jpg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q8740$8f686413-4acb-2be0-4641-c4f38017388f",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "69170f73bdca59fb25cc64831c74336593b6f5c7",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 206855,
+                      "id": "Q206855"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "674a2be0c614077afa94eb97611360ebf73702a3",
+                  "datavalue": {
+                    "value": "https://ru.wikipedia.org/?oldid=139649658",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P4220": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4220",
+          "hash": "edf732ef4099c3a305d7332746f27371b9151ffa",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 21005872,
+              "id": "Q21005872"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$3a87d87c-438f-838d-aca4-0a4f791c3d38",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4220",
+          "hash": "9fd95ffd51e0521a40a81e02c42436ff90782a49",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 12598128,
+              "id": "Q12598128"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$a0429216-451e-166c-8557-14fd9e7d44a0",
+        "rank": "normal"
+      }
+    ],
+    "P443": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P443",
+          "hash": "83540e7d895d29587c728018e11e172674d2cca4",
+          "datavalue": {
+            "value": "De-Vietnamkrieg.ogg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 188,
+                  "id": "Q188"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P898": [
+            {
+              "snaktype": "value",
+              "property": "P898",
+              "hash": "7e6a0ba7f9a8f22a04ad504eb615ef5c51fc8e16",
+              "datavalue": {
+                "value": "vi̯ɛtˈnamˌkʁiːk",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407",
+          "P898"
+        ],
+        "id": "Q8740$c6359fb8-4e45-57cb-5adb-3756802a15ce",
+        "rank": "normal"
+      }
+    ],
+    "P9346": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9346",
+          "hash": "7c7bb8ed56de8dfa46ad8118f00ce3eb5630a1ba",
+          "datavalue": {
+            "value": "guerre-du-vietnam",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$B1E182C6-CE4A-4800-92FA-D1FA2264752F",
+        "rank": "normal"
+      }
+    ],
+    "P13388": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13388",
+          "hash": "94c153063120daa6080cc7bc30997de2fed14a27",
+          "datavalue": {
+            "value": "isut275",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "b39e02499064d1cb30fcdb627b073d049945ab09",
+              "datavalue": {
+                "value": "Vietnam War, 1961-1975",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q8740$5C8D42EE-5AA3-4AF0-9954-711D1836CA6F",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "3a9ae9bfa47ac44aa2d0bd982f57898883838b22",
+            "snaks": {
+              "P13388": [
+                {
+                  "snaktype": "value",
+                  "property": "P13388",
+                  "hash": "94c153063120daa6080cc7bc30997de2fed14a27",
+                  "datavalue": {
+                    "value": "isut275",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "077f749048025e52d493195f4cf603981f01810a",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 131863070,
+                      "id": "Q131863070"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "7d777e2c2d457dccb2c6d13aa1dd0f4fc464fa7e",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2025-03-16T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P13388",
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P973": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P973",
+          "hash": "9e1ccc55a98c8d862e953e187d2d1b062c03b30a",
+          "datavalue": {
+            "value": "https://www.raicultura.it/storia/articoli/2022/02/La-guerra-del-Vietnam-a73462b2-3548-4608-a6d6-8bf0fae92910.html",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q8740$d515e97a-47fc-2bf8-80ec-fe65a6256cab",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P973",
+          "hash": "da64c16393563c4947ecead72c2fc440d95f2718",
+          "datavalue": {
+            "value": "https://www.geopop.it/guerra-del-vietnam-cronologia-origine-cause-fine-storia-riassunto/",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q8740$7d1163e5-4df3-e7f7-a255-c391c701e849",
+        "rank": "normal"
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "dfe0834c8a817bab3ffe93cde16ad6b514c7c75f",
+          "datavalue": {
+            "value": "activity/efefb6b8-31e0-4b09-9f8e-8326a4755ca2",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$5C03C51C-DFF3-4BC6-8D11-8BDCDF10262D",
+        "rank": "normal"
+      }
+    ],
+    "P7666": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7666",
+          "hash": "8c66bafbc01262f2fb3e9b3bc3c9f77934fdfe76",
+          "datavalue": {
+            "value": "vietnamo-karas",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$9432f2ab-4b78-cdeb-7abd-07635a5910d4",
+        "rank": "normal"
+      }
+    ],
+    "P13613": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13613",
+          "hash": "e86672e5a5200e2947e7e80d0c5c07e6e7fcc73a",
+          "datavalue": {
+            "value": "198375",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$2cd1f423-459f-a1c2-1a18-d43ff70ac26e",
+        "rank": "normal"
+      }
+    ],
+    "P11408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11408",
+          "hash": "aa08de6c5c993286acfa064c2872ca5883d3d721",
+          "datavalue": {
+            "value": "ベトナム戦争",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$c160d77c-483a-2013-42ed-43d3ca1ee718",
+        "rank": "normal"
+      }
+    ],
+    "P3106": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3106",
+          "hash": "4b37bbfd3d1b7ab2f9afd34d1010f9a3ba50bbb9",
+          "datavalue": {
+            "value": "world/vietnam-war",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$12280C86-156E-44D3-8635-6B3A2CC701A7",
+        "rank": "normal"
+      }
+    ],
+    "P1036": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1036",
+          "hash": "67e96ab9afd9adcbdac2b0453cc049b9b73daea4",
+          "datavalue": {
+            "value": "959.7043",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$2948E276-48DD-4DFB-84DD-47D52590A8B7",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "6a92f6147a10652a766e4099b3755986dc38b23e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3b090a7bae73c288393b2c8b9846cc7ed9a58f91",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 16583225,
+                      "id": "Q16583225"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P508": [
+                {
+                  "snaktype": "value",
+                  "property": "P508",
+                  "hash": "2615fd49527c58da046a15f2dfac676fe7c019f5",
+                  "datavalue": {
+                    "value": "17249",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "6d4c9e5b0416a20f72876d06319d4d54168395a8",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2025-11-21T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P508",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P13956": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13956",
+          "hash": "4ddc6b7845c5da1886f5ab52ae895983f51d68fc",
+          "datavalue": {
+            "value": "1208",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$1191dbfd-4e33-cb7a-1719-45300cc6b8c9",
+        "rank": "normal"
+      }
+    ],
+    "P11924": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11924",
+          "hash": "93790929b532085f88ec1c8bbdb6941342252c04",
+          "datavalue": {
+            "value": "vietnam-war",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$5BB78280-F1DC-48C6-8282-85001BA2C600",
+        "rank": "normal"
+      }
+    ],
+    "P14003": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14003",
+          "hash": "97575ebc02b74341cb298f6155f7892e5eb26cc9",
+          "datavalue": {
+            "value": "vietnam-war",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$1A826530-2056-487F-B4FF-1D689873B634",
+        "rank": "normal"
+      }
+    ],
+    "P17": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P17",
+          "hash": "c40be02120fa6723ead45340635fe0835f073e90",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 881,
+              "id": "Q881"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$DBEFBAEC-ADF4-4B63-A5AE-D1A6CA498228",
+        "rank": "normal"
+      }
+    ],
+    "P793": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P793",
+          "hash": "7a4cd59f7a71b069896011ec48b3757c198a4e29",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 82542,
+              "id": "Q82542"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$bbf8da91-4b1b-085a-be80-cc1714a9666c",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fc165f7ae0068551236ac69e5e7eaa893c189704",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a6b712cd339f20ce071610fa587a309b3c84cae0",
+                  "datavalue": {
+                    "value": "https://www.britannica.com/event/Vietnam-War",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "9ec851edf402381066d6731d683da3550392da96",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-06T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P793",
+          "hash": "045d46cec2aaac7b799c85ad9f53d7c71425c114",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 240352,
+              "id": "Q240352"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$aac3d887-4a83-6fc7-3fc2-6e88931c849d",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fc165f7ae0068551236ac69e5e7eaa893c189704",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a6b712cd339f20ce071610fa587a309b3c84cae0",
+                  "datavalue": {
+                    "value": "https://www.britannica.com/event/Vietnam-War",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "9ec851edf402381066d6731d683da3550392da96",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-06T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P793",
+          "hash": "a5ec1bc26ba043c827213b9b96b5f329da742ae3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 183421,
+              "id": "Q183421"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$02acceba-42f3-1dba-ac11-17d7459cacb6",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fc165f7ae0068551236ac69e5e7eaa893c189704",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a6b712cd339f20ce071610fa587a309b3c84cae0",
+                  "datavalue": {
+                    "value": "https://www.britannica.com/event/Vietnam-War",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "9ec851edf402381066d6731d683da3550392da96",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-06T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P793",
+          "hash": "80d90d1740988daf6678c33aee98d2c4c51c341e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 714749,
+              "id": "Q714749"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$68397054-4cbd-3d98-d85f-9f69d78faa51",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fc165f7ae0068551236ac69e5e7eaa893c189704",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a6b712cd339f20ce071610fa587a309b3c84cae0",
+                  "datavalue": {
+                    "value": "https://www.britannica.com/event/Vietnam-War",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "9ec851edf402381066d6731d683da3550392da96",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-06T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P793",
+          "hash": "054a2c270ee326b56c94676d1fd2e56546f8e7c6",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 482402,
+              "id": "Q482402"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$ec093a77-487d-aa91-5b59-440f2e2fab92",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fc165f7ae0068551236ac69e5e7eaa893c189704",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d1d1b10a05a8f3fc5d26bb4aeb6849617ad81fc7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5375741,
+                      "id": "Q5375741"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a6b712cd339f20ce071610fa587a309b3c84cae0",
+                  "datavalue": {
+                    "value": "https://www.britannica.com/event/Vietnam-War",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "9ec851edf402381066d6731d683da3550392da96",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-06T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8168": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8168",
+          "hash": "df2b39ea618c0cbdbd842b9860ec486f4e81158f",
+          "datavalue": {
+            "value": "Q1783886",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$88FC8633-EF76-49F3-876D-FF2057BA7D2B",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "ad375f5ee38ee4dc852ca56abf6ecb197558e87b",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "e4afc4ad60f2160201385d29d076e0794f815f1e",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 90405608,
+                      "id": "Q90405608"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "89d5568c15f4d2042c6662dcd41d2d92b9315a59",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-05-27T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "c861d2c95045b5ee148d603b7a1f76fef02bfc9a",
+          "datavalue": {
+            "value": "h0008129-vietnamska-valka-19611975",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$587535C4-C57D-4905-A6AA-8E2BB74EEF80",
+        "rank": "normal"
+      }
+    ],
+    "P13772": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13772",
+          "hash": "e8ff261ce910a4a2bba2434a41b1c539662d8cd1",
+          "datavalue": {
+            "value": "vietnam-war",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$D3F015CC-0368-484D-A97F-BCE00E1B6C9B",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13772",
+          "hash": "24958aa03cd256753403af68dd596195d709a70c",
+          "datavalue": {
+            "value": "vietnamese-conflict-1961-1975",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$E4461B15-B9FF-4AED-8AD1-ACA9F99517CA",
+        "rank": "normal"
+      }
+    ],
+    "P7692": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7692",
+          "hash": "4d0d8486cdf597ba7f4398e022f4efb7d53432af",
+          "datavalue": {
+            "value": "v/VIETNAM_CONFLICT",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$6A81774B-89D3-4520-9671-FF19436E9606",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "5d0b750af513a294bc485df1e0ceef46ad5bea96",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "350879ed3759354c75213e017aa75d61a884e164",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 76832949,
+                      "id": "Q76832949"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P4839": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4839",
+          "hash": "431e8b6e5a664232fd5911a25b04318dd35bfacb",
+          "datavalue": {
+            "value": "Entity[\"HistoricalEvent\", \"VietnamWar\"]",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$A577C411-FFD3-47DF-A2A5-379E95B506F5",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "f9621d9ac47e0e27bc1aa0fc1c3991b61fa54f80",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "7b482aac0844e8325eb2c659f9738a63046de969",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241057,
+                      "id": "Q15241057"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4839",
+          "hash": "8b80f2259888601bf07843a8bc2e2284d4ae629b",
+          "datavalue": {
+            "value": "Entity[\"MilitaryConflict\", \"VietnamWar\"]",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q8740$E589A720-FF1E-41F8-BF53-196F3E6B1AD0",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "f9621d9ac47e0e27bc1aa0fc1c3991b61fa54f80",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "7b482aac0844e8325eb2c659f9738a63046de969",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241057,
+                      "id": "Q15241057"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P585": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P585",
+          "hash": "07891a6521231243d39123b446a47fe2b90e9505",
+          "datavalue": {
+            "value": {
+              "time": "+1975-04-30T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "id": "Q8740$4ffdf975-4736-0916-20bb-6ff207db934d",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "08695a1cf592e74943d227d4be6bd7141f6e482a",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "4a713f1b9c73c024784e593b0da93f2244c86d3f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 58251,
+                      "id": "Q58251"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "19eb55385fc4cb25ba6e147b855bf155ae7c51f6",
+                  "datavalue": {
+                    "value": "https://az.wikipedia.org/?oldid=8890978",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1542": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1542",
+          "hash": "45bdeeb2fbd32cafe8e1fbd3924f53a2d7c472b2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 172640,
+              "id": "Q172640"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$07f04161-4b49-d7d2-239a-bcff927e080e",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "08695a1cf592e74943d227d4be6bd7141f6e482a",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "4a713f1b9c73c024784e593b0da93f2244c86d3f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 58251,
+                      "id": "Q58251"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "19eb55385fc4cb25ba6e147b855bf155ae7c51f6",
+                  "datavalue": {
+                    "value": "https://az.wikipedia.org/?oldid=8890978",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1542",
+          "hash": "2a7da304087b3128f9a7fb7b4892244aeaebaea5",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11211,
+              "id": "Q11211"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$3e6622ec-4d07-80f9-6a6d-8b2ac98fe90f",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "08695a1cf592e74943d227d4be6bd7141f6e482a",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "4a713f1b9c73c024784e593b0da93f2244c86d3f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 58251,
+                      "id": "Q58251"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "19eb55385fc4cb25ba6e147b855bf155ae7c51f6",
+                  "datavalue": {
+                    "value": "https://az.wikipedia.org/?oldid=8890978",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1542",
+          "hash": "ef5550c33788d89a96d48be88609d6b7f59d1f4a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 180573,
+              "id": "Q180573"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$5c8ed839-44e0-f6cb-7fb4-545a616cdf93",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "08695a1cf592e74943d227d4be6bd7141f6e482a",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "4a713f1b9c73c024784e593b0da93f2244c86d3f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 58251,
+                      "id": "Q58251"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "19eb55385fc4cb25ba6e147b855bf155ae7c51f6",
+                  "datavalue": {
+                    "value": "https://az.wikipedia.org/?oldid=8890978",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1542",
+          "hash": "0329f0ed3a936272a1584c199ff7a9962bd046c3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 424,
+              "id": "Q424"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$fbe9d622-4df1-f0fd-11a3-79f69d3b1839",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "08695a1cf592e74943d227d4be6bd7141f6e482a",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "4a713f1b9c73c024784e593b0da93f2244c86d3f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 58251,
+                      "id": "Q58251"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "19eb55385fc4cb25ba6e147b855bf155ae7c51f6",
+                  "datavalue": {
+                    "value": "https://az.wikipedia.org/?oldid=8890978",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1542",
+          "hash": "b2b2e5f9cabcb975f079b98a901f2fe118515da4",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 819,
+              "id": "Q819"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q8740$aff1dffa-4013-be52-f16a-a3cbec9498aa",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "08695a1cf592e74943d227d4be6bd7141f6e482a",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "4a713f1b9c73c024784e593b0da93f2244c86d3f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 58251,
+                      "id": "Q58251"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "19eb55385fc4cb25ba6e147b855bf155ae7c51f6",
+                  "datavalue": {
+                    "value": "https://az.wikipedia.org/?oldid=8890978",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

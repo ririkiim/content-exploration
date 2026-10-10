@@ -1,0 +1,333 @@
+{
+  "type": "item",
+  "id": "Q106213450",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "time-based visual work"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "visual artwork that depend on technology, and have duration as a dimension"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "d66729441f309726f676caf63c43db1cbf610798",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 4502142,
+              "id": "Q4502142"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q106213450$3011334a-4108-3205-6b2d-f36f1bc43430",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "e9b8a2c81d882044cedf923279b64f22b8c12318",
+            "snaks": {
+              "P1014": [
+                {
+                  "snaktype": "value",
+                  "property": "P1014",
+                  "hash": "4343c842d8e3384e866a2eed037be80a0d4f425b",
+                  "datavalue": {
+                    "value": "300185191",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "132222ca6eac50138def9cd7efb44acb29d58d0a",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-03-26T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P1014",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "52f71e67a84620ee40f0338df841bb1daa6a3361",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 110910970,
+              "id": "Q110910970"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q106213450$b7c103f2-41f1-5fbd-2ed9-c939896bb4b1",
+        "rank": "normal"
+      }
+    ],
+    "P1014": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1014",
+          "hash": "4343c842d8e3384e866a2eed037be80a0d4f425b",
+          "datavalue": {
+            "value": "300185191",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q106213450$07048711-44a2-8593-6f27-1eae74b564e5",
+        "rank": "normal"
+      }
+    ],
+    "P2079": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2079",
+          "hash": "b2b79f6e46969ac29974b6993d61821e079550c8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 57206278,
+              "id": "Q57206278"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q106213450$48a1d7eb-4c15-4cf0-9e74-7a4535f6de6c",
+        "rank": "normal"
+      }
+    ],
+    "P973": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P973",
+          "hash": "ecc18307138a90f56d19de2436fa62cd6338af17",
+          "datavalue": {
+            "value": "https://www.guggenheim.org/conservation/time-based-media",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1860,
+                  "id": "Q1860"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P6333": [
+            {
+              "snaktype": "value",
+              "property": "P6333",
+              "hash": "ed6bd15b630b1c97b1a2d3df437997f103e6fb59",
+              "datavalue": {
+                "value": {
+                  "text": "Guggenheim New York",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P813": [
+            {
+              "snaktype": "value",
+              "property": "P813",
+              "hash": "5122d0fb93d0d9a8a75db85493fb141f340445ad",
+              "datavalue": {
+                "value": {
+                  "time": "+2026-08-03T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ],
+          "P1476": [
+            {
+              "snaktype": "value",
+              "property": "P1476",
+              "hash": "d0faf7c6e5b13a8a91ca782a05dfa51087c1980f",
+              "datavalue": {
+                "value": {
+                  "text": "Time-Based Media",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P1065": [
+            {
+              "snaktype": "value",
+              "property": "P1065",
+              "hash": "16c263b3b6e49b8c779b621e763a77fb48a37628",
+              "datavalue": {
+                "value": "https://web.archive.org/web/20260316212829/https://www.guggenheim.org/conservation/time-based-media",
+                "type": "string"
+              },
+              "datatype": "url"
+            }
+          ],
+          "P2960": [
+            {
+              "snaktype": "value",
+              "property": "P2960",
+              "hash": "6abc2f83eb6728d8fc4c6fa0ae18bd894ce8074c",
+              "datavalue": {
+                "value": {
+                  "time": "+2026-03-16T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ],
+          "P6954": [
+            {
+              "snaktype": "value",
+              "property": "P6954",
+              "hash": "ec7d949e7a39670d98faa0d828113f9a063b49e7",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 232932,
+                  "id": "Q232932"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P123": [
+            {
+              "snaktype": "value",
+              "property": "P123",
+              "hash": "c9aee669668b85ae69b3ae5cd2a58f52e0671a0e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 201469,
+                  "id": "Q201469"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407",
+          "P6333",
+          "P813",
+          "P1476",
+          "P1065",
+          "P2960",
+          "P6954",
+          "P123"
+        ],
+        "id": "Q106213450$4695b7d4-4439-cd02-ee68-a35ec1f1cc8b",
+        "rank": "normal"
+      }
+    ],
+    "P1552": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1552",
+          "hash": "d225248482e6a2f7d695be82ec343e81d4a064d3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2199864,
+              "id": "Q2199864"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q106213450$75163890-42a9-84b2-6e30-06469b0c7b48",
+        "rank": "normal"
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "321cfdcbcb08aabb59ebd1b293651998563777a3",
+          "datavalue": {
+            "value": "concept/5bbf856f-1567-4327-aaa6-a8b382c736b7",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q106213450$F57FAB4C-8905-49F1-B2CD-B3A23C2DFF77",
+        "rank": "normal"
+      }
+    ]
+  }
+}

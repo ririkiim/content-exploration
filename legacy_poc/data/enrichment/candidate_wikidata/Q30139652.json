@@ -1,0 +1,139 @@
+{
+  "type": "item",
+  "id": "Q30139652",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "health care structure"
+    }
+  },
+  "descriptions": {},
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "5cdd4bea5c3548201ec1f5c2dfc5072f5bbc55f7",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6671777,
+              "id": "Q6671777"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q30139652$b3bb29b7-4c9f-1f24-ecf5-9b1a2416df94",
+        "rank": "normal"
+      }
+    ],
+    "P366": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P366",
+          "hash": "f4ca69e6ccd8e980a2113a961ee4351bd363cac2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 31207,
+              "id": "Q31207"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q30139652$5e1c62a4-4997-93f3-2444-01e0b787695e",
+        "rank": "normal"
+      }
+    ],
+    "P8168": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8168",
+          "hash": "53bca60a640b782deb3755484c7d2518ce1db96d",
+          "datavalue": {
+            "value": "Q514336",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q30139652$22BAD510-A755-44C6-A334-DF2357B06159",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "205cec87eb805862eba032251db5170eaaa49fc9",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "e4afc4ad60f2160201385d29d076e0794f815f1e",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 90405608,
+                      "id": "Q90405608"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "0a3bb137286f7a06f4ea2f543f29533c862174ca",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-12-10T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "6b2007979a0574f3a50f4e13a2a7a5949b15f05c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 4260475,
+              "id": "Q4260475"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q30139652$835a6a53-4a4d-a9c4-8228-ed13f5dc2162",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3464 @@
+{
+  "type": "item",
+  "id": "Q1436063",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "autism spectrum disorder"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "자폐 스펙트럼"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "neurodevelopmental disorder affecting social communication and repetitive behaviors"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "자폐 장애를 비롯하여 일부 특징이 비슷한 여러 증후군을 모은 개념"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "49cb2261715692bbc7ecea388d0a1fe5eb23a067",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6691991,
+              "id": "Q6691991"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "q1436063$78d4a1eb-4421-22b6-f80c-7ba948c88278",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d2585704f5a1c1168f6e1f06418dbd08b5e1c360",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "2d605fd668b56941351731a068d461b9fdceee72",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5282129,
+                      "id": "Q5282129"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "1404ed43c31d4e2b8b834d065951afce7838bfe2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-11-30T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P699": [
+                {
+                  "snaktype": "value",
+                  "property": "P699",
+                  "hash": "e0fd5dfaae0e340516b472802c043a47184721dc",
+                  "datavalue": {
+                    "value": "DOID:0060041",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P699"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "a3e247ea4243c607405c277a92bf2ffcf3e07fea",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2915349,
+              "id": "Q2915349"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1436063$fce4094c-4b46-01dd-6c72-41ec53ceb31c",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "74a3d56fcbfd747b585f88be7ba72690dbca7a07",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 12135,
+              "id": "Q12135"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1436063$C6163760-D669-43E7-9791-329FFFD6EF6D",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "27313426df8e2830029447f078d5d586962f271e",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "53b1205acc41b690483ada04f94c89ef0fdb393f",
+                  "datavalue": {
+                    "value": "https://www.thelantern.com/2008/11/columbus-expo-spreads-autism-awareness/",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "5b3e144f39a6458e08814c4d2eddfaaf748de886",
+          "datavalue": {
+            "value": "/m/02p3f5",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$52C9A756-7121-405F-A76F-1AF174E7CC48",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P699": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P699",
+          "hash": "e0fd5dfaae0e340516b472802c043a47184721dc",
+          "datavalue": {
+            "value": "DOID:0060041",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$0F2072DD-F49E-48FD-BE3E-FEE19704A4FC",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d2585704f5a1c1168f6e1f06418dbd08b5e1c360",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "2d605fd668b56941351731a068d461b9fdceee72",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5282129,
+                      "id": "Q5282129"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "1404ed43c31d4e2b8b834d065951afce7838bfe2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-11-30T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P699": [
+                {
+                  "snaktype": "value",
+                  "property": "P699",
+                  "hash": "e0fd5dfaae0e340516b472802c043a47184721dc",
+                  "datavalue": {
+                    "value": "DOID:0060041",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P699"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2612": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2612",
+          "hash": "ceadf4f420a9707d92af66729c5d3ba9f86fe74b",
+          "datavalue": {
+            "value": "Autism+spectrum+disorder",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$B7D15732-AE09-4946-9C7D-8CC50676F46E",
+        "rank": "normal"
+      }
+    ],
+    "P2888": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2888",
+          "hash": "247ad48b861695a022843277a74a2f29e108b941",
+          "datavalue": {
+            "value": "http://purl.obolibrary.org/obo/HP_0000729",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q1436063$237FC529-E453-4AE6-A511-E7EEA9308001",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "12708cf3ece5945adc1cdda8cadba59f0b075cca",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "aa6107e08ed496fb27455facef9b8883710e6835",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 57084043,
+                      "id": "Q57084043"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "224c3ed71e14b2c24675d42331e7c1e20d17788e",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2018-10-08T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P3841": [
+                {
+                  "snaktype": "value",
+                  "property": "P3841",
+                  "hash": "452a6aefb49b16866e13cde8f2bbd42a105ce479",
+                  "datavalue": {
+                    "value": "HP:0000729",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P3841"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2888",
+          "hash": "f1dd0ccaf88ba9fbfbc0c76b8fa1e79383e3aca1",
+          "datavalue": {
+            "value": "http://purl.obolibrary.org/obo/DOID_0060041",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q1436063$A2624CBE-82BB-45FE-96C8-EDD987221C6B",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d2585704f5a1c1168f6e1f06418dbd08b5e1c360",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "2d605fd668b56941351731a068d461b9fdceee72",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5282129,
+                      "id": "Q5282129"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "1404ed43c31d4e2b8b834d065951afce7838bfe2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-11-30T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P699": [
+                {
+                  "snaktype": "value",
+                  "property": "P699",
+                  "hash": "e0fd5dfaae0e340516b472802c043a47184721dc",
+                  "datavalue": {
+                    "value": "DOID:0060041",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P699"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2888",
+          "hash": "ae8308e88df907acad9db59d86df26c57e086cd2",
+          "datavalue": {
+            "value": "http://identifiers.org/doid/DOID:0060041",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q1436063$F775454A-50D4-49F5-9488-1486BA9DFD5A",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "a1c7d87056e7b4d72d80d1b68562f9dcc952596f",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "5d999174dda06cba7b1b89d5ad561656db9bf89d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 16335166,
+                      "id": "Q16335166"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "6c3308f0f1c6b4bb7c44c46667026470d3958322",
+                  "datavalue": {
+                    "value": "https://registry.identifiers.org/registry/doid",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "17125385a274b43a1a3bf1c21af840a13659f1c6",
+          "datavalue": {
+            "value": "Autism-Spectrum-Disorders-1",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$e0c63a25-4095-619b-7e90-4a0d5252e867",
+        "rank": "normal"
+      }
+    ],
+    "P4317": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4317",
+          "hash": "cf3118a42611d4c69671542175c970c5089687e1",
+          "datavalue": {
+            "value": "10248",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$A53A8B77-CE93-4EB0-B019-5E2DB3DA0A47",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "044efe2e5a42c136bc0c969da64ef9609ad21b9d",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "2d605fd668b56941351731a068d461b9fdceee72",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5282129,
+                      "id": "Q5282129"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "41f59c5b0832c89e51977d437ee84ad559af25c1",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-08-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P699": [
+                {
+                  "snaktype": "value",
+                  "property": "P699",
+                  "hash": "e0fd5dfaae0e340516b472802c043a47184721dc",
+                  "datavalue": {
+                    "value": "DOID:0060041",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P699"
+            ]
+          }
+        ]
+      }
+    ],
+    "P486": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P486",
+          "hash": "4bdaa4eb51ec3a608a58e75f2b817e70c4e4f9c4",
+          "datavalue": {
+            "value": "D000067877",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "fa4f3964f06eebc8dfa7cc33e7307782ab9873aa",
+              "datavalue": {
+                "value": "Autism Spectrum Disorder",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1436063$7E16C071-2D9D-4A69-A2BB-807D121924C3",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "12708cf3ece5945adc1cdda8cadba59f0b075cca",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "aa6107e08ed496fb27455facef9b8883710e6835",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 57084043,
+                      "id": "Q57084043"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "224c3ed71e14b2c24675d42331e7c1e20d17788e",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2018-10-08T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P3841": [
+                {
+                  "snaktype": "value",
+                  "property": "P3841",
+                  "hash": "452a6aefb49b16866e13cde8f2bbd42a105ce479",
+                  "datavalue": {
+                    "value": "HP:0000729",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P3841"
+            ]
+          },
+          {
+            "hash": "b07fdc114c84f13670112383396e839eaf53647c",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "2d605fd668b56941351731a068d461b9fdceee72",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 5282129,
+                      "id": "Q5282129"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "9c76347c2450b1d6fc4aae90440c7aeb7cf57967",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-05-15T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P699": [
+                {
+                  "snaktype": "value",
+                  "property": "P699",
+                  "hash": "e0fd5dfaae0e340516b472802c043a47184721dc",
+                  "datavalue": {
+                    "value": "DOID:0060041",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P699"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2581": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2581",
+          "hash": "be7858e51e3a52cdc2f3545eb95be8c5d4aff468",
+          "datavalue": {
+            "value": "02276081n",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$5049098A-F0DF-47C6-8ECB-B72431FFADDF",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "248ac337a217a5f5eed7139a82a4e60931611af0",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "25b816aab41db18565946259c950aed6de05dd1e",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 4837690,
+                      "id": "Q4837690"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1930": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1930",
+          "hash": "27656aea70f092aeb36b4908da42a6e5d3528d44",
+          "datavalue": {
+            "value": "299.00",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$b3b65924-47b6-a996-1008-35d2bdc0e3af",
+        "rank": "normal"
+      }
+    ],
+    "P1748": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1748",
+          "hash": "544022e91380cebc50c98df4ee3c6b988ec7c4eb",
+          "datavalue": {
+            "value": "C88412",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$21D55B33-DA02-450E-8F90-5099CA538111",
+        "rank": "normal"
+      }
+    ],
+    "P3841": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3841",
+          "hash": "452a6aefb49b16866e13cde8f2bbd42a105ce479",
+          "datavalue": {
+            "value": "HP:0000729",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$3857F732-E343-4C74-800D-0B28EA96E634",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "12708cf3ece5945adc1cdda8cadba59f0b075cca",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "aa6107e08ed496fb27455facef9b8883710e6835",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 57084043,
+                      "id": "Q57084043"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "224c3ed71e14b2c24675d42331e7c1e20d17788e",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2018-10-08T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P3841": [
+                {
+                  "snaktype": "value",
+                  "property": "P3841",
+                  "hash": "452a6aefb49b16866e13cde8f2bbd42a105ce479",
+                  "datavalue": {
+                    "value": "HP:0000729",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P3841"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2892": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2892",
+          "hash": "4c206279fe9d2f9b63918aa61e1e80776df11450",
+          "datavalue": {
+            "value": "C0856975",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$19F902F4-E98B-4CF0-B21B-FABDA89E4612",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "12708cf3ece5945adc1cdda8cadba59f0b075cca",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "aa6107e08ed496fb27455facef9b8883710e6835",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 57084043,
+                      "id": "Q57084043"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "224c3ed71e14b2c24675d42331e7c1e20d17788e",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2018-10-08T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P3841": [
+                {
+                  "snaktype": "value",
+                  "property": "P3841",
+                  "hash": "452a6aefb49b16866e13cde8f2bbd42a105ce479",
+                  "datavalue": {
+                    "value": "HP:0000729",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P3841"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2892",
+          "hash": "c631a69baa193402f7562f2c0d20aa528de5ae1c",
+          "datavalue": {
+            "value": "C1510586",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$555207DB-7957-494D-9409-A8633FFADC23",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "12708cf3ece5945adc1cdda8cadba59f0b075cca",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "aa6107e08ed496fb27455facef9b8883710e6835",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 57084043,
+                      "id": "Q57084043"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "224c3ed71e14b2c24675d42331e7c1e20d17788e",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2018-10-08T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P3841": [
+                {
+                  "snaktype": "value",
+                  "property": "P3841",
+                  "hash": "452a6aefb49b16866e13cde8f2bbd42a105ce479",
+                  "datavalue": {
+                    "value": "HP:0000729",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P3841"
+            ]
+          }
+        ]
+      }
+    ],
+    "P244": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P244",
+          "hash": "670f66486b278eaa96f176ced7a5f68c76a4451d",
+          "datavalue": {
+            "value": "sh2008009581",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$de64e44c-4914-8c1c-37af-79953e0a30e0",
+        "rank": "normal"
+      }
+    ],
+    "P672": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P672",
+          "hash": "b8a99f6dc579ec547c7ad843a8cfc8339d850734",
+          "datavalue": {
+            "value": "F03.625.164.113",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4900": [
+            {
+              "snaktype": "value",
+              "property": "P4900",
+              "hash": "978fc2a31534d76cfde0cbdd07a403bf4462eec1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 6691991,
+                  "id": "Q6691991"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4900"
+        ],
+        "id": "Q1436063$83d48c5d-4e19-dcc7-9bc4-b3f61d6245c4",
+        "rank": "normal"
+      }
+    ],
+    "P1995": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1995",
+          "hash": "39006c2f757f33371a751175325d6018890a201a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9418,
+              "id": "Q9418"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1436063$3834e157-4774-e587-2185-3d86b0f8ca16",
+        "rank": "normal"
+      }
+    ],
+    "P2579": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2579",
+          "hash": "4f416b9c11cc3ad5417504aa1bcc4ece7df53684",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2908193,
+              "id": "Q2908193"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1436063$237efbd3-4338-95d3-94f5-49d3474983ad",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2579",
+          "hash": "c74abb0b8ba2b463218ee0c8d08aa3fe61ebcb2a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7867,
+              "id": "Q7867"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1436063$96a1733a-4995-fafc-27e7-61b3d9def63d",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9865ad456e72fa2e53b65e4376577002d68d3fbf",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "6b7015f917b5a8d303fcb7256f93286644de05c6",
+                  "datavalue": {
+                    "value": "https://en.wikipedia.org/w/index.php?title=Autism_spectrum&oldid=907458390",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2579",
+          "hash": "19f81669f03b3e5b837c6710fd19c97051cb26b0",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 33226,
+              "id": "Q33226"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1436063$697bbe0e-4e16-69c4-b1a8-abb398b5644b",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0ff5b345dfce4a2535cc8c32c40b97b619107f22",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "6eeeebf2fa812470c8e3ebcf0304df00db734eaf",
+                  "datavalue": {
+                    "value": "https://pubmed.ncbi.nlm.nih.gov/33511525/",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "c8c6b0aeabf593953889761af2d96a4f73444cf0",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2025-09-19T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2579",
+          "hash": "8fe93211dce7625194861e93e0726488be38d342",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 40998,
+              "id": "Q40998"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1436063$bc0c9bee-4f91-6fa9-4e25-a572093ef2dd",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0ff5b345dfce4a2535cc8c32c40b97b619107f22",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "6eeeebf2fa812470c8e3ebcf0304df00db734eaf",
+                  "datavalue": {
+                    "value": "https://pubmed.ncbi.nlm.nih.gov/33511525/",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "c8c6b0aeabf593953889761af2d96a4f73444cf0",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2025-09-19T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P7329": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7329",
+          "hash": "90d5f394e7165d9cfaf7ca903f53fcb5c602f37b",
+          "datavalue": {
+            "value": "6A02",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "ad9a233e1fd42fb4cfc12ee1e6a00eb3c0b3c3c6",
+              "datavalue": {
+                "value": "Autism spectrum disorder",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1436063$E614B971-F65D-401C-9060-A32A6387FE75",
+        "rank": "normal"
+      }
+    ],
+    "P2347": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2347",
+          "hash": "684dfb40b77e6630e61fffc2e44de1955923ffbc",
+          "datavalue": {
+            "value": "27421",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "02b2d2958776702c685aa44f9345a18fe82ad427",
+              "datavalue": {
+                "value": {
+                  "text": "autismaheađuštusat",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "a723312730ecf1b40f157b4263d21a74d1438514",
+              "datavalue": {
+                "value": {
+                  "text": "autismikirjon häiriöt",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "bd8d660e5c37aa0a6a3ae3c185165d6405f92e1c",
+              "datavalue": {
+                "value": {
+                  "text": "autismspektrumtillstånd",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "92485310f8a246443adb9cf2f668524408c0213d",
+              "datavalue": {
+                "value": {
+                  "text": "autism spectrum disorders",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P14458": [
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "a55ba343cdcc3d809ed0dc25f3f204ba42def012",
+              "datavalue": {
+                "value": {
+                  "text": "autismspektrumstörning",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "ccb991e54a05c7078375e0f8e93236e7f7772cb2",
+              "datavalue": {
+                "value": {
+                  "text": "autismin kirjon häiriöt",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "cb9bc8dee240fbdfb3111d4298310c6c7da34951",
+              "datavalue": {
+                "value": {
+                  "text": "autistic spectrum disorders",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "f5139b6dc3d8defb29b4be6c8fe256970c523d1a",
+              "datavalue": {
+                "value": {
+                  "text": "autismin kirjo",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457",
+          "P14458"
+        ],
+        "id": "Q1436063$ADFAB155-7028-49A4-871D-FE9906EE73C0",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "f9bf1a1f034ddd51bd9928ac535e0f57d748e2cf",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "7133f11674741f52cadaae6029068fad9cbb52e3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 89345680,
+                      "id": "Q89345680"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P5008": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5008",
+          "hash": "3e6db73259b8d148105c863348dc03f65a68a90b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 4099686,
+              "id": "Q4099686"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1436063$DA5AE501-F135-450D-A77E-F581AC7A286E",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "dc2c9e732d3322d3eb263636586286caf3e5e875",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3450985,
+              "id": "Q3450985"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1436063$1b5c2456-4ccc-56ed-6370-717d510aa495",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "f1b20d7a9f665d29550f5563ceac220cdc70daf5",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "e9c01799d4b13c8c1e15470db5b4cb59e49047cc",
+                  "datavalue": {
+                    "value": "https://en.wikipedia.org/w/index.php?title=Autism_spectrum&oldid=884180672",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "023f0955ac3ca0e4f4a6c4c22dd93cf531d908f5",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-02-20T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "8c6c84884375d9266297def6ee112524158c5fff",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 12131,
+              "id": "Q12131"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1436063$7ff1226e-4ae3-bcdc-debd-5d58ef2acfd4",
+        "rank": "normal"
+      }
+    ],
+    "P7807": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7807",
+          "hash": "aa8602056939fa3c2312c1e3e65ad59d66e505f5",
+          "datavalue": {
+            "value": "437815624",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$1f42d78e-f6bd-4d3f-beb6-5cea85027b35",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "91f98578e45727bc5efcb4d2157ac65cbb8ae410",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 38404,
+              "id": "Q38404"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1436063$48fb0475-46fc-3764-c583-c968cb3524a3",
+        "rank": "normal"
+      }
+    ],
+    "P508": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P508",
+          "hash": "c0ec12dc1b5ece177bf0d654d00e118662546d5e",
+          "datavalue": {
+            "value": "56907",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "6ea24269f31b80ea8a2de87d8486e747e88edd6d",
+              "datavalue": {
+                "value": "Disturbi dello spettro autistico",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P4970": [
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "f44ef89fe8d5740fbc223b7de3e65cf0f1292506",
+              "datavalue": {
+                "value": "Disturbi generalizzati dello sviluppo",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "66ac1e82c37fe69154af1d980e10f2229437d225",
+              "datavalue": {
+                "value": "Disturbi generalizzati di sviluppo infantile",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "64e95cae89f0d7a7e881a9671b00a0bb5dd137c6",
+              "datavalue": {
+                "value": "Disturbi pervasivi dello sviluppo",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "f543a5cbc0e74379c9040d90c45dbe6e718431fa",
+              "datavalue": {
+                "value": "Disturbi pervasivi dello sviluppo del bambino",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "98a779d5f81540f57592e15bc7ab82cc04b33f61",
+              "datavalue": {
+                "value": "DSP",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P4970"
+        ],
+        "id": "Q1436063$a233fe97-fab3-43ae-bfeb-696215105558",
+        "rank": "normal"
+      }
+    ],
+    "P9100": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9100",
+          "hash": "146de735ca1f77feb00e8a8c10cb00a789cf6007",
+          "datavalue": {
+            "value": "autism-spectrum-disorder",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$B9FA6D83-2CB9-4171-AEAC-FBD913C802E6",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "42689a1ff971bcf861b74907199db36b50478f42",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "2f2b9517c976820e84f5b6192692dc444e7a0bbb",
+                  "datavalue": {
+                    "value": "https://github.com/topics/autism-spectrum-disorder",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P1476": [
+                {
+                  "snaktype": "value",
+                  "property": "P1476",
+                  "hash": "af21f65ac092adb12c7ac069b45f6198b629637c",
+                  "datavalue": {
+                    "value": {
+                      "text": "autism-spectrum-disorder · GitHub Topics · GitHub",
+                      "language": "en"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "3aaa7efa3543d310654da7a4250c1b45389b2407",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-07-25T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P1476",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8189": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8189",
+          "hash": "844bbbd1387b7a0bae6d9b1a628419e0075e7e58",
+          "datavalue": {
+            "value": "987007542559105171",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "27097386987e6dd5225e4a6f0ed308666bcd303c",
+              "datavalue": {
+                "value": {
+                  "text": "Autism spectrum disorders",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "d35d159e3cd64c453e83db7e23c09d83380f8e4f",
+              "datavalue": {
+                "value": {
+                  "text": "הפרעות הקשת האוטיסטית",
+                  "language": "he"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q1436063$1DC06F5F-E567-46E2-952D-C4E38A27D39F",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c8a47202c92936005b390eb36ddd267921b51f43",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "0ea73b3596b49258a7b7ec6495950779b99e875d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188915,
+                      "id": "Q188915"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P5082": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5082",
+          "hash": "da37eecd9b4b2da454d450fb8ee031914e1ede53",
+          "datavalue": {
+            "value": "autismespekterforstyrrelser",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2241": [
+            {
+              "snaktype": "value",
+              "property": "P2241",
+              "hash": "74bd46d0bbe97d05804856f1f73b6a7480c68cec",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 45403344,
+                  "id": "Q45403344"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2241"
+        ],
+        "id": "Q1436063$3243b5c8-4254-7c2d-1a5e-1dc6082ff10c",
+        "rank": "deprecated"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5082",
+          "hash": "a07780a41984f5f53e62dff9cd6929e31e3fd178",
+          "datavalue": {
+            "value": "autisme",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$250beb94-c849-4225-b0f9-58c087ffff49",
+        "rank": "normal"
+      }
+    ],
+    "P9084": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9084",
+          "hash": "cdd18cfed2f5d52b1cd0ded363c2a117569a5d40",
+          "datavalue": {
+            "value": "autism-spectrum-disorder",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$9BFEF86B-FA30-4F6C-AA5C-0BF3F93D6C68",
+        "rank": "normal"
+      }
+    ],
+    "P9272": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9272",
+          "hash": "654624792555901fd839775d6edbe9c6a300261a",
+          "datavalue": {
+            "value": "56096",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$E117B1B2-6E99-49ED-8301-AFC9A13646E1",
+        "rank": "normal"
+      }
+    ],
+    "P7464": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7464",
+          "hash": "faf765cdfed01eed0f777b011cbfd0053f5fb410",
+          "datavalue": {
+            "value": "autism-spectrum-disorder",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$F2C9E5B9-862A-4810-8B70-0BBFABB72C70",
+        "rank": "normal"
+      }
+    ],
+    "P10283": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10283",
+          "hash": "0cef626ba000000dbd50d5ec548181db7eb282f4",
+          "datavalue": {
+            "value": "C3020215106",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$98B15237-5910-472D-9223-8C8D3347B6DB",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "e0b27d817c9a9b3247df341000fc490bafcba862",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4a4f26a5361b5707266e48e425bf2be2f99fd2ab",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 107507571,
+                      "id": "Q107507571"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "435834d08182bb9f3dbe974ba9840af0f12899cc",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-26T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a4a4bf53f22268815c51ec10fed608da703c9c7f",
+                  "datavalue": {
+                    "value": "https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P1065": [
+                {
+                  "snaktype": "value",
+                  "property": "P1065",
+                  "hash": "3134281f51e2490f88272d53c56ee95d9cc24e2c",
+                  "datavalue": {
+                    "value": "https://web.archive.org/web/20220125070108/https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P2960": [
+                {
+                  "snaktype": "value",
+                  "property": "P2960",
+                  "hash": "f7ff3a0de7f9571ecb5e0740cba4122c6703e1ec",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-25T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P854",
+              "P1065",
+              "P2960"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10283",
+          "hash": "e53e5cd430aebd74ca0199e2662f64018098de1b",
+          "datavalue": {
+            "value": "C2986165187",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$48411C81-D466-4021-A7D3-E78B8AE21B95",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c13ba4d7902ead2693f79396bc25bd35d4d14030",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4a4f26a5361b5707266e48e425bf2be2f99fd2ab",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 107507571,
+                      "id": "Q107507571"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "435834d08182bb9f3dbe974ba9840af0f12899cc",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-26T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a4a4bf53f22268815c51ec10fed608da703c9c7f",
+                  "datavalue": {
+                    "value": "https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P854"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10283",
+          "hash": "cf05df538dcf7becdc225789123029e7ea8a6ad1",
+          "datavalue": {
+            "value": "C2778538070",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$807500B2-56F1-44DD-827A-38CDCBAFF036",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c13ba4d7902ead2693f79396bc25bd35d4d14030",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4a4f26a5361b5707266e48e425bf2be2f99fd2ab",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 107507571,
+                      "id": "Q107507571"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "435834d08182bb9f3dbe974ba9840af0f12899cc",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-26T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a4a4bf53f22268815c51ec10fed608da703c9c7f",
+                  "datavalue": {
+                    "value": "https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P10565": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10565",
+          "hash": "9293259d80867f3b55fce01ff20e3196cde6dd32",
+          "datavalue": {
+            "value": "55908",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "85bd3f9edccd77e7b27b6d0cae5b121d686aac26",
+              "datavalue": {
+                "value": "孤独症谱系障碍",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1436063$3F213F59-863F-4E43-AEE7-9D0AE6D790E8",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10565",
+          "hash": "324065de72cdcd45f87e7f5c2542215f1dfb15a1",
+          "datavalue": {
+            "value": "25653",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "e694f9d08a3421ac93db296fa8e533cbf1894d55",
+              "datavalue": {
+                "value": "自闭症谱系障碍",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1436063$C40DF749-147B-4025-BE9A-B4A826BCDF6A",
+        "rank": "normal"
+      }
+    ],
+    "P3847": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3847",
+          "hash": "97263ef3b8e4f1e4873de7a206e3acb41af9dc90",
+          "datavalue": {
+            "value": "autism_spectrum_disorders",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$0f22a19c-457f-ab6f-60ae-e8fbb8694422",
+        "rank": "normal"
+      }
+    ],
+    "P11093": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11093",
+          "hash": "83635de96e262443adcb6b2f6c62691bdd84954d",
+          "datavalue": {
+            "value": "otizm_otizm_spektrum_bozuklugu",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$fdd4582a-4135-a3c6-a6e0-7014180dc86b",
+        "rank": "normal"
+      }
+    ],
+    "P11143": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11143",
+          "hash": "cefe959dbbc962106c9f1ee77cf755afb662c021",
+          "datavalue": {
+            "value": "Autism spectrum",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$E75EA5A7-DBA6-44D7-9B45-5FF9EC3ABB22",
+        "rank": "normal"
+      }
+    ],
+    "P7870": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7870",
+          "hash": "40e0f2ce6c5c3c714bce1eecebf126103163d24c",
+          "datavalue": {
+            "value": "53486",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$31CC19A2-A539-4048-A304-7026208FA1AA",
+        "rank": "normal"
+      }
+    ],
+    "P2176": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2176",
+          "hash": "85092e641bcdb525111e6df2777d2729efa20b17",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 954190,
+              "id": "Q954190"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1436063$d51ee80f-418d-ab71-688a-eb7c8d18ca72",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2176",
+          "hash": "5c1742f15b228150b78a39d51e14164a42b2ceb4",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3064851,
+              "id": "Q3064851"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1436063$84c2dedd-40e9-1642-967f-e2fe422cb636",
+        "rank": "normal"
+      }
+    ],
+    "P8309": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8309",
+          "hash": "6ea5a17081ed7ab9c42560c8c7918197f9f8e666",
+          "datavalue": {
+            "value": "18-261473",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "c173b7f5e16682e032578c5565267fdf45a3209e",
+              "datavalue": {
+                "value": "autismtt",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "4be0c5ec14c00e15117ac5332b1fb883353be684",
+              "datavalue": {
+                "value": "autismspektrumstörning",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1436063$305bc088-4790-1e67-e2f2-82cc574efc50",
+        "rank": "normal"
+      }
+    ],
+    "P1424": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1424",
+          "hash": "ba0a9cbf48fa6d8456d1f0c027390470ff90786d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 18996282,
+              "id": "Q18996282"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1436063$3a3ea258-4149-1fe9-a03a-c19229a2edb9",
+        "rank": "normal"
+      }
+    ],
+    "P10376": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10376",
+          "hash": "7c2e1cd203919d870ac980a0ac6c5469f53dc8b8",
+          "datavalue": {
+            "value": "medicine-and-dentistry/autism-spectrum",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$22ec0efe-4bdd-feb7-828f-a09824d3fc5d",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10376",
+          "hash": "8884e175ce738ea70b23c8c47851981bc37c2297",
+          "datavalue": {
+            "value": "medicine-and-dentistry/autism-spectrum-disorder",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$881b3b9b-4e1f-13ff-335b-f016514530a0",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10376",
+          "hash": "74cad687fec2031f3e627eb721bd4d86a6ee1796",
+          "datavalue": {
+            "value": "neuroscience/autism-spectrum-disorder",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$1e19f1d1-4037-e408-f57d-4ac607727b3c",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10376",
+          "hash": "982868f22f3c167733c8bd79b4f9e456c073abe9",
+          "datavalue": {
+            "value": "psychology/autism-spectrum-disorder",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$c6a6d0c1-4021-51ae-bc3e-87c8b3edd301",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10376",
+          "hash": "8e0e0d557fc0034cf41c71444f3a3bb40c3ecd5d",
+          "datavalue": {
+            "value": "social-sciences/autism-spectrum-disorder",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$e49f4d11-4466-9c0f-60b1-33dba29249c5",
+        "rank": "normal"
+      }
+    ],
+    "P11738": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11738",
+          "hash": "1f3b2a63fba7e5b781fdfec150a7c920b642653b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3333688,
+              "id": "Q3333688"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1436063$adb8b701-4fde-a63e-2f53-4ea2532aa312",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "f43172900647f0aee6b68812bed019ff3ce703d3",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "178e1ac8902e7568bc8d3d9b6ccdb647de3d30d1",
+                  "datavalue": {
+                    "value": "https://www.cdc.gov/ncbddd/autism/treatment.html",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P667": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P667",
+          "hash": "5ca8e8979e6920adfcf3cbbf6a83ceba302407ae",
+          "datavalue": {
+            "value": "P99",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q1436063$D1C72D14-7FFF-4D27-B51F-636299FB25BE",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c456dc5cd2117249948c288206ff3f8b1bf574f0",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e17507043402fe54ae6c4d65cc51f46cec987de9",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 8449,
+                      "id": "Q8449"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P269": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P269",
+          "hash": "ac2881154fd5df85d4c14d9d586bf64a88501e1a",
+          "datavalue": {
+            "value": "164393781",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$324D7BB1-61A1-49CF-A79E-A4E6C0D7DF1C",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 8447,
+                      "id": "Q8447"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P268": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P268",
+          "hash": "4c48148066fc8d7cde9b0df921ac33245117c882",
+          "datavalue": {
+            "value": "16627519x",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "e6df766b55bf0e09ff645fd78aa997a0f46dd247",
+              "datavalue": {
+                "value": "Troubles envahissants du développement",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1436063$c43f1a59-0dbe-43e4-a4ce-3e613fc8cc85",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "7a71e383e2d5f5593cc01d91d31017012c283b18",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3b090a7bae73c288393b2c8b9846cc7ed9a58f91",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 16583225,
+                      "id": "Q16583225"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "be339990bd85c36d8ce6ffd255da76650330e60c",
+                  "datavalue": {
+                    "value": "https://thes.bncf.firenze.sbn.it/termine.php?id=56907",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "6ae3be8bc564afd93aa3bd0f3af2aacae338fda0",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-06-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2293": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2293",
+          "hash": "7cf87f17f0828c2c24bb20365fb83c88c428e4b0",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 18033696,
+              "id": "Q18033696"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P459": [
+            {
+              "snaktype": "value",
+              "property": "P459",
+              "hash": "5ca537c83625b8d878520e56ddfc047fe8503f73",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 23174671,
+                  "id": "Q23174671"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P1542": [
+            {
+              "snaktype": "value",
+              "property": "P1542",
+              "hash": "6ffc858794845868e22368825a99f71e8269292a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 65534164,
+                  "id": "Q65534164"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P459",
+          "P1542"
+        ],
+        "id": "Q1436063$E2580CBC-A263-48B6-806A-3309CC380378",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "91c583e16e29a0443082fc6cdbb672831cadf74d",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a62bd0c371747c1b25a66a746107590eab72c524",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 102060922,
+                      "id": "Q102060922"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P3865": [
+                {
+                  "snaktype": "value",
+                  "property": "P3865",
+                  "hash": "dbe265377e8ae425f7ca6d70fa623ae570b62199",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 7318358,
+                      "id": "Q7318358"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P3865"
+            ]
+          },
+          {
+            "hash": "2e849f0c341b393696b008c1ca381fad18dba26c",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "baf0954b13db9c268707f37cfb13a82befc7078a",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 61446049,
+                      "id": "Q61446049"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          },
+          {
+            "hash": "82b08566ffd596bfc3b499fcd50bbb1d9f5383d6",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4c7939b8aaadbd080b0ce1089f3905977792f147",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 92937447,
+                      "id": "Q92937447"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P18": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "716da8da2ffb9cd5c0cc2a44126dd3783629dc58",
+          "datavalue": {
+            "value": "Four Kids with Signs of Autism.png",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q1436063$326A1CF6-58E7-4598-AF79-8649BAEBB882",
+        "rank": "normal"
+      }
+    ],
+    "P8885": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8885",
+          "hash": "19a1483108b8697cd0e1c0590eb6e5dedd87e993",
+          "datavalue": {
+            "value": "자폐성 장애",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$a1734545-4812-3c75-54a9-a2459eeee967",
+        "rank": "normal"
+      }
+    ],
+    "P4233": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4233",
+          "hash": "ab9ad1df20ab63492c92582ba8e514652c31f8ab",
+          "datavalue": {
+            "value": "autism",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$3d23a1d8-4654-703d-9865-984257644ec2",
+        "rank": "normal"
+      }
+    ],
+    "P11956": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11956",
+          "hash": "55f2c946bdf31c710cfb3b8d44fdb7b5d833f033",
+          "datavalue": {
+            "value": "0003756",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$E188EE67-81F5-4B42-BADF-B1B57E0E5C30",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "75de7ee16e555dc7e6ecc41fa56959674f006263",
+            "snaks": {
+              "P887": [
+                {
+                  "snaktype": "value",
+                  "property": "P887",
+                  "hash": "d2248c1c338838ec71ece89997fda95510df509f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 121745045,
+                      "id": "Q121745045"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P887"
+            ]
+          }
+        ]
+      }
+    ],
+    "P9497": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9497",
+          "hash": "e187af43f4b7a5b7b63f63a6f6cde4b830a6e88d",
+          "datavalue": {
+            "value": "10311",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "9637c7fa6ba6ad26577b45ff0e3acd6ff76939f8",
+              "datavalue": {
+                "value": "autism spectrum disorders",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1436063$E3D99790-6BE0-476D-AD63-1F4532B9A768",
+        "rank": "normal"
+      }
+    ],
+    "P11408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11408",
+          "hash": "9be2039e0c4b29b3d88345a67ead1ddbaf88e795",
+          "datavalue": {
+            "value": "自閉症スペクトラム",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$70ba3b6b-494e-dcf0-935e-e72d5b23bccd",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "6c005be9648968a2f86583d9abc7d95eb3a174e3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 110734292,
+              "id": "Q110734292"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1436063$bd4c0c3d-4450-af89-7524-ea95301b2ecc",
+        "rank": "normal"
+      }
+    ],
+    "P1813": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1813",
+          "hash": "b57b38b4d1a991162c9ba62cff8f16de14203b5c",
+          "datavalue": {
+            "value": {
+              "text": "TEA",
+              "language": "pt-br"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q1436063$887bb53b-4558-8859-4188-2850f204e718",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1813",
+          "hash": "454dc7f981775ad2f49890c400a7ec810be6b108",
+          "datavalue": {
+            "value": {
+              "text": "ASD",
+              "language": "en"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q1436063$edfec8e5-4605-37da-df36-86de2271b342",
+        "rank": "normal"
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "0a6f6cd9c3613dd2d618d9353e534a65cc21f15b",
+          "datavalue": {
+            "value": "concept/f3620b35-0feb-4ab9-b3ea-fa499010522f",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$2F11E883-3D84-46BA-87FA-31A137036EF4",
+        "rank": "normal"
+      }
+    ],
+    "P10380": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10380",
+          "hash": "1e571841cac5e06617f4285e70293945745b64cc",
+          "datavalue": {
+            "value": "autism-spectrum-disorders",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$91e7138b-4376-25cb-1197-53c381a2ff71",
+        "rank": "normal"
+      }
+    ],
+    "P9827": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9827",
+          "hash": "864d8a6c591e60de0bf404ef0815f2d589e020de",
+          "datavalue": {
+            "value": "003110",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$AAB7D03E-B250-45A2-9173-40E37F58DC03",
+        "rank": "normal"
+      }
+    ],
+    "P924": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P924",
+          "hash": "4fddb489026071e4f6c7b2b2cf23b0caf5e5cdf6",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1147152,
+              "id": "Q1147152"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1436063$389b0a97-4514-8e15-b752-bbfe192cbf76",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "5c1c5d70338d4852a6421b10f38f37f234cf3e35",
+            "snaks": {
+              "P356": [
+                {
+                  "snaktype": "value",
+                  "property": "P356",
+                  "hash": "00575ebb92e75a34a42a0874357b3a635ff4142f",
+                  "datavalue": {
+                    "value": "10.1016/J.JAD.2023.10.008",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P356"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P924",
+          "hash": "fb8c345b9dce13509ebd193f4c69d5927faa9c33",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 209642,
+              "id": "Q209642"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1436063$f65d14d4-425b-a99d-4991-6b396df97fee",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "f5b181e27edda08790fe33bedeb0f699e577e342",
+            "snaks": {
+              "P356": [
+                {
+                  "snaktype": "value",
+                  "property": "P356",
+                  "hash": "b28f52c89d81ccaa2e5beb9fe67672ac142a0d99",
+                  "datavalue": {
+                    "value": "10.1002/14651858.CD004381",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P356"
+            ]
+          }
+        ]
+      }
+    ],
+    "P5270": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5270",
+          "hash": "d0d9a22d90e48d091aaf414c3219d999049e87f1",
+          "datavalue": {
+            "value": "MONDO_0005258",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$ebbdb960-40e0-0b67-1b4b-73bc0f722a0f",
+        "rank": "normal"
+      }
+    ],
+    "P14541": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14541",
+          "hash": "9be37e08410cb264246b73ff052b5762c7e9bf7e",
+          "datavalue": {
+            "value": "4dbsOm",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "85bd3f9edccd77e7b27b6d0cae5b121d686aac26",
+              "datavalue": {
+                "value": "孤独症谱系障碍",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P5017": [
+            {
+              "snaktype": "value",
+              "property": "P5017",
+              "hash": "4102f68ef6a3e38f38a98753d6cc1bfbff5c97c5",
+              "datavalue": {
+                "value": {
+                  "time": "+2022-01-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P5017"
+        ],
+        "id": "Q1436063$BCE1808E-A956-4D89-A90F-414D155A40CE",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14541",
+          "hash": "9f251a22123950259238ffe2baa83ab3032c5589",
+          "datavalue": {
+            "value": "282Q9O",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "e694f9d08a3421ac93db296fa8e533cbf1894d55",
+              "datavalue": {
+                "value": "自闭症谱系障碍",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P5017": [
+            {
+              "snaktype": "value",
+              "property": "P5017",
+              "hash": "05dc91addacbed195250f9827a5e04ded8816598",
+              "datavalue": {
+                "value": {
+                  "time": "+2022-12-31T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P5017"
+        ],
+        "id": "Q1436063$A619B745-1B21-4F0D-B6FC-C89F3F4451C5",
+        "rank": "normal"
+      }
+    ],
+    "P13772": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13772",
+          "hash": "47dd3d78fed32b3126e56c39d501cc9730f6bf2a",
+          "datavalue": {
+            "value": "autism-spectrum-disorders",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1436063$4EA9A480-7B14-45D0-8056-2B456FF8191C",
+        "rank": "normal"
+      }
+    ]
+  }
+}

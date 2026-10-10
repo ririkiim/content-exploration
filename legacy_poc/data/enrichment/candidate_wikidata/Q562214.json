@@ -1,0 +1,1103 @@
+{
+  "type": "item",
+  "id": "Q562214",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "한국 만화"
+    },
+    "en": {
+      "language": "en",
+      "value": "manhwa"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "comics created in Korea"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "13fed65f97f437b7d6858a698369a874a8a9966e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1004,
+              "id": "Q1004"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "q562214$7202660E-18E1-48DB-A551-B6DFAE7367A0",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "72eb701504f87db7c70422d27ccf787726216032",
+          "datavalue": {
+            "value": "Manhwa",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "q562214$84D9EEED-3D64-4796-A836-977C2A04F670",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "98ff348bbdbce77847b0d2fc9f3fc0fd1207928e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8605579,
+              "id": "Q8605579"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q562214$370DADEC-4989-4BA8-84A1-3A2F29AA49F3",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "9cb525cc389df7a9857e62376208d8f29911ce07",
+          "datavalue": {
+            "value": "/m/03ck3_",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q562214$443DD504-B7BC-4056-A517-BCED02DDDC8B",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1709": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1709",
+          "hash": "4037f935f2af5b3f62ed13d5aa65c4748fc1f2b6",
+          "datavalue": {
+            "value": "http://dbpedia.org/ontology/Manhwa",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P973": [
+            {
+              "snaktype": "value",
+              "property": "P973",
+              "hash": "c9041080c4fc68e0585f8a4a29131d5f75c781f7",
+              "datavalue": {
+                "value": "http://mappings.dbpedia.org/index.php/OntologyClass:Manhwa",
+                "type": "string"
+              },
+              "datatype": "url"
+            }
+          ],
+          "P813": [
+            {
+              "snaktype": "value",
+              "property": "P813",
+              "hash": "b85a45c0dcbef1bbaa976c2eb03b605a09a33509",
+              "datavalue": {
+                "value": {
+                  "time": "+2015-06-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P973",
+          "P813"
+        ],
+        "id": "Q562214$9C699C31-F662-4127-ADDC-CCFDA21483DE",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "8f08ac3e0839bdbc4c6eb8d671e772deb12ba423",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "250b03083f7971a02473af3e43115ef521b1440d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 465,
+                      "id": "Q465"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "f832f8cbdae93231dd5b76dd23189a81c3cc2de4",
+          "datavalue": {
+            "value": "Manhwa",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q562214$29DDBD02-EF4A-4C02-B23C-779944FD13B0",
+        "rank": "normal"
+      }
+    ],
+    "P3095": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3095",
+          "hash": "ef94e79c201385fdc9da953290bbc344c0b63747",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3285854,
+              "id": "Q3285854"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q562214$c832c5d5-4663-7918-0ff9-8856e4591b11",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "390ccadbbdc49186d37442b9c53759ab4dda8c2c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 20087698,
+              "id": "Q20087698"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q562214$BFE35FB9-96F8-4D12-9186-4C3CB74AF9A5",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "61b99a815c3f4e28d4e946c11ae9fa412e1c59b0",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 26971562,
+              "id": "Q26971562"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q562214$0c8643ec-4f0a-71dd-cf12-3fdc3cace3e8",
+        "rank": "normal"
+      }
+    ],
+    "P3984": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3984",
+          "hash": "a0c01750c1d4949d3b52c8f8cfde8b9cbcf860ee",
+          "datavalue": {
+            "value": "manhwa",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "cd5ba2d85ad002c669192fc8e9ecdc2ae4505be4",
+              "datavalue": {
+                "value": "r/manhwa - Your subreddit to discuss Korean 만화",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P580": [
+            {
+              "snaktype": "value",
+              "property": "P580",
+              "hash": "887483e6334d6642c4d046b4b6ad8142ed95eb19",
+              "datavalue": {
+                "value": {
+                  "time": "+2012-01-31T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ],
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1860,
+                  "id": "Q1860"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P585": [
+            {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "97c9d30273b30e0778cf54c2816c20dff8121d93",
+              "datavalue": {
+                "value": {
+                  "time": "+2023-05-23T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P580",
+          "P407",
+          "P585"
+        ],
+        "id": "Q562214$99c92b74-4ae3-7f78-1ed5-8c7256975875",
+        "rank": "normal"
+      }
+    ],
+    "P6839": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6839",
+          "hash": "fd7f94b3006c160292097bba5c3c07647c9d09cb",
+          "datavalue": {
+            "value": "Main/Manhwa",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q562214$6cf50a22-4742-0afc-2b81-b64746f0fb8b",
+        "rank": "normal"
+      }
+    ],
+    "P2347": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2347",
+          "hash": "8f23195436a857ee31ba651b5e8693b8eec56021",
+          "datavalue": {
+            "value": "22675",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "da2838d2962e05a2647523f82823308b03f17020",
+              "datavalue": {
+                "value": {
+                  "text": "manhwat",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "8e5b8cfa289af1a826fb9aaf3e06df4ac1889275",
+              "datavalue": {
+                "value": {
+                  "text": "manhwas",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "4813d7627c7e0f8a37e9dfdde7d5e5ae90e9c6ca",
+              "datavalue": {
+                "value": {
+                  "text": "manhwat",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "9dd96081661dec3b4546b788a0b48a1f1b546c63",
+              "datavalue": {
+                "value": {
+                  "text": "manhwa",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P14458": [
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "bde0286ec6758c1449eec06900af061190d80334",
+              "datavalue": {
+                "value": {
+                  "text": "manhwasarjakuvat",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457",
+          "P14458"
+        ],
+        "id": "Q562214$53A4687A-77B3-492D-9F34-EEA87D9725A6",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d864245f0775b15ea147d7f55e46111bcbaf89d4",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "7133f11674741f52cadaae6029068fad9cbb52e3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 89345680,
+                      "id": "Q89345680"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "d14ae00ee696ad55b3897a3fc9cf64bce5c78410",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-07-22T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8687": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8687",
+          "hash": "71f35b6d8bd20f03c9eb67c83a9e848d35cf374d",
+          "datavalue": {
+            "value": {
+              "amount": "+819736",
+              "unit": "1"
+            },
+            "type": "quantity"
+          },
+          "datatype": "quantity"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P585": [
+            {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "97c9d30273b30e0778cf54c2816c20dff8121d93",
+              "datavalue": {
+                "value": {
+                  "time": "+2023-05-23T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ],
+          "P3984": [
+            {
+              "snaktype": "value",
+              "property": "P3984",
+              "hash": "a0c01750c1d4949d3b52c8f8cfde8b9cbcf860ee",
+              "datavalue": {
+                "value": "manhwa",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P585",
+          "P3984"
+        ],
+        "id": "Q562214$7e2881f3-fbc2-4617-ad91-ab3e11acf65d",
+        "rank": "preferred"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "f5cde4648e79669bd71b97281673f7ffdf0e13f6",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 626844,
+              "id": "Q626844"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q562214$7fee3b40-40aa-77ae-8f4e-e464b78f22d6",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "dbdcdc16fddfca9c59fd845847be2b055eb08fb6",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8274,
+              "id": "Q8274"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q562214$894a8b86-4ba9-f193-229b-8c58fbd8c807",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "5083b0a4a5eb3ddbb40e7b8990a6c5e05b340d5f",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 754669,
+              "id": "Q754669"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q562214$52e0cf15-4ba5-9e14-0766-db45f9ceb3fd",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "c956e84ba2aba2a4b4c4f4564c5d9950326cb152",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3285662,
+              "id": "Q3285662"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q562214$c6e32787-4e0a-3802-7afb-35f98e03b38a",
+        "rank": "normal"
+      }
+    ],
+    "P495": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P495",
+          "hash": "79b019072ab0e957bd52b9a29e93da340a855891",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 18097,
+              "id": "Q18097"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q562214$b290e2f9-4e65-72d3-8d2f-ad48d6bb52ea",
+        "rank": "normal"
+      }
+    ],
+    "P1424": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1424",
+          "hash": "831c757ddca53fecbbc264542972af900187d24b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 20364863,
+              "id": "Q20364863"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q562214$e455090c-2268-4c73-aa99-7f2c80fdb012",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "219733e42b4ab53c348e85bd6bff2c15441fdb2f",
+            "snaks": {
+              "P3452": [
+                {
+                  "snaktype": "value",
+                  "property": "P3452",
+                  "hash": "52f086dbad9fbedf1468ed1773ac9678e9d8a0a3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 20364863,
+                      "id": "Q20364863"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P3452"
+            ]
+          }
+        ]
+      }
+    ],
+    "P12800": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12800",
+          "hash": "3b7967ea23aced03182bca40ffe54c227fb34ffe",
+          "datavalue": {
+            "value": "fr:Manhwa",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q562214$714457E3-6629-4D92-AD42-B59E5CD2E291",
+        "rank": "normal"
+      }
+    ],
+    "P5034": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5034",
+          "hash": "32560c9995005bed07b30e982b48bba609d2fc90",
+          "datavalue": {
+            "value": "KSH1998022212",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q562214$c2469f21-489b-9e7a-9d9a-df69146eea4b",
+        "rank": "normal"
+      }
+    ],
+    "P17": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P17",
+          "hash": "ab4105e4f6c3449ba4a6ca949a3aaafaa67f5be8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 884,
+              "id": "Q884"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q562214$d137ccb8-4876-9a45-b9a6-bab1d9aad394",
+        "rank": "normal"
+      }
+    ],
+    "P13484": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13484",
+          "hash": "831400ebb77ea7d0838c8eb7f29535eccece1204",
+          "datavalue": {
+            "value": "manhwa",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P6760": [
+            {
+              "snaktype": "value",
+              "property": "P6760",
+              "hash": "427aefb83bd5c39648a913fc4f9df9ddfcec636c",
+              "datavalue": {
+                "value": "26265",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            }
+          ],
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "ea24b4a69f19039722f36b6c0e805221bd08ed13",
+              "datavalue": {
+                "value": "Manhwa",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P1552": [
+            {
+              "snaktype": "value",
+              "property": "P1552",
+              "hash": "b76b8564371282f717acdb4bdb9d47cecb18fee9",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 116763049,
+                  "id": "Q116763049"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P585": [
+            {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "8e96fcbf23a30cd998400e0e3c4407f04ae8c1f6",
+              "datavalue": {
+                "value": {
+                  "time": "+2025-10-26T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P6760",
+          "P1810",
+          "P1552",
+          "P585"
+        ],
+        "id": "Q562214$49225a12-046f-43ac-aa5f-1d2e423273f4",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "4628f7effc98d4477f7bd3de0f9b9d76b2e52591",
+            "snaks": {
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "ca35c6a6ee16c3cd1be9226a23eb2e7ac48f48ad",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2025-10-26T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "5a9ac7edaf80f47d974990f43f7d7f30abbb61e2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 2071334,
+                      "id": "Q2071334"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P813",
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2561": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2561",
+          "hash": "ce6e1b3db248c825aa053c7e9df91745bac6f248",
+          "datavalue": {
+            "value": {
+              "text": "한국 만화",
+              "language": "ko"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q562214$ba63b1d4-409e-7233-3fba-f72dbb6cf370",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2561",
+          "hash": "6846df22d9c9617be2e951513b8715ad02cc03ab",
+          "datavalue": {
+            "value": {
+              "text": "韓國漫畫",
+              "language": "ko-hani"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q562214$6d59d45e-4e52-d723-60b0-f4432b344250",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2561",
+          "hash": "df159ca1b9bd71ea1019f531cecf28124ae9657f",
+          "datavalue": {
+            "value": {
+              "text": "韩国漫画",
+              "language": "zh-hans"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q562214$1ba8ff33-4930-417f-a622-bdb64ba1d326",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2561",
+          "hash": "e12d331fe3b644c6af90102de64d665d5e475f22",
+          "datavalue": {
+            "value": {
+              "text": "韩国漫画",
+              "language": "zh-cn"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q562214$0d4486cd-4ba9-20f0-b150-89a990325c9e",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2561",
+          "hash": "ac37c6823bd099d31defcd6866ddf3e974b2b116",
+          "datavalue": {
+            "value": {
+              "text": "韓國漫畫",
+              "language": "zh"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q562214$245820a2-4947-5ee0-de94-79bb81d9c858",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2561",
+          "hash": "ae442010afc0f54e4da57bf4bb02ccd16f29cfae",
+          "datavalue": {
+            "value": {
+              "text": "韓國漫畫",
+              "language": "zh-tw"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q562214$c8d22abc-498d-eb0f-a560-2c6cd210f714",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2561",
+          "hash": "8caae5398fb526d4750289261c79b9101794cdfa",
+          "datavalue": {
+            "value": {
+              "text": "韓國漫畫",
+              "language": "zh-hant"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q562214$0e3cdc1a-4545-480f-a2a5-df25e31b789b",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2561",
+          "hash": "325ae55dcc2061bb491ff23f931e830fa02e4b1a",
+          "datavalue": {
+            "value": {
+              "text": "韓國漫畵",
+              "language": "ko-hani"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q562214$c1164352-4ede-0c2c-c706-a4403521995e",
+        "rank": "normal"
+      }
+    ],
+    "P527": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "8fc48927d4ea157e412b646bc1a219672fc763ad",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 74262765,
+              "id": "Q74262765"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q562214$5515ecb6-412b-e7d7-9e60-c977beab1d4b",
+        "rank": "normal"
+      }
+    ]
+  }
+}

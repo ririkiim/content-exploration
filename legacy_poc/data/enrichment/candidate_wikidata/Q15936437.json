@@ -1,0 +1,308 @@
+{
+  "type": "item",
+  "id": "Q15936437",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "research university"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "연구형 대학"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "university committed to research as a central part of its mission"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "학문 연구 과정을 실시하는 대학"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "f21eeb9a86124aaa41f7178af7231910b9acfd96",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3918,
+              "id": "Q3918"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15936437$094b36be-450d-682d-ed0b-bfe5d5d6ebb6",
+        "rank": "normal"
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "1c85e4d572caef4755610426cb0c9187190efab7",
+          "datavalue": {
+            "value": "Research-University",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q15936437$C28F2873-1433-4B8F-A545-19B5EA0435FD",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "3b0a5bb3c1f955edce73740124f7d935698092ad",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3ac9682e789a3a3791d4fd088b265ea03abef101",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 51711,
+                      "id": "Q51711"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2581": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2581",
+          "hash": "31fe3aab28f550ee94d5d7b87e6263ae0bbdbb81",
+          "datavalue": {
+            "value": "14711835n",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q15936437$E166692A-B785-43EB-B3D2-E0DEA2346AB7",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "248ac337a217a5f5eed7139a82a4e60931611af0",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "25b816aab41db18565946259c950aed6de05dd1e",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 4837690,
+                      "id": "Q4837690"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "12612327e237cb00cbdc9b9dd9409d47302149c3",
+          "datavalue": {
+            "value": "/g/12fgsb32g",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "d2b0e6ac35ac892364ffe737d6f04c8f2db21121",
+              "datavalue": {
+                "value": "Forschungsuniversität",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q15936437$EC297F22-5D49-4A4D-BB7A-56996F4218BD",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "4eccd21bae4da5f8f144e3ed23c60c751fb79e92",
+          "datavalue": {
+            "value": "/g/11fvt37yt3",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q15936437$60BA5E49-0DB4-46DA-954E-8B6F3EC6C540",
+        "rank": "normal"
+      }
+    ],
+    "P10565": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10565",
+          "hash": "921598f85752957cfcbf1ba7eeadd8b28008bfae",
+          "datavalue": {
+            "value": "219637",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q15936437$F6B8BE5F-B340-441F-9CE4-4DB7E87EFF3E",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "eb243491b3bbc47d7e53a2375d6545874fb1c474",
+          "datavalue": {
+            "value": "Research higher education institutions",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q15936437$022f26ae-23ea-4163-80a4-d37ee21f9395",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "f40f57f47f6258272d16b3531b95138f3f558de8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 130388971,
+              "id": "Q130388971"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15936437$abe708dc-4657-a1cf-eec2-182e3f2a1834",
+        "rank": "normal"
+      }
+    ],
+    "P14541": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14541",
+          "hash": "5f7b802e1cba3c2f8278bcd4c4e5eb4b0a1adfbd",
+          "datavalue": {
+            "value": "1qnay1",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "d98506ba14ec4c2aafa955337368aa412570fb01",
+              "datavalue": {
+                "value": "研究型大学",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P5017": [
+            {
+              "snaktype": "value",
+              "property": "P5017",
+              "hash": "4102f68ef6a3e38f38a98753d6cc1bfbff5c97c5",
+              "datavalue": {
+                "value": {
+                  "time": "+2022-01-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P5017"
+        ],
+        "id": "Q15936437$F7A4C345-BD34-40B8-A643-7602B0171450",
+        "rank": "normal"
+      }
+    ],
+    "P8885": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8885",
+          "hash": "3dd8f2c9e09ff8302e43e87dd572f0388e107056",
+          "datavalue": {
+            "value": "연구형 대학",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q15936437$0c404058-4ae9-a6ea-9ef4-8a0686af62e3",
+        "rank": "normal"
+      }
+    ]
+  }
+}

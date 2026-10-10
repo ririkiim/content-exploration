@@ -1,0 +1,100 @@
+{
+  "type": "item",
+  "id": "Q111018943",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "유인도"
+    }
+  },
+  "descriptions": {
+    "ko": {
+      "language": "ko",
+      "value": "有人島"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "f286b9e66b17e349df50f4e48ae0d6cb88fe0dee",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 23442,
+              "id": "Q23442"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q111018943$8cae3043-4b50-9ed8-7b62-4bd14b13c4f8",
+        "rank": "normal"
+      }
+    ],
+    "P461": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P461",
+          "hash": "e50d3291d75b8a8cfd2ea4132d85e03740334368",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1065592,
+              "id": "Q1065592"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q111018943$c9a5a539-4688-a9d5-4ccf-e9ce1401a6f5",
+        "rank": "normal"
+      }
+    ],
+    "P1552": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1552",
+          "hash": "547d2e7fb57b99c1c9abda2d6c596345692fc2e7",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 486972,
+              "id": "Q486972"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q111018943$42494937-42d4-8ea6-251a-c26074cd481f",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1552",
+          "hash": "a57904b728e9e21ede6c3d9a587de0f8ced99aea",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 33829,
+              "id": "Q33829"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q111018943$6f368c2b-4396-1b63-6c10-481a97806d67",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "type": "item",
+  "id": "Q12600151",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "삼도수군통제사"
+    },
+    "en": {
+      "language": "en",
+      "value": "Samdosugun Tongjesa"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "position in Joseon government (Naval commander)"
+    }
+  },
+  "claims": {
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "c8f3329bdf620d4ed661e5a56b57b5f36710a210",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 18532311,
+              "id": "Q18532311"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q12600151$792E562A-8D5A-4CDA-802F-DE2B6B9A3AEC",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "08be9f116c5c541d7fa461ad59ad559a42ffd6ed",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "56f99b6701feb379816767ae88bb77e0e74981b3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17985,
+                      "id": "Q17985"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "b9b2812183dd5f12fabae20828179f79171c7c2e",
+          "datavalue": {
+            "value": "/m/0nbdb44",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q12600151$9B698635-85FE-4276-A640-49049A4BB6E3",
+        "rank": "normal"
+      }
+    ],
+    "P9475": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9475",
+          "hash": "8b233ff22af489855c8e9dd07346c78b56a52002",
+          "datavalue": {
+            "value": "E0031240",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q12600151$F1F3FEF5-A6D4-41FD-9AF9-F6953A0A9F37",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "22921a3d81e97a69bc1b06726862944caa1a093d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 4164871,
+              "id": "Q4164871"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q12600151$f323f9fd-46d4-99de-2ae5-138bbf911e3e",
+        "rank": "normal"
+      }
+    ],
+    "P17": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P17",
+          "hash": "5cca003cb9989d5104d640b8e508f9568e4ae260",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 28179,
+              "id": "Q28179"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q12600151$fff7852d-4d71-b49d-60a1-e586bf2d8985",
+        "rank": "normal"
+      }
+    ]
+  }
+}

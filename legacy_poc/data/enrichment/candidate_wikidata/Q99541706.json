@@ -1,0 +1,108 @@
+{
+  "type": "item",
+  "id": "Q99541706",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "historical unrecognized state"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "역사적 미승인국"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "nonexistent state that lacked recognition during its period of existence"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "존재 당시 국제적으로 승인받지 못한, 현재 존재하지 않는 국가"
+    }
+  },
+  "claims": {
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "5fa7f4a7fc5cc6cf66e41f7e7a9f71c1831f8f54",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8025426,
+              "id": "Q8025426"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q99541706$64459DFF-CE67-4DA0-99BB-9B7B2DBA6DB4",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "9261fb45adee27c6dfaa32f31296078e93aa33b9",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10711424,
+              "id": "Q10711424"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q99541706$37b94cda-47e7-795d-eb36-e8f456c7afc4",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "ba170a375d5e21e04a68c07fbe4c6549b5e9dd35",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3024240,
+              "id": "Q3024240"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q99541706$178c3f0a-49a4-79d9-a55f-8f50e8c97221",
+        "rank": "normal"
+      }
+    ],
+    "P2354": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2354",
+          "hash": "9c86a7d713f155de18963cd6ddb58709477d6631",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 4818345,
+              "id": "Q4818345"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q99541706$441ea352-453d-82ec-a7f4-e8d2f7534c1e",
+        "rank": "normal"
+      }
+    ]
+  }
+}

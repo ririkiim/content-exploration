@@ -1,0 +1,79 @@
+{
+  "type": "item",
+  "id": "Q123349687",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "geographically localized event"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "event that occurred at a specific geographical location or area"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "6da4d967d8eaa345bd8ee7bcada96f3199cd9cc3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 123349660,
+              "id": "Q123349660"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q123349687$f254533c-43e1-b088-2182-3c7fbd5f842b",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "5d931672fdba0863cfb706adc09da8d9f01a7072",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1190554,
+              "id": "Q1190554"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q123349687$d2c9ce19-4846-2ccd-6cac-951428fc0c5e",
+        "rank": "normal"
+      }
+    ],
+    "P1552": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1552",
+          "hash": "0b3332d2ffb542280402236925a8da32212e2bd1",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 18635222,
+              "id": "Q18635222"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q123349687$5e940657-446f-ce2a-547a-ec4dacf697ea",
+        "rank": "normal"
+      }
+    ]
+  }
+}

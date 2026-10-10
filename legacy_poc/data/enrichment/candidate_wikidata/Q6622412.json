@@ -1,0 +1,89 @@
+{
+  "type": "item",
+  "id": "Q6622412",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "list of highest-grossing domestic films in South Korea"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "대한민국 영화 흥행 기록"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Wikimedia list article"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "대한민국의 영화 천만 관객 통계"
+    }
+  },
+  "claims": {
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "5ff6e63e2f39587f9d461b31cfc42484ea0330d1",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 13406463,
+              "id": "Q13406463"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q6622412$4F693298-1B16-48EB-A697-306341B4FA63",
+        "rank": "normal"
+      }
+    ],
+    "P360": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P360",
+          "hash": "f0a7403ecbda5cf93e745fcc9ed5d01ab77eac47",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11424,
+              "id": "Q11424"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q6622412$F6131FEB-2E84-4A87-AE0F-A0E5C32FBE77",
+        "rank": "normal"
+      }
+    ],
+    "P17": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P17",
+          "hash": "ab4105e4f6c3449ba4a6ca949a3aaafaa67f5be8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 884,
+              "id": "Q884"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q6622412$FCB556A9-78D8-46AA-BE24-B0AE084334EE",
+        "rank": "normal"
+      }
+    ]
+  }
+}

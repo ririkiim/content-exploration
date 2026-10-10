@@ -1,0 +1,718 @@
+{
+  "type": "item",
+  "id": "Q321839",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "agreement"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "협정"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "understanding, agreement between two or more contracting persons, parties or entities"
+    }
+  },
+  "claims": {
+    "P361": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P361",
+          "hash": "0fedf09130263c7d452db192e9b83e1f93d34f05",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 4394526,
+              "id": "Q4394526"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q321839$6ab45360-4241-2b8d-05df-a0033b6d2d7b",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P361",
+          "hash": "ac2b3055d4ebf2c1f4186a8742bf13bfc6f2eee2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 661518,
+              "id": "Q661518"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q321839$c97cc6a9-49ea-c11d-64af-d8c15162b302",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "d48d0db4ae708992fc4412bbe2a20ef80c219c8c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2006324,
+              "id": "Q2006324"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q321839$9ca52228-47ee-307a-89a0-62ef9e24748e",
+        "rank": "normal"
+      }
+    ],
+    "P1296": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1296",
+          "hash": "76bfdca760c19c9948a05a262afa7306463b47cc",
+          "datavalue": {
+            "value": "0155473",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q321839$BD38747D-4F4F-4DEC-A120-58DFC7044905",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "b3fd5e254143d8b52cd96cff43af9af5e3a82358",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "f13c99a16441677ec69fcea23f221d866f1fc98f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 199693,
+                      "id": "Q199693"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "5b57dbc90e47120672d336dc30cdef04628c53c0",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2135465,
+              "id": "Q2135465"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q321839$DE98E430-D523-4D42-AEBF-3BDB0F921BFF",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "e0235842b3b535366da2977e130573b8f4012aab",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2006324,
+              "id": "Q2006324"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q321839$dbc327df-4c7a-ac70-b566-f78012c2a709",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "0cceded16e57ac0bac2bdf05cdb4879de678f75c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7468090,
+              "id": "Q7468090"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q321839$358dd179-47c4-5dd7-a292-0d012698df17",
+        "rank": "normal"
+      }
+    ],
+    "P6366": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6366",
+          "hash": "bbadda6edec31a20853574b66903fe2e8b18ef11",
+          "datavalue": {
+            "value": "2779073994",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q321839$120D5920-EA65-46B9-B8FC-2FF6E2366665",
+        "rank": "normal"
+      }
+    ],
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "fa35be363ed377a6e48f72c8eebd18591a927a27",
+          "datavalue": {
+            "value": "Pact",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q321839$BE57692A-7B17-4935-A377-CF21CF5CAAE7",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P227": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P227",
+          "hash": "ffc0a4850027e4c58fecf267ee8dc3fdd33cd7d4",
+          "datavalue": {
+            "value": "7503688-5",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q321839$F6F185AA-E2FB-4F9E-812A-950AE77D61C5",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "299857f65ed4e372d4b222941b08e336cc87f899",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48183,
+                      "id": "Q48183"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "063b840de75f56b4a86750db5b3df131ebaec711",
+                  "datavalue": {
+                    "value": "https://de.wikipedia.org/w/index.php?title=Abkommen&oldid=202887001",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "bb4e40dc45d5ef80d23796846b29fa9df36a8423",
+          "datavalue": {
+            "value": "/g/1226mn6x",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q321839$3847BEBD-1AE4-48D9-83FA-EB537237859B",
+        "rank": "normal"
+      }
+    ],
+    "P508": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P508",
+          "hash": "804d7570615aa2628875ea54d97955d988f2ae2c",
+          "datavalue": {
+            "value": "61693",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q321839$7CE01F45-ACEF-46FD-8D61-F8B9F5740C0D",
+        "rank": "normal"
+      }
+    ],
+    "P8647": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8647",
+          "hash": "2ec6d27df27be2b3222afd649aa22ef29873dff0",
+          "datavalue": {
+            "value": "sj2022050097",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "ff32f3a2d417b30d6bb373d7ccd48c895e06a60d",
+              "datavalue": {
+                "value": "Deals",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P4970": [
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "cf6a2da0f5410dc1c5eb6bf35619a017b476580b",
+              "datavalue": {
+                "value": "Arrangements, Mutual",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "1b3b88462fefe92fd4d6133903f1c2736c2e00e3",
+              "datavalue": {
+                "value": "Bargains",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "e5f7355b15b6ef9112faac8dcec30f68af21f8ed",
+              "datavalue": {
+                "value": "Mutual arrangements",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P4970"
+        ],
+        "id": "Q321839$b7fe0ad7-4ad8-735f-4802-688b24587dd8",
+        "rank": "normal"
+      }
+    ],
+    "P11567": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11567",
+          "hash": "3aea6322776a8eeb46fc02192142274696311e81",
+          "datavalue": {
+            "value": "agreement",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q321839$E6826F9A-270B-4D33-AE16-3740EAC0E233",
+        "rank": "normal"
+      }
+    ],
+    "P9437": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9437",
+          "hash": "4c777488b4ccabd2c80cada703e911ccd4e2a607",
+          "datavalue": {
+            "value": "17044",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q321839$BA51DF36-8D6A-4D5E-997B-892BE91B1C71",
+        "rank": "normal"
+      }
+    ],
+    "P12385": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12385",
+          "hash": "8f6393f79e5ed8a6741a855e074595b54646dd91",
+          "datavalue": {
+            "value": "acord-4",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q321839$a95ac1ea-8a55-4b18-ab13-4d828749827c",
+        "rank": "normal"
+      }
+    ],
+    "P12596": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12596",
+          "hash": "8396a55ea4335b371e099d5dcfc4db6af7f4f1fb",
+          "datavalue": {
+            "value": "87646",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q321839$FAFA97A4-4713-406D-B210-26DF249732A4",
+        "rank": "normal"
+      }
+    ],
+    "P1343": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1343",
+          "hash": "ec5098a84f79f6b412dceb39a9908b1374675988",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 16679904,
+              "id": "Q16679904"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "3f1a2b4b3b7c8d38f295064be685f03a4aa12be6",
+              "datavalue": {
+                "value": "Пакт",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q321839$81aa0f0d-48a2-5a86-3907-f0f29fac2803",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1343",
+          "hash": "28ad5db44d36a52da8e728f0a629108c23ded0da",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 16939300,
+              "id": "Q16939300"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2699": [
+            {
+              "snaktype": "value",
+              "property": "P2699",
+              "hash": "e0f85f0ad5e69ffee1a5549ac5787e2cd2653894",
+              "datavalue": {
+                "value": "https://www.law.cornell.edu/wex/agreement",
+                "type": "string"
+              },
+              "datatype": "url"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2699"
+        ],
+        "id": "Q321839$e4d8115b-42d1-5308-b199-fe2c6137e4ee",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1343",
+          "hash": "0b03d1de37c592df8a233bb30cc90313bc8f220e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 141613474,
+              "id": "Q141613474"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2699": [
+            {
+              "snaktype": "value",
+              "property": "P2699",
+              "hash": "f9b4009e462427d686194a39307be796416943f3",
+              "datavalue": {
+                "value": "https://dictionary.nolo.com/agreement-term.html",
+                "type": "string"
+              },
+              "datatype": "url"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2699"
+        ],
+        "id": "Q321839$c263e364-4bee-5a3b-2241-aa2f6929fdd2",
+        "rank": "normal"
+      }
+    ],
+    "P8168": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8168",
+          "hash": "50b19809830250b57c5933dd6ee4cdbda72799db",
+          "datavalue": {
+            "value": "Q516847",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q321839$C9502638-4E52-4385-B004-B5CC552374FC",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "205cec87eb805862eba032251db5170eaaa49fc9",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "e4afc4ad60f2160201385d29d076e0794f815f1e",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 90405608,
+                      "id": "Q90405608"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "0a3bb137286f7a06f4ea2f543f29533c862174ca",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-12-10T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P7860": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7860",
+          "hash": "2a53c5a28f8dc60527f304e9a990dae7b5e337fd",
+          "datavalue": {
+            "value": "acuerdo",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q321839$70F364CF-DED5-47E8-9C7A-EF4BB7F2279C",
+        "rank": "normal"
+      }
+    ],
+    "P13372": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13372",
+          "hash": "53e048149ec867f6d9ebed9a10f762bc7d8b316e",
+          "datavalue": {
+            "value": "382981",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q321839$16DE44F3-4CAF-4295-90C7-A4DF542A187D",
+        "rank": "normal"
+      }
+    ],
+    "P13772": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13772",
+          "hash": "1596cb0a0a17d16f61bfaced39e8df35dacd010e",
+          "datavalue": {
+            "value": "agreement",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q321839$20FC5548-AFA6-4542-B94C-19FCBFA8A09C",
+        "rank": "normal"
+      }
+    ]
+  }
+}

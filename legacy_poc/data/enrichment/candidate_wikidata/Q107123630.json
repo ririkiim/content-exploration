@@ -1,0 +1,216 @@
+{
+  "type": "item",
+  "id": "Q107123630",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "civic structure"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "architectural structure that fullfills a civic purpose"
+    }
+  },
+  "claims": {
+    "P1709": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1709",
+          "hash": "582a797f40a1911010f57df4ba29706488209bab",
+          "datavalue": {
+            "value": "https://schema.org/CivicStructure",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q107123630$5D5B1FE3-0410-498D-B373-FE9E1EBC0B5F",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "f7e6ce7047681aab3454f5c9f9816136728cae9c",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "f8442b881bb07ed3f0effd662a586149b31db053",
+                  "datavalue": {
+                    "value": "https://schema.org/CivicStructure",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P1476": [
+                {
+                  "snaktype": "value",
+                  "property": "P1476",
+                  "hash": "dcc5d1d13b2bb7718a24d1a963497a83845e6aec",
+                  "datavalue": {
+                    "value": {
+                      "text": "CivicStructure - Schema.org Type",
+                      "language": "en"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "e92d27129c65e9f77f424e786fcfc2c47e96d5fe",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-06-06T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P1476",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "8ff4e7b1c4dc70a3040ada762cc38f39f95dfadd",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 811979,
+              "id": "Q811979"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q107123630$0580dc99-4d78-b588-951a-19957f487e8b",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "93083c3f0a32fc7ffa8e5ebecbeeed852311acd2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 17334923,
+              "id": "Q17334923"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q107123630$3878CB31-E63E-46A6-A48C-C8016FDCF941",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c9ec0533248109c4ab6dc5f3b8e4a3afd8ef08ce",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "81a52bec19f3ec3848a0c98998033e0ce2855536",
+                  "datavalue": {
+                    "value": "https://schema.org/CivicStructure#infoblock",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P1476": [
+                {
+                  "snaktype": "value",
+                  "property": "P1476",
+                  "hash": "dcc5d1d13b2bb7718a24d1a963497a83845e6aec",
+                  "datavalue": {
+                    "value": {
+                      "text": "CivicStructure - Schema.org Type",
+                      "language": "en"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P1476"
+            ]
+          }
+        ]
+      }
+    ],
+    "P5008": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5008",
+          "hash": "117c6b2453e4ace385322f65dbe03b5a53681a20",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 140249898,
+              "id": "Q140249898"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P580": [
+            {
+              "snaktype": "value",
+              "property": "P580",
+              "hash": "6eb1301274683b6787eee308f707ed3be53e1c38",
+              "datavalue": {
+                "value": {
+                  "time": "+2026-06-16T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P580"
+        ],
+        "id": "Q107123630$61F80B49-2D12-4DE3-BB95-E57BC7315AB8",
+        "rank": "normal"
+      }
+    ]
+  }
+}

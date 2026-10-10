@@ -1,0 +1,120 @@
+{
+  "type": "item",
+  "id": "Q96196009",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "former or current state"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "나라 (옛 나라 또는 현재 나라)"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "political state, whether former or current"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "1c1560cbd28210efdc7e32d9b59fc9d6f1bfcc6a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1063239,
+              "id": "Q1063239"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q96196009$A04302D8-04AC-44D6-840C-93238E6CF9AD",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "3416e7b91e94ec8268784468d5afe5d3fbe4b143",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 15617994,
+              "id": "Q15617994"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q96196009$186f0a1d-43fd-a55c-3efb-2787a3f95afd",
+        "rank": "normal"
+      }
+    ],
+    "P2738": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2738",
+          "hash": "4fa7d4837acece3e3ee87aa78037ef4527696ea4",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 23766486,
+              "id": "Q23766486"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P11260": [
+            {
+              "snaktype": "value",
+              "property": "P11260",
+              "hash": "6058c78e91defeabceb996846a5d5c88ad3b2c04",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 3024240,
+                  "id": "Q3024240"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P11260",
+              "hash": "d2236a1db233b725142411438865aead0245e870",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 7275,
+                  "id": "Q7275"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P11260"
+        ],
+        "id": "Q96196009$0739a1c3-4ef6-7ff1-2690-6c48d92f2167",
+        "rank": "normal"
+      }
+    ]
+  }
+}

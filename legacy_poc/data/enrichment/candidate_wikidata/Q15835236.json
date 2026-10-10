@@ -1,0 +1,144 @@
+{
+  "type": "item",
+  "id": "Q15835236",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "military action"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "군사 행동"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "use of the armed forces as a means of executive power"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "06fcd4ce872880c7ebe85ba6bc416574ad0b9a22",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2423459,
+              "id": "Q2423459"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15835236$9e45aba1-49dc-27d3-e383-84d3c06d9562",
+        "rank": "normal"
+      }
+    ],
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "0cd41343e32f72295a1187611755b862e505c0d5",
+          "datavalue": {
+            "value": "Military-Action",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q15835236$799F3227-3E0C-4DF4-9611-B52A94DDA59B",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "5ab3acf7930bbb5a6451ecfb37fc27076f9195a6",
+          "datavalue": {
+            "value": "/g/1yfp3jzdh",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q15835236$AF57A796-0EEE-44E2-AD6D-54CAC9BBD15F",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "5842b66b5fb5b2199ab40901c16b590320abff37",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 645883,
+              "id": "Q645883"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15835236$2a719bc0-41e8-8bd6-b5fb-70de3e50912c",
+        "rank": "normal"
+      }
+    ]
+  }
+}

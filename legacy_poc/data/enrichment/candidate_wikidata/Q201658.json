@@ -1,0 +1,1130 @@
+{
+  "type": "item",
+  "id": "Q201658",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "영화 장르"
+    },
+    "en": {
+      "language": "en",
+      "value": "film genre"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "classification of films based on similarities in narrative elements"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "사용된 서사적 요소가 비슷한 영화들을 묶은 것, 즉 영화의 종류"
+    }
+  },
+  "claims": {
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "2c6f86d86b6b8fcc3976b308765d5e0be4d4de1a",
+          "datavalue": {
+            "value": "Films by genre",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "q201658$593D0505-F371-4B83-AB0F-CB315EB6CEDB",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "2e5e8aa1c8c0329ca43d1b018278d964269e935f",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 129768780,
+              "id": "Q129768780"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "q201658$776278FC-4FAD-4C65-89B5-8F630DAC53A5",
+        "rank": "normal"
+      }
+    ],
+    "P361": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P361",
+          "hash": "2ac32fa85d9aeb71d4dad78c1acc5f4f0f7e1a85",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 590870,
+              "id": "Q590870"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "q201658$2a8111b1-4ffa-843d-6608-fc64a22ecef8",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "bd4e35bc22121fe7ad51b085ac832feb5b671ec7",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5817098,
+              "id": "Q5817098"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q201658$1273C319-53A4-41F8-9289-EF9A00E34C56",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "1ee8f6c41899ab97ad948fa2d55ad6d807da9f24",
+          "datavalue": {
+            "value": "/m/036lq",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q201658$56787C25-08F4-4A4C-82C4-250FDD82081A",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1256": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1256",
+          "hash": "9c2643d27e6fd027ae2aa8cee8f7027c253effaa",
+          "datavalue": {
+            "value": "48C873",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q201658$1F7E41BA-43AE-4556-9BBC-DFE8F8D2AB81",
+        "rank": "normal"
+      }
+    ],
+    "P227": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P227",
+          "hash": "48372fad819bb6af9ff788c5e28d2ccd91ca9553",
+          "datavalue": {
+            "value": "4328427-9",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q201658$FF709FFA-52FD-42FA-A7F9-FCB1B2B908BA",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48183,
+                      "id": "Q48183"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3827": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3827",
+          "hash": "d99bf4619f9a800d738f695ab8de5da801b79a81",
+          "datavalue": {
+            "value": "film-genres",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q201658$AC15A8AC-0139-4C83-BF54-D34D668C6177",
+        "rank": "normal"
+      }
+    ],
+    "P3235": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3235",
+          "hash": "b50dd05b0c4e0919031354501364a99c71294b60",
+          "datavalue": {
+            "value": "genres-of-film",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q201658$D5E72298-F822-4DD4-846D-A4DDF785BBA1",
+        "rank": "normal"
+      }
+    ],
+    "P5250": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5250",
+          "hash": "556baf7f61c299181ffd262083c9a55311ac5da9",
+          "datavalue": {
+            "value": "328",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q201658$B3F7B979-9ED9-4D12-9CD2-2A8A128A9AAD",
+        "rank": "normal"
+      }
+    ],
+    "P1014": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1014",
+          "hash": "98a0900f0be27b4bf372ee8830a0dc9caea2d355",
+          "datavalue": {
+            "value": "300263854",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q201658$9A0FE322-8DB4-4082-B93E-7027FFA19E7A",
+        "rank": "normal"
+      }
+    ],
+    "P6366": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6366",
+          "hash": "66563165d6d14e68e4216dc3231d12079631f575",
+          "datavalue": {
+            "value": "163999200",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q201658$3DF815C9-57E8-43BA-BFE3-3C0EFCD0527C",
+        "rank": "normal"
+      }
+    ],
+    "P5748": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5748",
+          "hash": "88636f29275a275326d35042581d1c96046a4a53",
+          "datavalue": {
+            "value": "24.34",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4390": [
+            {
+              "snaktype": "value",
+              "property": "P4390",
+              "hash": "473b30fcea21b0c9eb539a9a7ac74b1f8b87c634",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 39893967,
+                  "id": "Q39893967"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4390"
+        ],
+        "id": "Q201658$97F7D2C6-0F3F-4D4F-AD0C-D987042A0769",
+        "rank": "normal"
+      }
+    ],
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "bc2442f768bb6b9ee99a550dc30feda2e0925329",
+          "datavalue": {
+            "value": "FilmGenre",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q201658$5A569BC5-9F00-43DA-AE6A-CFB1750DCA28",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P244": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P244",
+          "hash": "4d88e1210530af8acf8ab7513cc6510374f735ee",
+          "datavalue": {
+            "value": "sh86003119",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "d7707d93c0f3454f2fe2090f2b4531d4cbf8aa07",
+              "datavalue": {
+                "value": "Film genres",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q201658$B7635B55-598B-4D6A-9F73-26FB6AE6A870",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "ced024eb12b5fe38ed87cb5720ea18f3c54229a9",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 36578,
+                      "id": "Q36578"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2354": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2354",
+          "hash": "83da78d42ef5d9d721a13faed0e333cecfe687be",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 23097456,
+              "id": "Q23097456"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q201658$b3d283f2-4903-2957-8786-2bf9dbe40d01",
+        "rank": "normal"
+      }
+    ],
+    "P3553": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3553",
+          "hash": "0c5ec7a5d0500ea930c75854c8f532452ebf489e",
+          "datavalue": {
+            "value": "19685500",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "49f224271d60f8e6813b5b5fc8a9af4bbdb22269",
+              "datavalue": {
+                "value": "电影类型",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q201658$89CCDC09-A68C-4A0A-9FD8-019C7FF42E8F",
+        "rank": "normal"
+      }
+    ],
+    "P9760": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9760",
+          "hash": "c022947abf0068d95eba027192fd36b887394511",
+          "datavalue": {
+            "value": "generi-cinematografici",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "ab6d20bf6345bbc29860c8ff232c2bbf39c4340f",
+              "datavalue": {
+                "value": "GENERI CINEMATOGRAFICI",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P2093": [
+            {
+              "snaktype": "value",
+              "property": "P2093",
+              "hash": "14a669dc96e8cc09ad9169bde836fc33273680a9",
+              "datavalue": {
+                "value": "Roberto Campari",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P577": [
+            {
+              "snaktype": "value",
+              "property": "P577",
+              "hash": "0fd00f5eca58b821e5453779868d6df3700a43de",
+              "datavalue": {
+                "value": {
+                  "time": "+2003-01-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P2093",
+          "P577"
+        ],
+        "id": "Q201658$3191db3a-44f8-bebd-18e5-d505639a8f6b",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "09b5a7c7e8592a3fcbceed1b7808c54a73143669",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 140354262,
+              "id": "Q140354262"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q201658$58e40713-4e2c-030c-eaa4-b4d6da8caee0",
+        "rank": "normal"
+      }
+    ],
+    "P8225": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8225",
+          "hash": "94eb8c9057cf1aa9a760cc5869df5596a58467f0",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11424,
+              "id": "Q11424"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q201658$1F09B26A-9593-41EC-BA4E-E69C30430BEF",
+        "rank": "normal"
+      }
+    ],
+    "P4342": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4342",
+          "hash": "da9018521f620bbba82abd424a6760c5920f76a6",
+          "datavalue": {
+            "value": ".taxonomy/4261",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q201658$42ebf8b0-462a-eaac-113f-454114b0c6a5",
+        "rank": "normal"
+      }
+    ],
+    "P1269": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1269",
+          "hash": "0b08bcd55b7933dddc809247c696794ede700e47",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 59825918,
+              "id": "Q59825918"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q201658$5d380b1f-4610-b7e7-4b92-5ff1c321e8af",
+        "rank": "normal"
+      }
+    ],
+    "P8189": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8189",
+          "hash": "2498d88c3061a22d9392be48c5675a0b66d94197",
+          "datavalue": {
+            "value": "987007551257705171",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "44435163b7a34490b593ab6d0d84f3698a931c28",
+              "datavalue": {
+                "value": {
+                  "text": "Film genres",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "20165ed59d816f4774a4bea320ffc4151c4e6f0e",
+              "datavalue": {
+                "value": {
+                  "text": "סוגות סרטים",
+                  "language": "he"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q201658$68AD81F8-FE05-4A13-996D-86F809431788",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c8a47202c92936005b390eb36ddd267921b51f43",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "0ea73b3596b49258a7b7ec6495950779b99e875d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188915,
+                      "id": "Q188915"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P10283": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10283",
+          "hash": "04064846ffa127e06c43ef232c7ce96c95cd44c2",
+          "datavalue": {
+            "value": "C163999200",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q201658$D80064B9-7CA9-4499-9F5C-0E9160D9A175",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "e0b27d817c9a9b3247df341000fc490bafcba862",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4a4f26a5361b5707266e48e425bf2be2f99fd2ab",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 107507571,
+                      "id": "Q107507571"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "435834d08182bb9f3dbe974ba9840af0f12899cc",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-26T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a4a4bf53f22268815c51ec10fed608da703c9c7f",
+                  "datavalue": {
+                    "value": "https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P1065": [
+                {
+                  "snaktype": "value",
+                  "property": "P1065",
+                  "hash": "3134281f51e2490f88272d53c56ee95d9cc24e2c",
+                  "datavalue": {
+                    "value": "https://web.archive.org/web/20220125070108/https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P2960": [
+                {
+                  "snaktype": "value",
+                  "property": "P2960",
+                  "hash": "f7ff3a0de7f9571ecb5e0740cba4122c6703e1ec",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-25T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P854",
+              "P1065",
+              "P2960"
+            ]
+          }
+        ]
+      }
+    ],
+    "P10565": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10565",
+          "hash": "4d1732c84e8ed45081403a7fd0c0dc148a41ac57",
+          "datavalue": {
+            "value": "71499",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q201658$222CA2DE-F18A-45F7-A606-9257EF72D0DB",
+        "rank": "normal"
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "581f1e00299377608ca87e2256a030c8873247e5",
+          "datavalue": {
+            "value": "ph120206",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "cde1da7b148d01e1b7024d84d3ee4237c198db48",
+              "datavalue": {
+                "value": "filmové žánry",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q201658$6A99F447-9D32-471E-94F0-38F94D28982C",
+        "rank": "normal"
+      }
+    ],
+    "P1687": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1687",
+          "hash": "33f1fc3da2c8dcb7b2727d3171fed39c8e1eb127",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 11588,
+              "id": "P11588"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q201658$fb0c3cc3-4241-3426-0eac-cf4e5de92439",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1687",
+          "hash": "41fdfee7d18183875c13acd2ef71d2f69b961612",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 11564,
+              "id": "P11564"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q201658$e68c66ff-4282-fcca-6f9e-8b99606e6374",
+        "rank": "normal"
+      }
+    ],
+    "P460": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P460",
+          "hash": "fb12cbfecd3c9a5a64b934d773bc9e36a46b26b1",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3001152,
+              "id": "Q3001152"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q201658$20e12e61-4d06-b76b-2d8e-0eae1a1c4918",
+        "rank": "normal"
+      }
+    ],
+    "P7522": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7522",
+          "hash": "c5e925d6ad12e7d0ec8a79450edcbb0a970697d2",
+          "datavalue": {
+            "value": "0031961",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "ef2426bf4093a75db8785f876c3faf2a463ce91d",
+              "datavalue": {
+                "value": "filmové žánre",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q201658$c5174585-4ce4-48ed-b734-08b1f4f0b88e",
+        "rank": "normal"
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "93b0dc5ee3fc32a3ecfa0cb9d2a61cc89e6d7593",
+          "datavalue": {
+            "value": "concept/35a20697-dd33-4d1e-a4d6-9931f18d4396",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q201658$6F9F20ED-F6D5-4DBC-90D4-493860FD006C",
+        "rank": "normal"
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "15ff4d4ea55f3517ac21d80ffefe0c0269808c34",
+          "datavalue": {
+            "value": "/g/1216x1pp",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q201658$108C0E11-9C31-4D72-9D78-087F809CC9BF",
+        "rank": "normal"
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "91ba212020da474da2a75a49a6039586abddb116",
+          "datavalue": {
+            "value": "h0005765-filmove-zanry",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q201658$0F7A1BFA-5836-4933-B6BA-974F7C0E043E",
+        "rank": "normal"
+      }
+    ],
+    "P8313": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8313",
+          "hash": "b4cc3d1c608633400ad218f2d5ae2ece1c982f4e",
+          "datavalue": {
+            "value": "filmgenrer",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q201658$e5c81ae4-41ff-fdae-5159-75316d4a446e",
+        "rank": "normal"
+      }
+    ],
+    "P14541": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14541",
+          "hash": "4558321eb4a768381518be297b06bc9fdfe32569",
+          "datavalue": {
+            "value": "47fVbn",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "248e699d3585d08c6ef57e452f27b1a8dde60adb",
+              "datavalue": {
+                "value": "电影样式",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P5017": [
+            {
+              "snaktype": "value",
+              "property": "P5017",
+              "hash": "4102f68ef6a3e38f38a98753d6cc1bfbff5c97c5",
+              "datavalue": {
+                "value": {
+                  "time": "+2022-01-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P5017"
+        ],
+        "id": "Q201658$EE5495BF-D680-4650-855D-0CD4E5193881",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,519 @@
+{
+  "type": "item",
+  "id": "Q2659904",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "government organization"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "정부 조직"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "organization administrated by a government authority or agency"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "ce05c4598648eb34423120c2ac6e94bcb2a18a74",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 155076,
+              "id": "Q155076"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q2659904$9a2ec81e-42d2-ee61-aa17-d1e0c9fa32a9",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "f095f937a582e4383a389298abef62da1c8bce33",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1549152,
+              "id": "Q1549152"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q2659904$480cbf09-42ab-f10a-bf2b-3f17c335d33e",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "70336113826d7017d5e5fc2be15e4362ea9445b7",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 43229,
+              "id": "Q43229"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q2659904$947c1645-4751-3f4e-992b-57960fa24199",
+        "rank": "normal"
+      }
+    ],
+    "P1709": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1709",
+          "hash": "d7c323f1196412ff87c5d95d85cbf7c0be6b8186",
+          "datavalue": {
+            "value": "https://schema.org/GovernmentOrganization",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q2659904$c42e70b3-47a1-bb98-728b-9f7b5d23180a",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1709",
+          "hash": "6ee28b728cc5d01f3ba660d0213b97f80d5137ef",
+          "datavalue": {
+            "value": "https://w3id.org/semanticarts/ns/ontology/gist/GovernmentOrganization",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q2659904$7d86f2eb-455d-9d08-41c9-6d2621933cda",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0d9c0390a91b7537929e98b20ba7e752a1c352bf",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "99fe778c3300f6a4543b262e56ffa63391263543",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 141190966,
+                      "id": "Q141190966"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "8729a5263ded04bdf26e88acebfd140537ad8d53",
+          "datavalue": {
+            "value": "Government-Organization",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q2659904$DDB66917-041B-4286-A702-FB84715E9ABE",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "3b0a5bb3c1f955edce73740124f7d935698092ad",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3ac9682e789a3a3791d4fd088b265ea03abef101",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 51711,
+                      "id": "Q51711"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P460": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P460",
+          "hash": "7df6439d03a56c4c528d9e35086af6136370e614",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 327333,
+              "id": "Q327333"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q2659904$32821c02-495d-05e1-b486-2e9015139751",
+        "rank": "normal"
+      }
+    ],
+    "P1282": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1282",
+          "hash": "678e1c3b8a0d8a4112f31e6907807b35db993be7",
+          "datavalue": {
+            "value": "operator:type=government",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q2659904$e0de7532-4449-0657-8612-f4566de88a4e",
+        "rank": "normal"
+      }
+    ],
+    "P461": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P461",
+          "hash": "308a8191cee5f909f40a9fd035e8edd023c4bc81",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 79913,
+              "id": "Q79913"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q2659904$CF540700-497C-4028-870C-2BC75FA963BC",
+        "rank": "normal"
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "5e9fbb684f6f8c48ef799a4559ba8b218aadcca3",
+          "datavalue": {
+            "value": "/g/12105lp3",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q2659904$4751FF83-94D3-4280-97E9-CE6A794B2B87",
+        "rank": "normal"
+      }
+    ],
+    "P3916": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3916",
+          "hash": "9aa2be203d428141846573dbed084733696f5f46",
+          "datavalue": {
+            "value": "concept11572",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q2659904$4810A1D9-5DFF-4181-AB25-2C68B9B16082",
+        "rank": "normal"
+      }
+    ],
+    "P10376": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10376",
+          "hash": "8d6d8f3f744f648d94f43a5583b03d2d129db07e",
+          "datavalue": {
+            "value": "social-sciences/government-organization",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q2659904$FA0D6F0D-4FF4-448D-8A81-6424A0BFDFD6",
+        "rank": "normal"
+      }
+    ],
+    "P1963": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1963",
+          "hash": "b98db04f5728cdb9f48dc6a52c11d55bb40bec69",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 12327,
+              "id": "P12327"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q2659904$9b99a529-46ad-80c8-4c82-69b0e2a24f2d",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "8e59b3acd14dc46a8227e3908edcc4e86535bcd2",
+          "datavalue": {
+            "value": "Government organizations",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q2659904$1751a517-4c20-d38a-1cb2-8a445663207c",
+        "rank": "normal"
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "92b3c3674d63aea82cabbc9db5ab049938460b95",
+          "datavalue": {
+            "value": "ph217391",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "8f83c8463a0f8df4df38484107a2f32351fd00b9",
+              "datavalue": {
+                "value": "vládní instituce a organizace",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q2659904$9FB9630E-694E-4EF4-B309-4D7537E70604",
+        "rank": "normal"
+      }
+    ],
+    "P361": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P361",
+          "hash": "2d4978a3f81882f2d9d3d234a5fd30a5e1443ba0",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 294217,
+              "id": "Q294217"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q2659904$4be2845c-4f02-1573-3653-1b27ac401f91",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "e4995aa999dc831ce32dd06deb5ccb73431f6b09",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 17197366,
+              "id": "Q17197366"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q2659904$49a32ac8-4c8a-f454-aaf8-77d36974d1e4",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "302b930acf35e8bb9f32ce922de9faad431c03c2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10541491,
+              "id": "Q10541491"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q2659904$99c040f2-4608-cc2c-c1d6-15951df68d90",
+        "rank": "normal"
+      }
+    ],
+    "P13786": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13786",
+          "hash": "4a6a237700a45fb4e12e9767ff99c4fe2e07b015",
+          "datavalue": {
+            "value": "government",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q2659904$e8886b22-45e6-cfa5-9105-cedff370d587",
+        "rank": "normal"
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "a4439a16635e2b242aa119e2d78c0b012a411929",
+          "datavalue": {
+            "value": "0209421-vladni-instituce-a-organizace",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q2659904$46080E98-0383-4FCD-9700-BAC9E2483AD3",
+        "rank": "normal"
+      }
+    ],
+    "P14692": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14692",
+          "hash": "005a9869f286797c2ecb1298b0ff696fcc30569a",
+          "datavalue": {
+            "value": "Q317",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q2659904$D3EB6F8B-E25B-4102-A8B8-8DCA10DF30A2",
+        "rank": "normal"
+      }
+    ],
+    "P14870": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14870",
+          "hash": "a00a55504b60672be6d4e80db5fcd6537d556e37",
+          "datavalue": {
+            "value": "ont00000408",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q2659904$C1AA294C-4D6B-4A69-885B-F34A8D7F2D43",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "21f872214bf139e0ef110f89491a54db2c11e8b1",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "387337a7339ad8f6dc934921628500296a7deda9",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 55118323,
+                      "id": "Q55118323"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

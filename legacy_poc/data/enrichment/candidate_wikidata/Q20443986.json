@@ -1,0 +1,527 @@
+{
+  "type": "item",
+  "id": "Q20443986",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "정유재란"
+    },
+    "en": {
+      "language": "en",
+      "value": "Second Japanese Invasion of Korea"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "invasion of the Korean Peninsula by the Japanese Toyotomi Government between 1597 and 1598"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "1597년과 1598년 사이에 일어난 거대한 전쟁"
+    }
+  },
+  "claims": {
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "9565c30f04dc02f1cfff5baa28b89ddc708fc7fa",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 198,
+              "id": "Q198"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q20443986$0e7d796a-40c3-a909-3641-b595e3681532",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "feb571e40320759fed84e2439a888d21df876a4c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 467011,
+              "id": "Q467011"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q20443986$7d231ab1-45f7-33e8-be1f-4872cf50a2b7",
+        "rank": "normal"
+      }
+    ],
+    "P710": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "1d09481bfa37f4470018d9f58a40919d7ff1e89c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 28179,
+              "id": "Q28179"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q20443986$2f5acac7-4e4e-7dc4-171d-06bb8d0f4a32",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "89724c6042df552774229e54231ab70c26d18f83",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9903,
+              "id": "Q9903"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q20443986$07f681b9-44cc-02e7-69f8-56ce1c39dc3c",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "534c5b58c4ec6e0eb70bff46407579af761827e9",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11634225,
+              "id": "Q11634225"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q20443986$0151e93f-43a2-a432-0582-e6dda00726fb",
+        "rank": "normal"
+      }
+    ],
+    "P580": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P580",
+          "hash": "8c85ded358394e1c4cffadbbe9d5c23991af4b14",
+          "datavalue": {
+            "value": {
+              "time": "+1597-03-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1705": [
+            {
+              "snaktype": "value",
+              "property": "P1705",
+              "hash": "c2be332e2ae1f68044dc098198da3503982a9925",
+              "datavalue": {
+                "value": {
+                  "text": "慶長二年正月十四日",
+                  "language": "ja-hani"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1705"
+        ],
+        "id": "Q20443986$b31efa63-4dce-ac0d-cb71-94817229cda9",
+        "rank": "normal"
+      }
+    ],
+    "P582": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P582",
+          "hash": "a20ff76cbdbcc6dab7abd5fce27cbcc4e93571fb",
+          "datavalue": {
+            "value": {
+              "time": "+1598-12-16T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1705": [
+            {
+              "snaktype": "value",
+              "property": "P1705",
+              "hash": "e798dbce4c434a08cfeb32c3a26267b0c04ed275",
+              "datavalue": {
+                "value": {
+                  "text": "慶長三年十一月十九日",
+                  "language": "ja-hani"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1705"
+        ],
+        "id": "Q20443986$00ab4415-4f38-db14-41ef-04f43b443337",
+        "rank": "normal"
+      }
+    ],
+    "P276": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P276",
+          "hash": "f97aa2eb79a9a363a855754693995da947c82f8a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 28179,
+              "id": "Q28179"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q20443986$6be0a488-484c-4523-4d8b-12732685e474",
+        "rank": "normal"
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "cceca4a2e467ffab53e11537d45d49bc296fcf3f",
+          "datavalue": {
+            "value": "/g/11btrq6jx8",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q20443986$2F8EDC48-40ED-4051-AE7E-B7241A0596C9",
+        "rank": "normal"
+      }
+    ],
+    "P361": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P361",
+          "hash": "b93b72ff30978fcbec35f219e600372c9fd89bd0",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 576338,
+              "id": "Q576338"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q20443986$02135042-4e31-da41-1fcb-6a9a0f69458c",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "020ccf985b14a44ff623a349e623c0a791a7fe91",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 18568339,
+              "id": "Q18568339"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q20443986$076ff9af-4f87-b92b-38f5-f0151c8eda30",
+        "rank": "normal"
+      }
+    ],
+    "P18": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "3b2b0abf2d85974757d44f57e71e63f5aabf8c64",
+          "datavalue": {
+            "value": "Ulsan waesung attack.jpg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q20443986$ebddb1ea-4652-10ec-09e3-943df38e2d3e",
+        "rank": "normal"
+      }
+    ],
+    "P1424": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1424",
+          "hash": "80dd150b94e4210627b940d9631316bf7b3d048c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 26123601,
+              "id": "Q26123601"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q20443986$22ca64f3-498e-410e-9f17-023ed50f8938",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "f1494e13147740d56f2ed19ba6a03aa5a039cd75",
+            "snaks": {
+              "P3452": [
+                {
+                  "snaktype": "value",
+                  "property": "P3452",
+                  "hash": "584e7b364bf04a950c274f3d2317d90a207559cc",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 26123601,
+                      "id": "Q26123601"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P3452"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2348": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2348",
+          "hash": "c3fceb414155c207d24f892fd08b9a156c751740",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 319531,
+              "id": "Q319531"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q20443986$d409a5c3-4b00-448c-d3fc-06ee84dd3dd9",
+        "rank": "normal"
+      }
+    ],
+    "P9475": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9475",
+          "hash": "5d9316f13cc34d16e3ff19d84aaac8a284e7b8a7",
+          "datavalue": {
+            "value": "E0050692",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q20443986$663a939e-4ea5-ec10-3c6b-d69e091009ab",
+        "rank": "normal"
+      }
+    ],
+    "P155": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P155",
+          "hash": "67af4816f49f7de1f087db5526999ab0dfe99d41",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 122846639,
+              "id": "Q122846639"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q20443986$0d9bda5f-43c7-5d94-0f28-a3a969741bde",
+        "rank": "normal"
+      }
+    ],
+    "P1705": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "cfabfd807451649460134b4b74bb8ee259ea6941",
+          "datavalue": {
+            "value": {
+              "text": "慶長の役",
+              "language": "ja"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1814": [
+            {
+              "snaktype": "value",
+              "property": "P1814",
+              "hash": "e3a273bc7a12314ff243f84987a1667d84b65d25",
+              "datavalue": {
+                "value": "けいちょうのやく",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P2125": [
+            {
+              "snaktype": "value",
+              "property": "P2125",
+              "hash": "68ac11d007acbb85a995dc37adccab27d612b61b",
+              "datavalue": {
+                "value": "Keichō no Yaku",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1814",
+          "P2125"
+        ],
+        "id": "Q20443986$291a975b-4de0-439e-b10e-46a0b5e775a7",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "99fa6ca5803d97474b8d0b40991b0417032c10be",
+          "datavalue": {
+            "value": {
+              "text": "정유재란",
+              "language": "ko"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2001": [
+            {
+              "snaktype": "value",
+              "property": "P2001",
+              "hash": "1c0564df293cec1e3c01e4997a93fd53451a8aec",
+              "datavalue": {
+                "value": "Jeong-yu Jaeran",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P1942": [
+            {
+              "snaktype": "value",
+              "property": "P1942",
+              "hash": "1bab3eb097b05df072edb2e15f827ef25f879e47",
+              "datavalue": {
+                "value": "Chŏng’yu Chaeran",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P1814": [
+            {
+              "snaktype": "value",
+              "property": "P1814",
+              "hash": "470c6bb460c4285e7011efca3ede66ea4f57bfa2",
+              "datavalue": {
+                "value": "チョンユジェラン",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2001",
+          "P1942",
+          "P1814"
+        ],
+        "id": "Q20443986$281797df-4a48-9cf2-9d7e-b1ffe27e910c",
+        "rank": "normal"
+      }
+    ]
+  }
+}

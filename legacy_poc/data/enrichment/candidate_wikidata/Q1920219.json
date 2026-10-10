@@ -1,0 +1,2034 @@
+{
+  "type": "item",
+  "id": "Q1920219",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "social issue"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "사회 문제"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "problem that influences a considerable number of individuals within a society"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "사회 내에서 상당한 수의 개인에게 영향을 미치는 문제"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "dbe3ebb458e7752f64e051929538a11c80564575",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 621184,
+              "id": "Q621184"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P518": [
+            {
+              "snaktype": "value",
+              "property": "P518",
+              "hash": "a3cf9e67874e5f40795aa256125617f424022f5a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 8425,
+                  "id": "Q8425"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P518"
+        ],
+        "id": "Q1920219$f9bde384-4a43-e63c-7863-6045730c13f2",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "5d931672fdba0863cfb706adc09da8d9f01a7072",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1190554,
+              "id": "Q1190554"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1920219$4cd16560-49eb-ea0d-0d8f-e02217eb0be0",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "f0b4be1cec4b452a49a6f3f75cd292a86c16f873",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7090668,
+              "id": "Q7090668"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1920219$F8CD4602-8E3E-4F59-B939-B04A3BA24A90",
+        "rank": "normal"
+      }
+    ],
+    "P349": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P349",
+          "hash": "0b8519fc0871d8dbb325384801df1219f4ee7ee3",
+          "datavalue": {
+            "value": "00571881",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$0465EF69-B4F5-45D2-A2CC-D63DBB44212B",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "3424a21a8f86c614aba64ab4ff7027e8daac14e0",
+          "datavalue": {
+            "value": "/m/075fzd",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$C58B4BC1-CC9F-4192-9CFE-70C7B1AB03E4",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "6bed4650af572d419ac3f30aee1d1649b10ec0fb",
+          "datavalue": {
+            "value": "Social issues",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q1920219$C7A6697A-33CD-4EED-AF69-4A031BC98906",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1343": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1343",
+          "hash": "0ad2349257a5ae2becb5ffd47b06aca47ae9d706",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 124355862,
+              "id": "Q124355862"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P304": [
+            {
+              "snaktype": "value",
+              "property": "P304",
+              "hash": "9405213e6daaa7062db5d692d783526d3b89684c",
+              "datavalue": {
+                "value": "24",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "id": "Q1920219$e90ac2d4-1096-4d19-90e9-93164b600e63",
+        "rank": "normal"
+      }
+    ],
+    "P1014": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1014",
+          "hash": "098ec163b84034e76951fda274474a8ccc8edb6c",
+          "datavalue": {
+            "value": "300055286",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$A37000CB-8530-4D56-8C62-65A89F09C1DA",
+        "rank": "normal"
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "93c51a35b7c53d1ca83e36e699e9d599b6314f1b",
+          "datavalue": {
+            "value": "Social-Issues",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$D18A1A30-E208-45C8-8BB4-6DF9C71DFAD7",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "3b0a5bb3c1f955edce73740124f7d935698092ad",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3ac9682e789a3a3791d4fd088b265ea03abef101",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 51711,
+                      "id": "Q51711"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3827": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3827",
+          "hash": "fd95fdab349ce5f0a0b9326fc70dad8d3bb30391",
+          "datavalue": {
+            "value": "social-issues",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$200D485F-545B-475F-9898-05383BAAC0F8",
+        "rank": "normal"
+      }
+    ],
+    "P1051": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1051",
+          "hash": "9ee5c67d2479c300e34134dab5af0c2cfcb515a7",
+          "datavalue": {
+            "value": "9709",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$92B8A963-444B-4F36-B480-A2E0B0FE9739",
+        "rank": "normal"
+      }
+    ],
+    "P1225": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1225",
+          "hash": "71666d8a08318ebf7a3a1c7fe14533a2c77db6a8",
+          "datavalue": {
+            "value": "10644586",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$A4880827-568C-4E63-BE91-D2F9CB4327CD",
+        "rank": "normal"
+      }
+    ],
+    "P244": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P244",
+          "hash": "847afc90397fe20bf41d025082f38cac7143b664",
+          "datavalue": {
+            "value": "sh85123988",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$c2e3cb45-4517-dba5-871e-f94734f62be0",
+        "rank": "normal"
+      }
+    ],
+    "P5429": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5429",
+          "hash": "a50d4595c2c7bc4620cdcebb18860f09d2a2104f",
+          "datavalue": {
+            "value": "mediatopic/20000802",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$DF5C72EA-C61A-41A7-B66D-F8C46C6984B7",
+        "rank": "normal"
+      }
+    ],
+    "P486": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P486",
+          "hash": "fea462d2a243d6b4e54c6a2c652d4442df6bca5d",
+          "datavalue": {
+            "value": "D012940",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "32e6904c8cbe9b8e7fcbcff1caae94b562eda03a",
+              "datavalue": {
+                "value": "Social Problems",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1920219$849d57ce-492a-c39d-372c-0eb07e55adcc",
+        "rank": "normal"
+      }
+    ],
+    "P4342": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4342",
+          "hash": "b7b2bbae2729c18e58399d60595535f3eb11b790",
+          "datavalue": {
+            "value": "sosiale_problemer",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$c85728a3-4161-5dc0-1592-12cebdd6f17d",
+        "rank": "normal"
+      }
+    ],
+    "P5198": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5198",
+          "hash": "cfe9e4dcbb532f4807ea48728a17af70e12225a4",
+          "datavalue": {
+            "value": "294937986",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$0977DA27-6B96-40EB-B5BE-7E01C78903F9",
+        "rank": "normal"
+      }
+    ],
+    "P268": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P268",
+          "hash": "8720f4ca755013066296cfd066d550f0a48be82f",
+          "datavalue": {
+            "value": "135492109",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$B7FF81BC-B1FD-4AA2-86D2-10901DF4BF50",
+        "rank": "normal"
+      }
+    ],
+    "P672": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P672",
+          "hash": "9112f674eca30696e100bb5f5c016c5b3f26db46",
+          "datavalue": {
+            "value": "I01.880.735",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4900": [
+            {
+              "snaktype": "value",
+              "property": "P4900",
+              "hash": "4a6c05bdbfd2e5c17db1cf3aa39d8c31c862968c",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 21201,
+                  "id": "Q21201"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4900"
+        ],
+        "id": "Q1920219$443b1670-42dc-9054-890a-fd9746a88bbb",
+        "rank": "normal"
+      }
+    ],
+    "P3916": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3916",
+          "hash": "33f9bc6ebebd81c76813dc7a342133fa4b338de3",
+          "datavalue": {
+            "value": "concept409",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$61882E3B-C12A-4E60-B3F1-E4DA071F6CA4",
+        "rank": "normal"
+      }
+    ],
+    "P6366": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6366",
+          "hash": "b94ec1fc7db3c8aa905f92e7176b9135bb7bd6fb",
+          "datavalue": {
+            "value": "53001019",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$00FBFA63-2286-4FCB-A876-EE51A4E89980",
+        "rank": "normal"
+      }
+    ],
+    "P2347": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2347",
+          "hash": "2db409791f0f3c9896d03a6319567497545bbc9b",
+          "datavalue": {
+            "value": "4477",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "1d991b8929495aec97e1f60d8addb437852309ed",
+              "datavalue": {
+                "value": {
+                  "text": "sosiála váttisvuođat",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "93ca8d8f7de8ed74d086d9abafe3d250b977f014",
+              "datavalue": {
+                "value": {
+                  "text": "sociala problem",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "e48cecc60796754b05ba9df0197fed91eb7efc3f",
+              "datavalue": {
+                "value": {
+                  "text": "sosiaaliset ongelmat",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "33a6bd02244533a68a6141271232e78b1edefe09",
+              "datavalue": {
+                "value": {
+                  "text": "social problems",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P14458": [
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "4894aabacf2e2b067788cb6e1c342e52ff2c184e",
+              "datavalue": {
+                "value": {
+                  "text": "samhällsproblem",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "7304457cb9cb978f149a79bcbc3d10890a4ac717",
+              "datavalue": {
+                "value": {
+                  "text": "yhteiskunnalliset ongelmat",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457",
+          "P14458"
+        ],
+        "id": "Q1920219$E8A53CC9-F0C0-44E6-9D8F-3DD1FE3C3920",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "f9bf1a1f034ddd51bd9928ac535e0f57d748e2cf",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "7133f11674741f52cadaae6029068fad9cbb52e3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 89345680,
+                      "id": "Q89345680"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "8ec2f3e1af52ac5ad02313d30858eeb3862a9cbd",
+          "datavalue": {
+            "value": "SocialIssue",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$40066E25-0AB7-4C87-9C6D-E5F9423B6909",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8519": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8519",
+          "hash": "0b061dbd762045504085f791c0b650000e2e1304",
+          "datavalue": {
+            "value": "94103",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$c905faba-2e5c-4aac-835a-8172303c4124",
+        "rank": "normal"
+      }
+    ],
+    "P4527": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4527",
+          "hash": "01a09c611fa117ee9b60c3b0d284b5bcdcf0ab17",
+          "datavalue": {
+            "value": "93052",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "1c0041e08ded7353e04fecceb7844394ff969d1e",
+              "datavalue": {
+                "value": "Social problems",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1920219$D7B71863-49E3-44E6-AB58-E2FB6EF58F43",
+        "rank": "normal"
+      }
+    ],
+    "P9545": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9545",
+          "hash": "e2c331cd8aece540f12402dba0153667e4e2406a",
+          "datavalue": {
+            "value": "228841",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$9F99E351-56A4-4C38-9277-4A23D84F004C",
+        "rank": "normal"
+      }
+    ],
+    "P508": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P508",
+          "hash": "12b401aa40928e238a798f6ae13a4dd83033bd01",
+          "datavalue": {
+            "value": "52172",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "481a4ad3f9620442ba3e6d9000eea1c9ace2213f",
+              "datavalue": {
+                "value": "Problemi sociali",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1920219$6748af1a-3b3b-4082-bd70-246e8390cc50",
+        "rank": "normal"
+      }
+    ],
+    "P950": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P950",
+          "hash": "9e6c3011d3f8820d61792aa87290afebaffc510c",
+          "datavalue": {
+            "value": "XX524764",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "29307014344934aced876397d28a9a44e70f23e7",
+              "datavalue": {
+                "value": "Problemas sociales",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1920219$00f39441-324b-4916-bbdb-7c3e8c0805c2",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2e43d282610b38b38c4c9fce828e289d9d980631",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3b090a7bae73c288393b2c8b9846cc7ed9a58f91",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 16583225,
+                      "id": "Q16583225"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "db7cf4579d334b8e72adc4e4de0eab9d4574b9a4",
+                  "datavalue": {
+                    "value": "https://thes.bncf.firenze.sbn.it/termine.php?id=52172",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "6ae3be8bc564afd93aa3bd0f3af2aacae338fda0",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-06-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854",
+              "P813"
+            ]
+          },
+          {
+            "hash": "07f90256001fbeba7ca2adb8df51d89d150f8f67",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "f0094b041fc8f052ea2ba8614aa130e4dc59ce99",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 97285695,
+                      "id": "Q97285695"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1476": [
+                {
+                  "snaktype": "value",
+                  "property": "P1476",
+                  "hash": "f5749e3a8641338fde01fd5b48823d07ffd4929f",
+                  "datavalue": {
+                    "value": {
+                      "text": "Registros de autoridad de \"Materia\" de la Biblioteca Nacional de España",
+                      "language": "es"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "68cb1f2679543f92423b7cbadc891a595dbdba89",
+                  "datavalue": {
+                    "value": "https://www.bne.es/media/datosgob/catalogo-autoridades/materia/materia-UTF8.zip",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "11f94d433f27563cf0d9161bfc4a8dd9ec756612",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2023-07-21T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1476",
+              "P854",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3553": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3553",
+          "hash": "fafb8468340e68b42fbd82c6aabb38a35b530030",
+          "datavalue": {
+            "value": "19570500",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "6692fbc22823bbcea294e23fb042c034642fccf3",
+              "datavalue": {
+                "value": "社会问题",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1920219$9FBC8C48-6AB8-4583-A89F-A8A01D3B70D6",
+        "rank": "normal"
+      }
+    ],
+    "P2004": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2004",
+          "hash": "2e21168988f04b240f97f5ba7a123bef55ec73e3",
+          "datavalue": {
+            "value": "320033",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$ACCD88E6-A1A7-4ACD-A9F7-E03526C58F60",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2004",
+          "hash": "7b45eece3fb32e2d3c859e4ef75ba1859d1b4f22",
+          "datavalue": {
+            "value": "24909",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$D14DB209-68EE-4181-A176-0786600A197E",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2004",
+          "hash": "7ef063ae4d851bff9472110c35e5fe180970e643",
+          "datavalue": {
+            "value": "30022",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$C9EF9315-A426-4B50-9CC6-B340EFCA9ECC",
+        "rank": "normal"
+      }
+    ],
+    "P8189": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8189",
+          "hash": "648ca91069764b6284502d520b3165e84c15f0c3",
+          "datavalue": {
+            "value": "987007551036305171",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "a30ca51193bebe826683c0d0ec6b8713f700b10d",
+              "datavalue": {
+                "value": {
+                  "text": "Social problems",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "f5bddef17212471c2345bfbde3f0cd4b2bb6e369",
+              "datavalue": {
+                "value": {
+                  "text": "בעיות חברתיות",
+                  "language": "he"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "33d2f55a44c64ba0e1146d8170c8f59c64654dee",
+              "datavalue": {
+                "value": {
+                  "text": "المشاكل الاجتماعية",
+                  "language": "ar"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q1920219$782AC8A9-8228-44C5-9D7E-E25E4256ABD4",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c8a47202c92936005b390eb36ddd267921b51f43",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "0ea73b3596b49258a7b7ec6495950779b99e875d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188915,
+                      "id": "Q188915"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P10283": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10283",
+          "hash": "e77335d1fd4e48c14cfcd986b5ef6000a0c12a94",
+          "datavalue": {
+            "value": "C53001019",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$C93CE059-0B4A-414A-B09C-612491297E1D",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "e0b27d817c9a9b3247df341000fc490bafcba862",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4a4f26a5361b5707266e48e425bf2be2f99fd2ab",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 107507571,
+                      "id": "Q107507571"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "435834d08182bb9f3dbe974ba9840af0f12899cc",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-26T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a4a4bf53f22268815c51ec10fed608da703c9c7f",
+                  "datavalue": {
+                    "value": "https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P1065": [
+                {
+                  "snaktype": "value",
+                  "property": "P1065",
+                  "hash": "3134281f51e2490f88272d53c56ee95d9cc24e2c",
+                  "datavalue": {
+                    "value": "https://web.archive.org/web/20220125070108/https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P2960": [
+                {
+                  "snaktype": "value",
+                  "property": "P2960",
+                  "hash": "f7ff3a0de7f9571ecb5e0740cba4122c6703e1ec",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-25T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P854",
+              "P1065",
+              "P2960"
+            ]
+          }
+        ]
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "d7466e597b3f0e552ddc9b040aea04bd3ed42504",
+          "datavalue": {
+            "value": "ph125804",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "4f51e813af379ba99855445bad0767bc98912983",
+              "datavalue": {
+                "value": "sociální problémy",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1920219$B2503249-0DF6-446A-A005-AA9F8D3EDA40",
+        "rank": "normal"
+      }
+    ],
+    "P11137": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11137",
+          "hash": "2acd9edbe3ea8cc8de83c1946566db3353ddcdab",
+          "datavalue": {
+            "value": "social_issue",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$7DC7AA44-7AAD-4513-B2A4-4CC4799BBC91",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2d291913d38c3569212710bf0f38535d8ef6174b",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "390b6d1efa09054170dfea8406f1dd648fa4c1f4",
+                  "datavalue": {
+                    "value": "https://www.reddit.com/t/social_issue/",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P1476": [
+                {
+                  "snaktype": "value",
+                  "property": "P1476",
+                  "hash": "500274c40d8c754fde19af7601f88ed06fff416b",
+                  "datavalue": {
+                    "value": {
+                      "text": "Best Social Issue Posts - Reddit",
+                      "language": "en-us"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "9b62cce6916e38fb1b2e6791e72767238a1d4a86",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-11-01T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P1476",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P11514": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11514",
+          "hash": "e1952b3845d0705dc8440058bb496b9490bb2a41",
+          "datavalue": {
+            "value": "sotsial-naia-problema-a0f2be",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$B5084BB7-CDA3-4BCC-9568-29AAC6E7FE72",
+        "rank": "normal"
+      }
+    ],
+    "P2892": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2892",
+          "hash": "6006226b22fc1749df13eacea746ccaeaf32d7c3",
+          "datavalue": {
+            "value": "C0037431",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$18F534F7-1196-4BAE-8641-0DC78C260F58",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "5a3fcc55b73b13f3af6371d937925214aba40c37",
+            "snaks": {
+              "P887": [
+                {
+                  "snaktype": "value",
+                  "property": "P887",
+                  "hash": "0f284e521850e663d708d293bf3ecf0e36528c45",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 118645058,
+                      "id": "Q118645058"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "0dffc9c217cd4550d6e1be4e56268ece7068efc2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 118645236,
+                      "id": "Q118645236"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "d8ddd48761b0d6d139b24b5124a2e52e5974193d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2023-05-24T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P887",
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P10565": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10565",
+          "hash": "df45f13f6041b366e0a7f0247ebae36d7f4efec0",
+          "datavalue": {
+            "value": "84107",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "6692fbc22823bbcea294e23fb042c034642fccf3",
+              "datavalue": {
+                "value": "社会问题",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1920219$8a819e67-40a2-321d-116b-b5f9b248fae8",
+        "rank": "normal"
+      }
+    ],
+    "P8313": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8313",
+          "hash": "e4a71d9ef8c3ecde1700fc5f0c578603bdbadaa0",
+          "datavalue": {
+            "value": "sociale_problemer_-_sociologisk_set",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$4eb9c374-4075-fe6a-dc7d-4ee7e75d0635",
+        "rank": "normal"
+      }
+    ],
+    "P7666": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7666",
+          "hash": "fa117842cf21d9afcc47a6eca7e72df54abb5a08",
+          "datavalue": {
+            "value": "socialine-problema",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$0D0296F4-6779-4E33-8FC4-8D74BF7876A2",
+        "rank": "normal"
+      }
+    ],
+    "P3911": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3911",
+          "hash": "1d3a08f0a65f1aa5e63edde5af2a16fdac429fff",
+          "datavalue": {
+            "value": "15721-3",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4390": [
+            {
+              "snaktype": "value",
+              "property": "P4390",
+              "hash": "1a4df62914ea9afca349bd5fb5d8efd5832d83fa",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 39893449,
+                  "id": "Q39893449"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4390"
+        ],
+        "id": "Q1920219$1A5B2542-0026-4FA0-8EEC-80A129FB380C",
+        "rank": "normal"
+      }
+    ],
+    "P3847": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3847",
+          "hash": "e869b360394f0a111e1fc423a6beed18927a07b8",
+          "datavalue": {
+            "value": "social_problems",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$6e8cb913-41e7-3f87-c4d5-b9b080b8dd3b",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "bc1fb4ff9bd4db3ca434ebc04705094e0dfc800e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 130286945,
+              "id": "Q130286945"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1920219$48631e37-4eba-decd-fb8d-a0d2b9441ada",
+        "rank": "normal"
+      }
+    ],
+    "P5437": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5437",
+          "hash": "68b0de1384fef7cb55c85a9957f23f0e67bfe74b",
+          "datavalue": {
+            "value": "2690",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P459": [
+            {
+              "snaktype": "value",
+              "property": "P459",
+              "hash": "3084e3b8a8327068d29db87271ae41c0e0c567fc",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1266546,
+                  "id": "Q1266546"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P459"
+        ],
+        "id": "Q1920219$C4AEE6BD-3A76-4543-81E0-C5E4366E2A4E",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "29d9261d3b24be2fb72a4e345a3e45cdf28eeed5",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4b222ea31b6fcd95c95734ce289e8c0b903041e9",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1370467,
+                      "id": "Q1370467"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "906490cb26d50131e0290371d0ce82d503c6c5e9",
+                  "datavalue": {
+                    "value": "https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/eurovoc",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1368": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1368",
+          "hash": "3c09182bffd30a996c380dcbf679497b1efc9140",
+          "datavalue": {
+            "value": "000058007",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$30c7a248-4498-90f1-5eb2-48a9b52f6b7c",
+        "rank": "normal"
+      }
+    ],
+    "P11093": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11093",
+          "hash": "9b524aeccf2a9734460ab2d7ca744a4e1f1b83f4",
+          "datavalue": {
+            "value": "sosyal_toplumsal_sorunlar",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$974DE1D4-FCB7-4CB4-8869-9FB84D9B60F4",
+        "rank": "normal"
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "e5438f68c94e244ecf02f9cbd87aad3efb4cee8a",
+          "datavalue": {
+            "value": "concept/f9b11b63-2fe4-4510-b3f7-224912bb1a51",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$9E3BE740-BCD9-456F-8093-CFD07BDBE94A",
+        "rank": "normal"
+      }
+    ],
+    "P10380": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10380",
+          "hash": "4c9b8e3c32ca2bd215ab1cc8534a0ccba006f12b",
+          "datavalue": {
+            "value": "ethical-legal-and-other-societal-issues",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$2c1f6f0c-4f92-6162-08df-1274babb4d54",
+        "rank": "normal"
+      }
+    ],
+    "P1036": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1036",
+          "hash": "0f23d1a03bf2fc1d47cfaee15aa50dc8fcf1d6c7",
+          "datavalue": {
+            "value": "361.1",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$3A5D58B6-5687-45C4-9174-F2EFE56667EE",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "22719b390d9452270bf448d36a433473e8a3f9dd",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3b090a7bae73c288393b2c8b9846cc7ed9a58f91",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 16583225,
+                      "id": "Q16583225"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P508": [
+                {
+                  "snaktype": "value",
+                  "property": "P508",
+                  "hash": "12b401aa40928e238a798f6ae13a4dd83033bd01",
+                  "datavalue": {
+                    "value": "52172",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "6d4c9e5b0416a20f72876d06319d4d54168395a8",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2025-11-21T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P508",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8168": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8168",
+          "hash": "56720fc5d0aaa7305aced597eaafacbadfa08a15",
+          "datavalue": {
+            "value": "Q1379707",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$61CB75CC-84A4-4C1E-867B-4458D9EB9008",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "03e91c3558d0d4834d63eb77aabcdb5936b7912b",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "e4afc4ad60f2160201385d29d076e0794f815f1e",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 90405608,
+                      "id": "Q90405608"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "495f20629dc7b139a77793a45f2f56f4cf64925d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2026-04-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "36f74d91f0c86665c0889da2646f0998f92e180f",
+          "datavalue": {
+            "value": "h0009799-socialni-problemy",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$98460095-DD9D-4D30-B6E4-ADA3C72F24EE",
+        "rank": "normal"
+      }
+    ],
+    "P14541": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14541",
+          "hash": "ba03788169981188f337feb46f5a30022e61b3bd",
+          "datavalue": {
+            "value": "4FRuw4",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "6692fbc22823bbcea294e23fb042c034642fccf3",
+              "datavalue": {
+                "value": "社会问题",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P5017": [
+            {
+              "snaktype": "value",
+              "property": "P5017",
+              "hash": "0d31f9142d0612688c45f0d84f693927b6a92208",
+              "datavalue": {
+                "value": {
+                  "time": "+2023-08-04T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P5017"
+        ],
+        "id": "Q1920219$6B7A50D3-353F-42AD-959E-44664105A572",
+        "rank": "normal"
+      }
+    ],
+    "P1417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1417",
+          "hash": "580f1f85320d621848e7cc68db5474167b214da0",
+          "datavalue": {
+            "value": "topic/social-issue",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1920219$4c2622bb-4483-247a-5089-30ae22c435e6",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "type": "item",
+  "id": "Q9261468",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "organizational subdivision"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "organization that is a part of a larger organization"
+    }
+  },
+  "claims": {
+    "P361": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P361",
+          "hash": "55c1b69fc79ad3827e3bd59d497261b91c68b800",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 43229,
+              "id": "Q43229"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q9261468$f176a396-4371-d3eb-9300-6ae832c40b1b",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "b71d51545c89c97731730e3bc1205b77f6c0a1ce",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 62079110,
+              "id": "Q62079110"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q9261468$f7145912-49ba-cbde-e51d-06c75cd17115",
+        "rank": "normal"
+      }
+    ],
+    "P460": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P460",
+          "hash": "daff969ec7cf57bc1cdf9c02113b26eeebe03c8e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 334453,
+              "id": "Q334453"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q9261468$b4a5444d-4792-71fd-5eb7-d12fd9df9fc5",
+        "rank": "normal"
+      }
+    ]
+  }
+}

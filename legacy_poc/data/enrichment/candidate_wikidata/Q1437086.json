@@ -1,0 +1,104 @@
+{
+  "type": "item",
+  "id": "Q1437086",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "suseok"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "수석"
+    }
+  },
+  "descriptions": {
+    "ko": {
+      "language": "ko",
+      "value": "실내에서 감상하기 위해 수집하는 특이한 형태나 문양, 색깔을 지닌 자연의 돌"
+    },
+    "en": {
+      "language": "en",
+      "value": "Korean stone art"
+    }
+  },
+  "claims": {
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "d06eae17b6465804e83a60ca82e5d743e03966a2",
+          "datavalue": {
+            "value": "/m/05wmyc",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1437086$FEF2351B-C369-45EA-993F-1FCF9FB20E7C",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "cbcb9d6464ea93ed649fd68cf6e9ab78d5545edd",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1337283,
+              "id": "Q1337283"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1437086$6f2c1514-4469-23a6-f128-7a103c01ed41",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "d54d905b2c41e5e460708e8444581dcd40514375",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1437073,
+              "id": "Q1437073"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1437086$0ecaf4ec-4d78-3efb-e835-c0c9db69078d",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "d411866af327205d313a65572616af18b7cae687",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 12013206,
+              "id": "Q12013206"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1437086$320be210-4adb-10a2-596a-ccc2649e997b",
+        "rank": "normal"
+      }
+    ]
+  }
+}

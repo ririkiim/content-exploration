@@ -1,0 +1,1070 @@
+{
+  "type": "item",
+  "id": "Q389959",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "air-raid shelter"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "방공호"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "structure which protects against enemy attacks from the air"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "08f97af3f769c6bb74eef13bb311dd04a507ad2e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 91122,
+              "id": "Q91122"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q389959$58cbd1b1-4fbd-408d-3d6c-283e9aa24626",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "d1bcdd7588407516010edcace3a3ddb9fcd2fcf0",
+          "datavalue": {
+            "value": "/m/0298qf",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$F9839DBC-1E00-4A69-86C8-18123A37E074",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1036": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1036",
+          "hash": "f64e6bf02e86daef326e8dc859c5fdab711dcb42",
+          "datavalue": {
+            "value": "363.35",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$4cd3da8c-4b87-2306-22b5-63595d66c959",
+        "rank": "normal"
+      }
+    ],
+    "P244": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P244",
+          "hash": "7d80f61b7998e126ade6d70f6bc01dd5e2693861",
+          "datavalue": {
+            "value": "sh85002692",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$1eeae20a-4746-326e-be23-ce522015347c",
+        "rank": "normal"
+      }
+    ],
+    "P1149": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1149",
+          "hash": "61782b1da03e075e39e08997a8a1ce41437f6cea",
+          "datavalue": {
+            "value": "TH1097",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$cdd3adab-4742-f7da-7ffe-36596a697ff0",
+        "rank": "normal"
+      }
+    ],
+    "P18": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "3b6fb3276ae65d82b2948566a9ade949ed2e3743",
+          "datavalue": {
+            "value": "Feuerwehrmuseum München -01.JPG",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q389959$683440d2-4bd1-54c0-0253-d1b7537a28d8",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "2154221bbb684d05051fb38ebc7c10779c2bd4ab",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6307697,
+              "id": "Q6307697"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q389959$D896E680-490C-478B-9C3E-82D986C0C8A3",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "bd49d3e4f67bc460ce7a06b6ac3027347cf5ee55",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e84b0343e79e2a9aa8abadd7301051e15fba52d6",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 169514,
+                      "id": "Q169514"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3827": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3827",
+          "hash": "772210cf83903fc409a430bc78f94d94a92090f9",
+          "datavalue": {
+            "value": "bomb-shelters",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$E8CA12B3-C398-4865-BA98-34F868E3EF3F",
+        "rank": "normal"
+      }
+    ],
+    "P1225": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1225",
+          "hash": "55012288bb4e0bfdcccb24cec76ff3a8cabc8ff2",
+          "datavalue": {
+            "value": "10637403",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$F4D95201-80CB-47BC-8D45-811F0C09F6A9",
+        "rank": "normal"
+      }
+    ],
+    "P1014": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1014",
+          "hash": "cb8f3882365dcb3041c93d72aa8803d53b73bb25",
+          "datavalue": {
+            "value": "300007689",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$696F5BF9-9510-4217-834C-E4D8D1DD9286",
+        "rank": "normal"
+      }
+    ],
+    "P5160": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5160",
+          "hash": "dc79e7e23296d8ad173cd8f5b5ae95592f7b6d0b",
+          "datavalue": {
+            "value": "tgm000174",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$f5e6afaf-4f53-16b2-a1cf-fca62324183e",
+        "rank": "normal"
+      }
+    ],
+    "P7033": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7033",
+          "hash": "a69c48b742ae09e56d2024aa08e99e74207e95d9",
+          "datavalue": {
+            "value": "scot/9130",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$94360356-248D-4057-A0C9-223A4C38CE4E",
+        "rank": "normal"
+      }
+    ],
+    "P1296": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1296",
+          "hash": "15c7f5daa744587189a38ce445dba71670459ffc",
+          "datavalue": {
+            "value": "0206666",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$B1E2DC64-B35A-4F99-BF34-BBEC05393F21",
+        "rank": "normal"
+      }
+    ],
+    "P6366": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6366",
+          "hash": "c8d1324af7c75c9d4284980bd3fda022e0d712b7",
+          "datavalue": {
+            "value": "176068456",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$57F0F719-CB21-4ECE-B7D3-A5253775CB77",
+        "rank": "normal"
+      }
+    ],
+    "P8814": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8814",
+          "hash": "634729c5affcc2923bd4586189cf298dacfd6bd5",
+          "datavalue": {
+            "value": "02871978-n",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$8DB0A116-F2A2-4760-ACE3-9AA6E542AF30",
+        "rank": "normal"
+      }
+    ],
+    "P4342": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4342",
+          "hash": "01a0ad260a2a6dde42a509e0b9952f5a3d8b3045",
+          "datavalue": {
+            "value": "tilfluktsrom",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$bc2444c5-4ee9-1c47-d274-4b2bc419d523",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "b657a6c029ca9901a9f9950fe8bfc48855cf20ea",
+          "datavalue": {
+            "value": "Air raid shelters",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q389959$89675C1F-1E71-4ABF-BE91-806C2F9FD300",
+        "rank": "normal"
+      }
+    ],
+    "P508": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P508",
+          "hash": "79a10bb70edfeda01be3e566ea1353a06b63a0ae",
+          "datavalue": {
+            "value": "46473",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "c98819efc22a8506c2488a7693c7f448ce57868c",
+              "datavalue": {
+                "value": "Rifugi antiaerei",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P4970": [
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "e1dc5a1196fa9dc7f4ea931aa248d040c174a934",
+              "datavalue": {
+                "value": "Ricoveri antiaerei",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P4970"
+        ],
+        "id": "Q389959$03e77fef-4902-4ca7-9d57-0591102dee73",
+        "rank": "normal"
+      }
+    ],
+    "P268": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P268",
+          "hash": "a83258dce0d75cdcce100dc3c88718126544d7dc",
+          "datavalue": {
+            "value": "11973128p",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "70fa753556557bb4d0f9e020391fec050554aa7a",
+              "datavalue": {
+                "value": "Abris antiaériens",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q389959$393722a6-a334-4e5c-9639-8befbbdb19bd",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2d435091c693fa273fab491c67af639e13f3feb8",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3b090a7bae73c288393b2c8b9846cc7ed9a58f91",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 16583225,
+                      "id": "Q16583225"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "7e257f680e45cd4781f287b31eeca44b1c633fd1",
+                  "datavalue": {
+                    "value": "https://thes.bncf.firenze.sbn.it/termine.php?id=46473",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "4c0eff5068027bafbf6b5f8bb9b8c629ef0be226",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-06-16T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1269": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1269",
+          "hash": "3f1457c6c3a295e0308ebe3e9cb9aafd1e165978",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 471145,
+              "id": "Q471145"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q389959$6c6ca26b-4839-687a-b2dc-4b2753c6ea46",
+        "rank": "normal"
+      }
+    ],
+    "P8189": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8189",
+          "hash": "08324a31217c03607ab7710ad44a1f6fcdc49a97",
+          "datavalue": {
+            "value": "987007294603205171",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "8d434178c2b9d3fb883f1539441b34673441554d",
+              "datavalue": {
+                "value": {
+                  "text": "Air raid shelters",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "2f00c5f777fed305b099e154fbfa4b9dfc9abdce",
+              "datavalue": {
+                "value": {
+                  "text": "מקלטי הפצצה אווירית",
+                  "language": "he"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q389959$6BB66112-32D4-4510-898D-291A0CAAD713",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c8a47202c92936005b390eb36ddd267921b51f43",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "0ea73b3596b49258a7b7ec6495950779b99e875d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188915,
+                      "id": "Q188915"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8313": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8313",
+          "hash": "0aa18550a783de4ce155eb8828074ab1f8a04484",
+          "datavalue": {
+            "value": "beskyttelsesrum",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$97EC9175-01D3-48C0-AAC2-38E7570F204B",
+        "rank": "normal"
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "78d14b241ec050b290756e853d5bb6d4c5a122f0",
+          "datavalue": {
+            "value": "ph349440",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "390972f6a950e0cadde9cb3ee70d300ccb14372c",
+              "datavalue": {
+                "value": "protiletadlové kryty",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q389959$DE678E86-E9B4-4F69-A26E-BC08361EF286",
+        "rank": "normal"
+      }
+    ],
+    "P920": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P920",
+          "hash": "cd3c6ae61fc9d91398e2269f51bedc614b39a446",
+          "datavalue": {
+            "value": "LEM201007920",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$42B08DE4-57B6-4E82-AAD2-326282A11B6F",
+        "rank": "normal"
+      }
+    ],
+    "P4307": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4307",
+          "hash": "fda2d134ca3773b4eb8aa29a0d00aa788dbdc78d",
+          "datavalue": {
+            "value": "1168",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$FDE55C31-5BED-49FA-A364-33DD33E31FC4",
+        "rank": "normal"
+      }
+    ],
+    "P2347": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2347",
+          "hash": "c930693fe263a594d0d2afc67c9cd3c5e9736e23",
+          "datavalue": {
+            "value": "19939",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "32bcce5c8aab11265b6864efe448d36997ee3eeb",
+              "datavalue": {
+                "value": {
+                  "text": "álbmotsuojit",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "9e2b94cfc7781b72ed8d1740588953dbf8ebc5cd",
+              "datavalue": {
+                "value": {
+                  "text": "air raid shelters",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "6a3c1c07ed9a55998059788ff62d63f97a3b7742",
+              "datavalue": {
+                "value": {
+                  "text": "väestönsuojat",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "e4799300f6b1fa1b1d15a755bd3ff77c826e1900",
+              "datavalue": {
+                "value": {
+                  "text": "skyddsrum",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P14458": [
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "c3cc8a1141ff1d3583fe2425392a56a6fd29f3f6",
+              "datavalue": {
+                "value": {
+                  "text": "bombasuojit",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "88e309630a056b4a6f9c795569032bd0fdb609a3",
+              "datavalue": {
+                "value": {
+                  "text": "strålskyddsrum",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "1e40cfd811bbbb3eac062a080d933ede1a069680",
+              "datavalue": {
+                "value": {
+                  "text": "bombskydd",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "9183eae786ab296508820c416eae676c0b8223a4",
+              "datavalue": {
+                "value": {
+                  "text": "strålningsskydd (skyddsrum)",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "8baf594d8c3fde1faaa5cc560757a10d00c3dcca",
+              "datavalue": {
+                "value": {
+                  "text": "pommisuojat",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "6532c4eefee39b69774e32a3562bca1b986287db",
+              "datavalue": {
+                "value": {
+                  "text": "säteilysuojat",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "bf8a89c0eb7aea14e7c1781025ccbf422baa0a35",
+              "datavalue": {
+                "value": {
+                  "text": "befolkningsskyddsrum",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "9c6ecfb89494545de18e34ea0875cb261abbb1da",
+              "datavalue": {
+                "value": {
+                  "text": "dorvolanjat",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "ba7b6dad582303a82d5f9f9152517973e68d036e",
+              "datavalue": {
+                "value": {
+                  "text": "bomb shelters",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "311084c2d526ab5920ff6a7b11b74448c0b741ab",
+              "datavalue": {
+                "value": {
+                  "text": "väestösuojat",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457",
+          "P14458"
+        ],
+        "id": "Q389959$808683CC-52A4-4144-98A8-78F884F0465F",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "b9ebcabbd82cc9d8cdfc06dd7dbf802e8fdbe6d1",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "7133f11674741f52cadaae6029068fad9cbb52e3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 89345680,
+                      "id": "Q89345680"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "d0fe71bf6ed344d42f0ad0daa14ed3b3c297deb3",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2023-12-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P12086": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12086",
+          "hash": "52cc99a0d4976362705c4b0eca460254fedd5a83",
+          "datavalue": {
+            "value": "Schuilkelder",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P9675": [
+            {
+              "snaktype": "value",
+              "property": "P9675",
+              "hash": "ee94b2d6e23a9306f3b81645f5f67c4f45f143a4",
+              "datavalue": {
+                "value": "3903",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P9675"
+        ],
+        "id": "Q389959$3BA1F7C4-38E2-4973-B129-3B94A71CF476",
+        "rank": "normal"
+      }
+    ],
+    "P12385": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12385",
+          "hash": "10ee4e0601754c9b07dde0b5ae3adb1d07d18bdd",
+          "datavalue": {
+            "value": "refugi-antiaeri",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$dcf4ef91-b2d6-4726-b8f8-d232d6bd87a9",
+        "rank": "normal"
+      }
+    ],
+    "P5063": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5063",
+          "hash": "dbf92131a0817538e4b1f7b6408a6ef9591ce94f",
+          "datavalue": {
+            "value": "i50944",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$1D9DF75B-AC28-47AE-BB72-2831F6140887",
+        "rank": "normal"
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "84c3795dbde0a654c0a23591f1cf3e2fe8ea4b38",
+          "datavalue": {
+            "value": "concept/2aef75c4-19fa-4dce-a933-3caed68db6c7",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$1BA7B3FA-C594-4E4D-8207-19240A6B5207",
+        "rank": "normal"
+      }
+    ],
+    "P4212": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4212",
+          "hash": "9bbb4c20d481a7e07f6f8dd27234883e63ea30b2",
+          "datavalue": {
+            "value": "pcrtt7r9kwktm1d1pqdkq86t",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q389959$5a5688f7-4606-76a4-5cdc-9cb21e456b44",
+        "rank": "normal"
+      }
+    ]
+  }
+}

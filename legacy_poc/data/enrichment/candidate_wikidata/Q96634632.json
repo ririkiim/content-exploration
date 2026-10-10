@@ -1,0 +1,307 @@
+{
+  "type": "item",
+  "id": "Q96634632",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "psychology concept"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "심리학 용어"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "concept used in the science of the psyche"
+    }
+  },
+  "claims": {
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "9b610c2b88bf9928e11e9e4a5b90d88259f4542e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 137429456,
+              "id": "Q137429456"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q96634632$C4F3FE58-044B-4498-8E26-5A28E8C57FE9",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "63977733308f97aa812d3a428290e8f58b94e108",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 131362181,
+              "id": "Q131362181"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q96634632$e76d98cd-4a73-0e2c-4dcb-75dddb35c37e",
+        "rank": "normal"
+      }
+    ],
+    "P1269": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1269",
+          "hash": "36c83fc7890e132b32203e1c3bd19abf1a618d70",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 20679883,
+              "id": "Q20679883"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q96634632$37f707b6-42d6-4ddf-56af-d80832ea742e",
+        "rank": "normal"
+      }
+    ],
+    "P2579": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2579",
+          "hash": "40528d20c3f169582a5368a585a9ef2cd43fd958",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9418,
+              "id": "Q9418"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q96634632$ac6cffb6-4be9-5658-0142-90dbdeb8747c",
+        "rank": "normal"
+      }
+    ],
+    "P1535": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1535",
+          "hash": "8d4527d43318357b227f68375c9323d7482b0225",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 212980,
+              "id": "Q212980"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q96634632$97a9938f-4c85-8c29-6a9d-b869b9efa055",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "bd57e71ef3e1b3dfbba239726e2f42888511d6fa",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9545026,
+              "id": "Q9545026"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2241": [
+            {
+              "snaktype": "value",
+              "property": "P2241",
+              "hash": "552818845482f66a4e2a30e7ab345f02b83bbf09",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 130572475,
+                  "id": "Q130572475"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2241",
+              "hash": "f3ccaf73be6b0e93d5aa04790382fdc76eb62e53",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 90399975,
+                  "id": "Q90399975"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P8327": [
+            {
+              "snaktype": "value",
+              "property": "P8327",
+              "hash": "a92691e4a4b8bf24afdac139044a79a65865653f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 77468620,
+                  "id": "Q77468620"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2241",
+          "P8327"
+        ],
+        "id": "Q96634632$a46a7a56-4dc9-cd2b-583c-f4bbd8317e4a",
+        "rank": "deprecated"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "a94f7c901c05ba64cf59fcbc6f6e38ea6b98f133",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8015130,
+              "id": "Q8015130"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q96634632$03b6b8d5-42be-ab83-0e9d-fcbd82407a30",
+        "rank": "normal"
+      }
+    ],
+    "P1382": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1382",
+          "hash": "e130345ea46302c3d8db65fc089da6d22cc66925",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 77468620,
+              "id": "Q77468620"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q96634632$fe578eb1-4393-7359-4fb2-9a04cedd2fe3",
+        "rank": "normal"
+      }
+    ],
+    "P1014": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1014",
+          "hash": "bd258c93d79afc95081dfab30027748ffef0e025",
+          "datavalue": {
+            "value": "300055148",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4900": [
+            {
+              "snaktype": "value",
+              "property": "P4900",
+              "hash": "c08b1599aee84be95991f5e3723b9861a1b1a181",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 131362181,
+                  "id": "Q131362181"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "23bef8ac4ffeef40c7f6da06b63032ec5b2c3029",
+              "datavalue": {
+                "value": "psychological concepts",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P9570": [
+            {
+              "snaktype": "value",
+              "property": "P9570",
+              "hash": "ef9d07f217d35db68a5f8ba2d58b9abaf0e9c87b",
+              "datavalue": {
+                "value": {
+                  "text": "Scientific concepts related to psychology.",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4900",
+          "P1810",
+          "P9570"
+        ],
+        "id": "Q96634632$e1497a79-4356-6dc8-b8e3-d564fb1930bc",
+        "rank": "normal"
+      }
+    ]
+  }
+}

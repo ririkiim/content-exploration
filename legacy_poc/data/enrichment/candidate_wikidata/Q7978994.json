@@ -1,0 +1,580 @@
+{
+  "type": "item",
+  "id": "Q7978994",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "webtoon"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "웹툰"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "web comics originating from South Korea"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "대한민국의 디지털 만화"
+    }
+  },
+  "claims": {
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "d2ebd48dd8de5be405fa1ba8b0711866a7c1a683",
+          "datavalue": {
+            "value": "Webtoons",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q7978994$CE3F8139-76AC-4002-AA5F-5FD5F7368281",
+        "rank": "normal"
+      }
+    ],
+    "P18": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "9725509e71ea18e8908c4fac03a1bc3819369030",
+          "datavalue": {
+            "value": "Webtoon second generation.png",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2096": [
+            {
+              "snaktype": "value",
+              "property": "P2096",
+              "hash": "8c1ce139744f7fa9367d61b7618ebbf1b9ee6e13",
+              "datavalue": {
+                "value": {
+                  "text": "Прыклад вэбтуна другога пакалення",
+                  "language": "be"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2096"
+        ],
+        "id": "Q7978994$56ffdca4-4406-8fda-e93c-1982d64e9b9f",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "09da3a9d2b86eeb4c7878cfc27a07217644f7ed5",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 213369,
+              "id": "Q213369"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q7978994$343469ed-471f-d0d6-21dd-2d0bc885ec43",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "dac3bb1647fdf68f93c23f869f2a104101f14ee0",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 562214,
+              "id": "Q562214"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q7978994$04d62e1f-4d4a-ac12-3c2f-c22c7ebf0e14",
+        "rank": "normal"
+      }
+    ],
+    "P1942": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1942",
+          "hash": "7f9056f0712f1bcaabdaad6a0479c2f58cb199a2",
+          "datavalue": {
+            "value": "Wept'un",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q7978994$24D10392-E7C2-45C9-BF0F-5C287F37D43E",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0ee3b3ba1c958f4c3dcba7ed8091fe4b57311348",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "cb49f6fa327b245e4a5aaf48c44b3f503bcd4265",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 30239,
+                      "id": "Q30239"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2001": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2001",
+          "hash": "5d0d6d5f852d72ea9d1bbed1c8c43347d63e8246",
+          "datavalue": {
+            "value": "Weptun",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q7978994$F6AFEC11-8481-4204-8C97-77C3E94DF928",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0ee3b3ba1c958f4c3dcba7ed8091fe4b57311348",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "cb49f6fa327b245e4a5aaf48c44b3f503bcd4265",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 30239,
+                      "id": "Q30239"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3984": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3984",
+          "hash": "f63b0d72d7ec46b5230343542660c185c9c40775",
+          "datavalue": {
+            "value": "webtoons",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "a79eae8792aea4472afb0c35e7d23d370667f333",
+              "datavalue": {
+                "value": "Webtoons on Reddit",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P580": [
+            {
+              "snaktype": "value",
+              "property": "P580",
+              "hash": "522f71dd166739ee9ca0cf423c3a42d6eb7da76f",
+              "datavalue": {
+                "value": {
+                  "time": "+2012-03-29T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ],
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1860,
+                  "id": "Q1860"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P580",
+          "P407"
+        ],
+        "id": "Q7978994$24a1b297-4a08-6f60-a23a-e90524271244",
+        "rank": "normal"
+      }
+    ],
+    "P6839": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6839",
+          "hash": "c9aea267e9dedb8a5a4af4514ea5fba75f449e12",
+          "datavalue": {
+            "value": "Main/KoreanWebtoons",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7978994$d798469c-46d1-79cb-9016-45689e0776b8",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "ac052597b15801f7aa591e69dc8089656bfd0069",
+          "datavalue": {
+            "value": "/m/03bx6hx",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7978994$67894E21-B0F5-42B2-9EC7-D11E8A08101E",
+        "rank": "normal"
+      }
+    ],
+    "P10151": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10151",
+          "hash": "df12f16f90d128e74be61e1cfd0038393d621b10",
+          "datavalue": {
+            "value": "50000094",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7978994$DC00C32A-15A1-450D-9F3E-CFF1F39D70B9",
+        "rank": "normal"
+      }
+    ],
+    "P11514": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11514",
+          "hash": "3c12ec78601f571d58ff849ebfa8e17b9ea3b0d4",
+          "datavalue": {
+            "value": "vebtun-7197b4",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7978994$1DC28F85-027C-459B-BDEC-B3F0912F95A0",
+        "rank": "normal"
+      }
+    ],
+    "P5034": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5034",
+          "hash": "5696cba34001955450774e531e6c91a3a3558065",
+          "datavalue": {
+            "value": "KSH2016000049",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7978994$fb03c3e5-4696-7ae0-1a2e-be9b4cf02ca6",
+        "rank": "normal"
+      }
+    ],
+    "P1963": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1963",
+          "hash": "849ff6bb7c55d2ad6158b469d5de3d547b50b025",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 8731,
+              "id": "P8731"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q7978994$36976b8c-4ef1-7f94-2b0d-7422ee90fb77",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1963",
+          "hash": "77ab374f61abcf53ccfd104c01199de8dbde8ee3",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 11348,
+              "id": "P11348"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q7978994$1f0e052a-4932-f88e-664f-a49c6e5511f1",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1963",
+          "hash": "5a487d896042ad33caad0650031ab8ec47494ad7",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 5849,
+              "id": "P5849"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q7978994$4a64f258-4d1a-7768-b3e7-90a5a36485a9",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1963",
+          "hash": "769a6dd1f1cbd5400285a73e1c23da628f8d2045",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 5732,
+              "id": "P5732"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q7978994$e1e4ee3b-4621-3906-65ef-058329c663dd",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1963",
+          "hash": "d7fc70caec3dbb7204c5266db22775306f6f77ce",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 3589,
+              "id": "P3589"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q7978994$3dc0252c-43ab-34f0-a371-f1f7b0a58bb4",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1963",
+          "hash": "90fc8f0aa503dc24ab7c357821a931b3ae83cb4f",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 11494,
+              "id": "P11494"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q7978994$e5776fb8-4c3c-2c39-e739-9212538b9972",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1963",
+          "hash": "8df6060672eedf1c320638d4ae68a9f93db2102d",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 11149,
+              "id": "P11149"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q7978994$2552200d-4491-bd54-ae31-4d79fa5c789b",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1963",
+          "hash": "a60454a117daa9e01b80d0c7c50d0b5c4378677a",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 4087,
+              "id": "P4087"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q7978994$db36b03e-4508-b1e1-fd66-289f8bec8ecf",
+        "rank": "normal"
+      }
+    ],
+    "P6262": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6262",
+          "hash": "95337567a7c3b780d22712d0f705f116a6d2f6ac",
+          "datavalue": {
+            "value": "memory-alpha:Webtoon",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "fa22d9c2bf959ff212a89243f4a1056ebcc8c797",
+              "datavalue": {
+                "value": "Webtoon",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1860,
+                  "id": "Q1860"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P9675": [
+            {
+              "snaktype": "value",
+              "property": "P9675",
+              "hash": "5300626233a73059ecc90bc7610eada3289d162e",
+              "datavalue": {
+                "value": "320625",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P407",
+          "P9675"
+        ],
+        "id": "Q7978994$1EABEEFB-66AF-4E6B-BB4B-86068F0F86DA",
+        "rank": "normal"
+      }
+    ]
+  }
+}

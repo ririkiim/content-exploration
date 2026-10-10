@@ -1,0 +1,102 @@
+{
+  "type": "item",
+  "id": "Q22087155",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "end cause"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "reason for an event, period, or term to end"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "77f2ffbcc84d8acba6f66204c74aab31d9fd3cfe",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2574811,
+              "id": "Q2574811"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1542": [
+            {
+              "snaktype": "value",
+              "property": "P1542",
+              "hash": "13f37dd6f1c0e88fccc3f7c0fdda207e4513fa16",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 12769393,
+                  "id": "Q12769393"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1542"
+        ],
+        "id": "Q22087155$d50967cc-48b6-5141-5bd5-6a043cb73f03",
+        "rank": "normal"
+      }
+    ],
+    "P1687": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1687",
+          "hash": "6f5b56faaadb271d28b45871811e7e936b21e06f",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 1534,
+              "id": "P1534"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q22087155$37a8b2ce-4a4a-2120-b240-d139ce0b6507",
+        "rank": "normal"
+      }
+    ],
+    "P1542": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1542",
+          "hash": "13f37dd6f1c0e88fccc3f7c0fdda207e4513fa16",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 12769393,
+              "id": "Q12769393"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q22087155$C749C853-0C51-4E6F-AC57-A41AA9D0DE0F",
+        "rank": "normal"
+      }
+    ]
+  }
+}

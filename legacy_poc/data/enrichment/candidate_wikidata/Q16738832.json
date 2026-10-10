@@ -1,0 +1,270 @@
+{
+  "type": "item",
+  "id": "Q16738832",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "criminal case"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "형사 사건"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "investigation case under criminal law"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "형법에 속하는 범죄 사건"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "79740ba90597cf7b9c59981a2e7d23f786660e6f",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2334719,
+              "id": "Q2334719"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q16738832$b3c3820a-49d8-57e8-2a89-d90b8516f268",
+        "rank": "normal"
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "a504c0729ac40ac1811018caaf7d546d68ecdb98",
+          "datavalue": {
+            "value": "Criminal-Cases",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q16738832$2FE7099C-93D3-44AF-9F11-10691E8FFE43",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "a23a5d1697684af1a7ec8341261c6a710b341880",
+          "datavalue": {
+            "value": "Crimes",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q16738832$E496DFC9-1114-4AE1-9879-8E72FB9BCB68",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "42a0cebdf7b97a72c3c3e79b8a1d075e1aae1658",
+            "snaks": {
+              "P3452": [
+                {
+                  "snaktype": "value",
+                  "property": "P3452",
+                  "hash": "747b29a0dfa2e81598e76c21d09018f9d6e92cab",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 9744063,
+                      "id": "Q9744063"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P3452"
+            ]
+          }
+        ]
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "f9f461072094ba53b42d42969a38ee66a6b6bf3b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9744063,
+              "id": "Q9744063"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q16738832$6d42a1b4-4e44-86b2-a766-7beddd0ee041",
+        "rank": "normal"
+      }
+    ],
+    "P1269": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1269",
+          "hash": "7140cb44040914a2abdc62431c9ca123429ac95f",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 146491,
+              "id": "Q146491"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q16738832$2f4c84cc-4408-ed0c-691a-074957356548",
+        "rank": "normal"
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "74cb81529978df80739b17d6bfc64f62aab587c6",
+          "datavalue": {
+            "value": "/g/11dykpk90",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q16738832$B7CB85D0-5F6C-4B4D-916F-DD32CEF33BDA",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "09c0b35d9d9d634cbdf9a0fdf5b171aff0a04df8",
+          "datavalue": {
+            "value": "/g/11j5frv4g0",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q16738832$C7A4C4D4-A274-43D8-AF96-911D9DAC64A3",
+        "rank": "normal"
+      }
+    ],
+    "P12596": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12596",
+          "hash": "b29e9827358e4aa76a674a7414de2cd7717c6400",
+          "datavalue": {
+            "value": "115485",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q16738832$2EA5AE22-A2F2-4BED-900E-2558102D3629",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "8a744f80051b9f5a0f7ef12b2db52ac647f84a55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 83267,
+              "id": "Q83267"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q16738832$87c224ba-4741-92d7-d92d-b0f124aad3d7",
+        "rank": "normal"
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "5c57d9cdc47dec580baac5b334d0993cf191b189",
+          "datavalue": {
+            "value": "ph121958",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "fc581ca7f5c28f1dece0cf90d84059025a64bec3",
+              "datavalue": {
+                "value": "kriminální případy",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q16738832$6FECD3C7-4B36-4AF4-8CBD-54E01C670605",
+        "rank": "normal"
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "a34521be0fd8d1de0a126d1f58af8fd1c863e9fc",
+          "datavalue": {
+            "value": "h0004708-kriminalni-pripady",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q16738832$A5F3CCDA-E263-475C-862C-898AB4D8063B",
+        "rank": "normal"
+      }
+    ]
+  }
+}

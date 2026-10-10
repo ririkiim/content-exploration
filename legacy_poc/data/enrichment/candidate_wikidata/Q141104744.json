@@ -1,0 +1,273 @@
+{
+  "type": "item",
+  "id": "Q141104744",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "geopolitical region"
+    }
+  },
+  "descriptions": {},
+  "claims": {
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "b3db5d772e8bcad2bb335400b7381ea76742588e",
+          "datavalue": {
+            "value": "GeopoliticalEntityOrRegion",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q141104744$8B731DB5-FC40-4249-AD8A-C04EFB1E875F",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "03e6e370c76f7e8de71e99ea6abbe22ac2c2169c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 141104747,
+              "id": "Q141104747"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q141104744$f592d8ca-4cdd-7fca-c052-337cdeb120d2",
+        "rank": "normal"
+      }
+    ],
+    "P14439": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14439",
+          "hash": "867d2fcd7bbc9ae694e786f826b7dba531263f11",
+          "datavalue": {
+            "value": "000415",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "a30bdc798556234a05f4bc83a19dbf1611f8f3b5",
+              "datavalue": {
+                "value": "geopolitical region",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P9570": [
+            {
+              "snaktype": "value",
+              "property": "P9570",
+              "hash": "7d8cb6dd28685bb6c687739810c3326b442c9654",
+              "datavalue": {
+                "value": {
+                  "text": "a geopolitical region is a geographic region recognized by social or legal convention.",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P4900": [
+            {
+              "snaktype": "value",
+              "property": "P4900",
+              "hash": "65d6db393bc4313dc00dac358674f71cc68c5d97",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 141104747,
+                  "id": "Q141104747"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P9570",
+          "P4900"
+        ],
+        "id": "Q141104744$b63a46a1-4bc4-539c-53df-be0ef246c10d",
+        "rank": "normal"
+      }
+    ],
+    "P6771": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6771",
+          "hash": "505d62263e436f50e513b568d234711067fa4d12",
+          "datavalue": {
+            "value": "293183",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "816d36291d2edd3a4b2b48495742ac3a21408405",
+              "datavalue": {
+                "value": "مِنْطَقَة | مَنْطَقَة | مِنْطَقَة جيوسياسية | مَنْطَقَة جيوسياسية | مَوْطِن",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P9570": [
+            {
+              "snaktype": "value",
+              "property": "P9570",
+              "hash": "202182ca4314d741c637160e34ad00ce126ae88e",
+              "datavalue": {
+                "value": {
+                  "text": "مكان هويته غير مرتبطة بما يحتله، يمثل منطقة هويتها معروفة إدارياً وسياسياً وممثلة بمساحة على الأرض",
+                  "language": "ar"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P4900": [
+            {
+              "snaktype": "value",
+              "property": "P4900",
+              "hash": "fb40e3886bac0cc39df390f8c97702473be03af0",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 141149247,
+                  "id": "Q141149247"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P9570",
+          "P4900"
+        ],
+        "id": "Q141104744$b49b647e-4fe8-6e4d-8a83-6b6904afe9ca",
+        "rank": "normal"
+      }
+    ],
+    "P460": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P460",
+          "hash": "00990ac851ed6ad2aeedf263f9e565fe04c8f479",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 15642541,
+              "id": "Q15642541"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q141104744$ab3d9c8f-40ab-6462-1b4a-3b4dd8a62d0f",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "45d42bc13bab8c908762359cd17a0697cfc69c05",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 137022846,
+              "id": "Q137022846"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q141104744$2185ae06-441d-d6a9-494c-5b68d96d48ea",
+        "rank": "normal"
+      }
+    ]
+  }
+}

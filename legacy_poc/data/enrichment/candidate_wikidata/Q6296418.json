@@ -1,0 +1,1166 @@
+{
+  "type": "item",
+  "id": "Q6296418",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "President of South Korea"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "대한민국 대통령"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "head of state and of government of the Republic of Korea"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "대한민국 국가 원수 및 행정부 수반"
+    }
+  },
+  "claims": {
+    "P17": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P17",
+          "hash": "ab4105e4f6c3449ba4a6ca949a3aaafaa67f5be8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 884,
+              "id": "Q884"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "q6296418$E3880570-9C28-4F3D-9460-0C5C80434707",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "04fd1d10ab97c7005e2c96953304e5066caf63ed",
+          "datavalue": {
+            "value": "Presidents of South Korea",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "q6296418$00A6B95D-030F-4A30-BEF2-65C51DC2D33A",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "5a9db57c7931f8d7b424ce3e4cef104d79da0d5f",
+          "datavalue": {
+            "value": "/m/0p8d0",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q6296418$5A8A6F4D-BCA5-4E16-82B8-CE5A262CC261",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P158": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P158",
+          "hash": "0e65438eb1182fc288c5e2d191dd744e051ff8d9",
+          "datavalue": {
+            "value": "Seal of the President of the Republic of Korea.svg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q6296418$6b8b08c7-438b-e250-970b-96d229580600",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P158",
+          "hash": "02d831a3ce680a86e5aa43e3b6d83d1233a1d94b",
+          "datavalue": {
+            "value": "Seal of the President of South Korea.svg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q6296418$e6f62a8b-4336-f9d6-4241-28006276d6da",
+        "rank": "normal"
+      }
+    ],
+    "P41": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P41",
+          "hash": "5025b3fed5c36fb10dfe47605af9e53e16a49006",
+          "datavalue": {
+            "value": "Flag of the President of South Korea.svg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q6296418$771cf3fb-41c4-4805-2bcd-af8185da750e",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "475ab4c3e79467685c8ae1b5bf456cb36eee9f2e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 294414,
+              "id": "Q294414"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q6296418$1422CBDB-E79F-4395-80D8-F4E3F6DEC191",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "22921a3d81e97a69bc1b06726862944caa1a093d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 4164871,
+              "id": "Q4164871"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q6296418$7e2f68cd-40de-5af6-1ef3-bbd766ae950a",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "c7260bf957921070ba036bafe9ae11e8c40d0392",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7235753,
+              "id": "Q7235753"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q6296418$F8DE885F-4183-444A-A5DE-E6F57971BAC4",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9cdd4f1d064faebc44a10fbd408afa604f3b89f6",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "16eef556b717b1b9c8e2599faef3af2af8537632",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 199700,
+                      "id": "Q199700"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1001": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1001",
+          "hash": "02e95fc5c060bc984baa11f76a03a8faf39f5716",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 884,
+              "id": "Q884"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q6296418$496AC6F4-25BF-4C2F-9775-C7E3A14B00C3",
+        "rank": "normal"
+      }
+    ],
+    "P935": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P935",
+          "hash": "69405601b29b3a1c926dd15c3bc603c52fe564cd",
+          "datavalue": {
+            "value": "President of South Korea",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q6296418$220ABC11-DA7E-4AE5-8B13-08D05E893AA5",
+        "rank": "normal"
+      }
+    ],
+    "P2097": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2097",
+          "hash": "a3d28ffc7446e4bd93bd5c81985df3c406a0b8c4",
+          "datavalue": {
+            "value": {
+              "amount": "+5",
+              "unit": "http://www.wikidata.org/entity/Q577"
+            },
+            "type": "quantity"
+          },
+          "datatype": "quantity"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P580": [
+            {
+              "snaktype": "value",
+              "property": "P580",
+              "hash": "83a2c28e86fbbf6c60d09290ed654f7847618a18",
+              "datavalue": {
+                "value": {
+                  "time": "+1988-02-25T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P580"
+        ],
+        "id": "Q6296418$c23b2e6c-427b-0dd8-d003-5c463be5a553",
+        "rank": "normal"
+      }
+    ],
+    "P361": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P361",
+          "hash": "50b146d59b8915d94e215e46fec0ba0bfb2f6e52",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 26318539,
+              "id": "Q26318539"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q6296418$59c036e8-4174-59b8-ade3-1d96a10a4baf",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P361",
+          "hash": "24a6aa0952b2f3b7f3d2665e3aea00dc6a6e69a6",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 12585780,
+              "id": "Q12585780"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q6296418$0cc7211b-4584-a610-2520-6761919ccb55",
+        "rank": "normal"
+      }
+    ],
+    "P2001": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2001",
+          "hash": "feb2223aa5440df4b765b9efac5dd6a10d185714",
+          "datavalue": {
+            "value": "Daehanminguk Daetongnyeong",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q6296418$A9FF460E-6D88-4272-A31B-26FB5DA1D151",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0ee3b3ba1c958f4c3dcba7ed8091fe4b57311348",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "cb49f6fa327b245e4a5aaf48c44b3f503bcd4265",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 30239,
+                      "id": "Q30239"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1308": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1308",
+          "hash": "25dfbf7cee798213155e04a9f28d2bda81625c72",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 12612463,
+              "id": "Q12612463"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1365": [
+            {
+              "snaktype": "value",
+              "property": "P1365",
+              "hash": "ffd5e28b03a522adb6db2cf1f33dfcc6a3ccd3fd",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 16090635,
+                  "id": "Q16090635"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P580": [
+            {
+              "snaktype": "value",
+              "property": "P580",
+              "hash": "be48d598f503b0b78cf72cf18de9bb1e914b4c03",
+              "datavalue": {
+                "value": {
+                  "time": "+2025-06-04T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ],
+          "P582": [
+            {
+              "snaktype": "value",
+              "property": "P582",
+              "hash": "035037a811b3ca5adc18e8e193d9792f0087e2f8",
+              "datavalue": {
+                "value": {
+                  "time": "+2030-06-03T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ],
+          "P1545": [
+            {
+              "snaktype": "value",
+              "property": "P1545",
+              "hash": "9d22b928e2a536181e7576da40198990b72f9197",
+              "datavalue": {
+                "value": "21",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1365",
+          "P580",
+          "P582",
+          "P1545"
+        ],
+        "id": "Q6296418$d921de87-4919-573a-bd36-f8fc13afc2e5",
+        "rank": "normal"
+      }
+    ],
+    "P1705": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "4cadbfd43ed19af3e7737d541cee28346b20a262",
+          "datavalue": {
+            "value": {
+              "text": "대한민국 대통령",
+              "language": "ko"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P282": [
+            {
+              "snaktype": "value",
+              "property": "P282",
+              "hash": "fa305f63e9f12fac3af9c3c0ba36b284042a3ba7",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 8222,
+                  "id": "Q8222"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P282"
+        ],
+        "id": "Q6296418$0135bb97-46a0-df4b-61d3-72abf990473f",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 206855,
+                      "id": "Q206855"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "e5d6fee206f88b4f575709edc433e04e083a16b5",
+          "datavalue": {
+            "value": {
+              "text": "大韓民國 大統領",
+              "language": "ko"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P282": [
+            {
+              "snaktype": "value",
+              "property": "P282",
+              "hash": "ab0045c3bb0958c5b311a860d631e6096d5e3b1d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 485619,
+                  "id": "Q485619"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P282"
+        ],
+        "id": "Q6296418$c965af3f-4629-c0d8-81a2-37888921d102",
+        "rank": "normal"
+      }
+    ],
+    "P571": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P571",
+          "hash": "96aae8b008dfe73ac17934fd65fe08e0839a12a9",
+          "datavalue": {
+            "value": {
+              "time": "+1948-07-24T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "id": "Q6296418$91489276-4245-3ed9-58ce-a47c7ccb269e",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 206855,
+                      "id": "Q206855"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2521": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2521",
+          "hash": "549c4c17ef0871d85302ba070eebfdefdeb6d1fe",
+          "datavalue": {
+            "value": {
+              "text": "presidenta de Corea del Sur",
+              "language": "es"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q6296418$cc232733-4151-3e9d-bf88-2d6d652d9b29",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2521",
+          "hash": "5dc8b9a90e8983e19774dbb0a24694bd86d97c4b",
+          "datavalue": {
+            "value": {
+              "text": "predsednica Južne Koreje",
+              "language": "sl"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q6296418$f7255894-40b5-a8ad-90ef-9a5016accd4e",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2521",
+          "hash": "3b09100c187495c451ef8279feb10ed0af282c6a",
+          "datavalue": {
+            "value": {
+              "text": "Presidentin vu Südkorea",
+              "language": "lb"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q6296418$c53c96c7-41c8-31ca-2a33-9c7d59419d91",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2521",
+          "hash": "00fdd417de1f3b15e75da7e65c468dd78e74d4ec",
+          "datavalue": {
+            "value": {
+              "text": "presidenta de Corea do Sur",
+              "language": "gl"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q6296418$2fb82234-41f8-12d0-41cc-79b55e4ae048",
+        "rank": "normal"
+      }
+    ],
+    "P856": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P856",
+          "hash": "8cf5fb07c43dc239691b9541644f13d5c1dfa645",
+          "datavalue": {
+            "value": "https://www.president.go.kr",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "a10335a425d19169dd856e0a5f71735853eab0ab",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 9176,
+                  "id": "Q9176"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "id": "Q6296418$13cf5929-4450-eaeb-4f91-7de04bccbbc3",
+        "rank": "preferred"
+      }
+    ],
+    "P92": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P92",
+          "hash": "ebe75c43f989b52fc27dab74c58c419c1de1bb86",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 489127,
+              "id": "Q489127"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q6296418$e86d1f41-4f76-cea4-f723-8e1343e474db",
+        "rank": "normal"
+      }
+    ],
+    "P2354": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2354",
+          "hash": "65befdc55c36926867fb0b95887390e9d82d47f3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 498932,
+              "id": "Q498932"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q6296418$9ece8469-43b0-69c9-6393-5c26322c932c",
+        "rank": "normal"
+      }
+    ],
+    "P263": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P263",
+          "hash": "0a9e5b8d347290096f26004bb9ba855e10a4369d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 494577,
+              "id": "Q494577"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P582": [
+            {
+              "snaktype": "value",
+              "property": "P582",
+              "hash": "d0051a214ccc2c6c3d34dfbb100acac060234b44",
+              "datavalue": {
+                "value": {
+                  "time": "+2022-05-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P582"
+        ],
+        "id": "Q6296418$e0b5de3f-440e-ddcd-d713-122b0a0c4db2",
+        "rank": "normal"
+      }
+    ],
+    "P625": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P625",
+          "hash": "fbb369c7a024ec230f105b5d79b71a59673eb2a3",
+          "datavalue": {
+            "value": {
+              "latitude": 37.533528,
+              "longitude": 126.977694,
+              "altitude": null,
+              "precision": 1e-05,
+              "globe": "http://www.wikidata.org/entity/Q2"
+            },
+            "type": "globecoordinate"
+          },
+          "datatype": "globe-coordinate"
+        },
+        "type": "statement",
+        "id": "Q6296418$ebc9c5f7-9fc3-4404-98fe-c6f15ef62796",
+        "rank": "normal"
+      }
+    ],
+    "P349": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P349",
+          "hash": "37afe0633deaf2a04c8e34f0cffdda47c3082c3a",
+          "datavalue": {
+            "value": "00894398",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q6296418$cdf69394-4caf-6c2b-12e4-e9212d467c29",
+        "rank": "normal"
+      }
+    ],
+    "P227": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P227",
+          "hash": "76752686f9a8f349c3894505bbb6a6736d7399ba",
+          "datavalue": {
+            "value": "1106287096",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q6296418$c49b61e1-410d-23f2-4ff6-8c15b722c853",
+        "rank": "normal"
+      }
+    ],
+    "P8189": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8189",
+          "hash": "1faf458cb25248a43ad736cb21c63a8e0f8b600b",
+          "datavalue": {
+            "value": "987007601600305171",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q6296418$0381bbd1-49e3-022f-18a2-b79617d388bc",
+        "rank": "normal"
+      }
+    ],
+    "P213": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P213",
+          "hash": "9f6dcd425466dd184cd98f9fca60e4aaf18a6943",
+          "datavalue": {
+            "value": "000000010152025X",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q6296418$327edee7-42a9-7801-7b7f-5d5e550d966b",
+        "rank": "normal"
+      }
+    ],
+    "P214": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P214",
+          "hash": "7c86271a651e1cfa208fc1e420f0fe4bf9a45876",
+          "datavalue": {
+            "value": "639145857893423020774",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q6296418$56a0f074-4dd1-f899-d565-a22dabfc40aa",
+        "rank": "normal"
+      }
+    ],
+    "P244": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P244",
+          "hash": "f50fbfa963566f950f6f114c83ece8144afa1cb0",
+          "datavalue": {
+            "value": "n78092836",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "78df0c5a3670c43f7b54fadcc1a9586f55b352ee",
+              "datavalue": {
+                "value": "Korea (South). President",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q6296418$883e1725-4a77-8c3c-8ff6-f215033324ae",
+        "rank": "normal"
+      }
+    ],
+    "P2002": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2002",
+          "hash": "ddd4de3287feb6fd8fee372e72fb3c6766339021",
+          "datavalue": {
+            "value": "President_KR",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q6296418$786880aa-462a-3dd9-add0-2e63c2a310e9",
+        "rank": "normal"
+      }
+    ],
+    "P11408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11408",
+          "hash": "f89965fa41a2b7c2c9dd0d6898960950b7a21984",
+          "datavalue": {
+            "value": "韓国大統領",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q6296418$94327491-48b5-df87-4716-4ef1228159cd",
+        "rank": "normal"
+      }
+    ],
+    "P13440": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13440",
+          "hash": "da2a95b56295cae9682fe99a096a67a9fd809224",
+          "datavalue": {
+            "value": "49446",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q6296418$3f62ac4e-489a-ebe0-3ac9-5577e2ebed79",
+        "rank": "normal"
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "f7852aa28989e8246d2f01907c269bc248d8fc7a",
+          "datavalue": {
+            "value": "group/1e361e40-dd96-4280-ad52-c8cb26f279d3",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q6296418$DFB99844-2282-4B97-A041-3B3C08AAB124",
+        "rank": "normal"
+      }
+    ],
+    "P3321": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3321",
+          "hash": "a1cb98a2215f8d5c968a03ffd79c7694f4a74e6e",
+          "datavalue": {
+            "value": {
+              "text": "President vu Südkorea",
+              "language": "lb"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q6296418$d7497e19-46d4-3401-6199-4f7514fc5aaa",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3321",
+          "hash": "c3425c1f7cb57e3e4991433e0908fb7ae2a9f895",
+          "datavalue": {
+            "value": {
+              "text": "presidente de Corea do Sur",
+              "language": "gl"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q6296418$1018f642-46a6-3d8c-4553-39165a015e18",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "bc870c5b510712ca8a59d661e9d87b672d9ab374",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 248577,
+              "id": "Q248577"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q6296418$89D652B4-2A47-4015-A8EF-4A773934115F",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "a90f2137c05cdaac5c351cf00f41cb8ec3555020",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2285706,
+              "id": "Q2285706"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q6296418$396079F9-2AF6-4984-A75E-C3C917B23133",
+        "rank": "normal"
+      }
+    ]
+  }
+}

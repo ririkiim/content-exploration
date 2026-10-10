@@ -1,0 +1,1480 @@
+{
+  "type": "item",
+  "id": "Q5801919",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "sex crime"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "성범죄"
+    }
+  },
+  "descriptions": {
+    "ko": {
+      "language": "ko",
+      "value": "인간 성행위의 법에 의한 규율"
+    },
+    "en": {
+      "language": "en",
+      "value": "crime of a sexual nature"
+    }
+  },
+  "claims": {
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "78a41fcf390862373f6fb3b39da69dff22759c00",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6975864,
+              "id": "Q6975864"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5801919$3854c21b-4974-2e61-c130-28c5e8f6c566",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "f2a2707699df2d7fad5aa1807d2e813aa945e5f2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 83267,
+              "id": "Q83267"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5801919$e9906687-44cb-42be-c8c8-52475e198318",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "98026e20f250fa38e5b1b30065d5f93d91bb6157",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 608,
+              "id": "Q608"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5801919$d4c422c9-4dfc-b211-4873-7740c21c92b0",
+        "rank": "normal"
+      }
+    ],
+    "P244": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P244",
+          "hash": "7e3447913583763ccb180ec4e637e709ac612bf5",
+          "datavalue": {
+            "value": "sh85120572",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "2d29a61f9982962cf45cfdb3d25837abb3764714",
+              "datavalue": {
+                "value": "Sex crimes",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P4970": [
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "32c6d6f755f862a37c9092bc2bab491904b8b040",
+              "datavalue": {
+                "value": "Sexual offenses",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "355022fc23be77abaabb33efcca0742f804d402b",
+              "datavalue": {
+                "value": "Sexual abuse",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P4970"
+        ],
+        "id": "Q5801919$483e2d4e-4824-96c3-ec98-a1e3e1ddba8f",
+        "rank": "normal"
+      }
+    ],
+    "P2163": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2163",
+          "hash": "aba32e47e53eb6e01ad604c4eadc8834b4b55f7a",
+          "datavalue": {
+            "value": "1114275",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$3fcca762-48d7-7975-23e7-0059636eb01a",
+        "rank": "normal"
+      }
+    ],
+    "P3827": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3827",
+          "hash": "9d91b042ab94af995f459887148b76ea0c250a66",
+          "datavalue": {
+            "value": "sexual-offenses",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$9DD9D6C0-B6AE-4E11-BCE1-496C57DA1A35",
+        "rank": "normal"
+      }
+    ],
+    "P3221": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3221",
+          "hash": "dc9d19322362e56b6ae3b513efef93c42cbffb98",
+          "datavalue": {
+            "value": "subject/sex-crimes",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$EA95E022-39A0-4B1A-8122-E4FE99BAF3EC",
+        "rank": "normal"
+      }
+    ],
+    "P7033": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7033",
+          "hash": "dd36d19c0e3f81540b9ae8e4522043e0218ae8fd",
+          "datavalue": {
+            "value": "scot/9658",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$54FEC2A7-488B-40B5-B512-9E477B2EFDFE",
+        "rank": "normal"
+      }
+    ],
+    "P227": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P227",
+          "hash": "fed252ad19478c1c6f53301f5d99fa3c6efa1f5b",
+          "datavalue": {
+            "value": "4131408-6",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$06e3ab61-4de9-4873-c48c-c36807441743",
+        "rank": "normal"
+      }
+    ],
+    "P4854": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4854",
+          "hash": "5ad4c305edce53c070663985b0c1963412aafae1",
+          "datavalue": {
+            "value": "Sexualbrott",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$FAF2F904-6B36-4D7A-AC86-27FEE3E9E63E",
+        "rank": "normal"
+      }
+    ],
+    "P349": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P349",
+          "hash": "0d6a6af107297e6f759136974272ba2597278356",
+          "datavalue": {
+            "value": "00570300",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$A6A72176-AE7B-422B-B2AF-6A7FDE1B38E1",
+        "rank": "normal"
+      }
+    ],
+    "P6849": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6849",
+          "hash": "dec242f7fb5878364a5e2954bfb0eb1a6b3f450e",
+          "datavalue": {
+            "value": "saedelighedsforbrydelser",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$B7D5163E-123C-4A3A-B636-DAB01661C101",
+        "rank": "normal"
+      }
+    ],
+    "P361": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P361",
+          "hash": "a2c6a0b9e4afbb6753345932a5f557f215165be0",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1075388,
+              "id": "Q1075388"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5801919$c781f033-49cc-0d1c-debd-f9792fb665f0",
+        "rank": "normal"
+      }
+    ],
+    "P268": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P268",
+          "hash": "bfa0c64b1e71d2ba0db5f05753e1d97152cfd0e1",
+          "datavalue": {
+            "value": "13318534x",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$529189cb-428f-b3b6-0f60-31e99995372f",
+        "rank": "normal"
+      }
+    ],
+    "P508": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P508",
+          "hash": "22d534f37c5727e475a776da36b83300cb383965",
+          "datavalue": {
+            "value": "17064",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$ccacc717-40e4-a1b6-4c49-fd1d105e5877",
+        "rank": "normal"
+      }
+    ],
+    "P8309": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8309",
+          "hash": "c41106ef82dc07bf2a733d199fc9f9d69e7a9bfb",
+          "datavalue": {
+            "value": "18-215930",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$c62c8ade-4883-3119-a804-fef50899985a",
+        "rank": "normal"
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "c901ec8415f5cf8584213d439e2ba5b0093003ea",
+          "datavalue": {
+            "value": "/g/187cd5b0",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$8286E6F4-4F39-4992-85C1-64474D2B2992",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "d819ac5b3e3d67afbb209a9d7e38b4aa02873f5d",
+          "datavalue": {
+            "value": "/g/121hg3w2",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$5E2A5830-99F1-4AB8-80DB-05532C4F7D55",
+        "rank": "normal"
+      }
+    ],
+    "P1417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1417",
+          "hash": "48af9e4bb672f2ca32ea1f8e26028fb95297225e",
+          "datavalue": {
+            "value": "topic/sexual-offense",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "a63aa6b477d09e1138f485210d6a93c0e6bfc3a0",
+              "datavalue": {
+                "value": "sexual offense",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q5801919$6AF4C48E-0933-4003-8C04-A73C08A1430E",
+        "rank": "normal"
+      }
+    ],
+    "P9294": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9294",
+          "hash": "4eaa2d27defd0c22ac1540618597fba1979e912c",
+          "datavalue": {
+            "value": "4290",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$9595b750-4b0f-3dee-8068-0431f3ac6c29",
+        "rank": "normal"
+      }
+    ],
+    "P2347": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2347",
+          "hash": "23dd6314167d01dfd850495efc77b9eff84cf0b0",
+          "datavalue": {
+            "value": "6010",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "c6efa6c1fcdb25af503ea6012e01c17507df9808",
+              "datavalue": {
+                "value": {
+                  "text": "seksuálarihkkosat",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "3bb03493d59940d2114283801852e5e74c2e5ebb",
+              "datavalue": {
+                "value": {
+                  "text": "seksuaalirikokset",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "7863e96280b4241a147aa8f3f8c8007d7f5a6b93",
+              "datavalue": {
+                "value": {
+                  "text": "sexualbrott",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "2a0971248fe99b55a4f29e5300b839edb779f7cf",
+              "datavalue": {
+                "value": {
+                  "text": "sex crimes",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P14458": [
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "95a6ebfc580d64a050a2e363fbe81ce66f4fa142",
+              "datavalue": {
+                "value": {
+                  "text": "sexuella brott",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "76c339de3388fdf112fe6f27c9eb5964512a0ed5",
+              "datavalue": {
+                "value": {
+                  "text": "seksuála veahkaváldi",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "bac20d9fec011ab124d5bfe48c22aa91070aaf4a",
+              "datavalue": {
+                "value": {
+                  "text": "siveellisyysrikokset",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "051cb2401df141faf59b676c4c2211492bdafa39",
+              "datavalue": {
+                "value": {
+                  "text": "seksuálaveahkaváldi",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "b665d8412844a1ffb67a69dfae19aa4ebb73e514",
+              "datavalue": {
+                "value": {
+                  "text": "seksuaalinen väkivalta",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "d73bb2dd2c395b640315d8d03b45c212e641335b",
+              "datavalue": {
+                "value": {
+                  "text": "seksuaaliväkivalta",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "377a83ac83055f4323501bd820330705a41707da",
+              "datavalue": {
+                "value": {
+                  "text": "sexual violence",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "3601bce3525c1ac429572bf20df858160ac267ac",
+              "datavalue": {
+                "value": {
+                  "text": "sexualvåld",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "ddb1bfbfdb1c681ccbddb40fea9c798e7ef1da89",
+              "datavalue": {
+                "value": {
+                  "text": "sedlighetsbrott",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "624664a5d11a2cc67a2f661477c797c3b6f4fa3c",
+              "datavalue": {
+                "value": {
+                  "text": "sexuellt våld",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "6e8cd0476d94829c7eb67824b8d27c65948ac45b",
+              "datavalue": {
+                "value": {
+                  "text": "sukupuolirikokset",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "4d710d42579502d525c1b4a6e20dcd103e04e348",
+              "datavalue": {
+                "value": {
+                  "text": "rohcošanrihkkosat",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457",
+          "P14458"
+        ],
+        "id": "Q5801919$4008ed3f-4de8-564d-9c9c-de0d00203d6b",
+        "rank": "normal"
+      }
+    ],
+    "P6293": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6293",
+          "hash": "b328e0b178c0262bad16248b9ea54cfb4fae5170",
+          "datavalue": {
+            "value": "Y104342",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$49115259-4e55-523c-a303-eb09707aba23",
+        "rank": "normal"
+      }
+    ],
+    "P3095": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3095",
+          "hash": "9a545b8fc2408ba949d6d4e294a0609b14d9105b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5659979,
+              "id": "Q5659979"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5801919$b6954cf9-48c3-d593-d82d-68c3282f32e9",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3095",
+          "hash": "56d871c475dcd4d7e96da152aeed3daa80b660cc",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 22962951,
+              "id": "Q22962951"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5801919$4094cb80-4d31-3d79-3d3b-9be4cc442308",
+        "rank": "normal"
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "6cbfa4a5e9b8b15bab9944fbb58e0f70df5f5f03",
+          "datavalue": {
+            "value": "ph125513",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "3c06be5d67c8766d24f49266df09ab991779d70e",
+              "datavalue": {
+                "value": "sexuální trestné činy",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q5801919$7D2938E2-3592-48F6-B68A-E6F3A601328C",
+        "rank": "normal"
+      }
+    ],
+    "P1269": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1269",
+          "hash": "3bddcbc40f5b6ff1a81d78fdd213b4c4b355e61f",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1075388,
+              "id": "Q1075388"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5801919$DD93CF0B-83D2-41C3-9BE6-743A6AAE90F1",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1269",
+          "hash": "dd5fbf3e6571a7017b46151e5a79154db1c715e0",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 43414,
+              "id": "Q43414"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5801919$28556202-4ABA-4383-B77F-7554A2C2541C",
+        "rank": "normal"
+      }
+    ],
+    "P486": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P486",
+          "hash": "17a94888e7f07affa45a1524ec25f7a5376d269d",
+          "datavalue": {
+            "value": "D012742",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "e2a8fb77aefb7cb2e415bc9afb11f03920363969",
+              "datavalue": {
+                "value": "Sex Offenses",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q5801919$8077486C-5617-4BD3-A937-BB0BCFB6B252",
+        "rank": "normal"
+      }
+    ],
+    "P672": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P672",
+          "hash": "76c7ce985ebce20b423208a2f873277bd25d34f6",
+          "datavalue": {
+            "value": "I01.198.240.748",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4900": [
+            {
+              "snaktype": "value",
+              "property": "P4900",
+              "hash": "ec44fbbb5e046962d96b99a60368ea46824c6fee",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 83267,
+                  "id": "Q83267"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4900"
+        ],
+        "id": "Q5801919$AA32DD5B-F70B-4E48-8EF0-361477831629",
+        "rank": "normal"
+      }
+    ],
+    "P4527": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4527",
+          "hash": "594718244ad33bd299f8a3b2126824ea319ac9e1",
+          "datavalue": {
+            "value": "92984",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "daf19a345a92899614464c159ddd9a641df9df86",
+              "datavalue": {
+                "value": "Sexual offences",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q5801919$F922085B-86CD-451E-8E68-1F68F8EF27D4",
+        "rank": "normal"
+      }
+    ],
+    "P5198": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5198",
+          "hash": "2c54afec3f741dccebd364f91e7e034f06df24e0",
+          "datavalue": {
+            "value": "294937021",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$28C9B064-50E6-4430-9CFD-7F1276C2ADC9",
+        "rank": "normal"
+      }
+    ],
+    "P460": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P460",
+          "hash": "4d5ef32607a7a122afbf55d7b840fbc14d26b98d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 116255197,
+              "id": "Q116255197"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5801919$26b113fc-4046-67c9-0665-8a73f3f282f1",
+        "rank": "normal"
+      }
+    ],
+    "P7870": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7870",
+          "hash": "1dff43e91459f11dca3ccbf1a68de3172c1a1b1b",
+          "datavalue": {
+            "value": "22165",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$908AE4BA-9D7B-479D-9F23-E2EC332C1BD9",
+        "rank": "normal"
+      }
+    ],
+    "P9084": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9084",
+          "hash": "1cfcdf787b7451ce9398be8e7644257d243013bf",
+          "datavalue": {
+            "value": "sexual-offences",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$88AF51E9-65DE-460E-BB08-383F64F827B4",
+        "rank": "normal"
+      }
+    ],
+    "P10376": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10376",
+          "hash": "1e9b04f5cf10f57ca8ede09dbbd173ea956db3d3",
+          "datavalue": {
+            "value": "social-sciences/sex-offense",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$c3223713-4733-da8b-90fb-8660c3ef1b90",
+        "rank": "normal"
+      }
+    ],
+    "P5437": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5437",
+          "hash": "dc5e4d4abec84f5a412505f13b77a5381a53611c",
+          "datavalue": {
+            "value": "5572",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P459": [
+            {
+              "snaktype": "value",
+              "property": "P459",
+              "hash": "3084e3b8a8327068d29db87271ae41c0e0c567fc",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1266546,
+                  "id": "Q1266546"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P459"
+        ],
+        "id": "Q5801919$213A55E9-AC5B-4391-9C48-4578548B3A6F",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "29d9261d3b24be2fb72a4e345a3e45cdf28eeed5",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4b222ea31b6fcd95c95734ce289e8c0b903041e9",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1370467,
+                      "id": "Q1370467"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "906490cb26d50131e0290371d0ce82d503c6c5e9",
+                  "datavalue": {
+                    "value": "https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/eurovoc",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P9346": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9346",
+          "hash": "036e629a425dd290c65471f0e028a34ed01f9d3c",
+          "datavalue": {
+            "value": "crimes-sexuels",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$A760A544-C80B-45F6-9019-7E93A1F363AA",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "3b3e82e1afb269c0f015226ae998eadbb1b31bff",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 130583773,
+              "id": "Q130583773"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5801919$bbad2221-4177-7411-baf8-5405ea324ed5",
+        "rank": "normal"
+      }
+    ],
+    "P1149": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1149",
+          "hash": "a63e2393d3bc6a3d1afba328d3c13e0ec994703c",
+          "datavalue": {
+            "value": "K5194-K5198.2",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "0d91235a99164eda229f6b7ef254b2ac2a267b0c",
+              "datavalue": {
+                "value": "Law--Law in general. Comparative and uniform law. Jurisprudence--Comparative law. International uniform law--Criminal law and procedure--Criminal law--Individual crimes--Crimes against the person--Sex crimes",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q5801919$27980bfe-43b5-a484-3393-a141362d6d22",
+        "rank": "normal"
+      }
+    ],
+    "P1617": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1617",
+          "hash": "e182bd73381b7e2aadb7d0f8e2e6375a27b8467b",
+          "datavalue": {
+            "value": "111e4a7c-d130-4057-9af8-9ead5d192772",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$d53f2b3e-a8c6-4774-9146-b5c109145cdc",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "8582d8416671f1f2567247201bac753552435ca5",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "ea55dc6ac5c3ab77c77d4ae7979e3276d0d4cd20",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 18336371,
+                      "id": "Q18336371"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P13300": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13300",
+          "hash": "1ddff8ca24ad1b886f344416e1a7129b626de5ea",
+          "datavalue": {
+            "value": "sex-crimes",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$d5fa71fe-427a-c8bb-4a99-48f6f9e4e317",
+        "rank": "normal"
+      }
+    ],
+    "P8189": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8189",
+          "hash": "628f3cc50b95df1fbf26894ef867aa99dc0d328d",
+          "datavalue": {
+            "value": "987012438274405171",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "75edec55b0dc048aa94c60ac0cc95a89e2b5c7a4",
+              "datavalue": {
+                "value": {
+                  "text": "Sex crimes",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "c1695d5fad322a96b3f1fb1a2bbe274e1dce2c9f",
+              "datavalue": {
+                "value": {
+                  "text": "עבירות מין",
+                  "language": "he"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "2dfb5e18cac685a4b2d26859bead81d0d716188e",
+              "datavalue": {
+                "value": {
+                  "text": "جرائم جنسية",
+                  "language": "ar"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q5801919$4fc06b05-4dd6-6245-a758-e56200ed0e45",
+        "rank": "normal"
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "0f415adfc2686a42898f91a0aa383da2a0984544",
+          "datavalue": {
+            "value": "concept/557eec5e-425c-4852-8149-9443f2c8a5a8",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$960F85FD-CF27-484B-9B4F-355D91B54D59",
+        "rank": "normal"
+      }
+    ],
+    "P1036": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1036",
+          "hash": "7ec3fe47b768dedfc6bcf8916c89bd2ebc1f6acd",
+          "datavalue": {
+            "value": "364.153",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$279675A1-4C6E-4FC1-AD39-0127767DE430",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0ec5acc251a3ef9cd2c1979461e25ac08eb56ee0",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3b090a7bae73c288393b2c8b9846cc7ed9a58f91",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 16583225,
+                      "id": "Q16583225"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P508": [
+                {
+                  "snaktype": "value",
+                  "property": "P508",
+                  "hash": "22d534f37c5727e475a776da36b83300cb383965",
+                  "datavalue": {
+                    "value": "17064",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "6d4c9e5b0416a20f72876d06319d4d54168395a8",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2025-11-21T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P508",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P14003": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14003",
+          "hash": "76f2bec0ee577e6a7ba1af1553387e57412eb647",
+          "datavalue": {
+            "value": "sex-crimes",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$D869868A-65CE-4767-A29A-9EB77AD43A40",
+        "rank": "normal"
+      }
+    ],
+    "P1368": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1368",
+          "hash": "60df38f671462b323c31df3f8a5f930fcc1e3c08",
+          "datavalue": {
+            "value": "000048373",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$0e207309-48c9-351b-5550-b6ffb710534c",
+        "rank": "normal"
+      }
+    ],
+    "P12997": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12997",
+          "hash": "61423bb450c9b62047c75a31b8669befd8427653",
+          "datavalue": {
+            "value": "sex-crime",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$11493448-8144-478B-BD5B-8A5226BE58B8",
+        "rank": "normal"
+      }
+    ],
+    "P7284": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7284",
+          "hash": "63f6983b8b6f457f3b322d256e57e3b059cbac8a",
+          "datavalue": {
+            "value": "sex-crime",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$92CBB6B0-0406-486E-BEBC-AE7315AE3BA9",
+        "rank": "normal"
+      }
+    ],
+    "P13526": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13526",
+          "hash": "e875681adba7fefbb4bfb273dad1d4a601cb4383",
+          "datavalue": {
+            "value": "sex-crime",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$B4D34D49-088E-491E-B73B-7566ED339356",
+        "rank": "normal"
+      }
+    ],
+    "P13772": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13772",
+          "hash": "69945acbe5107b0509f86904b398ed877b306782",
+          "datavalue": {
+            "value": "sex-crimes",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$59D8292E-2E55-428D-8267-56C737A555CE",
+        "rank": "normal"
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "33b9031ad2749947f5d3d5c09c37baa00670c647",
+          "datavalue": {
+            "value": "h0000120-sexualni-trestne-ciny",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5801919$B7376E90-73F8-451D-BDE1-D772A9C9BF6F",
+        "rank": "normal"
+      }
+    ]
+  }
+}

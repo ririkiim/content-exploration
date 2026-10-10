@@ -1,0 +1,307 @@
+{
+  "type": "item",
+  "id": "Q41156",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "administrative territorial entity of South Korea"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "대한민국의 행정 구역"
+    }
+  },
+  "descriptions": {
+    "ko": {
+      "language": "ko",
+      "value": "대한민국의 지역 구분 체계"
+    },
+    "en": {
+      "language": "en",
+      "value": "structure definition"
+    }
+  },
+  "claims": {
+    "P17": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P17",
+          "hash": "ab4105e4f6c3449ba4a6ca949a3aaafaa67f5be8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 884,
+              "id": "Q884"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "q41156$4F56715B-548C-4153-99C1-AE37E2E3D902",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "e3ea84e6bd1fef024800a8cd0ac20e446075e282",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6492456,
+              "id": "Q6492456"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q41156$D69B0F38-4788-4F8C-9072-0ECB51AA78D2",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "0ca31f02dfc812146005a1c6439f44f470cc27a2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3268571,
+              "id": "Q3268571"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q41156$114DF555-7590-4ADB-8248-029543144611",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "520cf0014a9c0131bd9396787908d221be15d5de",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1048835,
+              "id": "Q1048835"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q41156$6321bdf7-4c1b-105e-19d3-107d53c3933b",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "ea0fb1a4e14d9ca0211be0742a56c73d912b89a0",
+          "datavalue": {
+            "value": "Subdivisions of South Korea",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q41156$E0569F69-B2FB-4807-B349-661B8A6E88F9",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1424": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1424",
+          "hash": "631744030407f8ffd38ce6d4503b46b60a50facd",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 14399620,
+              "id": "Q14399620"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q41156$e0c20258-46d6-5606-a66c-7d51d705eb09",
+        "rank": "normal"
+      }
+    ],
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "f429a03520988843f42af09ceab6a4f34d30af17",
+          "datavalue": {
+            "value": "AdministrativeDivision-SouthKorea",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q41156$7A214F35-5C96-405B-8087-B77D8DA1ED98",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P268": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P268",
+          "hash": "7f6464cdee5f5fa4ebcefc16bdc2517bb36884c9",
+          "datavalue": {
+            "value": "15610212n",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "a6dc901eacea729f0e1cf22091ec98bf50c58899",
+              "datavalue": {
+                "value": "Divisions politiques et administratives -- Corée (République)",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q41156$43b4c9c9-4f58-350b-ef4e-f355abeedac1",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "32b84b49d9f90ac1fe66212000ed38a11f288169",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 41386,
+              "id": "Q41386"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q41156$df8fc280-475c-8a1c-e9a0-7e618d22716b",
+        "rank": "normal"
+      }
+    ],
+    "P1368": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1368",
+          "hash": "34ab460c92970749c5fda1f0ae8854053fc557c3",
+          "datavalue": {
+            "value": "000373777",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q41156$b5580fb7-4d2b-3fa2-041b-3b3cb6503320",
+        "rank": "normal"
+      }
+    ]
+  }
+}

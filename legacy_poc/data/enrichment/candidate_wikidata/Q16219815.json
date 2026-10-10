@@ -1,0 +1,64 @@
+{
+  "type": "item",
+  "id": "Q16219815",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "남북 이산가족 상봉"
+    },
+    "en": {
+      "language": "en",
+      "value": "reunion of inter-Korean separated families"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "study by the Republic of Korea and the Democratic People's Republic"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "한국전쟁으로 인하여 나누어진 이산가족의 만남"
+    }
+  },
+  "claims": {
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "541c589637da0d5afea750acbe8521ebf0cf29ed",
+          "datavalue": {
+            "value": "/m/0nbd0jm",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q16219815$60AE13ED-21D3-4D23-9C52-C3D94477BFB0",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "7a0d72830dabd6ad3e4578d276be4221b6380b65",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3001563,
+              "id": "Q3001563"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q16219815$7efcd2e8-4069-41d5-1045-91033ac359c9",
+        "rank": "normal"
+      }
+    ]
+  }
+}

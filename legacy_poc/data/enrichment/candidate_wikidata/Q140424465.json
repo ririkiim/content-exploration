@@ -1,0 +1,121 @@
+{
+  "type": "item",
+  "id": "Q140424465",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "type of vehicle"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "second-order class of vehicle"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "4b1cebd1bb8b219bbb6f2484b6cfea9e07d17745",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 96251598,
+              "id": "Q96251598"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q140424465$d625fce9-4dce-df3b-4c0e-244f301d3ed7",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "df571623508f66e395032d1f83e422253b084eae",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 111360549,
+              "id": "Q111360549"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P5102": [
+            {
+              "snaktype": "value",
+              "property": "P5102",
+              "hash": "b53ad71c28579e2de868df0c7dd32c63e557ae5a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 91013007,
+                  "id": "Q91013007"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5102"
+        ],
+        "id": "Q140424465$6194e997-4609-0ccf-f5fd-73a5549a651b",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "a7e32719e3a70a25fce867c2ad70c306d3521fc3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 24017414,
+              "id": "Q24017414"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q140424465$35a9fd6b-40e8-d4e6-4258-f36d80e6f8f4",
+        "rank": "normal"
+      }
+    ],
+    "P8225": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8225",
+          "hash": "07caa9f9527edda371f6ee2c3256bdbeaa43331b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 42889,
+              "id": "Q42889"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q140424465$972f90fc-4b4a-5555-b178-a9ae2644d5e2",
+        "rank": "normal"
+      }
+    ]
+  }
+}

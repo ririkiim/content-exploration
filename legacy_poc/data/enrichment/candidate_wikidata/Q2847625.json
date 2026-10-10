@@ -1,0 +1,72 @@
+{
+  "type": "item",
+  "id": "Q2847625",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "agility sport"
+    }
+  },
+  "descriptions": {},
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "e42a237f1c15a9c3ae26d66e4185584e7f1f3625",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 349,
+              "id": "Q349"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q2847625$05c36f65-498c-a9cc-95de-74015f6b6efc",
+        "rank": "normal"
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "117b271a70762d9298eb03201de9f9baeb210583",
+          "datavalue": {
+            "value": "/g/12245y3f",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q2847625$E3046C92-ABAF-427D-83EE-01D4C8ED72A2",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "96127026882685bbc649eae121565750f415dd3c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1368898,
+              "id": "Q1368898"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q2847625$6539da79-4127-8ac5-f26f-4670f34cdccd",
+        "rank": "normal"
+      }
+    ]
+  }
+}

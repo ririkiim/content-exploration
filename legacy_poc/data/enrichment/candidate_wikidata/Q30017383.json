@@ -1,0 +1,152 @@
+{
+  "type": "item",
+  "id": "Q30017383",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "fictional organism"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "허구의 생명체"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "class of individual fictional characters in the form of an organism"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "작품 속에서만 등장하는 가공의 생명체"
+    }
+  },
+  "claims": {
+    "P1074": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1074",
+          "hash": "fa1b46c5d09824130192e20f3a1ca347d233bec2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7239,
+              "id": "Q7239"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q30017383$9a102ae9-4b74-3c4f-1c5d-bded13f42458",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "a01375c8f3c58f15af6d8c888014db9e5fd32575",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 95074,
+              "id": "Q95074"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q30017383$c854fcca-4770-e505-0cbe-622611ff2b8b",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "375951eda24bb03909d933757fef55c6da8f0368",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 15831596,
+              "id": "Q15831596"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q30017383$b158fca9-4400-5fc1-746b-096566f6b9ad",
+        "rank": "normal"
+      }
+    ],
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "593789c5ebc7098d0af8a4c1dab6a3f5dcf25036",
+          "datavalue": {
+            "value": "FictionalOrganism",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q30017383$14C81C10-44B3-4078-AB6C-D955C733CCCC",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "type": "item",
+  "id": "Q16178004",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "배설"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bae Seol"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Joseon military officer (1551–1599)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조선의 무관"
+    }
+  },
+  "claims": {
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5,
+              "id": "Q5"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q16178004$81AB886C-F551-4C4B-B0EE-0A34466215E0",
+        "rank": "normal"
+      }
+    ],
+    "P21": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P21",
+          "hash": "85ad4b1c7348f7a5aac521135040d74e91fb5939",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6581097,
+              "id": "Q6581097"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q16178004$8AA04B86-7A7D-432D-8A57-0676A249846F",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "08be9f116c5c541d7fa461ad59ad559a42ffd6ed",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "56f99b6701feb379816767ae88bb77e0e74981b3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17985,
+                      "id": "Q17985"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P509": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P509",
+          "hash": "a9c29021f173673f2b5e280769b928056e80c6ff",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 204933,
+              "id": "Q204933"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q16178004$7a331e84-8c21-44f2-bbc1-1e641e587be5",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "08be9f116c5c541d7fa461ad59ad559a42ffd6ed",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "56f99b6701feb379816767ae88bb77e0e74981b3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17985,
+                      "id": "Q17985"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P569": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P569",
+          "hash": "8c48b2aea9c467970e66eac209e447e6bf1f351c",
+          "datavalue": {
+            "value": {
+              "time": "+1551-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "id": "Q16178004$be010146-3b1b-4c76-b6a8-8248c81533f9",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "08be9f116c5c541d7fa461ad59ad559a42ffd6ed",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "56f99b6701feb379816767ae88bb77e0e74981b3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17985,
+                      "id": "Q17985"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          },
+          {
+            "hash": "fdde6c26b9345debef9b3bd3399a7905effd294e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "2ff88a400816dbb1ca24da35848d4f0fde47f87b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 624626,
+                      "id": "Q624626"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "2c73dcc8a70d09792459fb1ef918d242fccac058",
+                  "datavalue": {
+                    "value": "http://encykorea.aks.ac.kr/Contents/Item/E0021886",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "65c9778f4c74268c4e6f2742e11fc84d3c129968",
+          "datavalue": {
+            "value": "/m/0nbfrr4",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q16178004$AE051B50-E086-4CC3-B257-F1945C34D8AB",
+        "rank": "normal"
+      }
+    ],
+    "P8885": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8885",
+          "hash": "bd4c84125ed4b31a1537cbd9fb2a01a4e95e7ced",
+          "datavalue": {
+            "value": "배설(조선)",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q16178004$37bf9fc4-4d19-ce5e-0df3-9f8af2deb203",
+        "rank": "normal"
+      }
+    ],
+    "P1559": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1559",
+          "hash": "5fcd5285f165cc8c339d669c77a11200d9fe818c",
+          "datavalue": {
+            "value": {
+              "text": "배설",
+              "language": "ko"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2001": [
+            {
+              "snaktype": "value",
+              "property": "P2001",
+              "hash": "f70519d4b3522e3b7c5557a384124ab09590ae5c",
+              "datavalue": {
+                "value": "Bae Seol",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P1942": [
+            {
+              "snaktype": "value",
+              "property": "P1942",
+              "hash": "7538cc46c36f30e047ed78f67835bb11efc71c53",
+              "datavalue": {
+                "value": "Pae Sŏl",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2001",
+          "P1942"
+        ],
+        "id": "Q16178004$a116399c-43d2-667a-bf64-b1fe22791d36",
+        "rank": "normal"
+      }
+    ],
+    "P570": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P570",
+          "hash": "616cfc9632c26e05dc1cc29139ed1782ce059e79",
+          "datavalue": {
+            "value": {
+              "time": "+1599-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "id": "Q16178004$23cf2c25-4188-eff6-9783-81433aca00a3",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fdde6c26b9345debef9b3bd3399a7905effd294e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "2ff88a400816dbb1ca24da35848d4f0fde47f87b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 624626,
+                      "id": "Q624626"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "2c73dcc8a70d09792459fb1ef918d242fccac058",
+                  "datavalue": {
+                    "value": "http://encykorea.aks.ac.kr/Contents/Item/E0021886",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1399": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1399",
+          "hash": "ef1e1e06f07cf6570b8acc49df0e8753dd179dc2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 633339,
+              "id": "Q633339"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q16178004$d06d01ce-4e96-8c94-2942-c5303a57ec7d",
+        "rank": "normal"
+      }
+    ],
+    "P27": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P27",
+          "hash": "58e480454d4fb8fab8f7f3e870643c719bd5a748",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 28179,
+              "id": "Q28179"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q16178004$9ac96570-4b87-6a1f-2fb9-fe1b85da3a7a",
+        "rank": "normal"
+      }
+    ],
+    "P1344": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1344",
+          "hash": "2348b434a001120e97c1bf13b659cfc20e6aaa39",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 483088,
+              "id": "Q483088"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q16178004$c443a493-40e0-9b81-7721-4c655bde9867",
+        "rank": "normal"
+      }
+    ],
+    "P106": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P106",
+          "hash": "a76f0df3eae5de9db1abafa1ce11e268f99160ae",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 19598808,
+              "id": "Q19598808"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q16178004$07240703-4aa4-5a42-1832-0ad0cd137104",
+        "rank": "normal"
+      }
+    ],
+    "P9475": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9475",
+          "hash": "a6fe9186fb011ffe818b1a3deaa66d311ed02add",
+          "datavalue": {
+            "value": "E0021886",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q16178004$35ab32fa-469b-ce63-521f-e53a2e485fe3",
+        "rank": "normal"
+      }
+    ],
+    "P1782": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1782",
+          "hash": "76ce3ba442bf173a4594dd269e92a7cffc27dd71",
+          "datavalue": {
+            "value": "중한",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2001": [
+            {
+              "snaktype": "value",
+              "property": "P2001",
+              "hash": "22c5fe7f9d9804a054814d3288ae8db985d5e1c5",
+              "datavalue": {
+                "value": "Junghan",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P1942": [
+            {
+              "snaktype": "value",
+              "property": "P1942",
+              "hash": "3dcd62f3498c94fa618db989fb5f95690cfbe85e",
+              "datavalue": {
+                "value": "Chunghan",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2001",
+          "P1942"
+        ],
+        "id": "Q16178004$1527cc94-49c7-cfe2-ecc2-966283da2c79",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fdde6c26b9345debef9b3bd3399a7905effd294e",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "2c73dcc8a70d09792459fb1ef918d242fccac058",
+                  "datavalue": {
+                    "value": "http://encykorea.aks.ac.kr/Contents/Item/E0021886",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "2ff88a400816dbb1ca24da35848d4f0fde47f87b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 624626,
+                      "id": "Q624626"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P248"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

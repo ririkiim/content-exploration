@@ -1,0 +1,408 @@
+{
+  "type": "item",
+  "id": "Q11858035",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "emergency response"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "an action to give assistance provided by emergency services, teams, or individuals"
+    }
+  },
+  "claims": {
+    "P2347": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2347",
+          "hash": "abe9fbef5135ff68782c9cc6171d693c25c7fb09",
+          "datavalue": {
+            "value": "24349",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "7d24733aeaf0916604077a3b91854192572e8248",
+              "datavalue": {
+                "value": {
+                  "text": "emergency response",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "d7335bf10caffeb11d8f6ab157fe545a73252ed3",
+              "datavalue": {
+                "value": {
+                  "text": "ensivaste",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "c8761855420e4686f5a89e6988e32a4495eb6995",
+              "datavalue": {
+                "value": {
+                  "text": "första insats",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P14458": [
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "d7a5c36094d2d4c64b8ccafb42e3046a06066c38",
+              "datavalue": {
+                "value": {
+                  "text": "första insatsen",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "6505e6edcb335d128d54c7d4ce5b62a922e7e84e",
+              "datavalue": {
+                "value": {
+                  "text": "första akutomhändertagande",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "f4d2469c2a348e8c8d3752eb50dfe04e83e2f934",
+              "datavalue": {
+                "value": {
+                  "text": "första respons",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457",
+          "P14458"
+        ],
+        "id": "Q11858035$A3745B49-15EB-410E-B834-5AC80B3E4F28",
+        "rank": "normal"
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "8e44d750074ff411e012a35e7044edf170af834e",
+          "datavalue": {
+            "value": "/g/120wkt76",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q11858035$1D034ECB-5B5A-4543-A57F-EE57F1377A5C",
+        "rank": "normal"
+      }
+    ],
+    "P1325": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1325",
+          "hash": "ee8860422ea7e8d4527d630c34c16eed95f7b419",
+          "datavalue": {
+            "value": "https://catalog.data.gov/dataset?q=emergency%20response&sort=score+desc%2C+name+asc",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q11858035$0088B663-6B0B-48BE-B723-E886528A5A2E",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "7fa4f2272a43285ca926f2389ea48e712bcba038",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 4026292,
+              "id": "Q4026292"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q11858035$4E632B55-A0D3-4225-BFC6-D61C0136F1D5",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "483cf6dcc6bd73780b90807e871a7b4ac3aa5eaf",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 814610,
+              "id": "Q814610"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q11858035$85696BB1-778C-4F91-8B78-6A1E18C81A33",
+        "rank": "normal"
+      }
+    ],
+    "P5429": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5429",
+          "hash": "974d3b0c9b9ca2637b68a8053f6d33a7fda00f28",
+          "datavalue": {
+            "value": "mediatopic/20000168",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q11858035$217E47E7-0FB9-4F9E-A452-AC8DDE09DC1D",
+        "rank": "normal"
+      }
+    ],
+    "P9100": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9100",
+          "hash": "8e02ba97f37dba5d927ac4b801006b001fd2fa1c",
+          "datavalue": {
+            "value": "emergency-response",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q11858035$75D2A75F-E41C-4040-AFE4-B7B63DF7894B",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c7643be55ae214f20a467ba16270e2e3da3d4580",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "722866495a230e111474f65fe3da6644b60c5b20",
+                  "datavalue": {
+                    "value": "https://github.com/topics/emergency-response",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P1476": [
+                {
+                  "snaktype": "value",
+                  "property": "P1476",
+                  "hash": "c0eca701719be9f9665bee9cfccfe8815e7fc027",
+                  "datavalue": {
+                    "value": {
+                      "text": "emergency-response · GitHub Topics · GitHub",
+                      "language": "en"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "3aaa7efa3543d310654da7a4250c1b45389b2407",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-07-25T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P1476",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "4636e171d4132da3a4aeeeecd2f9fab5d7f996fd",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 28640,
+              "id": "Q28640"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q11858035$55FB4BC9-0E77-4F7C-9F28-E9B0EF0CC251",
+        "rank": "normal"
+      }
+    ],
+    "P1382": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1382",
+          "hash": "061cd25ce8c376a70e3342fc1a4c5eedb816f17c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 137777571,
+              "id": "Q137777571"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q11858035$bff0f385-4066-35d4-2de9-4695a786d978",
+        "rank": "normal"
+      }
+    ],
+    "P8309": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8309",
+          "hash": "49a950650dcc42fb10e3a2d188d7ad2287116a95",
+          "datavalue": {
+            "value": "18-306039",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q11858035$CDA7C5C8-D97A-4A28-B27B-70119D54632E",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8309",
+          "hash": "a9eac0baa48303255d1a226c685a1431f7f70b23",
+          "datavalue": {
+            "value": "18-280509",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q11858035$FB88D8CE-E1F3-4918-AC30-0A936BAFEF7D",
+        "rank": "normal"
+      }
+    ],
+    "P1617": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1617",
+          "hash": "12a81701f06c85fbfe84acd5b19c54b0b2a9f329",
+          "datavalue": {
+            "value": "04321b0b-fb20-4495-bc19-81add9897d54",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q11858035$b3a08a4c-47c8-4941-9808-5c981531373f",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "8582d8416671f1f2567247201bac753552435ca5",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "ea55dc6ac5c3ab77c77d4ae7979e3276d0d4cd20",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 18336371,
+                      "id": "Q18336371"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

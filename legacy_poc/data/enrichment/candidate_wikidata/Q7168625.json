@@ -1,0 +1,838 @@
+{
+  "type": "item",
+  "id": "Q7168625",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "historical drama"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "시대극"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "dramatic work of art set in, or reminiscent of, an earlier time period"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "영화 하위장르"
+    }
+  },
+  "claims": {
+    "P349": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P349",
+          "hash": "77ce1f074b72eca279d6d2c200db84cec754343d",
+          "datavalue": {
+            "value": "00576663",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7168625$8880E11A-A7D7-4F1E-B55C-C8859502DBD2",
+        "rank": "normal"
+      }
+    ],
+    "P1051": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1051",
+          "hash": "8e6586512fff3fe65010e69e2d04e7aa6ce6c8b1",
+          "datavalue": {
+            "value": "6999",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7168625$C2E794E8-7E0D-430A-B8E1-51950BC958B2",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "5a8336f983d7845aff70d82c071c3a9c293311fa",
+          "datavalue": {
+            "value": "/m/04xvlr",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7168625$60348277-28E0-467E-BDFA-F068CDD1A520",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P460": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P460",
+          "hash": "167c25a38897c2a7a0d61cabe365d19ab67f6d7d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 542475,
+              "id": "Q542475"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q7168625$90a48a38-4c35-9133-807b-a4f2430fdb15",
+        "rank": "normal"
+      }
+    ],
+    "P2581": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2581",
+          "hash": "b1b757831728c9a7cc8dc2968977fb121f160efe",
+          "datavalue": {
+            "value": "17823841n",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7168625$ebea093d-4df6-45ca-4a7f-de26119b5f84",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "79ba6f8573761c043a85018eb102eeedefee80a9",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "25b816aab41db18565946259c950aed6de05dd1e",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 4837690,
+                      "id": "Q4837690"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "beb1da703bb5bceeda06547c6345e49f4b654de8",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-02-24T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P7502": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7502",
+          "hash": "d5dc47c8afd6580393eb7ccf81c70e6304bee0fc",
+          "datavalue": {
+            "value": "Historical_period_drama",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7168625$46fb4056-4add-b111-8cd8-6fd5907c4052",
+        "rank": "normal"
+      }
+    ],
+    "P3847": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3847",
+          "hash": "99761622c5c241df718a5d6ffa62701e069e8d7b",
+          "datavalue": {
+            "value": "historical_drama",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P3740": [
+            {
+              "snaktype": "value",
+              "property": "P3740",
+              "hash": "d59ad23dc73618f7777d4375f6e34397568aeae9",
+              "datavalue": {
+                "value": {
+                  "amount": "+112",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P3740"
+        ],
+        "id": "Q7168625$259591e8-4f4f-3bc4-050e-6dfea1aec58d",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "3031d622a7cae32ce1a51742eb0d5003f84544ec",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3b8ad30045b4d7d93be11d9baa00d5e6f49d11d0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1201876,
+                      "id": "Q1201876"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "beb1da703bb5bceeda06547c6345e49f4b654de8",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-02-24T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P508": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P508",
+          "hash": "9bd420591389754e15dfbe830a4ea032b9b6c57e",
+          "datavalue": {
+            "value": "8497",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "6a456031535c3bec6ca375f8889670b83f63977f",
+              "datavalue": {
+                "value": "Drammi storici",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q7168625$3e530474-e670-4008-882f-58e3cc0dc826",
+        "rank": "normal"
+      }
+    ],
+    "P9466": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9466",
+          "hash": "fd77522e567dc65ab1e306494664e4e613a81968",
+          "datavalue": {
+            "value": "historisk_drama",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7168625$1A6E405A-3993-4294-BF82-DBE24773C48E",
+        "rank": "normal"
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "eb99f46502512fc1d9c0de7c34666803acec6e79",
+          "datavalue": {
+            "value": "ph303255",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "19f8138e00fe25287d00b6337611077830c8e17f",
+              "datavalue": {
+                "value": "historické drama",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q7168625$6AAC7673-5A4E-4C30-B7FC-13F9C285408D",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "5aae456896fd8168f8171f3ef3fc462252546807",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 25372,
+              "id": "Q25372"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q7168625$884B08D3-5251-4B2A-B696-48443AE29A4F",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "7698d9db31f5d07eedc9653b1fc16323abc95647",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 20916420,
+              "id": "Q20916420"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q7168625$ad1088af-4371-109b-3319-0d6a3d2875f7",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "57761cde82053169e8a10138ccad340c1e571286",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 117422360,
+              "id": "Q117422360"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q7168625$66A6F777-75B1-4203-B760-1D3940745623",
+        "rank": "normal"
+      }
+    ],
+    "P7033": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7033",
+          "hash": "4838ae0adcdb5a727d712fc91d308b269e27008d",
+          "datavalue": {
+            "value": "scot/3732",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7168625$FCDBCAD4-61E6-4FB0-993C-A98940CA4591",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "e8f59e167e59bbea7ca2606e9e99f81222032153",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5774663,
+              "id": "Q5774663"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q7168625$671960e3-4e94-f9be-7792-cb609d5906d2",
+        "rank": "normal"
+      }
+    ],
+    "P1617": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1617",
+          "hash": "e71f95ba6aa9c757bb8c36ca03679d1788865f97",
+          "datavalue": {
+            "value": "538cd6cd-503b-42bb-a511-12d8849e1e8c",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7168625$B6A9E833-0B28-465A-97FD-DFADE2081A5D",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "8582d8416671f1f2567247201bac753552435ca5",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "ea55dc6ac5c3ab77c77d4ae7979e3276d0d4cd20",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 18336371,
+                      "id": "Q18336371"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "edb131f94c1424f18bc3ae20eca7ad6ef7be2591",
+          "datavalue": {
+            "value": "/g/11hzcqkvx9",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7168625$EAD0EDF5-3539-4753-88D6-BE68C012458C",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "ce8752b9475e695ebcaf355792ae7c7635144e4b",
+          "datavalue": {
+            "value": "/g/1231ggny",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7168625$E7F65FCC-B84C-474C-BE8B-0C71F325E70B",
+        "rank": "normal"
+      }
+    ],
+    "P11137": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11137",
+          "hash": "3f9f5d12015e56a28b73f3efa7ddafe66ff16d14",
+          "datavalue": {
+            "value": "historical_drama",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7168625$807E3B03-3E4F-4C7D-A0A5-85236745FEBB",
+        "rank": "normal"
+      }
+    ],
+    "P11924": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11924",
+          "hash": "231a30f02ac0f6105b1d9bf2fc59bcd57c67bb23",
+          "datavalue": {
+            "value": "historical-drama",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7168625$14576363-93B3-49A7-AA14-176E99B93E74",
+        "rank": "normal"
+      }
+    ],
+    "P154": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P154",
+          "hash": "c9d3232f55dbfa946cc1d021824abffda7fafb42",
+          "datavalue": {
+            "value": "Historicalfilm.png",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q7168625$7e123d04-4147-8757-ff7d-c94deb3ddb0d",
+        "rank": "normal"
+      }
+    ],
+    "P1036": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1036",
+          "hash": "d82d84ae9e4e91829c804f2c196c96fa01ee5d77",
+          "datavalue": {
+            "value": "792.14",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7168625$99C6CD0C-50DB-4FFB-9297-171C87DC0636",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0f4c889058aee2f2fc7587d5ee8cb3c4c2ea80bc",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3b090a7bae73c288393b2c8b9846cc7ed9a58f91",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 16583225,
+                      "id": "Q16583225"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P508": [
+                {
+                  "snaktype": "value",
+                  "property": "P508",
+                  "hash": "9bd420591389754e15dfbe830a4ea032b9b6c57e",
+                  "datavalue": {
+                    "value": "8497",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "6d4c9e5b0416a20f72876d06319d4d54168395a8",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2025-11-21T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P508",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P5160": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5160",
+          "hash": "dfcd9eace1f863a0633a6f96101d3684a4afe283",
+          "datavalue": {
+            "value": "tgm005019",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "be0b855e52829f8089cae88d8e6e61e4d1c31d14",
+              "datavalue": {
+                "value": "Historical dramas",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P9570": [
+            {
+              "snaktype": "value",
+              "property": "P9570",
+              "hash": "f1e670b0427b9d205cfbdef6e3c7322bc7886746",
+              "datavalue": {
+                "value": {
+                  "text": "For images representing dramatic productions or scenes (theatrical, film, radio, or television) of historical events or with historical settings that emphasize the dramatic. Search under HISTORICAL REENACTMENTS for enactments of specific historical events, such as battles, etc.",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P9570"
+        ],
+        "id": "Q7168625$07DF650A-8FF2-4A94-8D53-6AE40EDACC8E",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "294a5f42fe255f2fa33d56bb65ead1d620389d91",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "df7f17504eaf528a18465eb72774c5c9c70e9f8f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 52441805,
+                      "id": "Q52441805"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "be0b855e52829f8089cae88d8e6e61e4d1c31d14",
+                  "datavalue": {
+                    "value": "Historical dramas",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "beb1da703bb5bceeda06547c6345e49f4b654de8",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-02-24T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1810",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P11943": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11943",
+          "hash": "2c22aaea78fbf45c2bad8ace175fd0b0b476f32e",
+          "datavalue": {
+            "value": "54",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7168625$C7CF8A80-19A3-4B33-B7E8-B0E0EE48879C",
+        "rank": "normal"
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "5f2ac5f4102b77112ce900c69c23e7b3b0c29c55",
+          "datavalue": {
+            "value": "0363937-historicke-drama",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q7168625$998E8ED8-70BB-43E6-8BC5-2600289A9352",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "type": "item",
+  "id": "Q15619164",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "abstract being"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "추상적 존재"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "entity that has no physical realisation"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "실체가 없는 개체"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "7ff6f2ceadd7df8ec16bccbec5092a6da898be20",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 830077,
+              "id": "Q830077"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15619164$77f34cb5-451d-4130-adaf-0ad6d0c8f1ef",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "6aedaf1acb8b0a235981d0a5e0c857177235f0ec",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7048977,
+              "id": "Q7048977"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15619164$d27fee0c-4e69-5c4f-cc6a-54bc87398391",
+        "rank": "normal"
+      }
+    ],
+    "P461": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P461",
+          "hash": "122fda7993d3036abd846718da5d88733323c3e5",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 4406616,
+              "id": "Q4406616"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1013": [
+            {
+              "snaktype": "value",
+              "property": "P1013",
+              "hash": "b16c842374aafd0d1995d3a4b23ea7a29bb1a4ca",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 18205125,
+                  "id": "Q18205125"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1013"
+        ],
+        "id": "Q15619164$e8a650c4-454b-8ab0-18eb-975dc9d852de",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P461",
+          "hash": "2b12431a5725b111f66d09c094d1a6c34f43c24a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7048977,
+              "id": "Q7048977"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1013": [
+            {
+              "snaktype": "value",
+              "property": "P1013",
+              "hash": "a20d2b78294ae8345b3f36103befb8856ee00ed6",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 41798914,
+                  "id": "Q41798914"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1013"
+        ],
+        "id": "Q15619164$d4cd6c3c-4ab1-3996-ca3e-baa734919748",
+        "rank": "normal"
+      }
+    ],
+    "P8814": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8814",
+          "hash": "75f9e480797f65bd8598661c44d77ceb806b2258",
+          "datavalue": {
+            "value": "00002137-n",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q15619164$297a3e47-4a21-2b11-485e-fa168f3491e4",
+        "rank": "normal"
+      }
+    ],
+    "P12575": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12575",
+          "hash": "6c43028ebb9e6e83ea7a1d72e3900f879581dd2e",
+          "datavalue": {
+            "value": "EQSIM-00402",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q15619164$2c735e24-4402-0f6e-b750-bbbf2bc20d5e",
+        "rank": "normal"
+      }
+    ]
+  }
+}

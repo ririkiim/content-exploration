@@ -1,0 +1,1423 @@
+{
+  "type": "item",
+  "id": "Q1059324",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "대학 병원"
+    },
+    "en": {
+      "language": "en",
+      "value": "university hospital"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "hospital which is part of a university"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "대학교 아래에 설치된 교육수련병원"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "694fb0c4efe51d357020197c4289d32998be39e7",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1813474,
+              "id": "Q1813474"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "q1059324$7eae815d-49c6-a776-38b9-c6446399116b",
+        "rank": "preferred"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "eb773d9fe3cefa4c13e9fd5b42e03dae36a75802",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 16917,
+              "id": "Q16917"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1059324$8ab5edef-4c14-84a3-52ba-17d75eea4c76",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "6a6c70c2be6cdf74297594273fac6a8113657648",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 36578,
+                      "id": "Q36578"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P227": [
+                {
+                  "snaktype": "value",
+                  "property": "P227",
+                  "hash": "a6d0db99677eecc9b1f408c26f2a1baca43d2f45",
+                  "datavalue": {
+                    "value": "4061822-5",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "0b4f07f84ee539d2d013666f380be9608fb7c4cb",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2025-01-24T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P227",
+              "P407",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "1deadb5a08d7828f2485a5eb8a579eef078c2858",
+          "datavalue": {
+            "value": "University hospitals",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "q1059324$2A934A50-EC2E-40FC-8AA5-85E9DA0C2A9C",
+        "rank": "normal"
+      }
+    ],
+    "P349": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P349",
+          "hash": "c1055c9b948eaca2f884bfc3e713acf74b60a91e",
+          "datavalue": {
+            "value": "01098919",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$C2F181E3-6B2F-4CF5-8C5E-CA6DEF31895E",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "0290f85d600b668fe32b441fb7b86971e3a9a891",
+          "datavalue": {
+            "value": "/m/02g69s",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$A21BAC54-678E-476F-88C4-A5AE1103E64E",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P227": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P227",
+          "hash": "a6d0db99677eecc9b1f408c26f2a1baca43d2f45",
+          "datavalue": {
+            "value": "4061822-5",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "076aa910606ca81b6b9a496ae45e7376ad843fbf",
+              "datavalue": {
+                "value": "Universitätsklinik",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P4970": [
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "fb42a5372c6b8b376cb26683de948005c80bc118",
+              "datavalue": {
+                "value": "Hochschulklinik",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "b3ac6d9bc29a8fc996135dd7f251d769ce888005",
+              "datavalue": {
+                "value": "Universitätskrankenhaus",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "0cd282023efae3114328c1fb7b12265c879b4ac3",
+              "datavalue": {
+                "value": "Universitätsklinikum",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "c674cb685925f68a3f2b7706caf6dd329628318f",
+              "datavalue": {
+                "value": "Universitätsspital",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P4970"
+        ],
+        "id": "Q1059324$7217CBF1-CDB8-46FA-94FC-85CB1BE6AC5C",
+        "rank": "normal"
+      }
+    ],
+    "P3827": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3827",
+          "hash": "c539bb80c72b24d2e285588bbc337741c362991a",
+          "datavalue": {
+            "value": "university-hospitals",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$759627FC-049F-4EAB-8D1F-16190C1E60CE",
+        "rank": "normal"
+      }
+    ],
+    "P4980": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4980",
+          "hash": "4784024c83f13432aaea373fd84473a9c7a418ba",
+          "datavalue": {
+            "value": "271",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$DDA7E0F8-093F-455C-B6B5-D79107B3CBFB",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "7b949c052fd6a7197fea55ae10f2639fe3635e7b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8800360,
+              "id": "Q8800360"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1059324$94bb24e1-44a8-3c48-1bb4-9c6f9e690a9c",
+        "rank": "normal"
+      }
+    ],
+    "P2354": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2354",
+          "hash": "2ffa9bad30a6d62211807c567cf2b928b2b041a7",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 17006263,
+              "id": "Q17006263"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1059324$f88b8118-42f6-4b1d-37be-41afbc776078",
+        "rank": "normal"
+      }
+    ],
+    "P1269": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1269",
+          "hash": "7ad35b5033f1d2831dbcba25dbbbdd9415ac5d3a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3918,
+              "id": "Q3918"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1059324$c3f8afea-4a93-d9e8-c9c9-41d6f81a28da",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1269",
+          "hash": "88c238c6056b784907d23a60b3e0a01d57cddaab",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 494230,
+              "id": "Q494230"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1059324$73ee88ea-4153-d407-23bb-13dd81360daf",
+        "rank": "normal"
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "d88480a79395b28308a02e58725547257b375755",
+          "datavalue": {
+            "value": "University-Hospitals",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$EE54956D-6BC6-490E-BAED-498466660F44",
+        "rank": "normal"
+      }
+    ],
+    "P486": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P486",
+          "hash": "19721366fecadebfb55e42e7323b5d79019504f2",
+          "datavalue": {
+            "value": "D006785",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "8ad974fb84b17ec6444a5edc29fd2d44540537db",
+              "datavalue": {
+                "value": "Hospitals, University",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P9570": [
+            {
+              "snaktype": "value",
+              "property": "P9570",
+              "hash": "e1facf9f1ad66a54077dd1d0845567b09857bda0",
+              "datavalue": {
+                "value": {
+                  "text": "Hospitals maintained by a university for the teaching of medical students, postgraduate training programs, and clinical research.",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P9570"
+        ],
+        "id": "Q1059324$280B9E8D-FDDB-470C-87B1-908A1D3B501E",
+        "rank": "normal"
+      }
+    ],
+    "P1245": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1245",
+          "hash": "be69df44df413c07d17eb0965078bc3d98381287",
+          "datavalue": {
+            "value": "1140421",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$5A8CD0BD-C7C3-4717-9B1F-6EC556AFEA8C",
+        "rank": "normal"
+      }
+    ],
+    "P2347": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2347",
+          "hash": "295b91f11d33f27d82fcda62c8cc5177bb001d68",
+          "datavalue": {
+            "value": "1587",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "d2898bff40648ba6c511dfb770d13e48dec4521a",
+              "datavalue": {
+                "value": {
+                  "text": "yliopistosairaalat",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "ee277056e78cab3b8a63fc8cbae2020fbc285699",
+              "datavalue": {
+                "value": {
+                  "text": "universitehtabuohcceviesut",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "63fb58766a0555a9e903165ee646b824221d99c4",
+              "datavalue": {
+                "value": {
+                  "text": "universitetssjukhus",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "d47db9fd5b4118a969bf44df75866dc9a9c869cf",
+              "datavalue": {
+                "value": {
+                  "text": "university hospitals",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P14458": [
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "c4bb2d32c564797c18b15b5cc1d949fab2c961b9",
+              "datavalue": {
+                "value": {
+                  "text": "yliopistolliset sairaalat",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "5fa783fc78f1f6b2910f84131595cccfefaa0e2a",
+              "datavalue": {
+                "value": {
+                  "text": "university central hospitals",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "4e0f84cc3e7da72bc9bcf55214327326077b3b7d",
+              "datavalue": {
+                "value": {
+                  "text": "universitetscentralsjukhus",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "2afc240f4b0fdd05c427a5735defb498830b0f5c",
+              "datavalue": {
+                "value": {
+                  "text": "yliopistolliset keskussairaalat",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "2ff814175c0786b3e867e48cb154f3f9ad42c257",
+              "datavalue": {
+                "value": {
+                  "text": "central university hospitals",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457",
+          "P14458"
+        ],
+        "id": "Q1059324$3A6023E4-E735-431D-9D7D-15C20F8FEF5D",
+        "rank": "normal"
+      }
+    ],
+    "P1014": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1014",
+          "hash": "8efd22f87376fa470e642e3e53978de32aa70d6e",
+          "datavalue": {
+            "value": "300006701",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$A097C051-9325-4BF5-938C-23D65F6F6567",
+        "rank": "normal"
+      }
+    ],
+    "P7293": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7293",
+          "hash": "dc9e24184d79c40807ea77e46ef208eaa5105e55",
+          "datavalue": {
+            "value": "9810633221305606",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$3f267339-4419-ca6b-c481-abbcc7a45a0e",
+        "rank": "normal"
+      }
+    ],
+    "P244": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P244",
+          "hash": "17d1325f5284a84a9ad2ee8e91aa65e21d8e138d",
+          "datavalue": {
+            "value": "sh85062404",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "379abc8b358eb89c53502d99f6f32fff9a454725",
+              "datavalue": {
+                "value": "university hospitals",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1059324$C7366291-0925-44CF-8F65-1FF501B23871",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "6a6c70c2be6cdf74297594273fac6a8113657648",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 36578,
+                      "id": "Q36578"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P227": [
+                {
+                  "snaktype": "value",
+                  "property": "P227",
+                  "hash": "a6d0db99677eecc9b1f408c26f2a1baca43d2f45",
+                  "datavalue": {
+                    "value": "4061822-5",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "0b4f07f84ee539d2d013666f380be9608fb7c4cb",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2025-01-24T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P227",
+              "P407",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8309": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8309",
+          "hash": "d334600e5275bdfdcfdcae0f809280ba3c59b893",
+          "datavalue": {
+            "value": "18-137983",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$4497f5e4-4fbe-9435-abd7-dfad818a525a",
+        "rank": "normal"
+      }
+    ],
+    "P6293": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6293",
+          "hash": "14e578d46a1aa577d817ecdc82a224265073c8e8",
+          "datavalue": {
+            "value": "Y104251",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$6c315b89-4fd0-516f-851d-73758bd0ebc7",
+        "rank": "normal"
+      }
+    ],
+    "P8313": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8313",
+          "hash": "5f8be1ed0e784194f0003fe88a7d897931a41dc8",
+          "datavalue": {
+            "value": "universitetshospital",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$34611273-8528-49CE-8AFE-C38A5F507FC2",
+        "rank": "normal"
+      }
+    ],
+    "P672": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P672",
+          "hash": "4af997328f54a260fcd047b3e69dacee4cf45437",
+          "datavalue": {
+            "value": "N02.278.020.300.310",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4900": [
+            {
+              "snaktype": "value",
+              "property": "P4900",
+              "hash": "d45a02894a83b55d05ae10497911afa0e66fb9e7",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1813474,
+                  "id": "Q1813474"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4900"
+        ],
+        "id": "Q1059324$e037d2ca-4cb5-24fe-0daa-1d6d25efde4e",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P672",
+          "hash": "c92b79aee4239e29600eb7bfec5b8eccb74cee34",
+          "datavalue": {
+            "value": "N02.278.421.639.725",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4900": [
+            {
+              "snaktype": "value",
+              "property": "P4900",
+              "hash": "d45a02894a83b55d05ae10497911afa0e66fb9e7",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1813474,
+                  "id": "Q1813474"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4900"
+        ],
+        "id": "Q1059324$18337fea-4b36-7b00-bf46-bb24dffed956",
+        "rank": "normal"
+      }
+    ],
+    "P1813": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1813",
+          "hash": "777b23855e5ab7f9f7dbcfd5fb674e9a4b839493",
+          "datavalue": {
+            "value": {
+              "text": "CHU",
+              "language": "fr"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q1059324$bf4e0fbf-43b4-7a28-d940-ed861a9d90e4",
+        "rank": "normal"
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "7e92050b9dbae0aae5c10fead149e70a9b7ea519",
+          "datavalue": {
+            "value": "ph270286",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "ab096536437b8cb0bfbcee233260afceb97173c7",
+              "datavalue": {
+                "value": "fakultní nemocnice",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1059324$00792462-290A-4E90-90B3-5A0A6C4F113E",
+        "rank": "normal"
+      }
+    ],
+    "P8189": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8189",
+          "hash": "3bde5888e6acae95d3d9d6a1e82d9f21f3035269",
+          "datavalue": {
+            "value": "987007529093205171",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "70bf8e14bdd112b85efab3f4091b24ad09d7e83f",
+              "datavalue": {
+                "value": {
+                  "text": "University hospitals",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "e86686ca5817dcabe3ff5635122e8908e5460b95",
+              "datavalue": {
+                "value": {
+                  "text": "בתי חולים אוניברסיטאיים",
+                  "language": "he"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "7bbf9d82b2a4587d5437a1a9d24a647732c1bfa7",
+              "datavalue": {
+                "value": {
+                  "text": "المستشفيات الجامعية",
+                  "language": "ar"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q1059324$073C2971-9F7A-440F-9862-104E1ACADDD8",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "ecb7a39cf436eb1fba419853af168ef9f2ba1dab",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a03bb6ffe37be9554492f4eea5bd18afcb57df19",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 106509962,
+                      "id": "Q106509962"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2892": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2892",
+          "hash": "85a04b225d030f5f386bccb1c2e404d1d2a2075c",
+          "datavalue": {
+            "value": "C0020028",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$FE9EDFCC-DE47-40BD-A417-85B09E0CA07E",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "5a3fcc55b73b13f3af6371d937925214aba40c37",
+            "snaks": {
+              "P887": [
+                {
+                  "snaktype": "value",
+                  "property": "P887",
+                  "hash": "0f284e521850e663d708d293bf3ecf0e36528c45",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 118645058,
+                      "id": "Q118645058"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "0dffc9c217cd4550d6e1be4e56268ece7068efc2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 118645236,
+                      "id": "Q118645236"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "d8ddd48761b0d6d139b24b5124a2e52e5974193d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2023-05-24T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P887",
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "95f6b2534d381233d15a03f60fa479a2e7972839",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 4671274,
+              "id": "Q4671274"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1059324$33d04036-4449-2ecc-7ad6-a64b13ff95ee",
+        "rank": "normal"
+      }
+    ],
+    "P12596": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12596",
+          "hash": "2fdf63f55d4fa059dc5a7c2392c027bfb69585da",
+          "datavalue": {
+            "value": "124045",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$F7EC759A-A075-48AF-AE80-3C896C3B7296",
+        "rank": "normal"
+      }
+    ],
+    "P1036": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1036",
+          "hash": "e596d89a9e927b7365c82246f2802e53b4aec7a8",
+          "datavalue": {
+            "value": "362.11",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$62b91367-47ae-165a-bd01-d122ca0990a3",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "6a6c70c2be6cdf74297594273fac6a8113657648",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 36578,
+                      "id": "Q36578"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P227": [
+                {
+                  "snaktype": "value",
+                  "property": "P227",
+                  "hash": "a6d0db99677eecc9b1f408c26f2a1baca43d2f45",
+                  "datavalue": {
+                    "value": "4061822-5",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "0b4f07f84ee539d2d013666f380be9608fb7c4cb",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2025-01-24T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P227",
+              "P407",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P13297": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13297",
+          "hash": "c1f6c42bbda0a474f3196c7f2ac49b07dc27621f",
+          "datavalue": {
+            "value": "chu",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$6ed0ded7-40e0-92cd-f1a2-04e8a9f12c8c",
+        "rank": "normal"
+      }
+    ],
+    "P13161": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13161",
+          "hash": "238acdad45d5c3d565420d06a5d7f491adda56d3",
+          "datavalue": {
+            "value": "chu",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$c7e29c2f-4aa8-02ab-7c34-0033d44063ba",
+        "rank": "normal"
+      }
+    ],
+    "P13160": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13160",
+          "hash": "50f636d0e539c3b19b6e33d97124451ea50eb9e2",
+          "datavalue": {
+            "value": "مستشفى-جامعي",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$87f81fff-4bae-cbb1-2dd1-1fc009d22644",
+        "rank": "normal"
+      }
+    ],
+    "P5082": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5082",
+          "hash": "326d4720ebde145d879634fdb9593f67423df86f",
+          "datavalue": {
+            "value": "universitetssykehus",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$60627bcf-48a8-b583-e1e4-5272047a160b",
+        "rank": "normal"
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "a4ef6fe1b6491495cc99ef2fea856136dbbf706c",
+          "datavalue": {
+            "value": "/g/120m0z32",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$E85D93DF-BD2A-482D-8C22-581B6FAD3263",
+        "rank": "normal"
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "13ef43b2746d0af1ba2fdc1f9c2cb04f470e490b",
+          "datavalue": {
+            "value": "concept/9309df4a-1eb2-4260-8879-f444b3d67ee3",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$A443A7E8-FF07-445A-B836-BF68674470A0",
+        "rank": "normal"
+      }
+    ],
+    "P1382": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1382",
+          "hash": "5d376edc55b3125275279372487acd0161dde76d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 21016139,
+              "id": "Q21016139"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1059324$A2728D16-AF0D-40A8-BFB7-2CBB5BBA59D8",
+        "rank": "normal"
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "d231488b6e37d9ea4c8e01a352aaab5c0ee9f6c5",
+          "datavalue": {
+            "value": "0268910-fakultni-nemocnice",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1059324$BBF73BCB-CA8E-49B7-AE54-10FDE8B790FF",
+        "rank": "normal"
+      }
+    ]
+  }
+}

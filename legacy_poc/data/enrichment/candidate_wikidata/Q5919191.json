@@ -1,0 +1,449 @@
+{
+  "type": "item",
+  "id": "Q5919191",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "military intervention"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "use of force by a State over foreign territory"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "913860a3e50dea1f96a5a842be3bb038d8ff2557",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1168287,
+              "id": "Q1168287"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5919191$a2e5a9e2-4691-cd9b-50ec-a3fd277105d1",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "9463b4898053e71d02c8c52d83b73a4d8650786b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 645883,
+              "id": "Q645883"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5919191$C9369703-58D3-4B03-AB62-A455C3841008",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "c22cbb21c86fb7a16cff3cfa8d174c9e632d7ae0",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 350604,
+              "id": "Q350604"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5919191$d8b23770-48be-ec72-58d5-fe627a8ddbe5",
+        "rank": "normal"
+      }
+    ],
+    "P828": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P828",
+          "hash": "96f4881ad147ec93e2d7286c1c5d60e1e63e3e76",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 13368786,
+              "id": "Q13368786"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5919191$18198ef7-4f9c-0343-b300-760a41cfa8fe",
+        "rank": "normal"
+      }
+    ],
+    "P4527": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4527",
+          "hash": "234c8218a630afd58348b14f777a8b2647362810",
+          "datavalue": {
+            "value": "92023",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "67324f81486a86e0eeee0eab14439e86e05ff84c",
+              "datavalue": {
+                "value": "Military intervention",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q5919191$1E99F35E-1987-4431-817A-D673761B1119",
+        "rank": "normal"
+      }
+    ],
+    "P5198": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5198",
+          "hash": "edadde6c5cda61b7c330f7e5f01b2be7fe5a2a30",
+          "datavalue": {
+            "value": "294925686",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5919191$EDD5C041-8DC4-41EE-8163-D94FD91DA444",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "c0a227488059e03d8ae0643582ff62f0e956b455",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1168287,
+              "id": "Q1168287"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5919191$2A14AA17-6DC8-448E-B6C8-04DE640A5D19",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "85ed1d63a44f3994fff576ead74de1529dc4c805",
+            "snaks": {
+              "P3452": [
+                {
+                  "snaktype": "value",
+                  "property": "P3452",
+                  "hash": "1b8be336e0b5bd9e1c6af32a664b72c9cab53fb6",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1168287,
+                      "id": "Q1168287"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P3452"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "8a3eaccc2de52f47eb4f8a26100904f1774dc7d7",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1143267,
+              "id": "Q1143267"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q5919191$52130ecd-4e51-fc25-8776-c8ac64400687",
+        "rank": "normal"
+      }
+    ],
+    "P3911": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3911",
+          "hash": "7e87200235f143e6467aa0622349c99e23c22858",
+          "datavalue": {
+            "value": "16471-2",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4390": [
+            {
+              "snaktype": "value",
+              "property": "P4390",
+              "hash": "97a9b264c1cbc8ac9d7b66aad848f24c10d8c118",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 39893184,
+                  "id": "Q39893184"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4390"
+        ],
+        "id": "Q5919191$2B25C32F-37DF-4D7A-A6F3-EA6C95F57495",
+        "rank": "normal"
+      }
+    ],
+    "P5437": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5437",
+          "hash": "67046d6f7144dcc52bc0c2c3e2b42f517e7abce2",
+          "datavalue": {
+            "value": "5335",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P459": [
+            {
+              "snaktype": "value",
+              "property": "P459",
+              "hash": "3084e3b8a8327068d29db87271ae41c0e0c567fc",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1266546,
+                  "id": "Q1266546"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P459"
+        ],
+        "id": "Q5919191$BDBA977F-46CC-4D96-8A8A-20EDA1F296F0",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "29d9261d3b24be2fb72a4e345a3e45cdf28eeed5",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4b222ea31b6fcd95c95734ce289e8c0b903041e9",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1370467,
+                      "id": "Q1370467"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "906490cb26d50131e0290371d0ce82d503c6c5e9",
+                  "datavalue": {
+                    "value": "https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/eurovoc",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "46a328015c3cf55fab3f1b6887440b3b575a4005",
+          "datavalue": {
+            "value": "/g/120nf64v",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5919191$91DC6469-218D-4E2B-B1CE-C6119C65F695",
+        "rank": "normal"
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "3f9f9b110c4cb2c24678025395bb0185c8dab08c",
+          "datavalue": {
+            "value": "ph206872",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "4834b86636a5cbe3ca7597bb69fc6b8f01d14847",
+              "datavalue": {
+                "value": "vojenská intervence",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q5919191$A71677D2-BF37-4084-8B46-C1AE36CD411F",
+        "rank": "normal"
+      }
+    ],
+    "P13255": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13255",
+          "hash": "b2783a8f7bd670960ae4b6ae1c33466a0f27defd",
+          "datavalue": {
+            "value": "intervention-militaire",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5919191$c723cf9a-4289-b25c-f4a2-51c5727b7308",
+        "rank": "normal"
+      }
+    ],
+    "P12582": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12582",
+          "hash": "902382834d3f64cc4f8c9ac870e9800a31947ff8",
+          "datavalue": {
+            "value": "20110803100157669",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5919191$A8CB6A31-1B4C-466C-9F09-B9CB4E25866C",
+        "rank": "normal"
+      }
+    ],
+    "P11662": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11662",
+          "hash": "ac4dd5eec6f32239fc7194919833b73977424696",
+          "datavalue": {
+            "value": "914296",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5919191$6171F87F-EABC-4622-80D8-AC168DDF09FE",
+        "rank": "normal"
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "7cbd2f6666b60986cde4aa9df381a03f60686901",
+          "datavalue": {
+            "value": "0213865-vojenska-intervence",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q5919191$477ABDD7-297E-4B9E-9E00-32A74ABD6180",
+        "rank": "normal"
+      }
+    ]
+  }
+}

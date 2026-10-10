@@ -1,0 +1,262 @@
+{
+  "type": "item",
+  "id": "Q490041",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Miryang gang rape"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "밀양 지역 고교생의 여중생 집단 성폭행 사건"
+    }
+  },
+  "descriptions": {
+    "ko": {
+      "language": "ko",
+      "value": "2004년 밀양에서 학생 간에 발생한 집단 강간 사건"
+    },
+    "en": {
+      "language": "en",
+      "value": "2004 gang rape in Miryang, South Korea"
+    }
+  },
+  "claims": {
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "64befdec0dbaa96f09ad758130b27cbc6d545ca8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8192354,
+              "id": "Q8192354"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q490041$03026ebc-49af-8d04-146e-a29d8d017140",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "6436aeddf648e4a4b4410a45c2efcd5f9f8b3d66",
+          "datavalue": {
+            "value": "/m/0j9q4j9",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q490041$842815F8-B97B-4989-9306-F4F2838B77A1",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2001": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2001",
+          "hash": "ee93693b54b05f4b18ee86daaa29018d1646b796",
+          "datavalue": {
+            "value": "Milyang-jiyeok yeojungsaeng jipdan ganggan sageon",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q490041$08EBD9D9-F42A-445A-B34E-A8AB7B43DA9C",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1942": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1942",
+          "hash": "e0f9cbc3cbde9d90eb8aa1b6b48b52f207818519",
+          "datavalue": {
+            "value": "Milyang-jiyŏk yŏjungsaeng chipdan kanggan sagŏn",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q490041$A8DD6C83-B421-4F04-9E41-9302EE4F49D0",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P17": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P17",
+          "hash": "ab4105e4f6c3449ba4a6ca949a3aaafaa67f5be8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 884,
+              "id": "Q884"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q490041$eb3905cf-45c5-40af-15e2-7822ca325fa9",
+        "rank": "normal"
+      }
+    ],
+    "P276": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P276",
+          "hash": "51889716221e866005310e570e32136199ad49b3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 42096,
+              "id": "Q42096"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q490041$244ac7f4-45fd-3075-49c6-c02c106d3ebc",
+        "rank": "normal"
+      }
+    ],
+    "P585": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P585",
+          "hash": "ba4e903e603892e17bd9796e98b823725cab176a",
+          "datavalue": {
+            "value": {
+              "time": "+2004-00-00T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "id": "Q490041$649e2d43-49c5-ce7c-8ae8-478afb73cb8c",
+        "rank": "normal"
+      }
+    ]
+  }
+}

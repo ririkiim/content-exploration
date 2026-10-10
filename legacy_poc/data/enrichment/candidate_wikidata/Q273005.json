@@ -1,0 +1,1427 @@
+{
+  "type": "item",
+  "id": "Q273005",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "경제체제"
+    },
+    "en": {
+      "language": "en",
+      "value": "economic system"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "system of ownership, production and exchange"
+    }
+  },
+  "claims": {
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "242b1c75138aee85a943dc7a9b7057d80f940f4a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5547795,
+              "id": "Q5547795"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q273005$711ACC32-C326-4141-AA22-CE1BB5D3A3FA",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "60e5395e2b27ae6f17aae4dba049bdf359fb0abd",
+          "datavalue": {
+            "value": "/m/033721",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q273005$4C9D0B22-9E3F-419E-BC21-6DBFDD0C38BB",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "a332db11048a3479bbdf04ae34c2c186fdbc100d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 96116695,
+              "id": "Q96116695"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q273005$7e468336-45d7-a716-9710-4f5130237869",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "2f6f87a395d2e3ded55ce454f9a93a6fcf18ca18",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1639378,
+              "id": "Q1639378"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q273005$8b6f6c9d-4bfd-f61d-e33b-090f3cf67832",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "4f823a96f4163ab085c1ffcc4fb2030505dd0327",
+          "datavalue": {
+            "value": "Economic systems",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q273005$8B369A22-26E9-4B48-8F43-A4BC956F36B8",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P227": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P227",
+          "hash": "8986a5921afc0d56d5612dbd7f6dfb0a8719c94b",
+          "datavalue": {
+            "value": "4117663-7",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q273005$23C84DD6-54A8-454F-8486-E719509DA54A",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48183,
+                      "id": "Q48183"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3827": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3827",
+          "hash": "a2e4cdcd6576cccff0f6049530af0c4ba6c959ef",
+          "datavalue": {
+            "value": "economic-systems",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q273005$28451C68-B8B1-4F75-8106-1B3D2F4B96A9",
+        "rank": "normal"
+      }
+    ],
+    "P1424": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1424",
+          "hash": "b0f5f5a1cc56119d0612ce5320c7b1a0112d4508",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6588231,
+              "id": "Q6588231"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q273005$298BC25E-BEFB-466F-BC19-A40EB5DA0C49",
+        "rank": "normal"
+      }
+    ],
+    "P1051": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1051",
+          "hash": "a2d848603b03ae3cdbb5617b628fe29c758df689",
+          "datavalue": {
+            "value": "11386",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q273005$48DD1727-276B-4815-B1DC-733FDD4A4F90",
+        "rank": "normal"
+      }
+    ],
+    "P2581": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2581",
+          "hash": "b5b4ec9fc99c2bba441ab34affa6a28c0f5b75df",
+          "datavalue": {
+            "value": "00029678n",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q273005$BF22C8DC-20F6-45BB-9876-B00F96CD2F31",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "248ac337a217a5f5eed7139a82a4e60931611af0",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "25b816aab41db18565946259c950aed6de05dd1e",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 4837690,
+                      "id": "Q4837690"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P4212": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4212",
+          "hash": "1775a13dcd7e36480b259756d11b31fdc642ee23",
+          "datavalue": {
+            "value": "pcrtlqTQa0LKfj",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q273005$5C761699-18CD-4DAB-B72E-D0B247846498",
+        "rank": "normal"
+      }
+    ],
+    "P1417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1417",
+          "hash": "66a41c89bd24b4db47a8890a0a776db8c2962621",
+          "datavalue": {
+            "value": "money/topic/economic-system",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "51475bf1c667a349479b55405d7550c21c8c3dc3",
+              "datavalue": {
+                "value": "economic system /  Money > History & Theory",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P2093": [
+            {
+              "snaktype": "value",
+              "property": "P2093",
+              "hash": "273ead835c014716931eb931a7c381541bde2d02",
+              "datavalue": {
+                "value": "Peter J. Boettke",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2093",
+              "hash": "f1692f9fe76dd3ce01c84ee111e9cac626f9ea5b",
+              "datavalue": {
+                "value": "Robert L. Heilbroner",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P2093"
+        ],
+        "id": "Q273005$62623603-5E88-4578-9D95-FEE68B76750B",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1417",
+          "hash": "4ab71352e206cc44dbd724913b2d26f3f7c027d1",
+          "datavalue": {
+            "value": "topic/economic-system",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2241": [
+            {
+              "snaktype": "value",
+              "property": "P2241",
+              "hash": "74bd46d0bbe97d05804856f1f73b6a7480c68cec",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 45403344,
+                  "id": "Q45403344"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2241"
+        ],
+        "id": "Q273005$00e648e8-4b9d-da55-27f5-dddfc18de9d9",
+        "rank": "deprecated"
+      }
+    ],
+    "P6366": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6366",
+          "hash": "32fa458cc7793dd4e17337308ace704364a721f8",
+          "datavalue": {
+            "value": "74363100",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q273005$C0A16013-D5A3-4F5E-9030-15A45F0D6148",
+        "rank": "normal"
+      }
+    ],
+    "P3916": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3916",
+          "hash": "0366b24bff9a590a5dadc8ae4c5db0342a040636",
+          "datavalue": {
+            "value": "concept583",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q273005$CD3938F6-7DCB-430A-935D-231D9252F7FD",
+        "rank": "normal"
+      }
+    ],
+    "P1552": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1552",
+          "hash": "1562bc1cd969490c5022e6b4a0974275b9464e57",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 836133,
+              "id": "Q836133"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q273005$0641a7b7-4f7c-886e-3dfa-2b64b032fb2c",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1552",
+          "hash": "edb7416e2a6ac682fd16f70b4c25ea2d2df06581",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 615445,
+              "id": "Q615445"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q273005$ef73af89-458d-a70c-ec77-6390a14b6f16",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1552",
+          "hash": "36ca66b76d42c228742c3d9a147a3df66aa5424b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1478822,
+              "id": "Q1478822"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q273005$71F92631-7920-403D-864F-CA5B965FEA12",
+        "rank": "normal"
+      }
+    ],
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "25e0c51050fccee599a79273b670ccd020cd2b91",
+          "datavalue": {
+            "value": "EconomicSystem",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q273005$8167A021-BF8B-46E1-89E4-9BBB4421031B",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P4527": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4527",
+          "hash": "72e14c4c449d81d6e84a9fb923821c755fac07d6",
+          "datavalue": {
+            "value": "91059",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "7a682fb32a9177d0c5d765f2259b50c2be487452",
+              "datavalue": {
+                "value": "Economic systems",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q273005$1F45D7B5-7BE4-4D74-82A2-03AB08AF9D4C",
+        "rank": "normal"
+      }
+    ],
+    "P2347": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2347",
+          "hash": "58c0d8a0ea77618652b4a5d6db31ee94f1b437c6",
+          "datavalue": {
+            "value": "4773",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "f5c9b3567057a28a2b013bf49fd6eb0d5b6b507d",
+              "datavalue": {
+                "value": {
+                  "text": "talousjärjestelmät",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "d8a55d0ea7a80aeb45e0f866cf653fa84078d93b",
+              "datavalue": {
+                "value": {
+                  "text": "ekonomiska system",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "db0a17a36be2566fff1ce090f052111a20e59337",
+              "datavalue": {
+                "value": {
+                  "text": "economic systems",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "0fca32e114ae36f8b14f4da6f26f38c21e95c863",
+              "datavalue": {
+                "value": {
+                  "text": "ekonomiijaortnegat",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P14458": [
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "22bc5ae440450009e2ca38e4b333543e4c5c19a7",
+              "datavalue": {
+                "value": {
+                  "text": "ekonomisystem",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457",
+          "P14458"
+        ],
+        "id": "Q273005$90405071-B08E-416E-BC7A-7A84A904A3C3",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "e567ca66a463b3a38d722c95fea83df88e2e7397",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "7133f11674741f52cadaae6029068fad9cbb52e3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 89345680,
+                      "id": "Q89345680"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "5381f6a336d59879e729785fbf331e55f3e7e1c3",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-11-26T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P10283": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10283",
+          "hash": "32fb6bc0295239809a74a77d8bf97f2753371a21",
+          "datavalue": {
+            "value": "C74363100",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q273005$5424D5C0-50A4-4826-8087-817B08580B4E",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "e0b27d817c9a9b3247df341000fc490bafcba862",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4a4f26a5361b5707266e48e425bf2be2f99fd2ab",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 107507571,
+                      "id": "Q107507571"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "435834d08182bb9f3dbe974ba9840af0f12899cc",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-26T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a4a4bf53f22268815c51ec10fed608da703c9c7f",
+                  "datavalue": {
+                    "value": "https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P1065": [
+                {
+                  "snaktype": "value",
+                  "property": "P1065",
+                  "hash": "3134281f51e2490f88272d53c56ee95d9cc24e2c",
+                  "datavalue": {
+                    "value": "https://web.archive.org/web/20220125070108/https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P2960": [
+                {
+                  "snaktype": "value",
+                  "property": "P2960",
+                  "hash": "f7ff3a0de7f9571ecb5e0740cba4122c6703e1ec",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-25T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P854",
+              "P1065",
+              "P2960"
+            ]
+          }
+        ]
+      }
+    ],
+    "P5198": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5198",
+          "hash": "f52fdd0fd4c3959c423faf1f6b5f77862cc485cc",
+          "datavalue": {
+            "value": "294909117",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q273005$58DE2CC7-9390-48D0-B24B-DCD8D7885562",
+        "rank": "normal"
+      }
+    ],
+    "P527": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "8d8e2ddce87809fc487d42df09ec65d30ac4fd53",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 13420330,
+              "id": "Q13420330"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q273005$5e8be982-44fa-e903-dda8-44772cdce762",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "89eff69c1478838418e401e5bdf803eab0bb6ef4",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 22855,
+              "id": "Q22855"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q273005$e727e7cb-40c3-daab-c5df-748a3b2e8d7c",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "8eb511e99ded4391a9cc874b5517770ddb3f3069",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 37654,
+              "id": "Q37654"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q273005$feb911b3-4f04-932b-a82a-23f153ea1970",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "f7ddd9153905996b61c25095a1cecefd1af663de",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3958441,
+              "id": "Q3958441"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q273005$6b3c053d-4485-082f-e55d-b9f4aa48bcbe",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "622eb614e79bcc0319e7622e91c3ffd9e984a147",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1668335,
+              "id": "Q1668335"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q273005$707D5077-999B-486F-A007-BD66058242C8",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "b663235e1a0683017c985ad2f5b8a9b813ac2116",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 601401,
+              "id": "Q601401"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q273005$027f7a9f-4a80-7142-b80a-17984b82b14d",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "d77c856fb1224af365712961c25d49dbad04a3c6",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 319676,
+              "id": "Q319676"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q273005$e2e234c1-406c-2a88-398f-bf900aa8d397",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "baeeabfdd485cdbfb4cdcddc9f035cedaa5de351",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 210947,
+              "id": "Q210947"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q273005$9b4edd4c-4afa-27ce-eaa9-1f69070e953b",
+        "rank": "normal"
+      }
+    ],
+    "P2579": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2579",
+          "hash": "0e1e19b3fcbdf5780ccfb748b579abbad6851246",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8134,
+              "id": "Q8134"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q273005$273c69dd-4e4d-8c09-e4bb-1bc8f7924316",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2579",
+          "hash": "f011c253c862e8b90df6ba821638dabc039a53f4",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1401304,
+              "id": "Q1401304"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q273005$2819411e-47bf-2264-d530-fd47490b81ff",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2579",
+          "hash": "77fc64c3bff00f3d056f156175ad476dec7981c7",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3543374,
+              "id": "Q3543374"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q273005$ceb3083d-4b0e-fe4c-b602-f6d241a5a9cc",
+        "rank": "normal"
+      }
+    ],
+    "P10565": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10565",
+          "hash": "bca5451c9c4865945c6ca7756f66ba9d5efbe0fc",
+          "datavalue": {
+            "value": "504429",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "e092e3bdf5d5cba383c8c664c125eeb78ba8e20c",
+              "datavalue": {
+                "value": "经济制度",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q273005$88bc8044-40ce-9b22-f27c-9385e8a409a5",
+        "rank": "normal"
+      }
+    ],
+    "P5555": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5555",
+          "hash": "0c4702f04fc6572ee0bc6032230b89dc0bf12df8",
+          "datavalue": {
+            "value": "Fundamentals of Business - Fig. 2.2 - Economic Systems.jpg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q273005$bf00904c-4a07-cf39-2b87-3972c077a305",
+        "rank": "normal"
+      }
+    ],
+    "P9868": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9868",
+          "hash": "7116ca1ffa377f46aec615a9c4c58502353d9839",
+          "datavalue": {
+            "value": "2771",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q273005$5F119830-180C-4E27-9D29-6506B73D90D1",
+        "rank": "normal"
+      }
+    ],
+    "P5437": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5437",
+          "hash": "fe6eb8f53e6f9dc572a0ac05b7affdbe4c8f26b9",
+          "datavalue": {
+            "value": "3013",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P459": [
+            {
+              "snaktype": "value",
+              "property": "P459",
+              "hash": "3084e3b8a8327068d29db87271ae41c0e0c567fc",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1266546,
+                  "id": "Q1266546"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P459"
+        ],
+        "id": "Q273005$9713B8EF-B1E2-4F34-AFFF-D1754F5BD647",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "29d9261d3b24be2fb72a4e345a3e45cdf28eeed5",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4b222ea31b6fcd95c95734ce289e8c0b903041e9",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1370467,
+                      "id": "Q1370467"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "906490cb26d50131e0290371d0ce82d503c6c5e9",
+                  "datavalue": {
+                    "value": "https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/eurovoc",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "da86d447c213100c300fc76205ba8a0c1845b629",
+          "datavalue": {
+            "value": "ph114705",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "3a5b99e801fa2145dfe60083379d85a8acfef974",
+              "datavalue": {
+                "value": "hospodářské systémy",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q273005$EAC09FFF-57C1-4841-BEF5-289462DAFDA2",
+        "rank": "normal"
+      }
+    ],
+    "P8370": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8370",
+          "hash": "4f1af371919ebf97aff2eba81a90ba5733a8cb0f",
+          "datavalue": {
+            "value": "1001876",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q273005$F9696EC6-86F1-495A-8A7B-874470262EC8",
+        "rank": "normal"
+      }
+    ],
+    "P5063": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5063",
+          "hash": "4a4425af6424c8081d30b5db7842456ceedbd5ad",
+          "datavalue": {
+            "value": "i81079",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q273005$5E4E60CD-17E0-41E4-9472-28B9F1FC0F44",
+        "rank": "normal"
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "4414b44b42d62615e9c17bde3e8b0b0fcf4b9f8c",
+          "datavalue": {
+            "value": "concept/5467505c-38a5-4c04-9c46-1b5b0a145b49",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q273005$AC28891E-0EE7-4905-B1C1-97752C561A01",
+        "rank": "normal"
+      }
+    ],
+    "P13750": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13750",
+          "hash": "b61f6683025ff1800e4db345d71fc0c494d21159",
+          "datavalue": {
+            "value": "14984",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q273005$4f9dadfe-43c9-4e3d-a03a-9777b9383ea6",
+        "rank": "normal"
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "56b5332a60730ff68f815d279b7772554fc8aebe",
+          "datavalue": {
+            "value": "0255180-hospodarske-systemy",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q273005$F465CADA-4EED-4CE3-A4F2-2CE49F22497B",
+        "rank": "normal"
+      }
+    ],
+    "P14541": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14541",
+          "hash": "9f0d354f68ddfc9006c702cd8633539ae53fef77",
+          "datavalue": {
+            "value": "2kkSzF",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "e092e3bdf5d5cba383c8c664c125eeb78ba8e20c",
+              "datavalue": {
+                "value": "经济制度",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P5017": [
+            {
+              "snaktype": "value",
+              "property": "P5017",
+              "hash": "20860ef249920f1d71fd99d87433a0948c50aae5",
+              "datavalue": {
+                "value": {
+                  "time": "+2022-12-23T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P5017"
+        ],
+        "id": "Q273005$9B38A838-BDD3-4313-BB0E-E834A1265C73",
+        "rank": "normal"
+      }
+    ]
+  }
+}

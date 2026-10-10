@@ -1,0 +1,81 @@
+{
+  "type": "item",
+  "id": "Q129768780",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "audiovisual genre"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "metaclass"
+    }
+  },
+  "claims": {
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "7da57eb60376f9d19baffdd4d0ca6f041582f24e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 19478619,
+              "id": "Q19478619"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q129768780$97e7deeb-42c1-9b0f-3112-a61212419f6b",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "6b1127d3cd96f20786845e3776f3d9843d3465ad",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1792379,
+              "id": "Q1792379"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q129768780$0247101a-4ce4-15f7-dfb2-a9a68862b2cf",
+        "rank": "normal"
+      }
+    ],
+    "P8225": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8225",
+          "hash": "286fa4473bc37930a4bafc8e21b46bd4d9ad832a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2431196,
+              "id": "Q2431196"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q129768780$a04ced5e-42b7-72cd-9a9b-09b6bc044a49",
+        "rank": "normal"
+      }
+    ]
+  }
+}

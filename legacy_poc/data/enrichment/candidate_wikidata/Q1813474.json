@@ -1,0 +1,919 @@
+{
+  "type": "item",
+  "id": "Q1813474",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "teaching hospital"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "교육 병원"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "hospital that provides clinical education and training"
+    }
+  },
+  "claims": {
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "841a9f61ce27421e49ed7a6bde5a4422d10354c6",
+          "datavalue": {
+            "value": "Teaching hospitals",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "q1813474$5E7C1593-494E-45DB-A450-39F9B652B671",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "eb773d9fe3cefa4c13e9fd5b42e03dae36a75802",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 16917,
+              "id": "Q16917"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1813474$faee6d78-44b1-3736-7dc2-eee51b43106d",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "7e31165809d3bb50ad8241239e1111be061df383",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2385804,
+              "id": "Q2385804"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1813474$71b318b6-40bb-5324-6ee7-a622520c749d",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "cdb82553139267321c41e5f34ff874431a0587ae",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8832757,
+              "id": "Q8832757"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1813474$97776442-44B9-44DB-9DC6-BA63A8208412",
+        "rank": "normal"
+      }
+    ],
+    "P227": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P227",
+          "hash": "ebf51cfc0bf583f992b51508c40ca3582d9db0ea",
+          "datavalue": {
+            "value": "4167183-1",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1813474$050892D8-C17A-45D5-ADD8-E97D91A92E5E",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48183,
+                      "id": "Q48183"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P486": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P486",
+          "hash": "e45b0476ffcfa504fbf40c43e5240afe3a0312e0",
+          "datavalue": {
+            "value": "D006784",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "720859c8a0e6f58d44858c6a2a7fe15766da6cbc",
+              "datavalue": {
+                "value": "Hospitals, Teaching",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1813474$35C449F3-FEB9-4DBC-B3EB-6C4ACDBDA3ED",
+        "rank": "normal"
+      }
+    ],
+    "P4527": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4527",
+          "hash": "e0543c27f273e876735613029f2ecb88495e495b",
+          "datavalue": {
+            "value": "93214",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "dff0ae117d2be1e8db17e07c32d127f52e48a107",
+              "datavalue": {
+                "value": "Teaching hospitals",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1813474$4A670E62-5F5D-47AF-A760-14A6E46512DE",
+        "rank": "normal"
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "34bcffd7114eaa264cb934be92de0a5c58f640a2",
+          "datavalue": {
+            "value": "/g/121n9hwd",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1813474$9273A7EC-B566-4CDC-9BA5-B2919C6EC246",
+        "rank": "normal"
+      }
+    ],
+    "P672": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P672",
+          "hash": "848ce8da0a8cccab2fa9b7a37866dc2f08aa83a5",
+          "datavalue": {
+            "value": "N02.278.020.300",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4900": [
+            {
+              "snaktype": "value",
+              "property": "P4900",
+              "hash": "828b2d87e5328c194ddcbfe0ac9c481f21f620fe",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 4671274,
+                  "id": "Q4671274"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4900"
+        ],
+        "id": "Q1813474$cfb1b722-4210-00a0-c996-971d622f805b",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P672",
+          "hash": "d9c7d081d933805f1d491780e12dd3e2af1595f4",
+          "datavalue": {
+            "value": "N02.278.421.639",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4900": [
+            {
+              "snaktype": "value",
+              "property": "P4900",
+              "hash": "49301fb811b24ccfc25a371e479ba5b33cd696c5",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 16917,
+                  "id": "Q16917"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4900"
+        ],
+        "id": "Q1813474$905a446d-462f-b0b5-b86d-826c0a233667",
+        "rank": "normal"
+      }
+    ],
+    "P10283": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10283",
+          "hash": "a8d388088df78c7209fec98f1c460a2e00561ab8",
+          "datavalue": {
+            "value": "C3018552615",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1813474$9F15CBF9-9EDA-410D-AA81-86EF174EDF6D",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "e0b27d817c9a9b3247df341000fc490bafcba862",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4a4f26a5361b5707266e48e425bf2be2f99fd2ab",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 107507571,
+                      "id": "Q107507571"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "435834d08182bb9f3dbe974ba9840af0f12899cc",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-26T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a4a4bf53f22268815c51ec10fed608da703c9c7f",
+                  "datavalue": {
+                    "value": "https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P1065": [
+                {
+                  "snaktype": "value",
+                  "property": "P1065",
+                  "hash": "3134281f51e2490f88272d53c56ee95d9cc24e2c",
+                  "datavalue": {
+                    "value": "https://web.archive.org/web/20220125070108/https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P2960": [
+                {
+                  "snaktype": "value",
+                  "property": "P2960",
+                  "hash": "f7ff3a0de7f9571ecb5e0740cba4122c6703e1ec",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-25T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P854",
+              "P1065",
+              "P2960"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2892": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2892",
+          "hash": "eb81c22fade79ecbd121dc4e62c4ce1a0227e9d9",
+          "datavalue": {
+            "value": "C0020027",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1813474$022F678D-FC77-46D3-BC44-9D140033378E",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "5a3fcc55b73b13f3af6371d937925214aba40c37",
+            "snaks": {
+              "P887": [
+                {
+                  "snaktype": "value",
+                  "property": "P887",
+                  "hash": "0f284e521850e663d708d293bf3ecf0e36528c45",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 118645058,
+                      "id": "Q118645058"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "0dffc9c217cd4550d6e1be4e56268ece7068efc2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 118645236,
+                      "id": "Q118645236"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "d8ddd48761b0d6d139b24b5124a2e52e5974193d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2023-05-24T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P887",
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2347": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2347",
+          "hash": "b87cf25bcebfb869213a729d2918ed34a8cf799a",
+          "datavalue": {
+            "value": "27624",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "578aef974c59e97f29a1357d5bff541efc9f25c7",
+              "datavalue": {
+                "value": {
+                  "text": "teaching hospitals",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "f489a9e125b5fc64f8c80af0412d3b6ab8af0c25",
+              "datavalue": {
+                "value": {
+                  "text": "oahpahusbuohcceviesut",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "19e69014d9dbeee18f31977968f9a36492cfe93a",
+              "datavalue": {
+                "value": {
+                  "text": "opetussairaalat",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "c65cc1ba4296d70260f0cd697777d8c1baf372c2",
+              "datavalue": {
+                "value": {
+                  "text": "undervisningssjukhus",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q1813474$24A38FA8-40F7-4835-A5B6-F1F88425A811",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c04198852d3acd0e9be66c1fb71e842921df6bb3",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "7133f11674741f52cadaae6029068fad9cbb52e3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 89345680,
+                      "id": "Q89345680"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "ed8cb010d35928d700ba0e585b3ee1392a7d5b23",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2023-07-24T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P6363": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6363",
+          "hash": "8c4c482208572af7d0fc3e620a1085eb37823985",
+          "datavalue": {
+            "value": "http://data.wordlift.io/wl01714/entity/teaching-hospital.html",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q1813474$c53786e7-4d5f-ab5b-6d8f-46206b44ac6c",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "ee61d3c011b3abf527196f888971faa3c1ca0f49",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "25d3abdff32dce8e02253c35b9cfbbe2dd1f720a",
+                  "datavalue": {
+                    "value": "https://fr.dentist/kb/teaching-hospital/",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3827": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3827",
+          "hash": "9dc82725a9847b0d0da8ef0b79c82064b100308e",
+          "datavalue": {
+            "value": "teaching-hospitals",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1813474$3C9AEDD9-27BC-4BB3-BBE9-ABC406EC72D1",
+        "rank": "normal"
+      }
+    ],
+    "P244": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P244",
+          "hash": "ecb4878e42544b816c6c540eb05032f8459520c7",
+          "datavalue": {
+            "value": "sh85062403",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1813474$0f5bb0c4-4f08-7a0e-efab-b2470e86edab",
+        "rank": "normal"
+      }
+    ],
+    "P268": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P268",
+          "hash": "ef0e9351fc1d24d0736b298aa1347e61eb233b7d",
+          "datavalue": {
+            "value": "119782401",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "64b63347d3925ccb07b702442d94ee87141bad6f",
+              "datavalue": {
+                "value": "Hôpitaux d'enseignement",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q1813474$766b3f62-45fd-1b98-d372-07fb33e7b51b",
+        "rank": "normal"
+      }
+    ],
+    "P8189": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8189",
+          "hash": "6356bdda0eaa6c83e9425553d3ffccb16cacfcce",
+          "datavalue": {
+            "value": "987007529093305171",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "de04936e03d3b67caa8ca891b19d6154baaab10a",
+              "datavalue": {
+                "value": {
+                  "text": "Teaching hospitals",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "c9033245d3371ed7bf3766e2558064f78720001b",
+              "datavalue": {
+                "value": {
+                  "text": "בתי חולים לימודיים",
+                  "language": "he"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "1e1ea97c001cadd06450b1dd2e9fd0eb88d12afb",
+              "datavalue": {
+                "value": {
+                  "text": "المستشفيات التعليمية",
+                  "language": "ar"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q1813474$1B50E858-498F-4D97-B380-D5E22A401B74",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "ecb7a39cf436eb1fba419853af168ef9f2ba1dab",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a03bb6ffe37be9554492f4eea5bd18afcb57df19",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 106509962,
+                      "id": "Q106509962"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P361": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P361",
+          "hash": "df9fea5857b3fbf4e3cac2430619b0eba116571c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11000047,
+              "id": "Q11000047"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1813474$b0877ca8-4117-9e82-1bb7-c2d0d6f168fc",
+        "rank": "normal"
+      }
+    ],
+    "P18": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "21cf57d0af066582bc57c2a50b0fc44bbc49a277",
+          "datavalue": {
+            "value": "مستشفى المواساة الجامعي بالإسكندرية.jpg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q1813474$034561e7-4ffb-7dd2-a753-66427f427c79",
+        "rank": "normal"
+      }
+    ],
+    "P2670": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2670",
+          "hash": "7fe421e8f49476fd83dd165541d9310a694b17fc",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 142259,
+              "id": "Q142259"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1813474$6ad93991-40c9-6f92-ea6e-5fe168c55cd5",
+        "rank": "normal"
+      }
+    ],
+    "P9497": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9497",
+          "hash": "03cfe131465fc61aa75af595b99512761ba0aaa3",
+          "datavalue": {
+            "value": "1820",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1813474$7249D17D-7DE8-4A56-BE47-1CD9B0AD05B6",
+        "rank": "normal"
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "13ef43b2746d0af1ba2fdc1f9c2cb04f470e490b",
+          "datavalue": {
+            "value": "concept/9309df4a-1eb2-4260-8879-f444b3d67ee3",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1813474$CF31836D-7069-4066-8AB1-7DA17BA6E36F",
+        "rank": "normal"
+      }
+    ],
+    "P14369": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14369",
+          "hash": "4d4ba0342d49306018319c2ebd7ada696f121319",
+          "datavalue": {
+            "value": "93507",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1813474$12358DF4-D19E-492E-95E1-3BE2533799C6",
+        "rank": "normal"
+      }
+    ]
+  }
+}

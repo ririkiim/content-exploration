@@ -1,0 +1,149 @@
+{
+  "type": "item",
+  "id": "Q113782315",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "naval operation"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "military operation conducted primarily by naval forces or in the naval domain"
+    }
+  },
+  "claims": {
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "57251df0710e4dfcb95362c9d5a83ae535b35c33",
+          "datavalue": {
+            "value": "ph123416",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "e1001cc99e95f9a47da88422c4012f527c411f27",
+              "datavalue": {
+                "value": "námořní operace",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q113782315$73DBB51D-BABD-45B5-9D0E-65161F1212AE",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "9463b4898053e71d02c8c52d83b73a4d8650786b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 645883,
+              "id": "Q645883"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q113782315$0a8cf54a-4617-1fdd-dae4-e36af99be8d7",
+        "rank": "normal"
+      }
+    ],
+    "P361": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P361",
+          "hash": "7a7acd6db3e05c5efcaca3f2bbdff7df4aeb98f4",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 876274,
+              "id": "Q876274"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q113782315$3f3fcba9-4c86-a339-f171-b536b72fca49",
+        "rank": "normal"
+      }
+    ],
+    "P276": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P276",
+          "hash": "dca5c27c9b2a93f61ed2a2a96352fb6f5dd45bbe",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 165,
+              "id": "Q165"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q113782315$7d46dc68-4e28-e93b-419c-40ac2d46b370",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "8d8a84d4e8f5add0d1211b8f036cc29ae174107c",
+          "datavalue": {
+            "value": "Naval actions",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q113782315$0d6b2c1a-4eb4-b6de-fb55-1707c386608d",
+        "rank": "normal"
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "8f1da48b63841975fa2f05410df24497e709903d",
+          "datavalue": {
+            "value": "h0002251-namorni-operace",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q113782315$E09497C4-DE8D-4572-883E-F6B1FD78E0DD",
+        "rank": "normal"
+      }
+    ]
+  }
+}

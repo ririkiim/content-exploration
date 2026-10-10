@@ -1,0 +1,616 @@
+{
+  "type": "item",
+  "id": "Q485415",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "신미양요"
+    },
+    "en": {
+      "language": "en",
+      "value": "United States expedition to Korea"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1871 American expedition to open up trade"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "1871년에 일어난 조선과 미국 간의 전투"
+    }
+  },
+  "claims": {
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "641d555fdfb0018c070939be8b94607456fc744b",
+          "datavalue": {
+            "value": "United States expedition to Korea in 1871",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "q485415$677F4717-BA08-4080-BEA1-75A6599EB2A1",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "36c31bbb70998ab57b1cf1504973e81b0fc7908c",
+          "datavalue": {
+            "value": "/m/01q8g2",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q485415$238A07DC-9E24-42A9-A948-F7529BE9781F",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P625": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P625",
+          "hash": "c2616ac9aa35f9ef86c220fbc77a6dbeb8459537",
+          "datavalue": {
+            "value": {
+              "latitude": 37.7,
+              "longitude": 126.43333333333,
+              "altitude": null,
+              "precision": 0.016666666666667,
+              "globe": "http://www.wikidata.org/entity/Q2"
+            },
+            "type": "globecoordinate"
+          },
+          "datatype": "globe-coordinate"
+        },
+        "type": "statement",
+        "id": "Q485415$a4af303b-4145-8a2e-1585-f8d10ff11771",
+        "rank": "normal"
+      }
+    ],
+    "P18": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "a63c9043119ffb987b3a0cc787264d18bca17047",
+          "datavalue": {
+            "value": "Ganghwa 3-edit.jpg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q485415$74CFB6E1-6D94-4EF8-B6CE-8657CBD3813F",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "9eb6ecc88cd1666a7b761645d0cbc2816fea2dbb",
+          "datavalue": {
+            "value": "Sujagi.jpg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q485415$522f9be9-43da-9684-7b2d-d400c0c20d6a",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "e9189459d53e4d0942009a4d401edf8eb1b96852",
+          "datavalue": {
+            "value": "Interior of Fort McKee, June 1871 HD-SN-99-01927.JPEG",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q485415$314d03e4-4363-3753-29e9-2316637a1314",
+        "rank": "normal"
+      }
+    ],
+    "P276": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P276",
+          "hash": "9e0da12f4eb19b16dfa90dea382abf6aed7bcd81",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 494786,
+              "id": "Q494786"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q485415$9A66865D-B880-4AD5-82E6-59611E8C232A",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "7dba4a6c56cac609f859106d1b291d82344ea59f",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "9fa14ea448e716638d1d02cb1f51f2c9675db373",
+                  "datavalue": {
+                    "value": "https://en.wikipedia.org/w/index.php?title=United_States_expedition_to_Korea&oldid=856359955",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "ee34286f7ad412babf825549da7967a387339300",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 645883,
+              "id": "Q645883"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q485415$5CA6F941-6748-466C-9E9B-2C31599D2735",
+        "rank": "normal"
+      }
+    ],
+    "P585": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P585",
+          "hash": "6817db7b7335f59d2f470db128b0fff9ff8ca60f",
+          "datavalue": {
+            "value": {
+              "time": "+1871-07-03T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "id": "Q485415$5F3BB794-1C3A-429F-A8C4-21B2F2EECFC6",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "b3b26cc2bc1f8ec32394df33af42ee055b6b8e61",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "e20e303f9db818a6bc9b0396ef56c90513a2bb88",
+                  "datavalue": {
+                    "value": "https://en.wikipedia.org/w/index.php?title=United_States_expedition_to_Korea&oldid=945401573",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "72e34a248022766e51b26026608f3f9ed0cbbee8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 134142,
+              "id": "Q134142"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q485415$6B2712AD-3867-4FF5-B734-84319BA291F8",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "44cc552b4d94e82073d21e20fe2ea2cb3068ae7b",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 8447,
+                      "id": "Q8447"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "e159bdde09c82dcd164e678b9959acbc04232868",
+                  "datavalue": {
+                    "value": "https://fr.wikipedia.org/w/index.php?title=Expédition_de_Corée&oldid=168268432",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P9475": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9475",
+          "hash": "0651fc68b74ef7d8beb440b6560f8e862740bb7f",
+          "datavalue": {
+            "value": "E0032961",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q485415$5ecdff96-490e-44ca-ec1a-23aa91c668a3",
+        "rank": "normal"
+      }
+    ],
+    "P8885": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8885",
+          "hash": "b547b8a0db10e4984f52fbdcbe56724f44ffda81",
+          "datavalue": {
+            "value": "신미양요",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q485415$5f0d7f0d-44dd-ba50-a6a3-6204b9c44ff4",
+        "rank": "normal"
+      }
+    ],
+    "P828": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P828",
+          "hash": "84ba3107bd0b49977dc17a051bc4847b2ba16522",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 712464,
+              "id": "Q712464"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q485415$bc5bcd49-4cd5-97c3-eb72-59cd50e14062",
+        "rank": "normal"
+      }
+    ],
+    "P17": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P17",
+          "hash": "5cca003cb9989d5104d640b8e508f9568e4ae260",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 28179,
+              "id": "Q28179"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q485415$689e426e-42d3-8ccd-7fb6-7a3713e021b6",
+        "rank": "normal"
+      }
+    ],
+    "P1705": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "57c70bda0d4d9862cccd08c89406871ceec929be",
+          "datavalue": {
+            "value": {
+              "text": "신미양요",
+              "language": "ko"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2001": [
+            {
+              "snaktype": "value",
+              "property": "P2001",
+              "hash": "2ff1536d4afc7b9f7a030365c2bf4b2368d56623",
+              "datavalue": {
+                "value": "Sinmi Yang-yo",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P1942": [
+            {
+              "snaktype": "value",
+              "property": "P1942",
+              "hash": "22ac48cb83b5413b75fab74082778dff12605b03",
+              "datavalue": {
+                "value": "Sinmi Yang’yo",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2001",
+          "P1942"
+        ],
+        "id": "Q485415$cdd22aa0-4c83-0c55-6f8f-abb57af16834",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "f0d3de957b1fa0ef343e1c46fffd9fc2be8159a7",
+          "datavalue": {
+            "value": {
+              "text": "United States expedition to Korea",
+              "language": "en-us"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q485415$56b4a144-49ce-5bc1-c3cf-4a67bb910edb",
+        "rank": "normal"
+      }
+    ],
+    "P710": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "ce9bb08f273ec23948b06f8814e85ae6666da557",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5381560,
+              "id": "Q5381560"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q485415$aa95eeaa-4369-b116-43d6-11be3bf4171b",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P710",
+          "hash": "024e1414ca4b92df8d3569c274ff18a18becac30",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6255358,
+              "id": "Q6255358"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q485415$13f2d51d-4982-b14d-af1b-4ab17854b7ee",
+        "rank": "normal"
+      }
+    ]
+  }
+}

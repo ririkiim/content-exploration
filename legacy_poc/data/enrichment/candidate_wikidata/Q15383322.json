@@ -1,0 +1,521 @@
+{
+  "type": "item",
+  "id": "Q15383322",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "cultural prize"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "type of award in the field of culture"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "4ce2b7ab9ba41f59a391466f91eb7a6a425f78bd",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 618779,
+              "id": "Q618779"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15383322$9e5f3afd-45b0-7f34-fe7e-c054137a0c00",
+        "rank": "normal"
+      }
+    ],
+    "P227": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P227",
+          "hash": "de3e71e08b40fe7840035355ace9b418aa1cbac6",
+          "datavalue": {
+            "value": "4136844-7",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "97ab1af84a9582be98052b3d5c46292ad21b5fcf",
+              "datavalue": {
+                "value": "Kulturpreis",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q15383322$0ee3d2e8-4e31-b316-c320-51d67580e8ce",
+        "rank": "normal"
+      }
+    ],
+    "P101": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P101",
+          "hash": "31d8837b5ed2676dbaf6fe2bd0845698a8d249bc",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11042,
+              "id": "Q11042"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15383322$6427dc6e-409a-a86a-171f-f1cae7e1ec2e",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "27ba212597ef8d2e86268a9b03414a7180c37fd4",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9792410,
+              "id": "Q9792410"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15383322$8d183c20-4b4c-c886-27d2-6691973f61ec",
+        "rank": "normal"
+      }
+    ],
+    "P5437": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5437",
+          "hash": "95e3c81ea293b28193c50951b74aa7221cf63800",
+          "datavalue": {
+            "value": "5160",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P459": [
+            {
+              "snaktype": "value",
+              "property": "P459",
+              "hash": "3084e3b8a8327068d29db87271ae41c0e0c567fc",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1266546,
+                  "id": "Q1266546"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P459"
+        ],
+        "id": "Q15383322$9A480B15-41DD-4A7E-82B1-850ABF61416C",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "29d9261d3b24be2fb72a4e345a3e45cdf28eeed5",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4b222ea31b6fcd95c95734ce289e8c0b903041e9",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1370467,
+                      "id": "Q1370467"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "906490cb26d50131e0290371d0ce82d503c6c5e9",
+                  "datavalue": {
+                    "value": "https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/eurovoc",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P244": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P244",
+          "hash": "171538bb3ef241ea6a249dab5765f56f6814e9bb",
+          "datavalue": {
+            "value": "sh96003629",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "2d1011f438b70b56884c1288c7b7e29944bba0b2",
+              "datavalue": {
+                "value": "Music--Awards",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q15383322$920E4F7D-08BE-469D-BBE5-F7306DC7E32D",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "ced024eb12b5fe38ed87cb5720ea18f3c54229a9",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 36578,
+                      "id": "Q36578"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "23542a1e9f9d8cd3883d555bfb9d2625ada89568",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 107467117,
+              "id": "Q107467117"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q15383322$964d3b72-450d-e0c2-daad-42ae69b21062",
+        "rank": "normal"
+      }
+    ],
+    "P8189": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8189",
+          "hash": "36a882dac4a347ff3d51d28ec1e93b46928f9c49",
+          "datavalue": {
+            "value": "987007549248005171",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "4725c7bde39db7841f7785dd128891efa43ce1e6",
+              "datavalue": {
+                "value": {
+                  "text": "Music Awards",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "03aed50d56ddbe386384fcb45afc7a3c9626b480",
+              "datavalue": {
+                "value": {
+                  "text": "מוזיקה פרסים",
+                  "language": "he"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "7878f1852d06f5734da0236090f1b6d9ab90282a",
+              "datavalue": {
+                "value": {
+                  "text": "موسيقا الجوائز",
+                  "language": "ar"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q15383322$411886DA-10AD-46E0-A06E-398547DFC0EA",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "ecb7a39cf436eb1fba419853af168ef9f2ba1dab",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a03bb6ffe37be9554492f4eea5bd18afcb57df19",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 106509962,
+                      "id": "Q106509962"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1368": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1368",
+          "hash": "d2ee3063d57a28174487ee7eb5a00fca6cbfe1b0",
+          "datavalue": {
+            "value": "000203767",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q15383322$997e718d-42b6-f2d0-c7f7-ea1722b46551",
+        "rank": "normal"
+      }
+    ],
+    "P9937": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9937",
+          "hash": "b81d13e15f660ae985de45cd8c281673be9ff3fa",
+          "datavalue": {
+            "value": "34903",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "843535026a081ec2bd80184c425ff91b2c1c983d",
+              "datavalue": {
+                "value": "kultuuripreemia",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "7913eca2548c2bd3b23179257baff3732e7a88d2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 9072,
+                  "id": "Q9072"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P407"
+        ],
+        "id": "Q15383322$4eff011b-43a5-3774-4811-2964c9eb2754",
+        "rank": "normal"
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "5984a9ca73e6bac3423dcf067c346b39a1cf99ad",
+          "datavalue": {
+            "value": "concept/9f3a9919-d4ff-4fc8-89b1-94834d8bbe72",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q15383322$FFC55FEA-A162-4AD1-A878-7628FEA2FD3A",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "342e261a763b23772753fff92d40c654a856d456",
+          "datavalue": {
+            "value": "Awards associated with culture",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q15383322$8759c18e-4c55-e408-ae5c-0f936f53b414",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "14d185e6828d5575683bca7e3d98a71c2ed915e2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1792571,
+              "id": "Q1792571"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P5168": [
+            {
+              "snaktype": "value",
+              "property": "P5168",
+              "hash": "a3c6d7e4b7328f3358f796e6f0ff517610baf306",
+              "datavalue": {
+                "value": {
+                  "text": "art award",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P8338": [
+            {
+              "snaktype": "value",
+              "property": "P8338",
+              "hash": "241dc839db86969462896f1389ebcd8c2640258c",
+              "datavalue": {
+                "value": {
+                  "text": "art award",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5168",
+          "P8338"
+        ],
+        "id": "Q15383322$c3d703b7-403a-3065-333c-744de43be270",
+        "rank": "normal"
+      }
+    ]
+  }
+}

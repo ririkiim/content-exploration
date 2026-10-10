@@ -1,0 +1,55 @@
+{
+  "type": "item",
+  "id": "Q135293451",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Category:Chungju Jade Cave"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "활옥동굴"
+    }
+  },
+  "descriptions": {},
+  "claims": {
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "564a40da7b5c13d2a6310456f85eddfb357f8bf5",
+          "datavalue": {
+            "value": "Chungju Jade Cave",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q135293451$8dd672da-7112-461f-b0c9-469a93cd0d88",
+        "rank": "normal"
+      }
+    ],
+    "P17": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P17",
+          "hash": "ab4105e4f6c3449ba4a6ca949a3aaafaa67f5be8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 884,
+              "id": "Q884"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q135293451$a18b7628-4a98-f6db-d4d6-056eec914c12",
+        "rank": "normal"
+      }
+    ]
+  }
+}

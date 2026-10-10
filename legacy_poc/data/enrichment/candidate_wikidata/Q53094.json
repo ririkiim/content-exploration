@@ -1,0 +1,1435 @@
+{
+  "type": "item",
+  "id": "Q53094",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "black comedy"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "블랙 코미디"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "comic work that employs black humor or gallows humor"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "988338e475db1a34f1f09be5bdf8c4b0c0ee47e4",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 40831,
+              "id": "Q40831"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q53094$68a73001-4948-0091-975d-256558791f46",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "ae920d1e250e01b069452ec039266367e2bed023",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7287909,
+              "id": "Q7287909"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q53094$27AFF6F1-E0C6-4400-9401-D7C3C32E8691",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "bd657e1f87c05bc704ce9c5eeb1caf734f9f18aa",
+          "datavalue": {
+            "value": "/m/0vgkd",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$F994A60F-14DC-4FAB-9B4B-9883387F1D09",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "22f7c499b64e34d8cb03d2fd4101578102c95855",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5151404,
+              "id": "Q5151404"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q53094$6d111f80-48de-6d11-3202-9f2b4a3cf11d",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "aaed4c0e419ef2da2491db39c16b1366de9894a1",
+          "datavalue": {
+            "value": "Black comedy",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q53094$1DAFAD34-F203-48C2-9B7D-3B76C75EB399",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "74929c6addca98e8401c14b9e7a80438d688644b",
+          "datavalue": {
+            "value": "Black-Humor-1",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$41EC73AB-AF45-4079-8E2C-1C5E17ABD8BE",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "3b0a5bb3c1f955edce73740124f7d935698092ad",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3ac9682e789a3a3791d4fd088b265ea03abef101",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 51711,
+                      "id": "Q51711"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P4953": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4953",
+          "hash": "043d6bffc6337b0577252ccd943c55b0a80c698d",
+          "datavalue": {
+            "value": "gf2014026248",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "6efe9cb86e1c05a222acbd454f5912425a2f1a85",
+              "datavalue": {
+                "value": "Black humor",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P4970": [
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "210f7824ad28670d2a6219d5231c09c74c8d19f3",
+              "datavalue": {
+                "value": "Gallows humor",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "2872efaa699cfc6817c9808f2e8c57bcbb45d4f2",
+              "datavalue": {
+                "value": "Black comedies",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "fd74ae281b2c1bf3823f21dec9f3a86430e3423a",
+              "datavalue": {
+                "value": "Comedies, Black",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "be7ec482c9f1b7b0fa5f8c4b3a52e5cd92b93a59",
+              "datavalue": {
+                "value": "Comedies, Dark",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "1c88e5b74fbceaa2be1fbb547d704e5b9982dcdf",
+              "datavalue": {
+                "value": "Dark comedies",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "40e8366695ceb4162be00a4d9d048f839e58c479",
+              "datavalue": {
+                "value": "Dark humor",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P4970"
+        ],
+        "id": "Q53094$3EDE7257-F10C-4ECC-AB7C-716088D43FCF",
+        "rank": "normal"
+      }
+    ],
+    "P244": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P244",
+          "hash": "8315a19f2b3df7076071790ffa6eb40661130dd9",
+          "datavalue": {
+            "value": "sh85014576",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$5949F56B-6034-4C39-9445-715EC8B6B519",
+        "rank": "normal"
+      }
+    ],
+    "P1296": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1296",
+          "hash": "17e3de9be7ee063995d53c88471c428f470fcf01",
+          "datavalue": {
+            "value": "0233192",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$6C6F52A7-957B-4AAE-8B7C-81EDF75321D9",
+        "rank": "normal"
+      }
+    ],
+    "P7033": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7033",
+          "hash": "55bdf72620402588b2b10adc5ccc575bf2321aeb",
+          "datavalue": {
+            "value": "scot/2577",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$5B6465C7-32F5-46BD-B999-62EFDB2F5572",
+        "rank": "normal"
+      }
+    ],
+    "P1417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1417",
+          "hash": "444000736f1b801b31d8a9d18bcbb5ba597d157f",
+          "datavalue": {
+            "value": "topic/black-humor",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "6dc12cc519e28ee3e0e805a09bd29534376c5404",
+              "datavalue": {
+                "value": "black humour",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q53094$A6CEC94B-7F78-42C9-8674-7422FF5E8244",
+        "rank": "normal"
+      }
+    ],
+    "P2347": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2347",
+          "hash": "1ca61dbd827c5008e14d86318ff70db34731b606",
+          "datavalue": {
+            "value": "12680",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "61c8c7f21e5e3f4dfb7688ab1e18ae7b4590670a",
+              "datavalue": {
+                "value": {
+                  "text": "čáhppes humor",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "9d24416a11b290430329ef2ba34f1cd46a019fe4",
+              "datavalue": {
+                "value": {
+                  "text": "musta huumori",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "3d9ace6f4f989e905b36f7a7cfee9ef6863f2b2a",
+              "datavalue": {
+                "value": {
+                  "text": "black humour",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "0856504ddc817e578d7d7171143f2f4b74a736d0",
+              "datavalue": {
+                "value": {
+                  "text": "svart humor",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P14458": [
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "e716e7309332c54acdf12086a87c9e1054e7976f",
+              "datavalue": {
+                "value": {
+                  "text": "black humor",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457",
+          "P14458"
+        ],
+        "id": "Q53094$DEE63CFE-6F07-456A-86AA-109075BD5D98",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "f9bf1a1f034ddd51bd9928ac535e0f57d748e2cf",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "7133f11674741f52cadaae6029068fad9cbb52e3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 89345680,
+                      "id": "Q89345680"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "5ea75d6f4f2bd5c9a59f7572b9b9f5316e630273",
+          "datavalue": {
+            "value": "PropositionalConceptualWork-DarkComedyGenre",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$4F215F98-9A2D-4036-8E20-E35733912AE5",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P227": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P227",
+          "hash": "a373fdab480e0155802390e156af5059bc93ec09",
+          "datavalue": {
+            "value": "4180343-7",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$6E35DFA0-25C3-499B-B209-8F8E4DDAE820",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "f44e3321a999206b0c016bff93b9545ebbc93f37",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48183,
+                      "id": "Q48183"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "d847ba8ad99b83a8236cc4e0d93c71fe2e6e97a5",
+                  "datavalue": {
+                    "value": "https://de.wikipedia.org/w/index.php?title=Schwarzer_Humor&oldid=204071294",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P7293": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7293",
+          "hash": "b0695c5ee3553e8764637e2a1ef86c43ecc8bf62",
+          "datavalue": {
+            "value": "9810628244905606",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$8556a6f7-4454-a1cd-aad4-39a134448af9",
+        "rank": "normal"
+      }
+    ],
+    "P6839": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6839",
+          "hash": "09c1ee6e5f2a9ab2b46fb56af8cada660f3b405d",
+          "datavalue": {
+            "value": "Main/BlackComedy",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$85e4f4b1-466e-fa0e-8832-74c61654969e",
+        "rank": "normal"
+      }
+    ],
+    "P18": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "a5933b8e350d6484cb1a542c45ad0350ab638dd8",
+          "datavalue": {
+            "value": "Hopscotch to oblivion.jpg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q53094$50151491-483c-6c18-4c1f-a93f2c33a874",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "0fea747cdaa56085fecd1fd904fee55a3eb09aef",
+          "datavalue": {
+            "value": "Irony.jpg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q53094$e22249b6-495f-0e53-8342-445c525a4df0",
+        "rank": "normal"
+      }
+    ],
+    "P3553": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3553",
+          "hash": "c96af2a3765c9b259a59602a02137a37d4b89850",
+          "datavalue": {
+            "value": "19610714",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "4a6eeac445a0774265f3d5d16fa903fd5370b477",
+              "datavalue": {
+                "value": "黑色幽默",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q53094$DF676142-22CA-433F-B65D-A7F138DC5CF8",
+        "rank": "normal"
+      }
+    ],
+    "P9881": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9881",
+          "hash": "175d8f097ff209ffe572431f630e3148ad39b961",
+          "datavalue": {
+            "value": "blackcomedy",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$8B9920A6-E5E4-4FA8-B47A-21D48D14BE6A",
+        "rank": "normal"
+      }
+    ],
+    "P1552": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1552",
+          "hash": "0f334fda7a5bb570c9f311bcf255e7ef208963f2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 35874,
+              "id": "Q35874"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q53094$46529f5e-4280-de03-5081-f96355e9f633",
+        "rank": "normal"
+      }
+    ],
+    "P8189": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8189",
+          "hash": "4f13c47d97e607228b07447efec0e1b137936884",
+          "datavalue": {
+            "value": "987007283119705171",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "3542625412c1c1b035d9a0e2549f1b39dd1d78a4",
+              "datavalue": {
+                "value": {
+                  "text": "Black humor",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "e845742107d7671177215bc13b1c61e2795d50a9",
+              "datavalue": {
+                "value": {
+                  "text": "הומור שחור",
+                  "language": "he"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "837f20620823afb0f61dc206ce44ad564b3f164e",
+              "datavalue": {
+                "value": {
+                  "text": "الفكاهة السوداء",
+                  "language": "ar"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q53094$E9FC53E4-E140-4A89-B68F-D8D87BEAF86B",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c8a47202c92936005b390eb36ddd267921b51f43",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "0ea73b3596b49258a7b7ec6495950779b99e875d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188915,
+                      "id": "Q188915"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "7dcb32d3801158d95650cb1ae96a8325bd76ab0b",
+          "datavalue": {
+            "value": "/g/120jx2hq",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$FF1D8A25-9412-4CD7-869E-7F0D5D0C288D",
+        "rank": "normal"
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "140fa9859a95b0d197e83cf23cbe4d31f21ee5dd",
+          "datavalue": {
+            "value": "ph397762",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "62ff5adabd35ecc6116923f362eb9146bdd94958",
+              "datavalue": {
+                "value": "černý humor",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q53094$1F71746D-D3BB-4C87-B578-9D50CCCE3335",
+        "rank": "normal"
+      }
+    ],
+    "P3180": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3180",
+          "hash": "a3b9e3e024189d9dfc7b1915e34e945f7c7ac960",
+          "datavalue": {
+            "value": "g1826",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "fdd6e4841b02934332fc50cba482745668179c63",
+              "datavalue": {
+                "value": "Black Comedy",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P4970": [
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "f80b9059410257899ae975ab9de43b3e32d6c510",
+              "datavalue": {
+                "value": "Black Humour",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "1c97b21babb992737d7f98eb6ce72b972a55a00b",
+              "datavalue": {
+                "value": "Dark Comedy",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "7e63097f6c991a9f427cbabf10b6c89298ecbf82",
+              "datavalue": {
+                "value": "Dark Humour",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "225a1970ffaafd4d06242aca8a9b4491b28b7d5e",
+              "datavalue": {
+                "value": "Gallows Humour",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P4970"
+        ],
+        "id": "Q53094$033355ac-4eed-69ac-d6b0-d3521d3c551a",
+        "rank": "normal"
+      }
+    ],
+    "P2572": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2572",
+          "hash": "59226324ee9840f3954baffeffe2d08b215416d2",
+          "datavalue": {
+            "value": "darkhumor",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q53094$0D567A5E-90B5-435B-8A71-D8E534939847",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2572",
+          "hash": "ce4fca1568405e883e21aa60a29c5435c25319e6",
+          "datavalue": {
+            "value": "dark_humor",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q53094$ED47FFB9-2D9C-4714-B947-76F9782505AC",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "37d9dbbe5e3aec7208555e03ab232e424c707394",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a2abf59e5f5c903828c82dd71accdb93103d6548",
+                  "datavalue": {
+                    "value": "https://imgur.com/t/dark_humor",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P1476": [
+                {
+                  "snaktype": "value",
+                  "property": "P1476",
+                  "hash": "5b016cda4c4daf9f488c6d78aac41e3b14fb0119",
+                  "datavalue": {
+                    "value": {
+                      "text": "Dark humor Memes and Images - Imgur",
+                      "language": "en"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "625f4863afc88c32d6947b47ded8d517435039d0",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-11-07T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P1476",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P10376": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10376",
+          "hash": "f90208a19fdd4e32d1b9549b282d2c4d84281700",
+          "datavalue": {
+            "value": "psychology/black-humor",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$4e9d326c-4341-9696-0aa1-a8ce5659ac0a",
+        "rank": "normal"
+      }
+    ],
+    "P1617": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1617",
+          "hash": "0db3da308732af3dbcd512d96b65229f440e1a85",
+          "datavalue": {
+            "value": "8be69077-6353-4b0b-81c1-b428f94c337e",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$557E1669-4A42-4B1E-A0B3-CCBA2991A122",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "8582d8416671f1f2567247201bac753552435ca5",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "ea55dc6ac5c3ab77c77d4ae7979e3276d0d4cd20",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 18336371,
+                      "id": "Q18336371"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P138": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P138",
+          "hash": "129e423f7d1b0589368b678daa5dff949dd0d257",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 243778,
+              "id": "Q243778"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P5168": [
+            {
+              "snaktype": "value",
+              "property": "P5168",
+              "hash": "f9973ab24e21d96736e7b08c71576cf88099d542",
+              "datavalue": {
+                "value": {
+                  "text": "gallows humor",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5168"
+        ],
+        "id": "Q53094$c2c716b1-4352-0dd5-93f7-f504d1c28be0",
+        "rank": "normal"
+      }
+    ],
+    "P11943": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11943",
+          "hash": "d8fdb799335154d098722a1537dd9ff40479660e",
+          "datavalue": {
+            "value": "19",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$b8b25e08-4a96-8ff6-396a-9cfec93f8633",
+        "rank": "normal"
+      }
+    ],
+    "P2924": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2924",
+          "hash": "fc7afc09c54b81095d254bcc161c238f90e695f6",
+          "datavalue": {
+            "value": "4683539",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$B9A682BD-DD61-41C0-8035-38E92230C647",
+        "rank": "normal"
+      }
+    ],
+    "P12385": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12385",
+          "hash": "ee03c4c56897a3e0fdfa192fc45caca6ee78ab0a",
+          "datavalue": {
+            "value": "humor-negre",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$5afbdad7-6fea-4541-9c9b-d8ed11854629",
+        "rank": "normal"
+      }
+    ],
+    "P12596": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12596",
+          "hash": "94f2ccfe5a34c2586f2db5f263a3536275fed989",
+          "datavalue": {
+            "value": "24326",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$45465510-0917-43AF-A833-8775A4C71BDC",
+        "rank": "normal"
+      }
+    ],
+    "P5905": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5905",
+          "hash": "fc890927ac421ab860b7f0de95ecdf5f9a8ea24b",
+          "datavalue": {
+            "value": "4015-56054",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$d1fdb813-4339-8f14-e75d-62a1760eea0d",
+        "rank": "normal"
+      }
+    ],
+    "P12800": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12800",
+          "hash": "737fd2b8e3f3fbe949448dfa542c03ece6d2227f",
+          "datavalue": {
+            "value": "fr:Humour_noir",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$DE422721-7E1C-4AC4-B018-5090C3357D46",
+        "rank": "normal"
+      }
+    ],
+    "P8885": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8885",
+          "hash": "dbcc67f6ec7e3868e3ce9453a13d7693075f9797",
+          "datavalue": {
+            "value": "블랙 코미디",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$829eac90-4a39-7c3e-15e5-f6dd04ca2f76",
+        "rank": "normal"
+      }
+    ],
+    "P11924": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11924",
+          "hash": "089f998e18e42da6b3d308d32edc670f3e606ac8",
+          "datavalue": {
+            "value": "dark-comedy",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$8E8038D3-93B5-4764-B755-4B7F32A9EA57",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11924",
+          "hash": "499e5faf8f35cb25dca61cc2ec83eb3efbd488c9",
+          "datavalue": {
+            "value": "black-humor",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$F0DC1861-7552-42F3-A801-0B7783577507",
+        "rank": "normal"
+      }
+    ],
+    "P13535": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13535",
+          "hash": "a57466a682ed5346ee1453495a9b5a1288be1f07",
+          "datavalue": {
+            "value": "tag-dark-humor",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$C77AB390-A98F-4FBB-937B-746453593A11",
+        "rank": "normal"
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "f96627796f4fbcc12274462a01cd7799b1990856",
+          "datavalue": {
+            "value": "concept/92c7dcfd-b4f7-4417-89e2-6f2515b0c106",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$9E151A92-E862-4A99-B46E-FC5D7BCE842C",
+        "rank": "normal"
+      }
+    ],
+    "P13967": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13967",
+          "hash": "e0b23550d9848a13e682c468c4a7cda52fca36ba",
+          "datavalue": {
+            "value": "dark-comedy",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$CC443771-2AF3-445E-9898-777A0B5A3E01",
+        "rank": "normal"
+      }
+    ],
+    "P14003": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14003",
+          "hash": "1370d797cf285997bc55f7e0d8058e7e28703dba",
+          "datavalue": {
+            "value": "dark-comedy",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$933565DB-501E-4D83-9321-4D7130089E34",
+        "rank": "normal"
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "c4729e2c4e618beaf29b8d248a23858a25dc52d1",
+          "datavalue": {
+            "value": "0247453-cerny-humor",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q53094$4000F296-B955-4327-8536-2C4218DFF11D",
+        "rank": "normal"
+      }
+    ]
+  }
+}

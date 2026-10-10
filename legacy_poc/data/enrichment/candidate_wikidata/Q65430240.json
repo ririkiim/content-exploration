@@ -1,0 +1,204 @@
+{
+  "type": "item",
+  "id": "Q65430240",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "pediatric disorder"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "a disease in children"
+    }
+  },
+  "claims": {
+    "P2892": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2892",
+          "hash": "8a456ac69bcca39282c727e5d3ea3f44575a9167",
+          "datavalue": {
+            "value": "C0679381",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q65430240$008891AC-ACB6-4008-8957-26652E6EDB9A",
+        "rank": "normal"
+      }
+    ],
+    "P1269": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1269",
+          "hash": "fd727cabd8160e99033c4d31bd5160dd907e8e6c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 57354899,
+              "id": "Q57354899"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q65430240$423DD889-5399-4A76-841B-8DE308496217",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "2ed2c3a2fae28ff6da5fe79126ea01d7ac271850",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 12136,
+              "id": "Q12136"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q65430240$6A6494E9-C9FA-4854-AC0F-1E2F87DB6B41",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "3e04a5fd04022d155266728a03b89ddde32bd31a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8988392,
+              "id": "Q8988392"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q65430240$6AFA75FD-2C35-4916-B5BE-E5251BC3FB08",
+        "rank": "normal"
+      }
+    ],
+    "P1995": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1995",
+          "hash": "fce7d7d073b10b414bc6a07db5249c5f3c32f678",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 123028,
+              "id": "Q123028"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q65430240$2C88760B-BC1D-4535-B8C6-E7120C6618E9",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "af68fa3aeea696f55b76488636b175e771490f6a",
+          "datavalue": {
+            "value": "Paediatric pathology",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q65430240$02CDC8E6-869A-40EB-AA14-A56C2606ACA3",
+        "rank": "normal"
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "a5a02bbe672a6379ef096a7bee8e350c7b2d85de",
+          "datavalue": {
+            "value": "ph134932",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "7e2d4b3b858f07fdae7f965ce52106b8598f4377",
+              "datavalue": {
+                "value": "nemoci u dětí",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q65430240$9CEA80DE-549B-4FD3-BE5E-35F2532D6B76",
+        "rank": "normal"
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "a6e92a39487a95c96237bfffaab77e711093fb74",
+          "datavalue": {
+            "value": "h0001044-nemoci-u-deti",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "7e2d4b3b858f07fdae7f965ce52106b8598f4377",
+              "datavalue": {
+                "value": "nemoci u dětí",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q65430240$9244EACF-2E4B-40D7-89A8-2A35CA90482C",
+        "rank": "normal"
+      }
+    ]
+  }
+}

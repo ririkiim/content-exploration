@@ -1,0 +1,353 @@
+{
+  "type": "item",
+  "id": "Q4287745",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "medical organization"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "의학 조직"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "organization which supports the field of medicine"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "70336113826d7017d5e5fc2be15e4362ea9445b7",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 43229,
+              "id": "Q43229"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q4287745$dbc01731-4998-ceab-b9b5-82a15a45cb96",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "f72fbbdece302b4db15a064551138893c01af3a0",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 30139652,
+              "id": "Q30139652"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q4287745$8574F21B-2406-48D0-BB75-E6235AE86238",
+        "rank": "normal"
+      }
+    ],
+    "P1709": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1709",
+          "hash": "b7e278f1f44255d93ddd763cf092437d443f926a",
+          "datavalue": {
+            "value": "https://schema.org/MedicalOrganization",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q4287745$850dfe76-4cf6-b940-4b51-013c29367b40",
+        "rank": "normal"
+      }
+    ],
+    "P361": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P361",
+          "hash": "df9fea5857b3fbf4e3cac2430619b0eba116571c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 11000047,
+              "id": "Q11000047"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q4287745$703E1FF2-7AC4-4C5B-A159-0DFD7F8C0956",
+        "rank": "normal"
+      }
+    ],
+    "P5429": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5429",
+          "hash": "dc9effa16c95204b23a7c76a3c0a961db7c77d9e",
+          "datavalue": {
+            "value": "mediatopic/20000463",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q4287745$39533C42-412E-4729-A28A-E42E4CECC4F4",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "babe9273d06106eb833f5dad0a27199b5ae99b49",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7164080,
+              "id": "Q7164080"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q4287745$637ae4ea-4796-e890-823b-558975a09104",
+        "rank": "normal"
+      }
+    ],
+    "P5082": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5082",
+          "hash": "66e6be76276724791d8827dc82a3632f6fa05984",
+          "datavalue": {
+            "value": "helseinstitusjon",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4390": [
+            {
+              "snaktype": "value",
+              "property": "P4390",
+              "hash": "baac8c898aa0acb7d262a15792a18865ac1b0b7c",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 39894604,
+                  "id": "Q39894604"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "7a8e92ddf7083a0c013459e4bdcbc4e0a7afe3d2",
+              "datavalue": {
+                "value": "helseinstitusjon",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4390",
+          "P1810"
+        ],
+        "id": "Q4287745$fce89337-6845-4c8d-b27c-65e1d7f4c9f9",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "1e10a22029eb9726bec4b3608e4d9e4dfd75dba7",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "65bf94067e6255ff8d61c9c9535d98794a309a4c",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 746368,
+                      "id": "Q746368"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "11a63811006827a0590e01d29d6a3cb7e0309c01",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-05-29T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "936046a57c6c133d6418969a7f20dcd9fc25319b",
+          "datavalue": {
+            "value": "MedicalCareOrganization",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q4287745$EDD8A217-4BC1-45F9-89CC-9CF33BFB6053",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "d49a9d4fe529e5da6934c421d2a554fd02bea229",
+          "datavalue": {
+            "value": "/m/026d5_n",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q4287745$FA93739D-F0FE-401B-A71A-A416046E52D9",
+        "rank": "normal"
+      }
+    ],
+    "P1963": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1963",
+          "hash": "c95c8e25905eb089b74752eea37386f99dd61560",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 856,
+              "id": "P856"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q4287745$A5AF7F24-3BA6-49CC-8BF4-2D98495F8E9C",
+        "rank": "normal"
+      }
+    ],
+    "P11514": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11514",
+          "hash": "b6017b9058017157ec80ff4e0fe45d8ad1d37d64",
+          "datavalue": {
+            "value": "meditsinskaia-organizatsiia-ca4c57",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q4287745$A0B3D507-2259-4945-8C30-6FE4C04D6B4B",
+        "rank": "normal"
+      }
+    ]
+  }
+}

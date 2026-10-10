@@ -1,0 +1,149 @@
+{
+  "type": "item",
+  "id": "Q28659128",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "city of North Korea"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "시"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "second-level administrative division"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "92a176947fc11c0eb3d9d44a2d162a8aa75ab2fa",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 41386,
+              "id": "Q41386"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q28659128$016daa27-4c72-2523-bdd4-934f1a2b2901",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "d52f9ba6f1ce2222827faf1f08a21ec65577a193",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 12357832,
+              "id": "Q12357832"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q28659128$1a9812bd-4c28-8529-a322-893e19857ae8",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "914c6e280ea9278b71e9c7a72eec43f4cba0b294",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 515,
+              "id": "Q515"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q28659128$2498843d-48a4-f8e3-2994-9a11e4be6806",
+        "rank": "normal"
+      }
+    ],
+    "P17": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P17",
+          "hash": "f9d1f68374f351ebf2d6d29d83bf1a810d090ab1",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 423,
+              "id": "Q423"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q28659128$57d25f69-4cd4-b8c1-6167-3716ca4076a7",
+        "rank": "normal"
+      }
+    ],
+    "P1424": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1424",
+          "hash": "65d98ff048860276aceb584af9429fe9f75a0a96",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 18999415,
+              "id": "Q18999415"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q28659128$41e2879a-31ff-48da-b8ab-eea97c762b21",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "314f3b3b8a070a4cd326fc2213afcccd59f3b5e4",
+            "snaks": {
+              "P3452": [
+                {
+                  "snaktype": "value",
+                  "property": "P3452",
+                  "hash": "8c0588a210c993f7ecdce663803344400eff2779",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 18999415,
+                      "id": "Q18999415"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P3452"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

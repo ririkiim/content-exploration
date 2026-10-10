@@ -1,0 +1,327 @@
+{
+  "type": "item",
+  "id": "Q265662",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "national university"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "국립 대학"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "university created or managed by a government"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "중앙정부가 설립, 운영하는 고등교육기관"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "f21eeb9a86124aaa41f7178af7231910b9acfd96",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3918,
+              "id": "Q3918"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "q265662$43208452-42c6-9ac6-7ad1-3bfe8b32c19a",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "bccac249ccf252e2497d02c69beeb24aed76c968",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 38723,
+              "id": "Q38723"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q265662$49cb3ca8-4bf8-ce26-e6b3-4a3c03abbe06",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "b05317713be0001daaceb0ca5a07462d15160a97",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 875538,
+              "id": "Q875538"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q265662$5697ef5d-46d8-93d3-782e-93e809c23c10",
+        "rank": "normal"
+      }
+    ],
+    "P349": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P349",
+          "hash": "f8a4eedcd55c073ebe820611f5fcd9fecc22b5f7",
+          "datavalue": {
+            "value": "01034048",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q265662$E2BA8FF7-43A3-420B-B49E-44F251F08F5F",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "62022b5dd41e8657725be3953bfef9e509192d89",
+          "datavalue": {
+            "value": "/m/047951",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q265662$E7AAE18F-7848-46CA-82CD-D8A8C2030926",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "06b2b859ba304327016de2768cb0127d4f00d5ef",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9225687,
+              "id": "Q9225687"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q265662$4A222009-3052-4A07-904E-0F94F796B251",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 177837,
+                      "id": "Q177837"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "508055914732a9ecb5aae6f0a3279ddb5f02f7a4",
+          "datavalue": {
+            "value": "National higher education institutions",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q265662$C27D4CE0-2ECA-453E-8639-53CEC1EE7BF3",
+        "rank": "normal"
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "03ff3f15a66461c9e14617f1f38089d5973619fc",
+          "datavalue": {
+            "value": "National-University",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q265662$3932E79B-8C89-4C31-A851-9D0DF1767C36",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "3b0a5bb3c1f955edce73740124f7d935698092ad",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3ac9682e789a3a3791d4fd088b265ea03abef101",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 51711,
+                      "id": "Q51711"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P6900": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6900",
+          "hash": "8b99ccee6307462ed65936e2a909b829962724ce",
+          "datavalue": {
+            "value": "国立大学",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q265662$c78cf556-4698-9304-90a5-2a70af7c297d",
+        "rank": "normal"
+      }
+    ],
+    "P8885": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8885",
+          "hash": "32667b03606cee1b88184bffb6bde6f6cd592d71",
+          "datavalue": {
+            "value": "국립대학",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q265662$d21f19f2-4a17-1baa-5be8-c3692543a0e4",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "f40f57f47f6258272d16b3531b95138f3f558de8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 130388971,
+              "id": "Q130388971"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q265662$2f7b4596-412e-fd31-baf9-820b92694b8b",
+        "rank": "normal"
+      }
+    ]
+  }
+}

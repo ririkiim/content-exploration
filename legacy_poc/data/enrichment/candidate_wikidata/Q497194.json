@@ -1,0 +1,500 @@
+{
+  "type": "item",
+  "id": "Q497194",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "6월 항쟁"
+    },
+    "en": {
+      "language": "en",
+      "value": "June Struggle"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "nationwide democracy movement in South Korea that generated mass protests from June 10 to June 29, 1987"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "1987년에 일어난 대한민국의 민주화 시위"
+    }
+  },
+  "claims": {
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "7a676e1f0068b5e78ab467ce1fcfce827a0caac2",
+          "datavalue": {
+            "value": "/m/09rt27c",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q497194$025A6657-A9BB-48C4-8A0A-0FCF8DFAE3B5",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "3ed61c0a0688d089ed5469a01598c0a8b218d019",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1064441,
+              "id": "Q1064441"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q497194$af1f1109-44e8-f431-5913-28c7e26de153",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "cafe9127e9fea483ad70159fcaa8b7c8763cd160",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 175331,
+              "id": "Q175331"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q497194$c5b09f4b-4fd4-962a-421c-f468c68b74a9",
+        "rank": "normal"
+      }
+    ],
+    "P580": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P580",
+          "hash": "b20858ef89f85e2570b00cb443f10d44f3ffbc5c",
+          "datavalue": {
+            "value": {
+              "time": "+1987-06-10T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "id": "Q497194$971b310b-48d2-6e8a-6482-7b1c3f93b3ed",
+        "rank": "normal"
+      }
+    ],
+    "P582": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P582",
+          "hash": "4c5a83cedffbfa2fa2df225d899cfec2f61fb5e9",
+          "datavalue": {
+            "value": {
+              "time": "+1987-06-29T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "id": "Q497194$13eb7acd-4568-0e05-48c2-da05476fe319",
+        "rank": "normal"
+      }
+    ],
+    "P1705": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "adf5b7e885c59836f913c1868b4f861a695eaed5",
+          "datavalue": {
+            "value": {
+              "text": "유월 민주 항쟁",
+              "language": "ko"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2001": [
+            {
+              "snaktype": "value",
+              "property": "P2001",
+              "hash": "1cb31791970e0c5b08a78ca8b3ee01f3d5221e34",
+              "datavalue": {
+                "value": "Yuwol Minju Hangjaeng",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P1942": [
+            {
+              "snaktype": "value",
+              "property": "P1942",
+              "hash": "e5dc1efc4a85eadb2e12ac29179f369bca06d1fe",
+              "datavalue": {
+                "value": "Yuwŏl Minju Hangjaeng",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2001",
+          "P1942"
+        ],
+        "id": "Q497194$46bbee0d-4c87-ed1d-5d0a-1dbffea4a627",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "23e1241ce406867258af7cc3fd7d411416e99617",
+          "datavalue": {
+            "value": {
+              "text": "6·10 민주 항쟁",
+              "language": "ko"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2001": [
+            {
+              "snaktype": "value",
+              "property": "P2001",
+              "hash": "743cb37b6bf83b4ec97f1b0fec6ee7b117714e73",
+              "datavalue": {
+                "value": "Yuk-Sip Minju Hangjaeng",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P1942": [
+            {
+              "snaktype": "value",
+              "property": "P1942",
+              "hash": "783e99ec664e0b1fa67f908ba2e9ef5571b8bfe9",
+              "datavalue": {
+                "value": "Yuk-Sip Minju Hangjaeng",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2001",
+          "P1942"
+        ],
+        "id": "Q497194$61b8998d-4d78-60fa-56e6-d14bb9b12955",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1705",
+          "hash": "f16e6a8d1fc95f1b112814c92e94620c5da48c99",
+          "datavalue": {
+            "value": {
+              "text": "유월 민주화 운동",
+              "language": "ko"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2001": [
+            {
+              "snaktype": "value",
+              "property": "P2001",
+              "hash": "218b3e9b4644a26d277da0a85c7c997ac795d266",
+              "datavalue": {
+                "value": "Yuwol Minjuhwa Undong",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P1942": [
+            {
+              "snaktype": "value",
+              "property": "P1942",
+              "hash": "cef10e06d4b7859d0966ef631ac4dd741fa99eec",
+              "datavalue": {
+                "value": "Yuwŏl Minjuhwa Undong",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2001",
+          "P1942"
+        ],
+        "id": "Q497194$e07a4275-44f0-2a34-eebd-8b1047db8517",
+        "rank": "normal"
+      }
+    ],
+    "P17": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P17",
+          "hash": "ab4105e4f6c3449ba4a6ca949a3aaafaa67f5be8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 884,
+              "id": "Q884"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q497194$bf535037-488b-2017-c84c-13b5aa270c28",
+        "rank": "normal"
+      }
+    ],
+    "P1542": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1542",
+          "hash": "6309055666f7df303ae8c484d6f39c9cb1c7108c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 624238,
+              "id": "Q624238"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q497194$e14ca44a-4ed5-01c2-141b-8650e1b8147f",
+        "rank": "normal"
+      }
+    ],
+    "P1299": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1299",
+          "hash": "4ce4c2bf28b97efeb7ff8e4ba9f42d9868098c4b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 30115075,
+              "id": "Q30115075"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q497194$4a0eb8a7-4704-f8ed-2aa6-7a1201605c79",
+        "rank": "normal"
+      }
+    ],
+    "P828": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P828",
+          "hash": "3e6070affe76af40d715f0259968957397556b70",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 28698151,
+              "id": "Q28698151"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q497194$1adbaef4-400a-138c-60b1-6f515edf3a29",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "a887a403c7ae4cf3ecec95190065d4dbcd54690d",
+          "datavalue": {
+            "value": "June Democratic Struggle",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q497194$d2abb501-a37e-4fcb-aa78-b8d5aae6e999",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "eb70862c31ae9dec5effedc4bb00d4948af4e6ca",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9900426,
+              "id": "Q9900426"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q497194$5bb7668f-463d-b9cb-eb9f-e9dd6e6354ad",
+        "rank": "normal"
+      }
+    ],
+    "P5034": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5034",
+          "hash": "837a7e675fe388939bfbb92092941e6db877b6d5",
+          "datavalue": {
+            "value": "KSH2004001057",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q497194$fa7de688-4763-7cfd-8c4e-f35808b2f970",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "53a70099dd2586eb2ac9d80ece5c7f40f4871e1f",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10854401,
+              "id": "Q10854401"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q497194$c78eae3a-404f-5645-fcc4-02cb182ad72c",
+        "rank": "normal"
+      }
+    ],
+    "P18": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "5ccadf371b37f0a257446b4401ddec742682af42",
+          "datavalue": {
+            "value": "이한열 추모행진 집회.jpg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q497194$2B23753B-8078-4643-A885-BFD28D33B3F1",
+        "rank": "normal"
+      }
+    ]
+  }
+}

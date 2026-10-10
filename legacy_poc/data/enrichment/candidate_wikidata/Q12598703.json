@@ -1,0 +1,51 @@
+{
+  "type": "item",
+  "id": "Q12598703",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "부림 사건"
+    }
+  },
+  "descriptions": {},
+  "claims": {
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "01cd15a95fb1b15b429c89abf8a249b737ce0e54",
+          "datavalue": {
+            "value": "/g/1216fs2h",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q12598703$76AD3167-1AD8-482A-8E8F-C6F8163B2EDA",
+        "rank": "normal"
+      }
+    ],
+    "P17": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P17",
+          "hash": "ab4105e4f6c3449ba4a6ca949a3aaafaa67f5be8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 884,
+              "id": "Q884"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q12598703$42ba6e36-4d51-8377-83da-17b20ff02d89",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "type": "item",
+  "id": "Q23002037",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "public educational institution"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "공립 교육기관"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "educational institution whose programs and activities are operated by publicly elected or appointed school officials and which is supported primarily by public funds"
+    }
+  },
+  "claims": {
+    "P461": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P461",
+          "hash": "897488388bc0fc2e3479e0e8d2d50f6fdefa1a6f",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 23002042,
+              "id": "Q23002042"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q23002037$b15ce29c-4f7d-3298-f17e-2edde761d8fb",
+        "rank": "normal"
+      }
+    ],
+    "P361": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P361",
+          "hash": "e9ee87aac451ee371eda46a2046c2c012e4a976c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 12182551,
+              "id": "Q12182551"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q23002037$362cef84-4e33-899e-9467-45ba5789bd3f",
+        "rank": "normal"
+      }
+    ],
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "c259984e17b308d125001875ef164e4fe1ee318a",
+          "datavalue": {
+            "value": "PublicEducationInstitution",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q23002037$1C508ECB-3335-4BB8-B074-193F2DFD69CF",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "bf23f56152b6dd3712c443ef22802189c3facb45",
+          "datavalue": {
+            "value": "ph127087",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "3c94b29aa6816b8aaac091be890c8d1aadbb7614",
+              "datavalue": {
+                "value": "veřejné školy",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q23002037$7BABC8E4-F878-4665-AB34-56C26AD8B2B1",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "e55917ead69a4c7fd6d869af2a2e5df8102ef0a6",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 112872396,
+              "id": "Q112872396"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q23002037$102a0e95-4022-f628-3eaf-cac0c8b7c140",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "7e31165809d3bb50ad8241239e1111be061df383",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2385804,
+              "id": "Q2385804"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q23002037$2c5e11b8-4454-6375-8488-2c31b5e8290f",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "58b59b63a0e164c095d8bd73ccd588eb3684ecc9",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 294163,
+              "id": "Q294163"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q23002037$90e7b764-4a40-e044-b653-a75c954c4581",
+        "rank": "normal"
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "958913c19459ee6ee34dd6a12efe015e7a6a5c74",
+          "datavalue": {
+            "value": "0336754-verejne-skoly",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q23002037$25D694DA-48EB-4EF1-AD61-A9ECC356B8CB",
+        "rank": "normal"
+      }
+    ]
+  }
+}

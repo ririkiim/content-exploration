@@ -1,0 +1,81 @@
+{
+  "type": "item",
+  "id": "Q108465955",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "fiction genre"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "metaclass of genres of fiction as narrative form in any media (literature, film, television, radio, audio) or in oral form"
+    }
+  },
+  "claims": {
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "09b5a7c7e8592a3fcbceed1b7808c54a73143669",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 140354262,
+              "id": "Q140354262"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q108465955$e53231a5-46dd-e0e5-5be1-6ef8f5ec89e9",
+        "rank": "normal"
+      }
+    ],
+    "P8225": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8225",
+          "hash": "ef9545aed0f1ceb2dfe04a77170ed2bf206fc00d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8253,
+              "id": "Q8253"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q108465955$300e24bb-498a-27d7-b361-f3d3e6181160",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "6b1127d3cd96f20786845e3776f3d9843d3465ad",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1792379,
+              "id": "Q1792379"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q108465955$3e0819b9-4f09-3241-c786-a5c3b3ec90c7",
+        "rank": "normal"
+      }
+    ]
+  }
+}

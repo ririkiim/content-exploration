@@ -1,0 +1,326 @@
+{
+  "type": "item",
+  "id": "Q3533467",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "group action"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "집단 행동"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "in sociology, a situation in which a number of agents take action simultaneously in order to achieve a common goal"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조직·집단이 규율이 있는 행동을 취하는 것"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "2de95245f0679e80c18abcd47540ea1ebd03be70",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 769620,
+              "id": "Q769620"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3533467$461ae2e3-4662-c5ee-d156-ced4eb56d0a5",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "640ee36eecde0afbf5bfb012b0befd4587fbe079",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9332,
+              "id": "Q9332"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3533467$8a577f3a-495c-83c3-fe96-524a6c3a5f94",
+        "rank": "deprecated"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "023dca5942a8eab9f7686b5d69e034d24b96f160",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 646293,
+              "id": "Q646293"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3533467$01b011a1-429e-2046-755a-2ba3751f9b02",
+        "rank": "normal"
+      }
+    ],
+    "P2581": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2581",
+          "hash": "c758fd682b67df5527d1a40c4e3ffb98c13b3052",
+          "datavalue": {
+            "value": "01309587n",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3533467$A08196C0-C230-407A-9600-86957FE45555",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "248ac337a217a5f5eed7139a82a4e60931611af0",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "25b816aab41db18565946259c950aed6de05dd1e",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 4837690,
+                      "id": "Q4837690"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2579": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2579",
+          "hash": "5cf7f5c2a90e98a5739940e28d1b0e72a5d3a9ea",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 21201,
+              "id": "Q21201"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3533467$036cd836-49a5-2273-49c2-98fae34f55ad",
+        "rank": "normal"
+      }
+    ],
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "030b2abccead558c5a67278a2d66a1553f2481bb",
+          "datavalue": {
+            "value": "Movement",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3533467$35693716-C038-4B52-816A-1B96D240443D",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "6911e9610caea3743f0141a0178c702f7e4da9df",
+          "datavalue": {
+            "value": "/m/06gt5y",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3533467$3CB82DDF-6B2B-4B98-A9CA-3274ABBB70C0",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "24992e64459cc9d6002b2f70292d5dd86695a3d5",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3482410,
+              "id": "Q3482410"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3533467$b2d1016b-404b-fadb-cde9-70affac9bd8a",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "f38c64e4eb447ab24db49802e7a07f209c18e76d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1471594,
+              "id": "Q1471594"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3533467$9d48e000-4c3b-e0ee-df78-2081b33b2687",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "2de880ef265de3a9d2cc09940076f51e8da529c9",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 137826496,
+              "id": "Q137826496"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3533467$f7fd07ae-4e16-7092-075a-3bcbcbe591d1",
+        "rank": "normal"
+      }
+    ],
+    "P13044": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13044",
+          "hash": "a610a737fc262c0328b7188a961a84d19dadd721",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 16334298,
+              "id": "Q16334298"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3533467$0543F114-BA79-4FBD-897F-9D46A421D5B6",
+        "rank": "normal"
+      }
+    ],
+    "P18": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "363ef7d4692cd724de09850c5fc12385ab2cf074",
+          "datavalue": {
+            "value": "Hong Kong Umbrella Revolution -umbrellarevolution -UmbrellaMovement (15601405516).jpg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q3533467$e7bde8e8-43e6-7f2d-c94d-d4be0f3b1bdc",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,650 @@
+{
+  "type": "item",
+  "id": "Q31629",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "type of sport"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "스포츠의 종류"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "specific sport. Do not use with P279 (subclass of)"
+    }
+  },
+  "claims": {
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "18731c0c0322027380c5472476cb494472642fe2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7216334,
+              "id": "Q7216334"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q31629$41B387A0-3963-4E44-9292-27E2A1E7943D",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "60cce5d0acf0cc060796196012001192a048d885",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "390e3b73e7cd926978cab220968d0e3451cfb814",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 199698,
+                      "id": "Q199698"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P227": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P227",
+          "hash": "24cf195f3088f114494c08e4bc0249377f402771",
+          "datavalue": {
+            "value": "4182433-7",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q31629$BC6B6D7F-E6FA-400D-8746-5F6EF064E1A1",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48183,
+                      "id": "Q48183"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "a7f7b2bb94a271cb9291b67eb91e009b0ebb4af0",
+          "datavalue": {
+            "value": "Sports by type",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q31629$4A11C9CF-B0B6-4FAD-896B-DC9D43739B74",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "2fa526fd7e5cd14fd413e0534acd34ff1649c530",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 349,
+              "id": "Q349"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q31629$f3a4b552-487d-838d-dd83-8d108d05f855",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "e26b62768f530489b31d9a06ff168143f317ceca",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2312410,
+              "id": "Q2312410"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q31629$802dcbb2-4f4e-1eb0-de5c-779d3c5aec68",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "6a612bade32a837ed04823148d50d89169aa56e9",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 118498250,
+              "id": "Q118498250"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q31629$c3c17bfa-4d35-495f-18db-22799dcb4bb7",
+        "rank": "normal"
+      }
+    ],
+    "P1687": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1687",
+          "hash": "68449c57b729fe8d2bb3a3d378796a75d6e3bade",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 641,
+              "id": "P641"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q31629$582666ad-4402-6a05-46a3-ed52c7ed4181",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "a7e32719e3a70a25fce867c2ad70c306d3521fc3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 24017414,
+              "id": "Q24017414"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q31629$91402fd8-47ba-a977-6975-d504313e1784",
+        "rank": "normal"
+      }
+    ],
+    "P1036": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1036",
+          "hash": "8c1e090425027b60a011ae5834dc9dcd93fa0c20",
+          "datavalue": {
+            "value": "796",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q31629$8d972a95-44a0-2018-cbfa-9c0113cad3a6",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "50ae12c5221ae70d4e9a9077cd9f7a7318b6adf5",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 36578,
+                      "id": "Q36578"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P227": [
+                {
+                  "snaktype": "value",
+                  "property": "P227",
+                  "hash": "24cf195f3088f114494c08e4bc0249377f402771",
+                  "datavalue": {
+                    "value": "4182433-7",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "9258ab037a6a52039e39556023c871215640c0ba",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2017-08-10T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P1476": [
+                {
+                  "snaktype": "value",
+                  "property": "P1476",
+                  "hash": "dd403dca4e8108ee1083be5b155cd31acfd8bda9",
+                  "datavalue": {
+                    "value": {
+                      "text": "Sportart",
+                      "language": "de"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P227",
+              "P813",
+              "P1476"
+            ]
+          }
+        ]
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "d7ae7b6c0a65a393c5b2762e167aca46d7d5085d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 140458154,
+              "id": "Q140458154"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q31629$ca6cb7e4-4601-d56b-d257-c79bd25f97a4",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "c028763a5d46670d25dc75ddd5a8624c174de827",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 125542526,
+              "id": "Q125542526"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q31629$c252f0b0-4886-0f1d-1abb-96bbcd9368b4",
+        "rank": "normal"
+      }
+    ],
+    "P1424": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1424",
+          "hash": "6639d9fd166e701d820c92e8b4032cc37ef8389b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5901151,
+              "id": "Q5901151"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P3831": [
+            {
+              "snaktype": "value",
+              "property": "P3831",
+              "hash": "4b3643f39dd988ef0d757bac57542d1f7120945f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 19887878,
+                  "id": "Q19887878"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P3831"
+        ],
+        "id": "Q31629$5de6bf2c-43d4-f015-06c2-76bd5fd47016",
+        "rank": "normal"
+      }
+    ],
+    "P2347": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2347",
+          "hash": "d2fdf9f16a3f94f85020807bbcd051f0a7bf16df",
+          "datavalue": {
+            "value": "894",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "bb8703d3b1de36465def5604fc4c646faea907c3",
+              "datavalue": {
+                "value": {
+                  "text": "urheilulajit",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "ab61c6450e5f68db1b88342ccee9dfa224ddd9e2",
+              "datavalue": {
+                "value": {
+                  "text": "idrottsgrenar",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "4eefffb0d595a710a0626704ec4dbdc3fc20e670",
+              "datavalue": {
+                "value": {
+                  "text": "valáštallanšlájat",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "7ec766db8b9fa90947f181b342819146e526926e",
+              "datavalue": {
+                "value": {
+                  "text": "types of sports",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P14458": [
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "87b8dd924d0747d1d502e496f1a9ea6b9c070557",
+              "datavalue": {
+                "value": {
+                  "text": "sportgrenar",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457",
+          "P14458"
+        ],
+        "id": "Q31629$87BAD466-67F2-4C14-A578-DC16BCBE8A67",
+        "rank": "normal"
+      }
+    ],
+    "P18": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "ae5a891b78dcf491315eb1f72089c7561dd93d38",
+          "datavalue": {
+            "value": "4 sports photo.jpg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q31629$8019c32a-4323-6f03-ff16-c6aaaec99864",
+        "rank": "normal"
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "483281400a1527fedc3fac9627033ac22756ec3c",
+          "datavalue": {
+            "value": "/g/121rjc2g",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q31629$F399A9B1-1FD8-4A0F-9A8A-D17DE26AF342",
+        "rank": "normal"
+      }
+    ],
+    "P12596": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12596",
+          "hash": "9d9cc013a920611d470c95b860f29bdd195e74ef",
+          "datavalue": {
+            "value": "19978",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q31629$894A6140-974D-42F0-ADBE-AF10200055FA",
+        "rank": "normal"
+      }
+    ],
+    "P8225": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8225",
+          "hash": "7fbf504940700efc8fbe5109a693cd8af03c45f1",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 349,
+              "id": "Q349"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q31629$DCAF15B5-4813-472D-8370-FE487EE7B1BD",
+        "rank": "normal"
+      }
+    ],
+    "P5869": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5869",
+          "hash": "93c758987d056ef86e781a76d0ee103289bf4e14",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 542,
+              "id": "Q542"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P11527": [
+            {
+              "snaktype": "value",
+              "property": "P11527",
+              "hash": "03333cd9754e182cbd8cf05cf461c34d428ffcbe",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 31,
+                  "id": "P31"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P11527"
+        ],
+        "id": "Q31629$e7bdc3c0-47ba-bab9-399e-056edd76348b",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5869",
+          "hash": "ca740590f3d2637c2fd8dfd581907998c8eeb038",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6026443,
+              "id": "Q6026443"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P11527": [
+            {
+              "snaktype": "value",
+              "property": "P11527",
+              "hash": "03333cd9754e182cbd8cf05cf461c34d428ffcbe",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 31,
+                  "id": "P31"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P11527"
+        ],
+        "id": "Q31629$1554322e-4769-fef3-9a9b-7296e395950d",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,467 @@
+{
+  "type": "item",
+  "id": "Q123964505",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "populated place"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "place in which people live, permanently or temporarily"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "82c8098db187816461df7165e7fb5d052a5babe6",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 82794,
+              "id": "Q82794"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q123964505$E94F82C8-04E4-4377-987D-D906F1694CDD",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "dabe364c4f55d1de589d43e284095ed71f4f1dba",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "3d60eef4519cf465aeb9a482ed72e5ca76613f73",
+                  "datavalue": {
+                    "value": "http://cognonto.com/knowledge-graph/reference-concept/?uri=PopulatedPlace",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "77f16fe27a2be96528548faa41c56c9045d4c513",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 27096235,
+              "id": "Q27096235"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q123964505$B8E76352-BE4F-44EF-8DAA-46FA75785ADE",
+        "rank": "normal"
+      }
+    ],
+    "P6186": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6186",
+          "hash": "14b500a96f5724fc8ac121fa08dc1419f8200d82",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 8103816,
+              "id": "Q8103816"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q123964505$08A9ACD6-6A29-46E3-A09E-6E8E88B40D19",
+        "rank": "normal"
+      }
+    ],
+    "P1709": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1709",
+          "hash": "39f5f1ee367b3a1380b71c9c764efb1130533145",
+          "datavalue": {
+            "value": "http://dbpedia.org/ontology/PopulatedPlace",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P973": [
+            {
+              "snaktype": "value",
+              "property": "P973",
+              "hash": "37fad0b64df69e897f03624d5e9cecb992da50b4",
+              "datavalue": {
+                "value": "http://mappings.dbpedia.org/index.php/OntologyClass:PopulatedPlace",
+                "type": "string"
+              },
+              "datatype": "url"
+            }
+          ],
+          "P813": [
+            {
+              "snaktype": "value",
+              "property": "P813",
+              "hash": "b85a45c0dcbef1bbaa976c2eb03b605a09a33509",
+              "datavalue": {
+                "value": {
+                  "time": "+2015-06-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P973",
+          "P813"
+        ],
+        "id": "Q123964505$349500C8-98B0-4450-B85D-FB8ADAEAB430",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "8f08ac3e0839bdbc4c6eb8d671e772deb12ba423",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "250b03083f7971a02473af3e43115ef521b1440d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 465,
+                      "id": "Q465"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1709",
+          "hash": "a7ec31aab56cfe4b29169dd6534a3b48f37f17de",
+          "datavalue": {
+            "value": "http://kbpedia.org/kko/rc/PopulatedPlace",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q123964505$F1C8EFEF-ECFD-411C-85F0-9BB063956F3B",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "dabe364c4f55d1de589d43e284095ed71f4f1dba",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "3d60eef4519cf465aeb9a482ed72e5ca76613f73",
+                  "datavalue": {
+                    "value": "http://cognonto.com/knowledge-graph/reference-concept/?uri=PopulatedPlace",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1963": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1963",
+          "hash": "9d891a9014cc30869b6a0389e9dbb0d79b31ec3b",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 17,
+              "id": "P17"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q123964505$D2E777ED-9064-4D6D-9320-3F34659F40EC",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1963",
+          "hash": "23b419de173f4cb75819ca7629f3e0960baf95cb",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 4080,
+              "id": "P4080"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q123964505$A0788074-5F02-4FE6-8DA7-ECBAF53B1C7E",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1963",
+          "hash": "ad646ea5e18a2754495877307f829602cc829d21",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 625,
+              "id": "P625"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q123964505$5DB91550-EE17-4064-9598-806901A5F352",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "1e2898a1009a011d618dea07324c26bd0399d605",
+            "snaks": {
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "efe92ee1b7c13c5d2e3ea8a81deafb05bc837233",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-08-11T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1963",
+          "hash": "244c9467bc1b4ceb59418f20d6b58f587f14861e",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 571,
+              "id": "P571"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q123964505$14E48E23-FFF9-46E7-9225-47BF9D52F646",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1963",
+          "hash": "9f73754744d192029147729a45e4100f1647a3af",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 1082,
+              "id": "P1082"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q123964505$c207a450-4d1e-054c-05b4-32a04b2ecd2e",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "a632f2f9acd567eff8515744f0da5c6edee8053c",
+          "datavalue": {
+            "value": "Populated places",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q123964505$418BF3AF-6D88-4F6E-97A9-33F65E799881",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "8fb6716c2f734cec84af9924d5949eae49923dea",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5624766,
+              "id": "Q5624766"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q123964505$39983EA9-B5D1-413E-8E40-4E1A7B7E0255",
+        "rank": "normal"
+      }
+    ],
+    "P18": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "582dc88813fa2e2fd5b86cafbbc2510408d0a2bb",
+          "datavalue": {
+            "value": "Olympus Digital Camera (156656775).jpeg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q123964505$c62755bb-43cc-95c4-4fe3-ae873406c9b0",
+        "rank": "normal"
+      }
+    ],
+    "P527": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P527",
+          "hash": "60408d949df43d4525367b11f7a7305bdba5758a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 16334295,
+              "id": "Q16334295"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q123964505$09B133C9-74F4-4066-A0FF-AE18A69F5BE3",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "0ccb4342ab707cbfae5bf5949954e1871c0dee45",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 137018865,
+              "id": "Q137018865"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q123964505$456c5120-472b-2964-bd3b-381f7106452f",
+        "rank": "normal"
+      }
+    ]
+  }
+}

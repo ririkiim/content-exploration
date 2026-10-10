@@ -1,0 +1,355 @@
+{
+  "type": "item",
+  "id": "Q6431610",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Korea Communications Standards Commission"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "대한민국 방송통신심의위원회"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "government agency"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "대한민국의 정부기관"
+    }
+  },
+  "claims": {
+    "P571": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P571",
+          "hash": "6afd6245d6095de5a8c5e77e1b612bbd4de83345",
+          "datavalue": {
+            "value": {
+              "time": "+2008-01-01T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "id": "Q6431610$090D38B3-6FB6-430B-BC4B-3E0D46F9CB01",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "43132896d38fdc7233060a6ed6123611769e5c81",
+            "snaks": {
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "195108957eff26a4c4350918e0cbf092092eae69",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-07-01T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P3452": [
+                {
+                  "snaktype": "value",
+                  "property": "P3452",
+                  "hash": "4cf9b34d5d1dbbe50b1748880477a0519807f26a",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 8194838,
+                      "id": "Q8194838"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P813",
+              "P3452",
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "f71117d7b46495894559b65a4abe6c02fadedf3b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 327333,
+              "id": "Q327333"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q6431610$82A39306-3D7B-4884-A1BF-E3ACDB80D253",
+        "rank": "normal"
+      }
+    ],
+    "P159": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P159",
+          "hash": "36d28de8d679656f0b4132ca8c8d20b4107e42db",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 50420,
+              "id": "Q50420"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q6431610$FEFAEB5B-8DB5-4336-A701-17BDBD68CA73",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "6ef4009985aab4d5d90935c3d45aeef6b517437f",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "fcdb043014c8ac8cf6de75c11767feb8f1d6a659",
+                  "datavalue": {
+                    "value": "https://en.wikipedia.org/w/index.php?title=Korea_Communications_Standards_Commission&oldid=941569836",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "dd7778ec5f6eef9101de7f95f6fb69876a66caa8",
+          "datavalue": {
+            "value": "/m/0h53kcf",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q6431610$1D4A240E-C6F7-460E-92A6-8A901CD64F46",
+        "rank": "normal"
+      }
+    ],
+    "P856": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P856",
+          "hash": "e04a446d793e14b0aa458e1a9160ff828d9d7b5e",
+          "datavalue": {
+            "value": "https://www.kocsc.or.kr/",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "a10335a425d19169dd856e0a5f71735853eab0ab",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 9176,
+                  "id": "Q9176"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "id": "Q6431610$674fb45f-46da-1c4a-97cd-4324e204d09e",
+        "rank": "normal"
+      }
+    ],
+    "P154": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P154",
+          "hash": "c155aa7ea6c97c7c64b49365c450efda94086066",
+          "datavalue": {
+            "value": "Emblem of the Korea Communications Standards Commission.svg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q6431610$08dd9214-4932-130c-a5f7-99dd7e372cc3",
+        "rank": "normal"
+      }
+    ],
+    "P13092": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13092",
+          "hash": "e5be3daa740c2ab806dbf2698f7e9f63903edc0d",
+          "datavalue": {
+            "value": "K000234082",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q6431610$0B1D5017-DD8C-4F55-9954-23ECB0EBDBD1",
+        "rank": "normal"
+      }
+    ],
+    "P8885": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8885",
+          "hash": "e73f30f35d08a7fa28f0cef5ae24eb255d6111bc",
+          "datavalue": {
+            "value": "방송통신심의위원회",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q6431610$375e8f22-4d5a-579d-cc77-6d7d088fcb85",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "4e0e2924987a7042287e03ad5588d345d81477d8",
+          "datavalue": {
+            "value": "Korea Communications Standards Commission",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q6431610$2849cb18-8419-432d-9078-8a682bb3d96a",
+        "rank": "normal"
+      }
+    ],
+    "P17": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P17",
+          "hash": "ab4105e4f6c3449ba4a6ca949a3aaafaa67f5be8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 884,
+              "id": "Q884"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q6431610$da1c8bb8-41c2-c03e-e456-e2cd9f506811",
+        "rank": "normal"
+      }
+    ],
+    "P11436": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11436",
+          "hash": "5b7ea59d89f9bbe5c73abe843e8fbc5c44bc280b",
+          "datavalue": {
+            "value": "IPRD00013409",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q6431610$82583d66-4c27-e979-16de-df5913ab5845",
+        "rank": "normal"
+      }
+    ]
+  }
+}

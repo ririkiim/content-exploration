@@ -1,0 +1,125 @@
+{
+  "type": "item",
+  "id": "Q96088545",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "former geographical object"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "없어진 지리적 대상"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "geographical object that has been abandoned, destroyed or demolished"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "86a4b3803e14a9f4af293fc5f2a03c26e67928b9",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 15893266,
+              "id": "Q15893266"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q96088545$ebb43c45-46fd-fec4-55c7-3d7f4cffb359",
+        "rank": "preferred"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "67bf1bb6c98e4354bbb893f1114f25dd10edefde",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 618123,
+              "id": "Q618123"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P3416": [
+            {
+              "snaktype": "value",
+              "property": "P3416",
+              "hash": "330f6184f08c1bbbc182a2dd9f29f2763d28e1ee",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 192630,
+                  "id": "Q192630"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P3416"
+        ],
+        "id": "Q96088545$2eee898a-424f-735c-36a7-f26b1b6adcfc",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "a378eb5d7d0dbb9793ff5e41c8e0084dc416f73f",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 55965287,
+              "id": "Q55965287"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q96088545$D6A37CA7-D424-4C8A-984B-AC0E18BADB7B",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "1b59fee4d8bcf32fd49fd55dc72748eee69992cc",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 12046615,
+              "id": "Q12046615"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q96088545$cdd9f25e-45b0-1700-cdf4-dd0a39d000d8",
+        "rank": "normal"
+      }
+    ]
+  }
+}

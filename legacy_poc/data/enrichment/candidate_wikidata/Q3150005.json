@@ -1,0 +1,948 @@
+{
+  "type": "item",
+  "id": "Q3150005",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "legal instrument"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "formally executed written document"
+    }
+  },
+  "claims": {
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "377233b8bb5a38615b0515b18d6fc7099dbb3ce5",
+          "datavalue": {
+            "value": "/m/01g2dg",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3150005$a0eda8e6-464b-33fb-ed85-aa18dea019b1",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "ef0ecb6920481bc2961d7a8f8d5772a15486a02f",
+          "datavalue": {
+            "value": "Legal documents",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q3150005$3FBB0450-93C2-47AC-AAC8-BCDEF34248D3",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "1c44c3eac3e3011b6dc2256761f9c96d8b301037",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 49848,
+              "id": "Q49848"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3150005$bfdbe16c-457a-259c-a203-8af2f91e6054",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "655f035e6890885feab5c2ac4fc1051fcb559e0e",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "595e977f685fc7a57ab1d6e52ec90255016d307f",
+                  "datavalue": {
+                    "value": "https://www.law.cornell.edu/wex/instrument",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "f83a9d10908b478038a0d6210d3786a80d32042f",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 47461344,
+              "id": "Q47461344"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3150005$9f55e59b-47c0-009c-5864-2d9442c0a317",
+        "rank": "normal"
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "b5bd163ad4f5b8af94fa8c49c8c57d2d56bd0b05",
+          "datavalue": {
+            "value": "Legal-Documents",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3150005$a2aa7d50-4de8-71d7-55b1-cbbbeae03bbb",
+        "rank": "normal"
+      }
+    ],
+    "P1225": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1225",
+          "hash": "8736f37c4af5b6bdd17fabbcdbbb94a248129db5",
+          "datavalue": {
+            "value": "10664165",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3150005$7434DF53-E1D6-4EA0-A188-5A0F670B7C8D",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1225",
+          "hash": "3d1c5daf9735a221d63f5a53eeb2bcc555986372",
+          "datavalue": {
+            "value": "10631744",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3150005$E7785D56-08C5-4800-B10E-BE29FB8F684E",
+        "rank": "normal"
+      }
+    ],
+    "P2581": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2581",
+          "hash": "7d3881629864fff5030760df2d4a65a1c0e478ee",
+          "datavalue": {
+            "value": "00046963n",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3150005$A1EB0CAF-F390-4E7A-9E48-FB7ED98AD833",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "248ac337a217a5f5eed7139a82a4e60931611af0",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "25b816aab41db18565946259c950aed6de05dd1e",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 4837690,
+                      "id": "Q4837690"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P4953": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4953",
+          "hash": "716233839da85350727dcc378244191238807e2b",
+          "datavalue": {
+            "value": "gf2011026355",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "138d5b91e31bc6f6b07f572e786a5d8b40cf28e9",
+              "datavalue": {
+                "value": "Legal instruments",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P4970": [
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "1b460127d25c645a8901f1ebb44e9385ef313952",
+              "datavalue": {
+                "value": "Legal documents",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P4970"
+        ],
+        "id": "Q3150005$94EBA9FC-67E1-4ACA-B72A-AC91D49474F8",
+        "rank": "normal"
+      }
+    ],
+    "P7749": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7749",
+          "hash": "532321e8b56cb0bcf35ab5a8d945cfeb459b443a",
+          "datavalue": {
+            "value": "13510",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3150005$827F5A3F-FA3B-4251-8B19-504B90B5C375",
+        "rank": "normal"
+      }
+    ],
+    "P6366": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6366",
+          "hash": "7aa1eb86999ed30a16ea262255451516fed990ac",
+          "datavalue": {
+            "value": "2776573520",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3150005$D08622E8-DCB6-4D1D-A537-02E48D349C9B",
+        "rank": "normal"
+      }
+    ],
+    "P1552": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1552",
+          "hash": "6ec47ca5c5a2581993df8a4865a57c22a3870c5b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3406134,
+              "id": "Q3406134"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3150005$879c0146-4b73-8df4-73da-ecc6a19eaa0e",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1552",
+          "hash": "03cda2de224c5a3d83a83ba2a1fb97c046cfaf3c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 13431773,
+              "id": "Q13431773"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3150005$00af35fb-4327-e5f2-8402-9098460bae24",
+        "rank": "normal"
+      }
+    ],
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "81fa05732cbbef704ca558933d212ca364ae4942",
+          "datavalue": {
+            "value": "LegalDocument",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3150005$645D76D6-1C45-481F-BC97-BCCA36A07EB1",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8519": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8519",
+          "hash": "02cf7b30194644a9c3cf9572b1152da79f996678",
+          "datavalue": {
+            "value": "79402",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3150005$741e2966-b37b-427f-942b-af06627bd7ae",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "67a653e122c4f3ba37dbeec625b88ffa36151411",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 25499317,
+              "id": "Q25499317"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3150005$94845b6a-4ee5-b776-cecb-a9af7e164d84",
+        "rank": "normal"
+      }
+    ],
+    "P10283": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10283",
+          "hash": "68f268f2ee4ce3fab4f698d0116246bdb53f90fd",
+          "datavalue": {
+            "value": "C2993995455",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3150005$FBB812BD-09E6-4A36-978F-DA3E5D1C7D48",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "e0b27d817c9a9b3247df341000fc490bafcba862",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4a4f26a5361b5707266e48e425bf2be2f99fd2ab",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 107507571,
+                      "id": "Q107507571"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "435834d08182bb9f3dbe974ba9840af0f12899cc",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-26T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a4a4bf53f22268815c51ec10fed608da703c9c7f",
+                  "datavalue": {
+                    "value": "https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P1065": [
+                {
+                  "snaktype": "value",
+                  "property": "P1065",
+                  "hash": "3134281f51e2490f88272d53c56ee95d9cc24e2c",
+                  "datavalue": {
+                    "value": "https://web.archive.org/web/20220125070108/https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P2960": [
+                {
+                  "snaktype": "value",
+                  "property": "P2960",
+                  "hash": "f7ff3a0de7f9571ecb5e0740cba4122c6703e1ec",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-25T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P854",
+              "P1065",
+              "P2960"
+            ]
+          }
+        ]
+      }
+    ],
+    "P10719": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10719",
+          "hash": "0c59db98080c30a139c86fd1995df12f520a224e",
+          "datavalue": {
+            "value": "cv00057",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3150005$133bea9a-4ec5-dc1e-3e5b-4bed52a23972",
+        "rank": "normal"
+      }
+    ],
+    "P8189": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8189",
+          "hash": "ba7816c3c5e66505c9e5fc0eca6224c6a73dc4fc",
+          "datavalue": {
+            "value": "987007560405105171",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "96a99d0c56dcf97f6433dee65450faac4bc479a4",
+              "datavalue": {
+                "value": {
+                  "text": "Legal instruments",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "f156e597539a089912d7af8dcfba60c6a2803780",
+              "datavalue": {
+                "value": {
+                  "text": "מכשירים משפטיים",
+                  "language": "he"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "78ead14509422e821a740e1f330aeba5f7929999",
+              "datavalue": {
+                "value": {
+                  "text": "الصكوك القانونية",
+                  "language": "ar"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q3150005$2444CC5A-4877-4F86-BD57-B37B9C2CA531",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "ecb7a39cf436eb1fba419853af168ef9f2ba1dab",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a03bb6ffe37be9554492f4eea5bd18afcb57df19",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 106509962,
+                      "id": "Q106509962"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1269": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1269",
+          "hash": "24b4bd4ab59d6b9551052d257600cdf873b164cf",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7748,
+              "id": "Q7748"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3150005$1b3adba0-43ec-f3bf-f36d-48cc2dea5ae7",
+        "rank": "normal"
+      }
+    ],
+    "P18": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "5c0cdfa96f3bdcbbbee0a88e2de1e8e339cd1b5f",
+          "datavalue": {
+            "value": "Reshenie buchanskogo gorsoveta 20102021.jpg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q3150005$15004f68-080d-4887-b79f-b6413f92e1e6",
+        "rank": "normal"
+      }
+    ],
+    "P366": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P366",
+          "hash": "b80d31f8089ab4d9e2736e9f25d64c7a6f583e33",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 176763,
+              "id": "Q176763"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3150005$7c1a1d19-459a-5ccb-60c2-a724a0971cb2",
+        "rank": "normal"
+      }
+    ],
+    "P1343": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1343",
+          "hash": "108cf6c8b367e807f49b5394330121eb212625a5",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 19047539,
+              "id": "Q19047539"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P805": [
+            {
+              "snaktype": "value",
+              "property": "P805",
+              "hash": "e90d426061ed004b030b8271d73353d4c24ae55e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 123947707,
+                  "id": "Q123947707"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P805"
+        ],
+        "id": "Q3150005$76520EA4-2736-4263-BBB0-14C04E3E3E58",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1343",
+          "hash": "28ad5db44d36a52da8e728f0a629108c23ded0da",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 16939300,
+              "id": "Q16939300"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2699": [
+            {
+              "snaktype": "value",
+              "property": "P2699",
+              "hash": "4cf28d32aa565691e1df5521c15d97ef2fba70bd",
+              "datavalue": {
+                "value": "https://www.law.cornell.edu/wex/instrument",
+                "type": "string"
+              },
+              "datatype": "url"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2699"
+        ],
+        "id": "Q3150005$92f979ac-45a5-332c-871a-a07119a1cb15",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1343",
+          "hash": "0b03d1de37c592df8a233bb30cc90313bc8f220e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 141613474,
+              "id": "Q141613474"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2699": [
+            {
+              "snaktype": "value",
+              "property": "P2699",
+              "hash": "3c3b12287bd5c05f6dc7122e81c61fa63ddd3853",
+              "datavalue": {
+                "value": "https://dictionary.nolo.com/instrument-term.html",
+                "type": "string"
+              },
+              "datatype": "url"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2699"
+        ],
+        "id": "Q3150005$E36A0AB6-D144-4B61-A190-8DC058478C9A",
+        "rank": "normal"
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "fc7ba19e1e89aaa6c2d9cf0376f7c2c64c05e047",
+          "datavalue": {
+            "value": "ph124711",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "3446e8d3d18a7cf72b22f825395fe9da8afe7bd3",
+              "datavalue": {
+                "value": "právní dokumenty",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q3150005$6BF96E40-429B-4D57-8864-F98ED0967BE4",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "e9bcb30fd885dfeaf82634f41687885e1d2764d9",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 130719622,
+              "id": "Q130719622"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3150005$88f5c24b-4a7d-f9ab-533c-6edbd6442793",
+        "rank": "normal"
+      }
+    ],
+    "P14003": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14003",
+          "hash": "f888b504541b4e75c6276c86e59b4ebc2f89e7d1",
+          "datavalue": {
+            "value": "legal-documents",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3150005$978627E1-386D-4343-96EE-6B2D9E3C99F2",
+        "rank": "normal"
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "fd304bdfaeca5d7a35ce870548b64ad61bdfa237",
+          "datavalue": {
+            "value": "0200398-pravni-dokumenty",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3150005$61AF832D-DA0A-4159-9878-68B923A051C0",
+        "rank": "normal"
+      }
+    ],
+    "P12705": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12705",
+          "hash": "a0090d8c091a3103d753cb58e677451bce0300f2",
+          "datavalue": {
+            "value": "instrument",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3150005$79dd59f6-429b-e762-31fe-fb31cf2a822c",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "type": "item",
+  "id": "Q1799794",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "administrative territorial entity of a specific level"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "행정 구역 단계"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "type of administrative territorial entity"
+    }
+  },
+  "claims": {
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "cb9b6a8648294f426555b9e0de284078aaebd2c2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6966994,
+              "id": "Q6966994"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1799794$33100b0b-4b79-5fde-4ef4-a44d9e5095d0",
+        "rank": "normal"
+      }
+    ],
+    "P361": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P361",
+          "hash": "a778a0508608b311bbafc51f8f9e63b27b616655",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 4057633,
+              "id": "Q4057633"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1799794$2dc4dfb7-4d84-b737-a4da-5851e1d5b5f4",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "9df82d2b02fcf0e27f59ce4667e8f5c2ca95c5c3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 56061,
+              "id": "Q56061"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1799794$0e62964c-49ca-d945-cffa-6ac811a4a850",
+        "rank": "normal"
+      }
+    ],
+    "P1424": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1424",
+          "hash": "923807fa4985cebef5295a886f8b93a360cb85b2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 13365245,
+              "id": "Q13365245"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P31": [
+            {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "1460b0dfe4578b870058ff7eeeed1a5026f6c3c1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 19887878,
+                  "id": "Q19887878"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P31"
+        ],
+        "id": "Q1799794$2897e6b6-4f15-a9dc-66ef-c36de3277a85",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "4f4e474b5d8ec4c52cfcf5e26f3964147c020f45",
+          "datavalue": {
+            "value": "Country subdivisions by administrative level",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q1799794$5ECBB154-AFF6-4E32-9412-C65690077CCF",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "f2ab63371c05089a0d16c19ab932bc0f039b4da9",
+            "snaks": {
+              "P3452": [
+                {
+                  "snaktype": "value",
+                  "property": "P3452",
+                  "hash": "11507b2ab55beaaff83519743673e0e23288884d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 6966994,
+                      "id": "Q6966994"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P3452"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "9609c67579606ca9223f027029a4367bb15847ed",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 414916,
+              "id": "Q414916"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q1799794$5DCD5F44-3211-43B5-A77E-1F67154BE674",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "a976f99c6644427ddce562f4d0067fd0647870e0",
+            "snaks": {
+              "P3452": [
+                {
+                  "snaktype": "value",
+                  "property": "P3452",
+                  "hash": "73cfdc1698d7c203e7e2400539180d5154aebacb",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 414916,
+                      "id": "Q414916"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P3452"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "6ea6913947a84f1b2f4f3bfd40f8b77f42f034a3",
+          "datavalue": {
+            "value": "/g/1235q9wq",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q1799794$69ED64B3-28F3-4DCB-A739-E55F3344DB89",
+        "rank": "normal"
+      }
+    ]
+  }
+}

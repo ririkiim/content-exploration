@@ -1,0 +1,100 @@
+{
+  "type": "item",
+  "id": "Q129586945",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "fictional social position"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "social position only appearing in works of fiction"
+    }
+  },
+  "claims": {
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "375951eda24bb03909d933757fef55c6da8f0368",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 15831596,
+              "id": "Q15831596"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q129586945$1d67274b-4dfe-b3a5-5b0d-00c888f740db",
+        "rank": "normal"
+      }
+    ],
+    "P1074": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1074",
+          "hash": "dc1eed99de7936dbdc879b8297f9ed04b90371c3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1807498,
+              "id": "Q1807498"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q129586945$fdebb1f5-4154-2d98-92ec-7ec419f22fc0",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "37a2420b3b6439b82d560277dd852cd46f7e8e94",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 126770188,
+              "id": "Q126770188"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q129586945$4f81cac8-4a9c-13e2-b0d1-cf3d41a73da4",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "1f9d3c548f2621a7ab8a4d5d3077448474a44e99",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 21451536,
+              "id": "Q21451536"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q129586945$3292563d-48ce-cc8d-070d-e50d739027dd",
+        "rank": "normal"
+      }
+    ]
+  }
+}

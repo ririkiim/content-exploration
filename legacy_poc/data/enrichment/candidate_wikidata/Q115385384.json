@@ -1,0 +1,160 @@
+{
+  "type": "item",
+  "id": "Q115385384",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "astronomical body part"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "part of an astronomical object"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "29cf660cf053c76a88201787aac3c641df64a165",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 115385481,
+              "id": "Q115385481"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2241": [
+            {
+              "snaktype": "value",
+              "property": "P2241",
+              "hash": "cbae4cc270287a48939ecce7e697f4cc27b9dac5",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 118134102,
+                  "id": "Q118134102"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P12208": [
+            {
+              "snaktype": "value",
+              "property": "P12208",
+              "hash": "1a3a25bee28a11285848314c187daa941e3fabae",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 35145263,
+                  "id": "Q35145263"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2241",
+          "P12208"
+        ],
+        "id": "Q115385384$14110c22-4d4f-cbf4-556e-443c5b42ad8a",
+        "rank": "deprecated",
+        "references": [
+          {
+            "hash": "009f7b9fc9c2fe91097adb6a8943cf590e200267",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "478f2780097346cfeab21c3f38f2fbb9c51cab7e",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 31110555,
+                      "id": "Q31110555"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "61ab84285cfcf9abfb20ab9f0aa264f29d988126",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 13196193,
+              "id": "Q13196193"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q115385384$5fb1185a-4295-853f-4437-352e87484712",
+        "rank": "normal"
+      }
+    ],
+    "P361": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P361",
+          "hash": "661d0f1966eacce1746282a3e1d1098976c297d6",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6999,
+              "id": "Q6999"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q115385384$579f7a0e-4555-fdb0-468e-3a1700523223",
+        "rank": "normal"
+      }
+    ],
+    "P3859": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3859",
+          "hash": "1b77c8c16989b912ce7a9174ce7153a5e66d989b",
+          "datavalue": {
+            "value": "01000813",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q115385384$7213fcc0-4f5b-92d9-8c2c-e8dbef248370",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "item",
+  "id": "Q140439690",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "neurobiological difference"
+    }
+  },
+  "descriptions": {},
+  "claims": {
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "032aff2bf573c90283bb607af89287e20007b2e9",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1969448,
+              "id": "Q1969448"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q140439690$8782f4f1-4f4d-4e8e-b3f6-f8056f1fba38",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "febeef9ce840a1bd3b56d9a84f68fe069e473143",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3339235,
+              "id": "Q3339235"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q140439690$79068901-4c8e-b2f9-e7fa-8fc8d4dc17cb",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "9cc8b1fbeae7cfad2d820c222290c307ddb30f28",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3450985,
+              "id": "Q3450985"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q140439690$a72e4164-4d7b-ce1e-309e-cd4a29d046c0",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "2b35f94cd90306cd54f0eafafd8746a9b6c3ebbb",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 10862449,
+              "id": "Q10862449"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2210": [
+            {
+              "snaktype": "value",
+              "property": "P2210",
+              "hash": "40abcae4b4b3ff2eb3a667ddf8d8e8de82a99872",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2728012,
+                  "id": "Q2728012"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2210"
+        ],
+        "id": "Q140439690$2a4f297a-494f-3ba1-3aa7-79b503c54c1e",
+        "rank": "normal"
+      }
+    ]
+  }
+}

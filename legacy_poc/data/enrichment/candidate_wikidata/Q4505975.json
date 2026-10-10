@@ -1,0 +1,209 @@
+{
+  "type": "item",
+  "id": "Q4505975",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "digital comic"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "디지털 만화"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "comic released digitally"
+    }
+  },
+  "claims": {
+    "P1709": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1709",
+          "hash": "1684491cb2aeedccf3ff942dcfa61a1cd3e2f6d6",
+          "datavalue": {
+            "value": "http://comicmeta.org/vocab/DigitalComic",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q4505975$c42feb38-4ad3-c1da-e836-313c5b380e3d",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "13fed65f97f437b7d6858a698369a874a8a9966e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1004,
+              "id": "Q1004"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1552": [
+            {
+              "snaktype": "value",
+              "property": "P1552",
+              "hash": "e9e88a412206e0eb9e552b6cc8a6ee149ed0fe51",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 173285,
+                  "id": "Q173285"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1552"
+        ],
+        "id": "Q4505975$290bfc0f-450e-82be-bfa6-f543bd3b9015",
+        "rank": "normal"
+      }
+    ],
+    "P5905": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5905",
+          "hash": "8174cd242eef6462ea6297f3034f5234d697ff2d",
+          "datavalue": {
+            "value": "4015-56085",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q4505975$F2E30A5C-EE6B-400F-B7BB-C99657FD0AAB",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "6a199fc00de3e7718e24d6fb58904519751611b1",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 213369,
+              "id": "Q213369"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q4505975$3F470EA7-2BA5-4C20-B58C-A5EDFF6208C6",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "24d8cb21abbfcb6262b5173d755b5b95ef7e51a5",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "c32fc93a311985637207e778e339ea1a73a0c498",
+                  "datavalue": {
+                    "value": "https://en.wikipedia.org/w/index.php?title=Digital_comic&oldid=948674446",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "d3bb1c404bc08312603bc8f4df228eed6a417985",
+          "datavalue": {
+            "value": "/g/120jfdjh",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q4505975$B24407E5-4DA7-4449-B7FA-7F90B8889809",
+        "rank": "normal"
+      }
+    ],
+    "P9775": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9775",
+          "hash": "0be3f3d4dfe66e37d00187ce15242279767e0a53",
+          "datavalue": {
+            "value": "fumetto-digitale",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "23f433b98f7cfa2f4c617a8e6c9eee40bfffe34f",
+              "datavalue": {
+                "value": "Fumetto digitale",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q4505975$65b4bf9c-4232-875a-b93d-69a891b841a9",
+        "rank": "normal"
+      }
+    ]
+  }
+}

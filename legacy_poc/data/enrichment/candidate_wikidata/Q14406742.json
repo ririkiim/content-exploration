@@ -1,0 +1,410 @@
+{
+  "type": "item",
+  "id": "Q14406742",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "comic book series"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "만화 시리즈"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "group of published comic stories typically sharing the same title"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "13fed65f97f437b7d6858a698369a874a8a9966e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1004,
+              "id": "Q1004"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q14406742$684466de-4a93-87de-3c4a-83ec813b7923",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "672933c871723f17097d659c768ecab118600fc5",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 277759,
+              "id": "Q277759"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q14406742$F5B08F6E-8A13-4EB8-B652-302D9F666069",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "ddeeba968b83a7834149100bbc4612b0b5bb0088",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9102077,
+              "id": "Q9102077"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q14406742$2442AE99-B41F-4E35-A798-F3C0870F2B69",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "732ec1c90a6f0694c7db9a71bf09fe7f2b674172",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "9123b0de1cc9c3954366ba797d598e4e1ea4146f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 10000,
+                      "id": "Q10000"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1709": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1709",
+          "hash": "40c2a8c5e037dd55ecdeb0674fec3b337f41af4b",
+          "datavalue": {
+            "value": "https://schema.org/ComicSeries",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q14406742$2E8AA8C7-A03B-4642-89D5-E3098A5A0B3B",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1709",
+          "hash": "aefb2b52a52675e559471d25fa6c419c89ad28bb",
+          "datavalue": {
+            "value": "http://comicmeta.org/cbo/Series",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q14406742$fa876d58-4eb9-354b-0094-11ede47ecb18",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "ee1408a81a6364d846f41a1c298d21c6c581f5b2",
+          "datavalue": {
+            "value": "Comic strips",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q14406742$6547113F-E06A-4A5E-9316-135919AA684F",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "1c85bbd5b532570935388bb93e2dbd92fbd0c3aa",
+            "snaks": {
+              "P3452": [
+                {
+                  "snaktype": "value",
+                  "property": "P3452",
+                  "hash": "476a383562fad8f1dea0fa531bd684fc69963502",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 9102077,
+                      "id": "Q9102077"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P3452"
+            ]
+          }
+        ]
+      }
+    ],
+    "P461": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P461",
+          "hash": "afd13ee74c08da4657311c091442841bdfe80edc",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 933530,
+              "id": "Q933530"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q14406742$8E13733F-E24D-4AEA-A288-356D8DD7CDF5",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "bdf04f18b151d97dcb4977fee07bddee7b3e57db",
+            "snaks": {
+              "P3452": [
+                {
+                  "snaktype": "value",
+                  "property": "P3452",
+                  "hash": "67bfc9d9acfeae5a08309064da5fe58f1e851d80",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 933530,
+                      "id": "Q933530"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P3452"
+            ]
+          }
+        ]
+      }
+    ],
+    "P4073": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4073",
+          "hash": "e03d30a8eecc5b6ff10dceddbdcabc25fc34f26e",
+          "datavalue": {
+            "value": "comics",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1860,
+                  "id": "Q1860"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "id": "Q14406742$729EC645-70D9-477F-A6FB-C01D5101D2BB",
+        "rank": "normal"
+      }
+    ],
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "e0c04027847984510eff349a0d76b5e7c0ac7d0e",
+          "datavalue": {
+            "value": "ComicBookSeries",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q14406742$0F6D5D7F-E6A3-4B3F-A8FA-5D8677B990A3",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "a463d2049b68e8ff04bf02cbbe8e614ff1770e38",
+          "datavalue": {
+            "value": "/m/02hqb69",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q14406742$DC88AC4E-C074-4EE4-ACB9-79C9EB8C1E4D",
+        "rank": "normal"
+      }
+    ],
+    "P2670": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2670",
+          "hash": "0ff8f03864bc47ecfa19e82ef3060b8f55965f08",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2831984,
+              "id": "Q2831984"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q14406742$5d74b455-41fb-da7c-d20a-dcd447a119c5",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2670",
+          "hash": "5f7a2b9333b254502a51ce41a3c74b108b941435",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1760610,
+              "id": "Q1760610"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q14406742$ac0df1b6-4108-22a4-5a7f-f8fbe62784a2",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "a610527590042c557199dc4e9ee9bafb7733598a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 140354053,
+              "id": "Q140354053"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q14406742$637f94ad-4f7f-c838-5c73-a060db754920",
+        "rank": "normal"
+      }
+    ]
+  }
+}

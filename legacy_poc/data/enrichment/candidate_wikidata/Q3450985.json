@@ -1,0 +1,944 @@
+{
+  "type": "item",
+  "id": "Q3450985",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "neurodevelopmental disorder"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "atypical development of the CNS, leading to forms of mental development with difficulties in contact with the norm declared in society"
+    }
+  },
+  "claims": {
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "32065273df9c15fd90b1ddfef8a6f31d382c8fe7",
+          "datavalue": {
+            "value": "Neurodevelopmental disorders",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q3450985$caadde85-46be-3192-6468-f13a98f8013a",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "ec83dc0c2f71d4f29bfda8299c126c7c6961d301",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 19581764,
+              "id": "Q19581764"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3450985$F71EAC65-7C70-42C1-9221-2210B0CC1786",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 177837,
+                      "id": "Q177837"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "e7300b1d9e715d3c564a71b705e762dd68706ce1",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6817451,
+              "id": "Q6817451"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3450985$916b4bcf-4189-2a7e-46a8-d16570290dd6",
+        "rank": "normal"
+      }
+    ],
+    "P2892": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2892",
+          "hash": "c34456a399eae3233ff2053b2c5a2638e7ee202c",
+          "datavalue": {
+            "value": "C1535926",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3450985$7f8b1957-4861-a894-428e-7137d3ef57d2",
+        "rank": "normal"
+      }
+    ],
+    "P486": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P486",
+          "hash": "66d3d63e22bbed8e50ebb6e7bad0a0d899895799",
+          "datavalue": {
+            "value": "D065886",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "39e929bfa7b33a3708ffb7ffba7c40e3bfee4fcd",
+              "datavalue": {
+                "value": "Neurodevelopmental Disorders",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q3450985$4021ec1a-45c4-ee97-b76f-fd8eee82ed3c",
+        "rank": "normal"
+      }
+    ],
+    "P672": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P672",
+          "hash": "899d17e6f761c727ec2998c010e8dd74d923822d",
+          "datavalue": {
+            "value": "F03.625",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4900": [
+            {
+              "snaktype": "value",
+              "property": "P4900",
+              "hash": "faa0d04ba9a65ffafa951500c24b7641ff159b9b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 12135,
+                  "id": "Q12135"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4900"
+        ],
+        "id": "Q3450985$281132e3-43b7-43a8-0137-305c1849a187",
+        "rank": "normal"
+      }
+    ],
+    "P6366": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6366",
+          "hash": "b2d89f3d5916a4242b443cd86fc0adefd73f701b",
+          "datavalue": {
+            "value": "2779388368",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3450985$82877397-4B84-4B99-898F-C93192704CC0",
+        "rank": "normal"
+      }
+    ],
+    "P7807": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7807",
+          "hash": "6fb098b09803ce42737b68b91eda057c4abb81ec",
+          "datavalue": {
+            "value": "1516623224",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3450985$8D423575-570C-47B9-8B5C-A1D4E5961EFC",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "ebb0338deffd45f2454a06d271131c0f544b826e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3087172,
+              "id": "Q3087172"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3450985$8604e543-4186-4d12-6f27-a2f280f14d5b",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "c1bd37109476a422b2de961cf392e3bb2b6fc4a8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3339235,
+              "id": "Q3339235"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3450985$eec2e006-4e62-195a-6807-ea350f03936b",
+        "rank": "normal"
+      }
+    ],
+    "P508": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P508",
+          "hash": "7112689bc44cff9da8f9f37b4ab5765636b7adda",
+          "datavalue": {
+            "value": "70707",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3450985$7CC4EDC3-F075-4930-B2CF-60CAD5FC67EE",
+        "rank": "normal"
+      }
+    ],
+    "P10283": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10283",
+          "hash": "00d1ea4bb5d38c5897bac2adc80f24950dacce47",
+          "datavalue": {
+            "value": "C2779388368",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3450985$F3602EA7-1FFD-43DC-8A33-6C1225D8565D",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "e0b27d817c9a9b3247df341000fc490bafcba862",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4a4f26a5361b5707266e48e425bf2be2f99fd2ab",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 107507571,
+                      "id": "Q107507571"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "435834d08182bb9f3dbe974ba9840af0f12899cc",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-26T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a4a4bf53f22268815c51ec10fed608da703c9c7f",
+                  "datavalue": {
+                    "value": "https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P1065": [
+                {
+                  "snaktype": "value",
+                  "property": "P1065",
+                  "hash": "3134281f51e2490f88272d53c56ee95d9cc24e2c",
+                  "datavalue": {
+                    "value": "https://web.archive.org/web/20220125070108/https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P2960": [
+                {
+                  "snaktype": "value",
+                  "property": "P2960",
+                  "hash": "f7ff3a0de7f9571ecb5e0740cba4122c6703e1ec",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-25T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P854",
+              "P1065",
+              "P2960"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1748": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1748",
+          "hash": "5bdf4ae4bcff730b083f863a4bcd2df94d621830",
+          "datavalue": {
+            "value": "C89338",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3450985$E28E0443-C748-415F-BD6C-319622D4900F",
+        "rank": "normal"
+      }
+    ],
+    "P10565": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10565",
+          "hash": "5cedcdb8f6953906abe3eab5de1ed1458d11e8fd",
+          "datavalue": {
+            "value": "25624",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3450985$BDA6EE39-782E-48FD-BAE6-6A61E28CEB0C",
+        "rank": "normal"
+      }
+    ],
+    "P10376": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10376",
+          "hash": "4090a4e98d3f892dd5f91162a15fc86b54c25b70",
+          "datavalue": {
+            "value": "neuroscience/neurodevelopmental-disorder",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3450985$69458534-4562-0c83-6c59-a0ff30146c42",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10376",
+          "hash": "0617fd47d843191c3f8fead733f2e0d15778026b",
+          "datavalue": {
+            "value": "psychology/neurodevelopmental-disorder",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3450985$7fa785dc-40dd-36df-4edd-fe64741cc1b2",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10376",
+          "hash": "13e08365474a48f349b1b6fdc4a9acbdcbf564d3",
+          "datavalue": {
+            "value": "social-sciences/neurodevelopmental-disorder",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3450985$a39d8cd7-477e-a83d-e81c-df53bd32a2ac",
+        "rank": "normal"
+      }
+    ],
+    "P11956": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11956",
+          "hash": "392c39002d29db9e0fc05dbd4048d5f2e67f1956",
+          "datavalue": {
+            "value": "0010642",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3450985$79C3853F-04C1-4CBA-8892-76C31B125DF5",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "8013126973c3a7a0f4e46e2dbc128a482085acfd",
+            "snaks": {
+              "P887": [
+                {
+                  "snaktype": "value",
+                  "property": "P887",
+                  "hash": "c2d46d6fc3011e7b267c17ffeb669605f9881877",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 121745409,
+                      "id": "Q121745409"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P887"
+            ]
+          }
+        ]
+      }
+    ],
+    "P11143": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11143",
+          "hash": "9bbf293e0d3f0eec9e3df0f8129ad05ee5412447",
+          "datavalue": {
+            "value": "Neurodevelopmental disorder",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3450985$1D616D9A-38DD-4545-8BAD-5A2AAAAEBF09",
+        "rank": "normal"
+      }
+    ],
+    "P138": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P138",
+          "hash": "095369becd91392fbc97d0babb970fb81f71039f",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 12828525,
+              "id": "Q12828525"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3450985$e0305692-4fc3-e3f8-5b73-0370bbb98831",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P138",
+          "hash": "7ec1acbc9902dd9caf011846a2a4b71813523af7",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3087172,
+              "id": "Q3087172"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3450985$25b80ec3-4df6-8e95-67f2-1f048b3ee4ab",
+        "rank": "normal"
+      }
+    ],
+    "P1995": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1995",
+          "hash": "427c96359436ce8489fd1b5301f2d90ac87d4ed0",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3872,
+              "id": "Q3872"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3450985$94c90f54-41ef-cdf7-c2a8-73e2b30e9d63",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1995",
+          "hash": "7c7f44be296a78b4d0b5220c50863ac2a6a62e6e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 83042,
+              "id": "Q83042"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3450985$29190a50-4039-3c14-7e06-a15d00f864a9",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1995",
+          "hash": "b2a157121c1c2bec7c29886a3638ebcf23803343",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1328949,
+              "id": "Q1328949"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3450985$85a08501-4734-4673-8e75-09f49615759b",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1995",
+          "hash": "9a6b4de154c28213fd80ceb9e2eb481a62913e5d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2614722,
+              "id": "Q2614722"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3450985$343594d4-405b-dbf0-c84e-581a8f66c457",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1995",
+          "hash": "fd1667a0818b08cb745ba6229c16ffa8208f9ba2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2699874,
+              "id": "Q2699874"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q3450985$a04d3f7d-463f-92be-6bd8-845715d58f21",
+        "rank": "normal"
+      }
+    ],
+    "P7329": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7329",
+          "hash": "5c3e3ef89888aa149ef09773a373813e0dc3d515",
+          "datavalue": {
+            "value": "6A0",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3450985$6b0960bb-4573-85f5-6d34-8a9386509aed",
+        "rank": "normal"
+      }
+    ],
+    "P4229": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4229",
+          "hash": "cc155d909c5221c23d504b50a9a75eff402d5165",
+          "datavalue": {
+            "value": "F80-F89",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3450985$66e49548-4d67-5e18-a62d-07bbd612fedf",
+        "rank": "normal"
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "9cc99df070282065d8a991b218edc77809a46add",
+          "datavalue": {
+            "value": "ph1281102",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "3fb1d1eb679f54c23e185fbfec61fb801148e04b",
+              "datavalue": {
+                "value": "neurovývojové poruchy",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q3450985$900F511A-8964-492F-9724-BDD629883AAD",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "5db85eaed00e9aa991f5f6b146d28242ded1e4c5",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "80047f9d5b0d2daf06989e71bd5f4ba15b215fd6",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 13550863,
+                      "id": "Q13550863"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P691": [
+                {
+                  "snaktype": "value",
+                  "property": "P691",
+                  "hash": "9cc99df070282065d8a991b218edc77809a46add",
+                  "datavalue": {
+                    "value": "ph1281102",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "3c6c0e20106752d03e85e45ae5c603436635337c",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2025-12-03T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P691",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P13204": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13204",
+          "hash": "9a7bba8d80e401a854ab37427c748deb26d6a5b8",
+          "datavalue": {
+            "value": "wr4y2vgb",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3450985$1F1A500A-D08E-44F2-8B8A-561BD3B3922A",
+        "rank": "normal"
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "d5e98efe758b093ab76227564dffb93a05d7c9c8",
+          "datavalue": {
+            "value": "0452268-neurovyvojove-poruchy",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3450985$B8E755B1-5815-4C92-A79A-6B50A39B9B5D",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "e3c690abbd69961be34fa02aff2d5c5fc8887c2a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 140439690,
+              "id": "Q140439690"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1013": [
+            {
+              "snaktype": "value",
+              "property": "P1013",
+              "hash": "bb8dbca081c173c5f5fcf39ad7ca1b1d80b899da",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 3317827,
+                  "id": "Q3317827"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1013"
+        ],
+        "id": "Q3450985$7da84012-4772-ed0e-637c-f3d597dcfea4",
+        "rank": "normal"
+      }
+    ],
+    "P14541": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14541",
+          "hash": "d7a6ef7542f4535d2c6456735298d8c2e3ed0dd0",
+          "datavalue": {
+            "value": "3KyXCX",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "66e937d90e2c29988eda90b8069d2120b25ba9e8",
+              "datavalue": {
+                "value": "神经发育障碍",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P5017": [
+            {
+              "snaktype": "value",
+              "property": "P5017",
+              "hash": "4102f68ef6a3e38f38a98753d6cc1bfbff5c97c5",
+              "datavalue": {
+                "value": {
+                  "time": "+2022-01-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P5017"
+        ],
+        "id": "Q3450985$9FE1706F-E84D-4738-9E7C-CD46B56CE62A",
+        "rank": "normal"
+      }
+    ],
+    "P5806": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5806",
+          "hash": "8f4d9cf7e0b23eb5a621bf57bcd4b3ad22c22c3a",
+          "datavalue": {
+            "value": "700364009",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q3450985$e892ade2-4bf5-9c59-bd5a-42f877b6f4a7",
+        "rank": "normal"
+      }
+    ]
+  }
+}

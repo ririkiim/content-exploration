@@ -1,0 +1,234 @@
+{
+  "type": "item",
+  "id": "Q108637623",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "integrating resource"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "a resource added to or changed over time by means of updates incorporated into the whole without remaining discrete"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "24d216b237d695ca91fcde05c0f0b484b53ffc68",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 732577,
+              "id": "Q732577"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q108637623$ac4005a8-48a5-ca69-3376-afefa754dabc",
+        "rank": "normal"
+      }
+    ],
+    "P9374": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9374",
+          "hash": "e4878d8ed08771c7c6fb988c17c396572e6b9294",
+          "datavalue": {
+            "value": "i.aspx#integratingresource",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q108637623$9a1b3323-4072-12dd-1475-eb66bb45d4f5",
+        "rank": "normal"
+      }
+    ],
+    "P9236": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9236",
+          "hash": "c3cea9228c39427a08bcbe4ab23de858ef4c0d3a",
+          "datavalue": {
+            "value": "RDATerms/1133",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q108637623$644ca5c0-4005-b232-0fd2-07453128c7be",
+        "rank": "normal"
+      }
+    ],
+    "P244": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P244",
+          "hash": "c9380d924fe1eedc5aa2d4179fb976b59f52d4da",
+          "datavalue": {
+            "value": "sh2003006737",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "bb9625e7d1c4818f03ade5a7fb615508164b7f37",
+              "datavalue": {
+                "value": "Integrating resources (Publications)",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q108637623$b53b6606-4e6b-5f0e-a3d4-a596dcdd892a",
+        "rank": "normal"
+      }
+    ],
+    "P2163": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2163",
+          "hash": "5e6e0eedf0208a3f4c5909bd5e870d4123ed2930",
+          "datavalue": {
+            "value": "975669",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q108637623$356ea614-49eb-95b8-bf2c-97eb13f27233",
+        "rank": "normal"
+      }
+    ],
+    "P8189": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8189",
+          "hash": "baf901fc6a9b31b366ac49e5eddf2b6777590f7b",
+          "datavalue": {
+            "value": "987007559277505171",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "450d35109af2add218fe9507388442d525fe6a05",
+              "datavalue": {
+                "value": {
+                  "text": "Integrating resources (Publications)",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "d8c1029960f126fdadcab74c4fcc5b275ade25a7",
+              "datavalue": {
+                "value": {
+                  "text": "משאבים משתלבים (פרסומים)",
+                  "language": "he"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457"
+        ],
+        "id": "Q108637623$4783540B-49E3-46D3-8960-233ACCFEAD5B",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "ecb7a39cf436eb1fba419853af168ef9f2ba1dab",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a03bb6ffe37be9554492f4eea5bd18afcb57df19",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 106509962,
+                      "id": "Q106509962"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "46c704f54ef408a73258b7669a31fd664135755b",
+          "datavalue": {
+            "value": "concept/610b1e31-ccf9-4782-aa1d-3080e133cc17",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q108637623$F80FB562-EACE-4565-8DD1-307E258BC89A",
+        "rank": "normal"
+      }
+    ],
+    "P13204": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13204",
+          "hash": "4bb1cf5b99a07245eaac463c9baad56f8c9a9157",
+          "datavalue": {
+            "value": "dgqgy5qt",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q108637623$5C95EB2F-189D-4CD5-9CFB-084298A8034C",
+        "rank": "normal"
+      }
+    ]
+  }
+}

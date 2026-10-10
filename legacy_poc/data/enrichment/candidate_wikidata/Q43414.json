@@ -1,0 +1,1755 @@
+{
+  "type": "item",
+  "id": "Q43414",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "성적 학대"
+    },
+    "en": {
+      "language": "en",
+      "value": "sexual abuse"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "abusive sexual behavior by one person upon another"
+    }
+  },
+  "claims": {
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "eebceaee1357531d8d1d661d0572931e38a794b3",
+          "datavalue": {
+            "value": "Sexual abuse",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "q43414$FAF948C3-7D9F-45CD-B2EA-7D8DE8CCDC6C",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48183,
+                      "id": "Q48183"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "128b337371dde728815c6d128f5768795468002a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6613331,
+              "id": "Q6613331"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q43414$0705332B-5CA1-43CA-B651-E8A10F170809",
+        "rank": "normal"
+      }
+    ],
+    "P349": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P349",
+          "hash": "8aa36e467726a2a0537ac748ac1bea4b02508087",
+          "datavalue": {
+            "value": "01086083",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$EE839B54-D873-4A3C-A46C-0E239854EA08",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "6b1cb6bd04e59c42fae7e14395562169eaadb4b2",
+          "datavalue": {
+            "value": "/m/012ph9",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$AD5AB707-A5EE-456B-B2EC-68A6916E4E6E",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P227": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P227",
+          "hash": "4bafe806caa4637a0757dff21ca7cdbdfcd73ead",
+          "datavalue": {
+            "value": "4126865-9",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$4F8CC0A8-550E-4ABB-945E-7E820C263CC9",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 48183,
+                      "id": "Q48183"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1051": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1051",
+          "hash": "7dcbb953f9c81ace4273515b56f742c987baf5f3",
+          "datavalue": {
+            "value": "8978",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$E98B9007-C208-43FD-B86F-A04765C3429E",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "f640302e28bfc1fffc01542e29ae249b7e3e3845",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5801919,
+              "id": "Q5801919"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q43414$e30bcdf6-409c-1db3-3b64-78af7dbb6756",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "2765b6d3237f6401d696bb7dd1ceca0312de7b16",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 600571,
+              "id": "Q600571"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q43414$6af57b97-4375-4a3f-47c7-a069707ef844",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "9a2dc7ed2b8b5e84f38466839718f6463e9f7a67",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2352921,
+              "id": "Q2352921"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q43414$72e62273-4d95-9fca-e5d0-b14773b5c343",
+        "rank": "normal"
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "58a03062b49e0c840436454b2998fe4a95d5d2db",
+          "datavalue": {
+            "value": "Sexual-Abuse",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$1B0F3E26-0FA6-47A7-B718-3DF6FE5BCDB1",
+        "rank": "normal"
+      }
+    ],
+    "P3916": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3916",
+          "hash": "7413b2cd8b375512cb94a4d40b2ae757d2471e7e",
+          "datavalue": {
+            "value": "concept1035",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$AB45B721-4895-4DC1-83EE-00FF464F9427",
+        "rank": "normal"
+      }
+    ],
+    "P3471": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3471",
+          "hash": "24c9b38ce1c5fdd36a3410b4a9665d8826812e25",
+          "datavalue": {
+            "value": "8977",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$A3105790-D577-437B-9E37-B2D2301450B7",
+        "rank": "normal"
+      }
+    ],
+    "P1417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1417",
+          "hash": "7f40300e1bcb24bd19eda4ef8411dc63bd224375",
+          "datavalue": {
+            "value": "topic/sexual-abuse",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "3f132cdff893347016f97b558f03bc6344c4784e",
+              "datavalue": {
+                "value": "sexual abuse",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P2093": [
+            {
+              "snaktype": "value",
+              "property": "P2093",
+              "hash": "8bbe8fa4df2f68dee7ccc75fa7125386ecee6926",
+              "datavalue": {
+                "value": "Brian Duignan",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P2093"
+        ],
+        "id": "Q43414$C93CB21A-2A4F-4A1F-9192-A5DB0AFAE986",
+        "rank": "normal"
+      }
+    ],
+    "P3509": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3509",
+          "hash": "3df69220063e7eaecdc259b11f23f31097990001",
+          "datavalue": {
+            "value": "sexuella-overgrepp",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$0C393596-108E-4726-BEC3-9DB52ACFE301",
+        "rank": "normal"
+      }
+    ],
+    "P18": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P18",
+          "hash": "9b871107e2f61dc02637e579d0dd4ce1108367e0",
+          "datavalue": {
+            "value": "Martin Van Maele - La Grande Danse macabre des vifs - 11.jpg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q43414$8f846e3d-40a4-8a39-f81e-81f64638bcdd",
+        "rank": "normal"
+      }
+    ],
+    "P1296": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1296",
+          "hash": "feee6c54cc4bce4e89d4ac12e696ac27748f3674",
+          "datavalue": {
+            "value": "0219363",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$F7820F53-8C24-4CD4-B8FE-112A3C0C01AA",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1296",
+          "hash": "0759d23a37e1e608883666c63d1415a312edaed8",
+          "datavalue": {
+            "value": "0269180",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$A597E1B6-7809-46B8-97B0-5ABF14212EF3",
+        "rank": "normal"
+      }
+    ],
+    "P6366": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6366",
+          "hash": "33351afc615dec0c97c4b7f6cc62cc9fef9fc212",
+          "datavalue": {
+            "value": "2908570008",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$06A7E5BB-178F-4691-8C4B-616C54EA0078",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6366",
+          "hash": "fb16380ef3883f2b7dd890430797571bb29d6b2b",
+          "datavalue": {
+            "value": "2910225196",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$6F6D05A4-536D-46AA-A418-47D2E9ED7C54",
+        "rank": "normal"
+      }
+    ],
+    "P5437": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5437",
+          "hash": "397ac2ae258b086f31d4bce6f1f6bc23556bbff0",
+          "datavalue": {
+            "value": "4727",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P459": [
+            {
+              "snaktype": "value",
+              "property": "P459",
+              "hash": "3084e3b8a8327068d29db87271ae41c0e0c567fc",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1266546,
+                  "id": "Q1266546"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P459"
+        ],
+        "id": "Q43414$A8A6C0A9-3536-40A4-9DF4-EF6DE8C83A4F",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "29d9261d3b24be2fb72a4e345a3e45cdf28eeed5",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4b222ea31b6fcd95c95734ce289e8c0b903041e9",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1370467,
+                      "id": "Q1370467"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "906490cb26d50131e0290371d0ce82d503c6c5e9",
+                  "datavalue": {
+                    "value": "https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/eurovoc",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2347": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2347",
+          "hash": "1f5afec89412f5271039f2e71a1554e922fb7894",
+          "datavalue": {
+            "value": "5386",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P14457": [
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "e0d577d5ab936171c9089d3435d5e345236b2626",
+              "datavalue": {
+                "value": {
+                  "text": "sexual abuse",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "18103f3626d14c27eb2fd97e89ce0d87d08d38a6",
+              "datavalue": {
+                "value": {
+                  "text": "seksuaalinen hyväksikäyttö",
+                  "language": "fi"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "838eb2432c7c8fb792fc767ee0d25450bae946cd",
+              "datavalue": {
+                "value": {
+                  "text": "sexuellt utnyttjande",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14457",
+              "hash": "571e86c5997cc63013d888ac301d1eef0ab682cd",
+              "datavalue": {
+                "value": {
+                  "text": "seksuála ávkkástallan",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P14458": [
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "051cb2401df141faf59b676c4c2211492bdafa39",
+              "datavalue": {
+                "value": {
+                  "text": "seksuálaveahkaváldi",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "81fa4e96abcbc7be36d002b3435c8a11105a8f12",
+              "datavalue": {
+                "value": {
+                  "text": "sexuella övergrepp",
+                  "language": "sv"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P14458",
+              "hash": "76c339de3388fdf112fe6f27c9eb5964512a0ed5",
+              "datavalue": {
+                "value": {
+                  "text": "seksuála veahkaváldi",
+                  "language": "se"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14457",
+          "P14458"
+        ],
+        "id": "Q43414$BE4DAD5C-E171-4A04-ACA2-5F87CC9D8E54",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "f9bf1a1f034ddd51bd9928ac535e0f57d748e2cf",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "7133f11674741f52cadaae6029068fad9cbb52e3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 89345680,
+                      "id": "Q89345680"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8408": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8408",
+          "hash": "d87da484bdad48499d58d0afeb2ae8dbf43ea3e1",
+          "datavalue": {
+            "value": "SexualAbuse",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$D3759328-0E02-4129-8032-A5E9485E6D96",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64139102,
+                      "id": "Q64139102"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-07-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P7807": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7807",
+          "hash": "7cdfb9d2197b8e6bf240e14f61b559b5f2792580",
+          "datavalue": {
+            "value": "1192102653",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$3c996474-4b6f-7df2-8e8e-3bc3003c0467",
+        "rank": "normal"
+      }
+    ],
+    "P7329": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7329",
+          "hash": "0e84b6bd658dd3d9f69755d3a1ce5397565eeff3",
+          "datavalue": {
+            "value": "PJ21",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "233cbbeb4e4b1ba43dbcf7a4ce1e9bfe7f9b609d",
+              "datavalue": {
+                "value": "Sexual maltreatment",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q43414$ab9823f6-3cba-48e1-90e8-1e05570eab0c",
+        "rank": "normal"
+      }
+    ],
+    "P1382": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1382",
+          "hash": "eaa38044f9487b1e8b2e147b22d79a1be9b4cc28",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 673281,
+              "id": "Q673281"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q43414$6bf4f423-4a83-ee49-2080-2363d44b2f2c",
+        "rank": "normal"
+      }
+    ],
+    "P3553": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3553",
+          "hash": "071c753909bd76fd54c72b884657ab903bdc6924",
+          "datavalue": {
+            "value": "19593658",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "aaabb2c6dca2e1c73418f618e115f9fe008b1be6",
+              "datavalue": {
+                "value": "性虐待",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q43414$A18EB1C8-4203-4BCF-A628-81F1315AE69F",
+        "rank": "normal"
+      }
+    ],
+    "P8785": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8785",
+          "hash": "d9835d0f226c95d944c168a6938e5340af4a0171",
+          "datavalue": {
+            "value": "7220",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "3f132cdff893347016f97b558f03bc6344c4784e",
+              "datavalue": {
+                "value": "sexual abuse",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P4970": [
+            {
+              "snaktype": "value",
+              "property": "P4970",
+              "hash": "8f5c8787e7d4c5ac724339b24166bb3b434bc807",
+              "datavalue": {
+                "value": "sexual assault",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P4970"
+        ],
+        "id": "Q43414$e7300656-413c-37ca-6a3d-2c351e4ccad4",
+        "rank": "normal"
+      }
+    ],
+    "P973": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P973",
+          "hash": "b6eacd784ea4725f8da830970aa6859466f1ff62",
+          "datavalue": {
+            "value": "https://www.lanacion.com.ar/tema/abuso-sexual-tid66005/",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "ffe70325d10cfc55f0dca807ed80ca0b5b97c472",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1321,
+                  "id": "Q1321"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "id": "Q43414$0f6e01e2-4867-d68a-4606-816ad17e6980",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P973",
+          "hash": "162052ab8e6a3598d59bdffa898881f773615823",
+          "datavalue": {
+            "value": "https://www.queerty.com/tag/sexual-abuse/",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q43414$3FFFE68B-4F5F-46FF-BDCD-F49A881D67B1",
+        "rank": "normal"
+      }
+    ],
+    "P6293": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6293",
+          "hash": "3f77cfe2acdf810f9fc7be742b4bc426c2cd5031",
+          "datavalue": {
+            "value": "Y98764",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$90152e1b-4b33-d004-ea81-3109b07e35d7",
+        "rank": "normal"
+      }
+    ],
+    "P8309": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8309",
+          "hash": "2ffd2b040c0c631988aaa435bc1a8cb199efd372",
+          "datavalue": {
+            "value": "18-119951",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$43164c81-4780-8f48-e504-df08194d4785",
+        "rank": "normal"
+      }
+    ],
+    "P5082": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5082",
+          "hash": "e43e3ea4ad2b37c042be18db5efcf37a6555089e",
+          "datavalue": {
+            "value": "seksuelle_overgrep",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$b5dbecfe-409c-e0cf-b919-968822e9fa0c",
+        "rank": "normal"
+      }
+    ],
+    "P7860": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7860",
+          "hash": "6c3a59640e9274930ec66ebfd6f59b5a5207ba60",
+          "datavalue": {
+            "value": "abuso-sexual",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$AAFF45E7-E48C-4B80-9E9B-4D2A07F11E2C",
+        "rank": "normal"
+      }
+    ],
+    "P10283": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P10283",
+          "hash": "3db2e16040bedfe6c1e32c46c3ea6e6a68541219",
+          "datavalue": {
+            "value": "C2992354236",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$8296A2D8-F9D3-4AA8-A566-FF8DC311594C",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c13ba4d7902ead2693f79396bc25bd35d4d14030",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "4a4f26a5361b5707266e48e425bf2be2f99fd2ab",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 107507571,
+                      "id": "Q107507571"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "435834d08182bb9f3dbe974ba9840af0f12899cc",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-26T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "a4a4bf53f22268815c51ec10fed608da703c9c7f",
+                  "datavalue": {
+                    "value": "https://docs.openalex.org/download-snapshot/snapshot-data-format",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813",
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P8419": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8419",
+          "hash": "c7bd3ed98f7168b4c04edec4086968eb2d516f73",
+          "datavalue": {
+            "value": "Sexual Abuse",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P3831": [
+            {
+              "snaktype": "value",
+              "property": "P3831",
+              "hash": "e5fb577ebcb6603446a4f3bbe92daa0fce7843f8",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 107316855,
+                  "id": "Q107316855"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P1552": [
+            {
+              "snaktype": "value",
+              "property": "P1552",
+              "hash": "2676d76a32e544ce99d8cfe832a8ec77039a8f2e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 105265074,
+                  "id": "Q105265074"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P3831",
+          "P1552"
+        ],
+        "id": "Q43414$791C84D6-F738-4E57-A4DA-B06C7DFEDA32",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "72417b6052105ca0af51cc15484968453f466173",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 190845,
+              "id": "Q190845"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q43414$7e272f77-4fb0-5add-2aff-42b63008ff2d",
+        "rank": "normal"
+      }
+    ],
+    "P691": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P691",
+          "hash": "34536bc2adf7b6bb8ee1dd7de7ac6a3ba2c647f1",
+          "datavalue": {
+            "value": "ph115773",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "757986cf9e0cc5d89624e5ac4d21c824a8d14755",
+              "datavalue": {
+                "value": "sexuální zneužívání",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "id": "Q43414$A269C510-89B5-4A69-9221-75356DBAC507",
+        "rank": "normal"
+      }
+    ],
+    "P4233": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4233",
+          "hash": "12724ee7d89c0914540d728f20c4b92b663b534e",
+          "datavalue": {
+            "value": "sexual-abuse",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$283d9a54-4578-a506-da61-0e3dcbdfda20",
+        "rank": "normal"
+      }
+    ],
+    "P12086": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12086",
+          "hash": "a38af5383e0d835f848d5d8c5482f9950cad9b45",
+          "datavalue": {
+            "value": "Seksueel_misbruik",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P9675": [
+            {
+              "snaktype": "value",
+              "property": "P9675",
+              "hash": "d3a652b97eec867426c682bf6db0d620d8d15058",
+              "datavalue": {
+                "value": "141901",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P9675"
+        ],
+        "id": "Q43414$056159C3-EABF-4174-B2EE-B690EB379AD5",
+        "rank": "normal"
+      }
+    ],
+    "P12385": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12385",
+          "hash": "935e1d25e318e5ac03dd412c0d5a1b16184d0294",
+          "datavalue": {
+            "value": "abusos-deshonestos",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$2bf8950d-8c70-4809-ac51-992028f18da9",
+        "rank": "normal"
+      }
+    ],
+    "P5008": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5008",
+          "hash": "ad35d66ee378fb3bd2dd9b6a126db5b599220eec",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 60687720,
+              "id": "Q60687720"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q43414$1F65847D-5889-45A7-8445-8B224F1B057D",
+        "rank": "normal"
+      }
+    ],
+    "P12596": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P12596",
+          "hash": "7276faa0dbe518ee5f0da891d42d343805aed49b",
+          "datavalue": {
+            "value": "73083",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$47F28C63-A2BA-4477-8FE3-E29DEE8E0DB7",
+        "rank": "normal"
+      }
+    ],
+    "P13300": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13300",
+          "hash": "8a811871dbde8d46a37cb3320a8d5ab415af314b",
+          "datavalue": {
+            "value": "sexual-abuse",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$02c15a5a-43fa-b0b0-8f26-f27ea25cb489",
+        "rank": "normal"
+      }
+    ],
+    "P13591": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13591",
+          "hash": "0f415adfc2686a42898f91a0aa383da2a0984544",
+          "datavalue": {
+            "value": "concept/557eec5e-425c-4852-8149-9443f2c8a5a8",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$13479BD8-BF24-4EE1-89BC-A1F20E3CF569",
+        "rank": "normal"
+      }
+    ],
+    "P8168": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8168",
+          "hash": "d8243f04d0f5fb1cbc4eeecb93884595e5ca6766",
+          "datavalue": {
+            "value": "Q1351901",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$F7F36DF7-C134-4D81-864D-7210F3C6617B",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c644c16917c35edd95055794b93e87d6bb65b2ea",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "e4afc4ad60f2160201385d29d076e0794f815f1e",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 90405608,
+                      "id": "Q90405608"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "123467342c9061e7ec66c65cb13b958feeb5d827",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2025-07-16T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3222": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3222",
+          "hash": "441fe2866dcf10a4a52de53cdedcef21e795a4ae",
+          "datavalue": {
+            "value": "sexuellt-övergrepp",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$48C355E5-F681-4A88-B0B3-0B76C284A9FF",
+        "rank": "normal"
+      }
+    ],
+    "P13967": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13967",
+          "hash": "30ebceb1b9e1902224004c2514335e9ab724192d",
+          "datavalue": {
+            "value": "sexual-abuse",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$94B08768-D376-4E13-B54B-84F363368AF4",
+        "rank": "normal"
+      }
+    ],
+    "P14003": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P14003",
+          "hash": "9b97fd63c5eb53e315f4fafb0f943897e15899ee",
+          "datavalue": {
+            "value": "sexual-abuse",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$7A46D46C-F1A6-4444-A555-4DC185EB118B",
+        "rank": "normal"
+      }
+    ],
+    "P11924": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P11924",
+          "hash": "9fdcf0289a1ad9ddfb58f3b39a4877eb72e893d4",
+          "datavalue": {
+            "value": "sexual-abuse",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$89A2155A-4B22-423F-B88A-C2511416630C",
+        "rank": "normal"
+      }
+    ],
+    "P13526": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13526",
+          "hash": "354da60252681af5c72caef485ad8b71e01d2e20",
+          "datavalue": {
+            "value": "sexual-abuse",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$451533F4-82FD-4A77-8332-E2E802C2541D",
+        "rank": "normal"
+      }
+    ],
+    "P1343": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1343",
+          "hash": "cc7505eef70f4116ec728754f276dbc9cfaa7e8e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7458648,
+              "id": "Q7458648"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q43414$07983be0-4852-b5d6-d9f5-4cf9039e2087",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0723282bb80042897ca697416c050b4bf7fb5428",
+            "snaks": {
+              "P887": [
+                {
+                  "snaktype": "value",
+                  "property": "P887",
+                  "hash": "2009eafb2646ea71bee7372b061e8521ee613fc2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 69652283,
+                      "id": "Q69652283"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P887"
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "fb5581e0a96d6f1bd41b3abb78919a5f14ccba04",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 600571,
+              "id": "Q600571"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q43414$00912178-4aac-2c4e-3406-e778bfc1f287",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0723282bb80042897ca697416c050b4bf7fb5428",
+            "snaks": {
+              "P887": [
+                {
+                  "snaktype": "value",
+                  "property": "P887",
+                  "hash": "2009eafb2646ea71bee7372b061e8521ee613fc2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 69652283,
+                      "id": "Q69652283"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P887"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3095": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3095",
+          "hash": "9a545b8fc2408ba949d6d4e294a0609b14d9105b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5659979,
+              "id": "Q5659979"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q43414$f1ed086f-4a14-df54-d42f-85e52a990f49",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0723282bb80042897ca697416c050b4bf7fb5428",
+            "snaks": {
+              "P887": [
+                {
+                  "snaktype": "value",
+                  "property": "P887",
+                  "hash": "2009eafb2646ea71bee7372b061e8521ee613fc2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 69652283,
+                      "id": "Q69652283"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P887"
+            ]
+          }
+        ]
+      }
+    ],
+    "P9322": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9322",
+          "hash": "d28c42f9534dd27306ad8c8c2aafcaa6fa173c4c",
+          "datavalue": {
+            "value": "h0005235-sexualni-zneuzivani",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$01E58B5F-0414-4A9C-B2C1-0194BA378601",
+        "rank": "normal"
+      }
+    ],
+    "P13772": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P13772",
+          "hash": "c88f8fba993c5c141514f070d8cfe9bacac40584",
+          "datavalue": {
+            "value": "sexual-abuse",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q43414$F191AE33-D76E-4D80-B4DD-404F302546C7",
+        "rank": "normal"
+      }
+    ],
+    "P443": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P443",
+          "hash": "5b13f2b0b818efd64b0ac3045db0ca79c1ba816c",
+          "datavalue": {
+            "value": "De-sexueller Missbrauch.ogg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 188,
+                  "id": "Q188"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P898": [
+            {
+              "snaktype": "value",
+              "property": "P898",
+              "hash": "d194b82bcd2d27884f98a1f9e415d541970cfca2",
+              "datavalue": {
+                "value": "sɛksuˈɛlɐ ˈmɪsˌbʁaʊ̯x",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P5168": [
+            {
+              "snaktype": "value",
+              "property": "P5168",
+              "hash": "35ae30d47095d2326951ba567e802c205fc79678",
+              "datavalue": {
+                "value": {
+                  "text": "sexueller Missbrauch",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407",
+          "P898",
+          "P5168"
+        ],
+        "id": "Q43414$37e9f0f8-41ff-8cf2-65a0-e6a6cafaab03",
+        "rank": "normal"
+      }
+    ]
+  }
+}

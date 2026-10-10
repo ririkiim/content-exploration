@@ -1,0 +1,523 @@
+{
+  "type": "item",
+  "id": "Q18684059",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "미생물"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "television series"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "tvN에서 방영된 텔레비전 드라마"
+    }
+  },
+  "claims": {
+    "P856": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P856",
+          "hash": "f60cddd68a6a78596752c79a8da10378c8ed0be7",
+          "datavalue": {
+            "value": "http://program.interest.me/tvn/misaengmul",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q18684059$443B22BD-960D-4648-8618-AA67D0CB4278",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "08be9f116c5c541d7fa461ad59ad559a42ffd6ed",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "56f99b6701feb379816767ae88bb77e0e74981b3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17985,
+                      "id": "Q17985"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "40a93c25a36e6a07478de6eca4ba68f5b9aaa85f",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5398426,
+              "id": "Q5398426"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q18684059$CD27A545-77EA-49E1-8D9A-69C944676E24",
+        "rank": "normal"
+      }
+    ],
+    "P449": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P449",
+          "hash": "1c38b27b56be8c19982b6dc606b454276b2d82dc",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 333424,
+              "id": "Q333424"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q18684059$AE1D06DE-673C-45A4-AEF5-040493966573",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "e254d2b68467e2191bcc7fd5f4e20c6535918a63",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "56f99b6701feb379816767ae88bb77e0e74981b3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17985,
+                      "id": "Q17985"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "af6bf29ae09edeb6b6604644b6020c700e40f75c",
+                  "datavalue": {
+                    "value": "https://ko.wikipedia.org/w/index.php?title=미생물_(드라마)&oldid=21504643",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P580": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P580",
+          "hash": "2a19ac8c10861251c1e6a9b5c34a38cba2acf3aa",
+          "datavalue": {
+            "value": {
+              "time": "+2015-01-02T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "id": "Q18684059$CD15F6B1-3928-457A-AF48-37E63553F772",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "e254d2b68467e2191bcc7fd5f4e20c6535918a63",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "56f99b6701feb379816767ae88bb77e0e74981b3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17985,
+                      "id": "Q17985"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "af6bf29ae09edeb6b6604644b6020c700e40f75c",
+                  "datavalue": {
+                    "value": "https://ko.wikipedia.org/w/index.php?title=미생물_(드라마)&oldid=21504643",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P136": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P136",
+          "hash": "ea2139f5ab6554b3d4022d27e1bd7003838246b5",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 25372,
+              "id": "Q25372"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q18684059$3FD4EEF1-789A-4335-8ADD-BB4B23682667",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "e254d2b68467e2191bcc7fd5f4e20c6535918a63",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "56f99b6701feb379816767ae88bb77e0e74981b3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17985,
+                      "id": "Q17985"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "af6bf29ae09edeb6b6604644b6020c700e40f75c",
+                  "datavalue": {
+                    "value": "https://ko.wikipedia.org/w/index.php?title=미생물_(드라마)&oldid=21504643",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P155": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P155",
+          "hash": "da2c6d0cc872e253b7fda8cec531d5e6bd82f57c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 16766808,
+              "id": "Q16766808"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q18684059$900AFA4D-BE2D-4C46-B188-C03F6144E193",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "e254d2b68467e2191bcc7fd5f4e20c6535918a63",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "56f99b6701feb379816767ae88bb77e0e74981b3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17985,
+                      "id": "Q17985"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "af6bf29ae09edeb6b6604644b6020c700e40f75c",
+                  "datavalue": {
+                    "value": "https://ko.wikipedia.org/w/index.php?title=미생물_(드라마)&oldid=21504643",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P156": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P156",
+          "hash": "324de059df90fad1c9ac132cc534144b2b34f844",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 19754281,
+              "id": "Q19754281"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q18684059$B3F958CC-AA2D-4A7E-B58A-31DC78DFFEEA",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "e254d2b68467e2191bcc7fd5f4e20c6535918a63",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "56f99b6701feb379816767ae88bb77e0e74981b3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17985,
+                      "id": "Q17985"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "af6bf29ae09edeb6b6604644b6020c700e40f75c",
+                  "datavalue": {
+                    "value": "https://ko.wikipedia.org/w/index.php?title=미생물_(드라마)&oldid=21504643",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P495": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P495",
+          "hash": "c0a3edda06eb357cb4e7b36d4589111f68794325",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 884,
+              "id": "Q884"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q18684059$27101FE7-C445-4FF7-8790-D2BBF4BCF173",
+        "rank": "normal"
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "48b3989941354e20244b9e56b101c093215c6023",
+          "datavalue": {
+            "value": "/g/11b6t0046w",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q18684059$3CF5CF3A-BDFA-46F6-A341-3AC83DB13B02",
+        "rank": "normal"
+      }
+    ],
+    "P1113": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1113",
+          "hash": "6626e98fb27316991823832561bcb3284cfdbe70",
+          "datavalue": {
+            "value": {
+              "amount": "+2",
+              "unit": "1"
+            },
+            "type": "quantity"
+          },
+          "datatype": "quantity"
+        },
+        "type": "statement",
+        "id": "Q18684059$9EEDE340-6AA4-4B49-AA86-ED86D2DB901A",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "8d4a33468a616fe18c09fdc56bf7bd187b66f445",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "56f99b6701feb379816767ae88bb77e0e74981b3",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 17985,
+                      "id": "Q17985"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "26baf1c51e35850aa1c4bbd6eb1b10c6f4920194",
+                  "datavalue": {
+                    "value": "https://ko.wikipedia.org/w/index.php?title=미생물_(드라마)&oldid=36948261",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P4983": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4983",
+          "hash": "75eb335c47df1be9d9c5497afd00fa5617239e6a",
+          "datavalue": {
+            "value": "131304",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q18684059$BC5947CD-17C4-4E11-86C7-20CD59B7569D",
+        "rank": "normal"
+      }
+    ],
+    "P1476": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1476",
+          "hash": "51c248945ec24912602ebd510a0717ad9b84b69f",
+          "datavalue": {
+            "value": {
+              "text": "미생물",
+              "language": "ko"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "Q18684059$8E10D92F-00B0-44CF-90D5-1A67EE04EA81",
+        "rank": "normal"
+      }
+    ]
+  }
+}

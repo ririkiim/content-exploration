@@ -1,0 +1,181 @@
+{
+  "type": "item",
+  "id": "Q4531715",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "emotional process"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "psychophysiological process"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "1c4d7247b56151f32b273ecb59865a8a02cdbbdf",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5489108,
+              "id": "Q5489108"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q4531715$2ecfa5e9-4cc7-4a8e-0941-29f68226b3ff",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "8bdf4781e5b98c6cb2153767bcd89474bb3e37ee",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 12047513,
+              "id": "Q12047513"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q4531715$43028C3B-696A-4371-B5D5-262D0A9D10AE",
+        "rank": "normal"
+      }
+    ],
+    "P910": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P910",
+          "hash": "598e543db46b01a201693591beb8e13474b36d97",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9899901,
+              "id": "Q9899901"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q4531715$8b4ed1b1-cfab-4267-8a8c-322fd83307a6",
+        "rank": "normal"
+      }
+    ],
+    "P2671": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2671",
+          "hash": "91dd497dd99a8da5f61d4d5259260f4f0d33b181",
+          "datavalue": {
+            "value": "/g/120vt6tk",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q4531715$75038916-0BC8-42AF-AD2C-A38373249A97",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "f401c7c2f968cb05bc86f49cbe7ca2a63cfd3993",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 106565803,
+              "id": "Q106565803"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q4531715$b28c94b9-47d0-2376-b0f6-dd6529ac5ab0",
+        "rank": "normal"
+      }
+    ],
+    "P1709": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1709",
+          "hash": "6a8a28f8de4ccae2d34f836d48f9ef4dbf70c7b7",
+          "datavalue": {
+            "value": "http://www.ontospace.uni-bremen.de/ontology/stable/GUM-3.owl#ReactionAndEmotion",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4900": [
+            {
+              "snaktype": "value",
+              "property": "P4900",
+              "hash": "5fe96d0032a15b675b9d3288bff2db5475e54887",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 12047513,
+                  "id": "Q12047513"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4900"
+        ],
+        "id": "Q4531715$994d0e04-42f6-2f11-854d-70f689faa65e",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "bb07d2ad52a4c6add6f7df65bbbe6d6d71d55645",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "d86d5135e742170fa98db7c750025235e82685fd",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 141439101,
+                      "id": "Q141439101"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

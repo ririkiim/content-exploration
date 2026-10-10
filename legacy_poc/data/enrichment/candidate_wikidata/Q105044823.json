@@ -1,0 +1,155 @@
+{
+  "type": "item",
+  "id": "Q105044823",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "publisher"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person or company responsible for release and distribution of print goods or electronic media"
+    }
+  },
+  "claims": {
+    "P1687": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1687",
+          "hash": "3d06fc88ff14c582fac95f44aae6bd49d1887ffc",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 123,
+              "id": "P123"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q105044823$4aedcf86-4afc-2b3a-7edb-90cfe0d8c376",
+        "rank": "normal"
+      }
+    ],
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "09aa1480de4a65a989444deb4e4273ffc5f3700b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3778211,
+              "id": "Q3778211"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q105044823$c279df14-4265-99d6-ad10-41f9921d9966",
+        "rank": "normal"
+      }
+    ],
+    "P1382": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1382",
+          "hash": "2ae2e6b2241ed82d9f4dd6324e1cc75eadf87c3a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1607826,
+              "id": "Q1607826"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q105044823$acb6c58b-4103-3bc0-d064-a47ebf8d1e5e",
+        "rank": "normal"
+      }
+    ],
+    "P9495": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9495",
+          "hash": "c8fadd48c943b631910434d3814c4210ed30c985",
+          "datavalue": {
+            "value": "term/F855FC8D-27A8-4F3A-BF93-CE8C56A4CD2C",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q105044823$8F2E6B26-B246-451E-B08F-8BD826D071AE",
+        "rank": "normal"
+      }
+    ],
+    "P1889": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "eac54e10256edcd0c2081f5bf1f955cafe538256",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2516866,
+              "id": "Q2516866"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q105044823$1b0f4375-4926-f648-6416-12ea79a5b5e6",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1889",
+          "hash": "81911516cb8554cb19f140a6fc46cf3d532c534a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2085381,
+              "id": "Q2085381"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q105044823$01c5bb5b-4265-a1bd-3ca7-f37afc4920f1",
+        "rank": "normal"
+      }
+    ],
+    "P1709": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1709",
+          "hash": "e208af89c79bfc8715d9c48e6d79eb45588d2c6f",
+          "datavalue": {
+            "value": "https://w3id.org/seo#Publisher",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q105044823$825c367d-4536-84df-a445-e13b1d77e533",
+        "rank": "normal"
+      }
+    ]
+  }
+}

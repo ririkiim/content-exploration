@@ -1,0 +1,124 @@
+{
+  "type": "item",
+  "id": "Q141523012",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "functional complex"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "object-like whole"
+    }
+  },
+  "claims": {
+    "P279": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P279",
+          "hash": "21550c6e2ea515c81623f6987e296de66ce54d50",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 4406616,
+              "id": "Q4406616"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q141523012$BF25787A-9396-4CBB-8B29-098C7B8D6658",
+        "rank": "normal"
+      }
+    ],
+    "P1709": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1709",
+          "hash": "dcebde39ad53c79c632ebd5eef5181fb91168760",
+          "datavalue": {
+            "value": "http://purl.org/nemo/gufo#FunctionalComplex",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4900": [
+            {
+              "snaktype": "value",
+              "property": "P4900",
+              "hash": "73274c7698fe3e6fe61d60149f5376a29da9fce5",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 4406616,
+                  "id": "Q4406616"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4900"
+        ],
+        "id": "Q141523012$c0fdf872-4b88-df85-189b-cda5ce5ba540",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "674c2a0aa0899d6e7407fead1e1f6c525c2b6baf",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "e27689d5b5315f1e768a57e2dd707d719ed5a40a",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 141439378,
+                      "id": "Q141439378"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P6104": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6104",
+          "hash": "2bcf963484ee556d691849e71ea3ae951738fc36",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 60005226,
+              "id": "Q60005226"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q141523012$db8afcd5-4a30-181c-6a3e-35fb6c48a8da",
+        "rank": "normal"
+      }
+    ]
+  }
+}
