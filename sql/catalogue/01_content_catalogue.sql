@@ -39,7 +39,7 @@ CREATE INDEX idx_content_release_year
 
 -- =========================================================
 -- 2. content_source_map
--- 작품 단위 외부 ID만 관리
+-- 작품 단위 외부 ID 및 출처 매핑
 -- =========================================================
 
 CREATE TABLE content_source_map (
@@ -55,7 +55,8 @@ CREATE TABLE content_source_map (
                 'kmdb_movie',
                 'tmdb_movie',
                 'tmdb_tv',
-                'wikidata'
+                'wikidata',
+                'data4library_book'
             )
         ),
 
@@ -175,31 +176,38 @@ CREATE TABLE book_edition (
         REFERENCES content(content_id)
         ON DELETE CASCADE,
 
+    -- 외부 도서 식별자
     nlk_id TEXT,
     isbn13 VARCHAR(13),
     yes24_product_id TEXT,
 
+    -- 판본별 서지 정보
     publisher TEXT,
     pub_year INTEGER,
 
-    contributors JSONB NOT NULL DEFAULT '[]'::jsonb,
+    contributors JSONB NOT NULL
+        DEFAULT '[]'::jsonb,
 
+    -- 도서 상세정보
+    description TEXT,
+    description_source VARCHAR(30),
+
+    -- 대표 판본 여부
     is_representative BOOLEAN NOT NULL DEFAULT FALSE,
 
     created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
     updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
 
+    -- 동일 외부 식별자 중복 방지
     UNIQUE (nlk_id),
+    UNIQUE (isbn13),
     UNIQUE (yes24_product_id)
 );
 
 CREATE INDEX idx_book_edition_content
     ON book_edition (content_id);
 
-CREATE INDEX idx_book_edition_isbn13
-    ON book_edition (isbn13);
-
--- 하나의 canonical book에는 대표 판본을 최대 하나만 허용
+-- 하나의 작품에는 대표 판본을 최대 하나만 허용
 CREATE UNIQUE INDEX uq_book_representative_per_content
     ON book_edition (content_id)
     WHERE is_representative = TRUE;
@@ -305,3 +313,32 @@ CREATE TABLE raw_yes24_book (
 
 CREATE INDEX idx_raw_yes24_product_id
     ON raw_yes24_book (yes24_product_id);
+
+-- =========================================================
+-- 11. raw_data4library_book
+-- 도서관 정보나루 원본
+--
+-- API:
+-- srchBooks
+-- srchDtlList
+-- keywordList
+--
+-- =========================================================
+
+CREATE TABLE raw_data4library_book (
+    raw_data4library_book_id BIGSERIAL PRIMARY KEY,
+
+    isbn13 VARCHAR(13),
+
+    api_endpoint VARCHAR(50) NOT NULL,
+
+    raw_payload JSONB NOT NULL,
+
+    fetched_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+);
+
+CREATE INDEX idx_raw_data4library_isbn13
+    ON raw_data4library_book (isbn13);
+
+CREATE INDEX idx_raw_data4library_endpoint
+    ON raw_data4library_book (api_endpoint);
