@@ -1,356 +1,555 @@
+
 import json
-import os
 import re
 from pathlib import Path
 
 import psycopg
 from dotenv import load_dotenv
+import os
 
+
+# =========================================================
+# 1. 환경 설정
+# =========================================================
 
 ROOT = Path(__file__).resolve().parents[1]
+
 SELECTION_PATH = (
     ROOT / "data" / "selections" / "selected_movie_drama_contexts.jsonl"
 )
 
-load_dotenv(ROOT / ".env")
-DATABASE_URL = os.environ["DATABASE_URL"]
-
 MAX_KEYWORDS = 40
 
 BLOCKED_KEYWORDS = {
-    "한국", "대한민국", "south korea", "korea", "seoul", "서울",
-    "movie", "film", "tv", "drama",
+    "한국",
+    "대한민국",
+    "south korea",
+    "korea",
+    "seoul",
+    "서울",
+    "movie",
+    "film",
+    "tv",
+    "drama",
 }
+
+# 02의 탐색 정책과 동일한 기준을 사용한다.
+# 장르와 일반 키워드는 다음 탐색의 출발점으로 사용하지 않는다.
+NEXT_HOP_CATEGORIES = {"person", "event", "work"}
+
+load_dotenv()
+DATABASE_URL = os.getenv("DATABASE_URL")
+
+if not DATABASE_URL:
+    raise RuntimeError("DATABASE_URL이 .env에 설정되어 있지 않습니다.")
 
 
 # =========================================================
-# 1. 텍스트 정리 및 중복 제거
+# 2. 공통 유틸리티
 # =========================================================
 
 def clean_text(value):
+    """문자열 앞뒤 및 연속 공백을 정리한다."""
     if value is None:
-        return None
+        return ""
 
-    value = str(value).strip()
-    return value or None
+    return re.sub(r"\s+", " ", str(value)).strip()
 
 
 def normalize(value):
-    value = clean_text(value)
-
-    if not value:
-        return None
-
-    return re.sub(r"\s+", " ", value).casefold()
+    """비교용 문자열을 정규화한다."""
+    return clean_text(value).casefold()
 
 
 def unique(values):
-    seen = set()
+    """정규화된 문자열 기준으로 중복을 제거한다."""
     result = []
+    seen = set()
 
     for value in values:
-        value = clean_text(value)
+        text = clean_text(value)
 
-        if not value:
+        if not text:
             continue
 
-        normalized_value = normalize(value)
+        key = normalize(text)
 
-        if not normalized_value or normalized_value in seen:
+        if key in seen:
             continue
 
-        seen.add(normalized_value)
-        result.append(value)
+        seen.add(key)
+        result.append(text)
 
     return result
 
 
-# =========================================================
-# 2. TMDb 출처 정보
-# =========================================================
+def extract_names(values):
+    """
+    선택 JSONL의 장르·키워드가 문자열 또는 객체 목록인 경우를 처리한다.
+
+    예:
+        ["액션", "드라마"]
+        [{"name": "액션"}, {"name": "드라마"}]
+    """
+    if not isinstance(values, list):
+        return []
+
+    names = []
+
+    for value in values:
+        if isinstance(value, str):
+            name = clean_text(value)
+
+        elif isinstance(value, dict):
+            name = clean_text(value.get("name"))
+
+        else:
+            continue
+
+        if name:
+            names.append(name)
+
+    return unique(names)
+
 
 def tmdb_url(item):
-    tmdb_id = item.get("source_ids", {}).get("tmdb")
+    """TMDb 콘텐츠 상세 페이지 URL을 생성한다."""
+    source_ids = item.get("source_ids") or {}
+    tmdb_id = source_ids.get("tmdb")
 
     if not tmdb_id:
         return None
 
-    if item["content_type"] == "movie":
-        return f"https://www.themoviedb.org/movie/{tmdb_id}"
+    content_type = clean_text(item.get("content_type")).lower()
 
-    return f"https://www.themoviedb.org/tv/{tmdb_id}"
+    if content_type == "movie":
+        media_type = "movie"
+    elif content_type in {"drama", "tv"}:
+        media_type = "tv"
+    else:
+        return None
+
+    return f"https://www.themoviedb.org/{media_type}/{tmdb_id}"
 
 
 # =========================================================
-# 3. 작품 조회
+# 3. 다음 탐색 가능 여부 판단
+# =========================================================
+
+def is_next_hop_eligible(relationship_type, category, evidence):
+    """
+    엔티티 관계를 다음 탐색 단계의 출발점으로 사용할 수 있는지 판단한다.
+
+    02의 정책을 반영한다.
+    - 허용 엔티티 유형: person, event, work
+    - Wikipedia 언급 후보는 제외
+    - 언급 사유가 있는 관계는 제외
+    - 비교 맥락의 관계는 제외
+
+    03에서 생성하는 genre / concept 엔티티는
+    다음 탐색의 출발점으로 사용하지 않는다.
+    """
+    if category not in NEXT_HOP_CATEGORIES:
+        return False
+
+    if relationship_type == "wikipedia_mention_candidate":
+        return False
+
+    if evidence.get("mention_reason"):
+        return False
+
+    if evidence.get("relation_hint") == "comparison":
+        return False
+
+    return True
+
+
+# =========================================================
+# 4. 콘텐츠 및 엔티티 조회
 # =========================================================
 
 def get_content_id(conn, item):
-    tmdb_id = item.get("source_ids", {}).get("tmdb")
+    """TMDb source ID와 콘텐츠 유형으로 content_id를 조회한다."""
+    source_ids = item.get("source_ids") or {}
+    tmdb_id = source_ids.get("tmdb")
 
-    if not tmdb_id:
+    if tmdb_id is None:
         return None
 
-    # JSONL의 drama는 DB에서 tv로 저장됨
-    content_type = (
-        "tv" if item["content_type"] == "drama"
-        else item["content_type"]
-    )
+    item_type = clean_text(item.get("content_type")).lower()
 
-    row = conn.execute(
-        """
-        SELECT c.content_id
-        FROM content AS c
-        JOIN content_source_map AS sm
-          ON sm.content_id = c.content_id
-        WHERE sm.source_name = 'tmdb'
-          AND sm.source_id = %s
-          AND c.content_type = %s
-        ORDER BY c.content_id
-        LIMIT 1
-        """,
-        (str(tmdb_id), content_type),
-    ).fetchone()
+    if item_type == "drama":
+        db_content_type = "tv"
+    elif item_type in {"movie", "tv"}:
+        db_content_type = item_type
+    else:
+        return None
 
-    return row["content_id"] if row else None
+    with conn.cursor() as cur:
+        cur.execute(
+            """
+            SELECT csm.content_id
+            FROM content_source_map AS csm
+            JOIN content AS c
+              ON c.content_id = csm.content_id
+            WHERE csm.source_name = 'tmdb'
+              AND csm.source_id = %s
+              AND c.content_type = %s
+            """,
+            (str(tmdb_id), db_content_type),
+        )
 
+        row = cur.fetchone()
 
-# =========================================================
-# 4. 엔티티 생성 또는 재사용
-# =========================================================
+    return row[0] if row else None
+
 
 def get_or_create_entity(conn, entity_type, name):
+    """엔티티 유형과 이름을 기준으로 엔티티를 조회하거나 생성한다."""
     name = clean_text(name)
 
     if not name:
-        return None
+        raise ValueError("빈 엔티티 이름은 저장할 수 없습니다.")
 
-    # 현재 DB의 고유 조건: (entity_type, entity_name)
-    row = conn.execute(
-        """
-        SELECT entity_id
-        FROM entity
-        WHERE entity_type = %s
-          AND entity_name = %s
-        LIMIT 1
-        """,
-        (entity_type, name),
-    ).fetchone()
-
-    if row:
-        return row["entity_id"]
-
-    # 동시 실행 등으로 중복 생성되는 상황도 고려
-    row = conn.execute(
-        """
-        INSERT INTO entity (
-            entity_type,
-            entity_name
+    with conn.cursor() as cur:
+        cur.execute(
+            """
+            INSERT INTO entity (
+                entity_type,
+                entity_name
+            )
+            VALUES (%s, %s)
+            ON CONFLICT (entity_type, entity_name)
+            DO UPDATE SET entity_name = EXCLUDED.entity_name
+            RETURNING entity_id
+            """,
+            (entity_type, name),
         )
-        VALUES (%s, %s)
-        ON CONFLICT (entity_type, entity_name)
-        DO UPDATE SET entity_name = EXCLUDED.entity_name
-        RETURNING entity_id
-        """,
-        (entity_type, name),
-    ).fetchone()
 
-    return row["entity_id"]
+        return cur.fetchone()[0]
 
 
 # =========================================================
-# 5. 작품-엔티티 관계 저장
+# 5. 근거 데이터 병합
+# =========================================================
+
+def normalize_evidence(evidence):
+    """
+    새 형식과 기존 평면 형식의 evidence를 모두 처리한다.
+
+    새 형식:
+        {"sources": [{...}]}
+
+    기존 형식:
+        {"source_url": "...", "source_field": "...", ...}
+    """
+    if not isinstance(evidence, dict):
+        return {"sources": []}
+
+    if isinstance(evidence.get("sources"), list):
+        sources = [
+            source
+            for source in evidence["sources"]
+            if isinstance(source, dict)
+        ]
+
+        return {"sources": sources}
+
+    # 기존 평면 형식의 근거도 보존한다.
+    if evidence:
+        return {"sources": [evidence]}
+
+    return {"sources": []}
+
+
+def merge_evidence(existing_evidence, new_evidence):
+    """기존 근거를 보존하면서 중복되지 않는 근거를 추가한다."""
+    existing = normalize_evidence(existing_evidence)
+    incoming = normalize_evidence(new_evidence)
+
+    merged_sources = list(existing["sources"])
+    seen = {
+        json.dumps(source, ensure_ascii=False, sort_keys=True)
+        for source in merged_sources
+    }
+
+    for source in incoming["sources"]:
+        key = json.dumps(
+            source,
+            ensure_ascii=False,
+            sort_keys=True,
+        )
+
+        if key not in seen:
+            merged_sources.append(source)
+            seen.add(key)
+
+    return {"sources": merged_sources}
+
+
+# =========================================================
+# 6. 관계 적재
 # =========================================================
 
 def upsert_relation(
     conn,
     content_id,
     entity_id,
-    relation_type,
-    fact_status,
+    relationship_type,
+    entity_type,
     source_url,
     value,
+    fact_status,
 ):
+    """
+    콘텐츠 → 엔티티 관계를 저장한다.
+
+    UNIQUE 제약조건에 맞춰 기존 관계가 있으면 근거를 병합한다.
+    다음 탐색 가능 여부는 함수로 판단하고 DB 컬럼에 저장한다.
+    """
+    source_field = (
+        "genres"
+        if relationship_type == "has_genre"
+        else "keywords"
+    )
+
     evidence = {
-        "source_url": source_url,
-        "source_field": (
-            "genres" if relation_type == "has_genre"
-            else "keywords"
-        ),
-        "source_value": value,
-        "source_name": "tmdb",
+        "sources": [
+            {
+                "source_name": "tmdb",
+                "source_url": source_url,
+                "source_field": source_field,
+                "source_value": value,
+            }
+        ]
     }
 
-    # 장르는 구조적 관계로 활용하고,
-    # 검증되지 않은 키워드는 다음 탐색 경로에 바로 사용하지 않음
-    next_hop_eligible = relation_type == "has_genre"
-
-    conn.execute(
-        """
-        INSERT INTO relationship (
-            source_type,
-            source_id,
-            relationship_type,
-            target_type,
-            target_id,
-            source_name,
-            fact_status,
-            evidence,
-            visibility,
-            next_hop_eligible
-        )
-        VALUES (
-            'content',
-            %s,
-            %s,
-            'entity',
-            %s,
-            'tmdb',
-            %s,
-            %s::jsonb,
-            'shown',
-            %s
-        )
-        ON CONFLICT (
-            source_type,
-            source_id,
-            relationship_type,
-            target_type,
-            target_id
-        )
-        DO UPDATE SET
-            fact_status = CASE
-                WHEN relationship.fact_status = 'verified'
-                  OR EXCLUDED.fact_status = 'verified'
-                THEN 'verified'
-                ELSE 'proposed'
-            END,
-            evidence = COALESCE(
-                relationship.evidence,
-                '{}'::jsonb
-            ) || EXCLUDED.evidence,
-            next_hop_eligible =
-                relationship.next_hop_eligible
-                OR EXCLUDED.next_hop_eligible
-        """,
-        (
-            content_id,
-            relation_type,
-            entity_id,
-            fact_status,
-            json.dumps(evidence, ensure_ascii=False),
-            next_hop_eligible,
-        ),
+    next_hop_eligible = is_next_hop_eligible(
+        relationship_type=relationship_type,
+        category=entity_type,
+        evidence=evidence,
     )
+
+    with conn.cursor() as cur:
+        cur.execute(
+            """
+            SELECT
+                relationship_id,
+                fact_status,
+                evidence
+            FROM relationship
+            WHERE source_type = 'content'
+              AND source_id = %s
+              AND relationship_type = %s
+              AND target_type = 'entity'
+              AND target_id = %s
+            FOR UPDATE
+            """,
+            (
+                content_id,
+                relationship_type,
+                entity_id,
+            ),
+        )
+
+        existing = cur.fetchone()
+
+        if existing:
+            relationship_id, existing_status, existing_evidence = existing
+
+            merged = merge_evidence(
+                existing_evidence,
+                evidence,
+            )
+
+            # 검증된 관계는 제안 상태로 강등하지 않는다.
+            merged_status = (
+                "verified"
+                if "verified" in {existing_status, fact_status}
+                else "proposed"
+            )
+
+            cur.execute(
+                """
+                UPDATE relationship
+                SET source_name = %s,
+                    fact_status = %s,
+                    evidence = %s::jsonb,
+                    visibility = 'shown',
+                    next_hop_eligible = %s
+                WHERE relationship_id = %s
+                """,
+                (
+                    "tmdb",
+                    merged_status,
+                    json.dumps(merged, ensure_ascii=False),
+                    next_hop_eligible,
+                    relationship_id,
+                ),
+            )
+
+            return "updated"
+
+        cur.execute(
+            """
+            INSERT INTO relationship (
+                source_type,
+                source_id,
+                relationship_type,
+                target_type,
+                target_id,
+                source_name,
+                fact_status,
+                evidence,
+                visibility,
+                next_hop_eligible
+            )
+            VALUES (
+                'content',
+                %s,
+                %s,
+                'entity',
+                %s,
+                'tmdb',
+                %s,
+                %s::jsonb,
+                'shown',
+                %s
+            )
+            """,
+            (
+                content_id,
+                relationship_type,
+                entity_id,
+                fact_status,
+                json.dumps(evidence, ensure_ascii=False),
+                next_hop_eligible,
+            ),
+        )
+
+        return "inserted"
 
 
 # =========================================================
-# 6. 메인 실행
+# 7. 실행
 # =========================================================
 
 def main():
-    with SELECTION_PATH.open(encoding="utf-8") as file:
+    if not SELECTION_PATH.exists():
+        raise FileNotFoundError(
+            f"선택 JSONL 파일을 찾을 수 없습니다: {SELECTION_PATH}"
+        )
+
+    with SELECTION_PATH.open("r", encoding="utf-8") as file:
         items = [
             json.loads(line)
             for line in file
             if line.strip()
         ]
 
-    genre_count = 0
-    keyword_count = 0
-    missing_contents = []
+    stats = {
+        "processed_contents": 0,
+        "missing_contents": 0,
+        "genre_inserted": 0,
+        "genre_updated": 0,
+        "keyword_inserted": 0,
+        "keyword_updated": 0,
+        "blocked_keywords": 0,
+    }
 
-    with psycopg.connect(
-        DATABASE_URL,
-        row_factory=psycopg.rows.dict_row,
-    ) as conn:
+    with psycopg.connect(DATABASE_URL) as conn:
+        try:
+            for item in items:
+                content_id = get_content_id(conn, item)
 
-        for item in items:
-            content_id = get_content_id(conn, item)
-
-            if content_id is None:
-                missing_contents.append(item.get("title", "(제목 없음)"))
-                continue
-
-            source_url = tmdb_url(item)
-
-            # -------------------------------------------------
-            # 장르 관계
-            # -------------------------------------------------
-
-            genres = unique(item.get("genres") or [])
-
-            for genre in genres:
-                entity_id = get_or_create_entity(
-                    conn,
-                    entity_type="concept",
-                    name=genre,
-                )
-
-                if entity_id is None:
+                if content_id is None:
+                    stats["missing_contents"] += 1
+                    print(
+                        "[SKIP] DB 콘텐츠 매핑 없음:",
+                        item.get("title"),
+                    )
                     continue
 
-                upsert_relation(
-                    conn=conn,
-                    content_id=content_id,
-                    entity_id=entity_id,
-                    relation_type="has_genre",
-                    fact_status="verified",
-                    source_url=source_url,
-                    value=genre,
-                )
+                stats["processed_contents"] += 1
 
-                genre_count += 1
+                source_url = tmdb_url(item)
 
-            # -------------------------------------------------
-            # 키워드 관계
-            # -------------------------------------------------
+                # -----------------------------
+                # 장르 관계
+                # -----------------------------
 
-            blocked_normalized = {
-                normalize(keyword)
-                for keyword in BLOCKED_KEYWORDS
-            }
+                genres = extract_names(item.get("genres"))
 
-            keywords = [
-                keyword
-                for keyword in unique(item.get("keywords") or [])
-                if normalize(keyword) not in blocked_normalized
-            ][:MAX_KEYWORDS]
+                for genre in genres:
+                    entity_id = get_or_create_entity(
+                        conn,
+                        entity_type="genre",
+                        name=genre,
+                    )
 
-            for keyword in keywords:
-                entity_id = get_or_create_entity(
-                    conn,
-                    entity_type="concept",
-                    name=keyword,
-                )
+                    result = upsert_relation(
+                        conn=conn,
+                        content_id=content_id,
+                        entity_id=entity_id,
+                        relationship_type="has_genre",
+                        entity_type="genre",
+                        source_url=source_url,
+                        value=genre,
+                        fact_status="verified",
+                    )
 
-                if entity_id is None:
-                    continue
+                    stats[f"genre_{result}"] += 1
 
-                upsert_relation(
-                    conn=conn,
-                    content_id=content_id,
-                    entity_id=entity_id,
-                    relation_type="has_keyword",
-                    fact_status="proposed",
-                    source_url=source_url,
-                    value=keyword,
-                )
+                # -----------------------------
+                # 키워드 관계
+                # -----------------------------
 
-                keyword_count += 1
+                raw_keywords = extract_names(item.get("keywords"))
 
-        conn.commit()
+                accepted_keywords = []
 
-    print("\n=== 카탈로그 장르·키워드 관계 적재 완료 ===")
-    print(f"처리 작품 수: {len(items)}")
-    print(f"장르 관계 처리: {genre_count}")
-    print(f"키워드 관계 처리: {keyword_count}")
-    print(f"작품 매칭 실패: {len(missing_contents)}")
+                for keyword in raw_keywords:
+                    if normalize(keyword) in {
+                        normalize(value)
+                        for value in BLOCKED_KEYWORDS
+                    }:
+                        stats["blocked_keywords"] += 1
+                        continue
 
-    if missing_contents:
-        print("content_id를 찾지 못한 작품:")
-        for title in missing_contents:
-            print(f"- {title}")
+                    accepted_keywords.append(keyword)
+
+                keywords = unique(accepted_keywords)[:MAX_KEYWORDS]
+
+                for keyword in keywords:
+                    entity_id = get_or_create_entity(
+                        conn,
+                        entity_type="concept",
+                        name=keyword,
+                    )
+
+                    result = upsert_relation(
+                        conn=conn,
+                        content_id=content_id,
+                        entity_id=entity_id,
+                        relationship_type="has_keyword",
+                        entity_type="concept",
+                        source_url=source_url,
+                        value=keyword,
+                        fact_status="proposed",
+                    )
+
+                    stats[f"keyword_{result}"] += 1
+
+            conn.commit()
+
+        except Exception:
+            conn.rollback()
+            raise
+
+    print("\n===== 카탈로그 관계 적재 결과 =====")
+
+    for key, value in stats.items():
+        print(f"{key}: {value}")
 
 
 if __name__ == "__main__":
