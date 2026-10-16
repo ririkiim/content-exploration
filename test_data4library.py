@@ -1,190 +1,164 @@
 import os
-import csv
 import time
-import html
+import csv
 import requests
 
 from pathlib import Path
+from collections import defaultdict
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(Path(__file__).resolve().parent / ".env")
 
-API_KEY = (
-    os.getenv("DATA4LIBRARY_API_KEY")
-    or os.getenv("DATA4LIBRARY_AUTH_KEY")
-)
+API_KEY = os.environ["DATA4LIBRARY_API_KEY"]
+URL = "https://data4library.kr/api/srchBooks"
 
-if not API_KEY:
-    raise RuntimeError(
-        ".env에 DATA4LIBRARY_API_KEY를 설정해 주세요."
-    )
-
-BASE_URL = "https://data4library.kr/api/srchDtlList"
-
-BOOKS = {
-    "칼의 노래": [
-        "9788954623360",
-        "9788954617246",
-    ],
-    "소년이 온다": [
-        "9788936434410",
-        "9788936434120",
-    ],
-    "난장이가 쏘아올린 작은 공": [
-        "9788995151228",
-    ],
-    "지구 끝의 온실": [
-        "9791191824001",
-    ],
-    "토지": [
-        "9791130642888",
-        "9791130642871",
-    ],
-    "구운몽": [
-        "9788928521524",
-    ],
-    "살인자의 기억법": [
-        "9791197021688",
-        "9788954622035",
-    ],
-    "아몬드": [
-        "9791198363510",
-        "9791198363503",
-        "9788936438753",
-    ],
-    "완득이": [
-        "9788936456085",
-        "9788936433635",
-    ],
-    "82년생 김지영": [
-        "9788937437878",
-        "9788937439209",
-        "9788937438660",
-    ],
+TOPICS = {
+    "변호인": ["민주화 운동", "국가폭력", "인권 탄압"],
+    "기생충": ["빈부격차", "계층 갈등", "경제적 불평등"],
+    "살인의 추억": ["연쇄살인", "미제 사건", "범죄 수사"],
 }
 
-
-def fetch_book(isbn):
-    response = requests.get(
-        BASE_URL,
-        params={
-            "authKey": API_KEY,
-            "isbn13": isbn,
-            "format": "json",
-        },
-        timeout=30,
-    )
-
-    response.raise_for_status()
-
-    data = response.json()
-    details = data.get("response", {}).get("detail", [])
-
-    if not details:
-        return None
-
-    return details[0].get("book")
+PAGE_SIZE = 20
+MAX_PAGES = 3
 
 
-def main():
-    rows = []
+def search_books(keyword):
+    collected = []
+    total = 0
 
-    for title, isbns in BOOKS.items():
-        print(f"\n{'=' * 60}")
-        print(f"작품: {title}")
-        print("=" * 60)
-
-        for isbn in isbns:
-            try:
-                book = fetch_book(isbn)
-
-                if not book:
-                    print(f"\nISBN: {isbn}")
-                    print("조회 결과 없음")
-
-                    rows.append({
-                        "title": title,
-                        "isbn13": isbn,
-                        "found": False,
-                        "description_length": 0,
-                        "description": "",
-                    })
-                    continue
-
-                description = html.unescape(
-                    book.get("description") or ""
-                ).strip()
-
-                print(f"\nISBN: {isbn}")
-                print(f"조회 제목: {book.get('bookname')}")
-                print(f"저자: {book.get('authors')}")
-                print(f"출판사: {book.get('publisher')}")
-                print(f"설명 길이: {len(description)}자")
-                print(f"설명:\n{description or '(없음)'}")
-
-                rows.append({
-                    "title": title,
-                    "isbn13": isbn,
-                    "found": True,
-                    "description_length": len(description),
-                    "description": description,
-                })
-
-            except (requests.RequestException, ValueError) as error:
-                print(f"\nISBN: {isbn}")
-                print(f"API 오류: {error}")
-
-                rows.append({
-                    "title": title,
-                    "isbn13": isbn,
-                    "found": False,
-                    "description_length": 0,
-                    "description": "",
-                })
-
-            time.sleep(0.3)
-
-    output_dir = Path("data/search")
-    output_dir.mkdir(parents=True, exist_ok=True)
-
-    output_path = output_dir / "data4library_description_test.csv"
-
-    with output_path.open(
-        "w", encoding="utf-8-sig", newline=""
-    ) as file:
-        writer = csv.DictWriter(
-            file,
-            fieldnames=[
-                "title",
-                "isbn13",
-                "found",
-                "description_length",
-                "description",
-            ],
+    for page in range(1, MAX_PAGES + 1):
+        response = requests.get(
+            URL,
+            params={
+                "authKey": API_KEY,
+                "keyword": keyword,
+                "pageNo": page,
+                "pageSize": PAGE_SIZE,
+                "format": "json",
+            },
+            timeout=20,
         )
-        writer.writeheader()
-        writer.writerows(rows)
 
-    # 작품별 설명 확보율
-    print("\n\n===== 작품별 확보 현황 =====")
+        response.raise_for_status()
+        payload = response.json()
+        response_data = payload.get("response", {})
 
-    available_titles = set()
+        if "error" in response_data:
+            raise RuntimeError(
+                f"{keyword}: {response_data['error']}"
+            )
 
-    for row in rows:
-        if row["description_length"] > 0:
-            available_titles.add(row["title"])
+        if page == 1:
+            total = int(response_data.get("numFound") or 0)
 
-    for title in BOOKS:
-        status = "O" if title in available_titles else "X"
-        print(f"{title}: {status}")
+        docs = response_data.get("docs") or []
 
-    print(
-        f"\n설명 확보 작품: "
-        f"{len(available_titles)}/{len(BOOKS)}권"
+        for entry in docs:
+            book = entry.get("doc", entry)
+
+            collected.append({
+                "title": book.get("bookname", ""),
+                "isbn13": str(book.get("isbn13") or ""),
+                "authors": book.get("authors", ""),
+                "publisher": book.get("publisher", ""),
+                "description": book.get("description", ""),
+            })
+
+        if not docs or len(collected) >= total:
+            break
+
+        if len(docs) < PAGE_SIZE:
+            break
+
+        time.sleep(0.2)
+
+    return total, collected
+
+
+all_rows = []
+
+for content_title, keywords in TOPICS.items():
+    print(f"\n{'=' * 55}")
+    print(f"출발 작품: {content_title}")
+    print("=" * 55)
+
+    merged = {}
+    matches = defaultdict(set)
+
+    for keyword in keywords:
+        try:
+            total, books = search_books(keyword)
+        except Exception as exc:
+            print(f"{keyword}: 오류 - {exc}")
+            continue
+
+        for book in books:
+            isbn = book["isbn13"].strip()
+            title = book["title"].strip()
+
+            key = (
+                f"isbn:{isbn}"
+                if isbn
+                else f"title:{title}|{book['authors']}"
+            )
+
+            merged[key] = book
+            matches[key].add(keyword)
+
+        print(
+            f"{keyword}: 전체 {total}건 / "
+            f"수집 {len(books)}건"
+        )
+
+        time.sleep(0.3)
+
+    print(f"\nOR 통합 후보: {len(merged)}권")
+
+    for count in (1, 2, 3):
+        n = sum(
+            len(keywords_found) == count
+            for keywords_found in matches.values()
+        )
+        print(f"검색어 {count}개에서 발견: {n}")
+
+    print("\n후보 예시:")
+
+    for key, book in list(merged.items())[:10]:
+        print(
+            f"- {book['title']} "
+            f"| ISBN: {book['isbn13']} "
+            f"| 검색어: {', '.join(sorted(matches[key]))}"
+        )
+
+    for key, book in merged.items():
+        all_rows.append({
+            "source_content": content_title,
+            "title": book["title"],
+            "isbn13": book["isbn13"],
+            "authors": book["authors"],
+            "publisher": book["publisher"],
+            "matched_keywords": "|".join(sorted(matches[key])),
+            "description": book["description"],
+        })
+
+
+output_path = Path(__file__).resolve().parent / "data4library_candidates.csv"
+
+with output_path.open("w", newline="", encoding="utf-8-sig") as f:
+    writer = csv.DictWriter(
+        f,
+        fieldnames=[
+            "source_content",
+            "title",
+            "isbn13",
+            "authors",
+            "publisher",
+            "matched_keywords",
+            "description",
+        ],
     )
 
-    print(f"CSV 저장 완료: {output_path}")
+    writer.writeheader()
+    writer.writerows(all_rows)
 
-
-if __name__ == "__main__":
-    main()
+print(f"\nCSV 저장 완료: {output_path}")
