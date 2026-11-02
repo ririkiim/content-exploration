@@ -181,7 +181,7 @@ def ingest_book(title, author, selected):
                         }
                     ]),
                     selected.get("description"),
-                    "data4library",
+                    selected.get("description_source", "data4library"),
                 ),
             )
 
