@@ -1,0 +1,214 @@
+[
+  {
+    "content_id": 79301,
+    "content_type": "movie",
+    "title": "기생충",
+    "model_requested": "gpt-6-sol",
+    "model_returned": "gpt-6-sol",
+    "prompt_version": "topic-v3",
+    "elapsed_seconds": 11.319,
+    "input_tokens": 3084,
+    "output_tokens": 853,
+    "total_tokens": 3937,
+    "topic_count": 6,
+    "topics": [
+      {
+        "name": "빈부격차",
+        "type": "social_issue",
+        "evidence": "전원 백수인 기택 가족과 글로벌 IT기업 CEO인 박사장 가족이 대비되며, 키워드에도 '빈부격차'가 제시된다.",
+        "evidence_level": "explicit",
+        "confidence": "high"
+      },
+      {
+        "name": "실업",
+        "type": "social_issue",
+        "evidence": "기택 가족이 전원 백수로 살길이 막막하다고 소개된다.",
+        "evidence_level": "explicit",
+        "confidence": "high"
+      },
+      {
+        "name": "신분 위장과 잠입",
+        "type": "subject",
+        "evidence": "키워드에 '학력위조', 'con artist', 'infiltration'이 제시된다.",
+        "evidence_level": "explicit",
+        "confidence": "medium"
+      },
+      {
+        "name": "계층 간 공존",
+        "type": "theme",
+        "evidence": "서로 다른 경제적 처지의 두 가족이 만나며, 소개 문구에서 '같이 잘 살면 안 될까요?'라고 묻는다.",
+        "evidence_level": "inferred",
+        "confidence": "medium"
+      },
+      {
+        "name": "가족의 연대",
+        "type": "theme",
+        "evidence": "기택 가족은 사이가 좋으며, 기우가 과외 자리를 얻는 과정에 온 가족이 도움과 기대를 보탠다.",
+        "evidence_level": "explicit",
+        "confidence": "medium"
+      },
+      {
+        "name": "생계에 대한 불안",
+        "type": "human_experience",
+        "evidence": "살길이 막막한 기택 가족에게 기우의 고액 과외 자리가 고정수입의 희망으로 제시된다.",
+        "evidence_level": "explicit",
+        "confidence": "high"
+      }
+    ],
+    "raw_response": "{\n  \"content_id\": 79301,\n  \"topics\": [\n    {\n      \"name\": \"빈부격차\",\n      \"type\": \"social_issue\",\n      \"evidence\": \"전원 백수인 기택 가족과 글로벌 IT기업 CEO인 박사장 가족이 대비되며, 키워드에도 '빈부격차'가 제시된다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"실업\",\n      \"type\": \"social_issue\",\n      \"evidence\": \"기택 가족이 전원 백수로 살길이 막막하다고 소개된다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"신분 위장과 잠입\",\n      \"type\": \"subject\",\n      \"evidence\": \"키워드에 '학력위조', 'con artist', 'infiltration'이 제시된다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"name\": \"계층 간 공존\",\n      \"type\": \"theme\",\n      \"evidence\": \"서로 다른 경제적 처지의 두 가족이 만나며, 소개 문구에서 '같이 잘 살면 안 될까요?'라고 묻는다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"name\": \"가족의 연대\",\n      \"type\": \"theme\",\n      \"evidence\": \"기택 가족은 사이가 좋으며, 기우가 과외 자리를 얻는 과정에 온 가족이 도움과 기대를 보탠다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"name\": \"생계에 대한 불안\",\n      \"type\": \"human_experience\",\n      \"evidence\": \"살길이 막막한 기택 가족에게 기우의 고액 과외 자리가 고정수입의 희망으로 제시된다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    }\n  ]\n}",
+    "status": "success",
+    "error": null
+  },
+  {
+    "content_id": 79301,
+    "content_type": "movie",
+    "title": "기생충",
+    "model_requested": "gemini-3.8-flash",
+    "model_returned": "gemini-3.8-flash",
+    "prompt_version": "topic-v3",
+    "elapsed_seconds": 17.716,
+    "input_tokens": 3408,
+    "output_tokens": 473,
+    "total_tokens": 5704,
+    "topic_count": 5,
+    "topics": [
+      {
+        "name": "빈부격차",
+        "type": "social_issue",
+        "evidence": "살 길 막막한 전원백수 가족과 글로벌 IT기업 CEO 저택의 대비를 다루며, 키워드로 빈부격차와 계급 차이가 명시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high"
+      },
+      {
+        "name": "계급 격차와 공존",
+        "type": "theme",
+        "evidence": "‘같이 잘 살면 안 될까요?’라는 질문과 함께 서로 다른 계층의 두 가족이 조우하면서 벌어지는 파국을 다룬다.",
+        "evidence_level": "inferred",
+        "confidence": "high"
+      },
+      {
+        "name": "생존 경쟁",
+        "type": "subject",
+        "evidence": "전원백수 가족이 모처럼 찾아온 고정수입의 희망을 잡기 위해 온 가족의 기대와 도움 속에 부유층 저택으로 향하며 사건이 시작된다.",
+        "evidence_level": "inferred",
+        "confidence": "high"
+      },
+      {
+        "name": "실업 문제",
+        "type": "social_issue",
+        "evidence": "온 가족이 전원백수 상태로 살 길이 막막하다는 상황이 묘사되며, 키워드로 '백수'와 'unemployed'가 제공된다.",
+        "evidence_level": "explicit",
+        "confidence": "high"
+      },
+      {
+        "name": "가족 유대",
+        "type": "human_experience",
+        "evidence": "살 길은 막막하지만 사이는 좋다는 묘사와 함께 온 가족의 도움과 기대 속에서 기우를 돕는 가족 간의 긴밀한 관계가 드러난다.",
+        "evidence_level": "explicit",
+        "confidence": "medium"
+      }
+    ],
+    "raw_response": "{\n  \"content_id\": 79301,\n  \"topics\": [\n    {\n      \"name\": \"빈부격차\",\n      \"type\": \"social_issue\",\n      \"evidence\": \"살 길 막막한 전원백수 가족과 글로벌 IT기업 CEO 저택의 대비를 다루며, 키워드로 빈부격차와 계급 차이가 명시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"계급 격차와 공존\",\n      \"type\": \"theme\",\n      \"evidence\": \"‘같이 잘 살면 안 될까요?’라는 질문과 함께 서로 다른 계층의 두 가족이 조우하면서 벌어지는 파국을 다룬다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"생존 경쟁\",\n      \"type\": \"subject\",\n      \"evidence\": \"전원백수 가족이 모처럼 찾아온 고정수입의 희망을 잡기 위해 온 가족의 기대와 도움 속에 부유층 저택으로 향하며 사건이 시작된다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"실업 문제\",\n      \"type\": \"social_issue\",\n      \"evidence\": \"온 가족이 전원백수 상태로 살 길이 막막하다는 상황이 묘사되며, 키워드로 '백수'와 'unemployed'가 제공된다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"가족 유대\",\n      \"type\": \"human_experience\",\n      \"evidence\": \"살 길은 막막하지만 사이는 좋다는 묘사와 함께 온 가족의 도움과 기대 속에서 기우를 돕는 가족 간의 긴밀한 관계가 드러난다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"medium\"\n    }\n  ]\n}",
+    "status": "success",
+    "error": null
+  },
+  {
+    "content_id": 77504,
+    "content_type": "movie",
+    "title": "살인의 추억",
+    "model_requested": "gpt-6-sol",
+    "model_returned": "gpt-6-sol",
+    "prompt_version": "topic-v3",
+    "elapsed_seconds": 8.157,
+    "input_tokens": 3642,
+    "output_tokens": 645,
+    "total_tokens": 4287,
+    "topic_count": 5,
+    "topics": [
+      {
+        "name": "연쇄 성폭행 살인",
+        "type": "subject",
+        "evidence": "강간살해 당한 여성의 시체가 발견된 뒤 비슷한 수법의 사건이 연이어 발생한다.",
+        "evidence_level": "explicit",
+        "confidence": "high"
+      },
+      {
+        "name": "미제 사건 수사",
+        "type": "subject",
+        "evidence": "형사들이 용의자를 추적하고 유전자 감식을 의뢰하지만, 수사는 미궁에 빠진 채 17년이 흐른다.",
+        "evidence_level": "explicit",
+        "confidence": "high"
+      },
+      {
+        "name": "강압 수사와 경찰 폭력",
+        "type": "social_issue",
+        "evidence": "형사들이 백광호를 범인으로 확신하고 구타하며 자백을 강요한다.",
+        "evidence_level": "explicit",
+        "confidence": "high"
+      },
+      {
+        "name": "확신과 증거의 충돌",
+        "type": "theme",
+        "evidence": "형사들은 박현규가 범인이라고 확신하지만, 유전자 감식 결과는 범인의 유전자와 일치하지 않는다고 밝힌다.",
+        "evidence_level": "inferred",
+        "confidence": "high"
+      },
+      {
+        "name": "수사 실패의 무력감",
+        "type": "human_experience",
+        "evidence": "함정수사 뒤에도 피해자가 발생하고 유력 용의자를 뒷받침할 감식 결과도 나오지 않아 수사가 미궁에 빠진다.",
+        "evidence_level": "inferred",
+        "confidence": "medium"
+      }
+    ],
+    "raw_response": "{\n  \"content_id\": 77504,\n  \"topics\": [\n    {\n      \"name\": \"연쇄 성폭행 살인\",\n      \"type\": \"subject\",\n      \"evidence\": \"강간살해 당한 여성의 시체가 발견된 뒤 비슷한 수법의 사건이 연이어 발생한다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"미제 사건 수사\",\n      \"type\": \"subject\",\n      \"evidence\": \"형사들이 용의자를 추적하고 유전자 감식을 의뢰하지만, 수사는 미궁에 빠진 채 17년이 흐른다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"강압 수사와 경찰 폭력\",\n      \"type\": \"social_issue\",\n      \"evidence\": \"형사들이 백광호를 범인으로 확신하고 구타하며 자백을 강요한다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"확신과 증거의 충돌\",\n      \"type\": \"theme\",\n      \"evidence\": \"형사들은 박현규가 범인이라고 확신하지만, 유전자 감식 결과는 범인의 유전자와 일치하지 않는다고 밝힌다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"수사 실패의 무력감\",\n      \"type\": \"human_experience\",\n      \"evidence\": \"함정수사 뒤에도 피해자가 발생하고 유력 용의자를 뒷받침할 감식 결과도 나오지 않아 수사가 미궁에 빠진다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"medium\"\n    }\n  ]\n}",
+    "status": "success",
+    "error": null
+  },
+  {
+    "content_id": 77504,
+    "content_type": "movie",
+    "title": "살인의 추억",
+    "model_requested": "gemini-3.8-flash",
+    "model_returned": "gemini-3.8-flash",
+    "prompt_version": "topic-v3",
+    "elapsed_seconds": 14.567,
+    "input_tokens": 4031,
+    "output_tokens": 385,
+    "total_tokens": 6014,
+    "topic_count": 4,
+    "topics": [
+      {
+        "name": "연쇄살인 수사",
+        "type": "subject",
+        "evidence": "경기도 화성에서 연이어 발생하는 여성 강간살해 사건의 범인을 잡기 위해 형사들이 수사를 벌이는 과정이 중심 줄거리로 다뤄진다.",
+        "evidence_level": "explicit",
+        "confidence": "high"
+      },
+      {
+        "name": "강압 수사",
+        "type": "social_issue",
+        "evidence": "형사들이 지능이 모자란 인물을 용의자로 지목하고 구타를 통해 자백을 강요하는 폭력적인 수사 관행이 나타난다.",
+        "evidence_level": "explicit",
+        "confidence": "high"
+      },
+      {
+        "name": "진실 추적의 한계",
+        "type": "theme",
+        "evidence": "함정수사와 미국 유전자 감식 의뢰 등 다양한 노력을 기울이지만 결국 범인을 특정하지 못하고 사건이 미궁에 빠지는 모습을 보여준다.",
+        "evidence_level": "inferred",
+        "confidence": "high"
+      },
+      {
+        "name": "좌절과 무력감",
+        "type": "human_experience",
+        "evidence": "확신했던 용의자의 유전자가 불일치한다는 결과를 통보받고 17년이 지난 후에도 사건을 해결하지 못한 형사의 내적 고통이 드러난다.",
+        "evidence_level": "inferred",
+        "confidence": "high"
+      }
+    ],
+    "raw_response": "{\n  \"content_id\": 77504,\n  \"topics\": [\n    {\n      \"name\": \"연쇄살인 수사\",\n      \"type\": \"subject\",\n      \"evidence\": \"경기도 화성에서 연이어 발생하는 여성 강간살해 사건의 범인을 잡기 위해 형사들이 수사를 벌이는 과정이 중심 줄거리로 다뤄진다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"강압 수사\",\n      \"type\": \"social_issue\",\n      \"evidence\": \"형사들이 지능이 모자란 인물을 용의자로 지목하고 구타를 통해 자백을 강요하는 폭력적인 수사 관행이 나타난다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"진실 추적의 한계\",\n      \"type\": \"theme\",\n      \"evidence\": \"함정수사와 미국 유전자 감식 의뢰 등 다양한 노력을 기울이지만 결국 범인을 특정하지 못하고 사건이 미궁에 빠지는 모습을 보여준다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"좌절과 무력감\",\n      \"type\": \"human_experience\",\n      \"evidence\": \"확신했던 용의자의 유전자가 불일치한다는 결과를 통보받고 17년이 지난 후에도 사건을 해결하지 못한 형사의 내적 고통이 드러난다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    }\n  ]\n}",
+    "status": "success",
+    "error": null
+  }
+]
