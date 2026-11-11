@@ -1,0 +1,93 @@
+{
+ "definitions": {
+  "code_auto_rate": "AUTO_SAME pairs / candidate pairs that survive code vetoes",
+  "llm_call_rate": "pairs sent to LLM (non-AUTO, non-veto LLM_REVIEW queue) / same candidate set; v1 = all of them",
+  "misintegration_risk": "AUTO pairs with hard NOT_SAME (and soft: +UNSURE) among labeled AUTO, Wilson 95% upper bound; unlabeled AUTO excluded and reported; LLM labels provisional",
+  "coverage": "terms belonging to a merged group / all candidate terms; plus merged-group size distribution"
+ },
+ "candidate_set": 1861,
+ "full_population_pairs": 308625,
+ "code_auto": {
+  "existing": 53,
+  "new_v1_1": 106,
+  "total": 159,
+  "rate_of_candidate_set": 0.0854,
+  "rate_of_full_population": 0.000515
+ },
+ "llm_call": {
+  "queue_after": 1702,
+  "of_which_already_have_verdict_in_ledger": 1204,
+  "new_calls_needed": 498,
+  "queue_before_v1": 1808,
+  "call_rate_after": 0.9146,
+  "assisted_subset": 184
+ },
+ "misintegration": {
+  "auto_new": 106,
+  "labeled": 51,
+  "unlabeled": 55,
+  "hard_NOT_SAME": 0,
+  "UNSURE": 1,
+  "hard_wilson95": [
+   0.0,
+   0.07
+  ],
+  "soft_wilson95": [
+   0.0035,
+   0.103
+  ]
+ },
+ "coverage": {
+  "terms_in_auto_groups": 384,
+  "total_terms_in_candidates": 19309,
+  "term_rate": 0.0199,
+  "groups": 188,
+  "group_size_dist": {
+   "2": 181,
+   "3": 6,
+   "4": 1
+  },
+  "groups_larger_than_2": [
+   [
+    "break up",
+    "break-up",
+    "이별"
+   ],
+   [
+    "guest house",
+    "guesthouse",
+    "게스트하우스"
+   ],
+   [
+    "high school",
+    "highschool",
+    "고등학교",
+    "여고생"
+   ],
+   [
+    "hong kong",
+    "hongkong",
+    "홍콩"
+   ],
+   [
+    "spy",
+    "간첩",
+    "스파이"
+   ],
+   [
+    "romance",
+    "로망스",
+    "로맨스"
+   ],
+   [
+    "rival",
+    "rivalry",
+    "라이벌"
+   ]
+  ]
+ },
+ "hold": {
+  "rule": "HOLD = not merged automatically; not a required human queue",
+  "hold_in_candidate_set": 1518
+ }
+}

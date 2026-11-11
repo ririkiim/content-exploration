@@ -1,0 +1,208 @@
+{
+ "v1_0": {
+  "tag": "rules_v1.0",
+  "tests": [
+   {
+    "name": "existing 53 code SAME retained",
+    "passed": true,
+    "hard": true,
+    "detail": "53 kept"
+   },
+   {
+    "name": "no CODE_NOT_SAME (digit/entity conflict) promoted",
+    "passed": true,
+    "hard": true,
+    "detail": "vetoes held"
+   },
+   {
+    "name": "no AUTO pair has human/LLM NOT_SAME verdict",
+    "passed": true,
+    "hard": true,
+    "detail": []
+   },
+   {
+    "name": "single-signal translit/QID/cooc never AUTO",
+    "passed": true,
+    "hard": true,
+    "detail": "rule set closed"
+   },
+   {
+    "name": "translit-only (no usage/QID) never AUTO",
+    "passed": true,
+    "hard": true,
+    "detail": "스폰서/suspence, 맨션/mansion, 바그다드/pagoda stay ASSISTED"
+   },
+   {
+    "name": "known translit false hits stay out of AUTO",
+    "passed": true,
+    "hard": true,
+    "detail": ""
+   },
+   {
+    "name": "AUTO pairs with LLM/human UNSURE (conflict list, soft)",
+    "passed": false,
+    "hard": false,
+    "detail": [
+     [
+      "성형외과",
+      "plastic surgery",
+      "N3_qid+cooc"
+     ],
+     [
+      "섹스코미디",
+      "섹시코미디",
+      "N5_spell+substitution"
+     ]
+    ]
+   }
+  ],
+  "auto_new": 135,
+  "labeled": 72,
+  "unlabeled": 63,
+  "hard_NOT_SAME": 0,
+  "UNSURE": 2,
+  "hard_error_wilson95": [
+   0.0,
+   0.0507
+  ],
+  "soft_error_wilson95": [
+   0.0077,
+   0.0957
+  ],
+  "auto_set_hash": "65c2545a6dd6"
+ },
+ "v1_1": {
+  "tag": "rules_v1.1",
+  "tests": [
+   {
+    "name": "existing 53 code SAME retained",
+    "passed": true,
+    "hard": true,
+    "detail": "53 kept"
+   },
+   {
+    "name": "no CODE_NOT_SAME (digit/entity conflict) promoted",
+    "passed": true,
+    "hard": true,
+    "detail": "vetoes held"
+   },
+   {
+    "name": "no AUTO pair has human/LLM NOT_SAME verdict",
+    "passed": true,
+    "hard": true,
+    "detail": []
+   },
+   {
+    "name": "single-signal translit/QID/cooc never AUTO",
+    "passed": true,
+    "hard": true,
+    "detail": "rule set closed"
+   },
+   {
+    "name": "translit-only (no usage/QID) never AUTO",
+    "passed": true,
+    "hard": true,
+    "detail": "스폰서/suspence, 맨션/mansion, 바그다드/pagoda stay ASSISTED"
+   },
+   {
+    "name": "known translit false hits stay out of AUTO",
+    "passed": true,
+    "hard": true,
+    "detail": ""
+   },
+   {
+    "name": "AUTO pairs with LLM/human UNSURE (conflict list, soft)",
+    "passed": false,
+    "hard": false,
+    "detail": [
+     [
+      "성형외과",
+      "plastic surgery",
+      "N3_qid+cooc"
+     ]
+    ]
+   }
+  ],
+  "auto_new": 128,
+  "labeled": 67,
+  "unlabeled": 61,
+  "hard_NOT_SAME": 0,
+  "UNSURE": 1,
+  "hard_error_wilson95": [
+   0.0,
+   0.0542
+  ],
+  "soft_error_wilson95": [
+   0.0026,
+   0.0798
+  ],
+  "auto_set_hash": "44614a1fc794"
+ },
+ "v1_2": {
+  "tag": "rules_v1.2",
+  "tests": [
+   {
+    "name": "existing 53 code SAME retained",
+    "passed": true,
+    "hard": true,
+    "detail": "53 kept"
+   },
+   {
+    "name": "no CODE_NOT_SAME (digit/entity conflict) promoted",
+    "passed": true,
+    "hard": true,
+    "detail": "vetoes held"
+   },
+   {
+    "name": "no AUTO pair has human/LLM NOT_SAME verdict",
+    "passed": true,
+    "hard": true,
+    "detail": []
+   },
+   {
+    "name": "single-signal translit/QID/cooc never AUTO",
+    "passed": true,
+    "hard": true,
+    "detail": "rule set closed"
+   },
+   {
+    "name": "translit-only (no usage/QID) never AUTO",
+    "passed": true,
+    "hard": true,
+    "detail": "스폰서/suspence, 맨션/mansion, 바그다드/pagoda stay ASSISTED"
+   },
+   {
+    "name": "known translit false hits stay out of AUTO",
+    "passed": true,
+    "hard": true,
+    "detail": ""
+   },
+   {
+    "name": "AUTO pairs with LLM/human UNSURE (conflict list, soft)",
+    "passed": false,
+    "hard": false,
+    "detail": [
+     [
+      "성형외과",
+      "plastic surgery",
+      "N3_qid+cooc"
+     ]
+    ]
+   }
+  ],
+  "auto_new": 106,
+  "labeled": 51,
+  "unlabeled": 55,
+  "hard_NOT_SAME": 0,
+  "UNSURE": 1,
+  "hard_error_wilson95": [
+   0.0,
+   0.07
+  ],
+  "soft_error_wilson95": [
+   0.0035,
+   0.103
+  ],
+  "auto_set_hash": "767d4491febd"
+ }
+}

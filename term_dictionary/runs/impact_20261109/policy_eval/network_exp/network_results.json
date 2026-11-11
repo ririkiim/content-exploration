@@ -1,0 +1,236 @@
+{
+ "wikidata_broader": {
+  "items_with_keyword_label": 3707,
+  "broader_links_found": 945
+ },
+ "weights": {
+  "EXACT_code": 1.0,
+  "SAME_human": 0.9,
+  "SAME_llm": 0.85,
+  "REL_qid_only": 0.7,
+  "REL_translit_only": 0.6,
+  "REL_compose": 0.6,
+  "REL_llm_unsure": 0.5,
+  "DERIV_en": 0.7,
+  "BROADER_wd": 0.5,
+  "CTRL_e5_only": 0.3
+ },
+ "edge_counts_by_type": {
+  "EXACT_code": 149,
+  "SAME_human": 21,
+  "SAME_llm": 525,
+  "REL_llm_unsure": 169,
+  "REL_qid_only": 14,
+  "REL_translit_only": 19,
+  "REL_compose": 2,
+  "DERIV_en": 103,
+  "BROADER_wd": 916,
+  "CTRL_e5_only": 4647
+ },
+ "n_edges": 6565,
+ "contents_total": 43601,
+ "contents_without_keywords": 23250,
+ "S0": {
+  "cross_source_KMDb_TMDb_pairs": {
+   "hop0": 0,
+   "new1": 0,
+   "new2": 0
+  },
+  "new_content_pairs_hop0_from_exact_merge": 0,
+  "new_pairs_1hop_by_hub_tier": {},
+  "top10_edges_share_of_new_1hop_pairs": 0.0,
+  "edges_in_scenario": 0,
+  "groups": 19386,
+  "exact_groups_merged": 0,
+  "contents_with_keywords": 20351,
+  "isolated_contents": 192,
+  "isolated_contents_raw_graph": 192,
+  "new_content_pairs_1hop": 0,
+  "new_content_pairs_1hop_weight_ge_0_5": 0,
+  "new_content_pairs_2hop_beyond": 0,
+  "singleton_keywords": 8798,
+  "singleton_keywords_rescued": 0,
+  "edges_skipped_hub_cap": 0,
+  "mids_capped_2hop": 0,
+  "top_contributing_edges": [],
+  "seconds": 10
+ },
+ "S1": {
+  "cross_source_KMDb_TMDb_pairs": {
+   "hop0": 242116,
+   "new1": 0,
+   "new2": 0
+  },
+  "new_content_pairs_hop0_from_exact_merge": 501368,
+  "new_pairs_1hop_by_hub_tier": {},
+  "top10_edges_share_of_new_1hop_pairs": 0.0,
+  "edges_in_scenario": 0,
+  "groups": 19237,
+  "exact_groups_merged": 149,
+  "contents_with_keywords": 20351,
+  "isolated_contents": 192,
+  "isolated_contents_raw_graph": 192,
+  "new_content_pairs_1hop": 0,
+  "new_content_pairs_1hop_weight_ge_0_5": 0,
+  "new_content_pairs_2hop_beyond": 0,
+  "singleton_keywords": 8780,
+  "singleton_keywords_rescued": 0,
+  "edges_skipped_hub_cap": 0,
+  "mids_capped_2hop": 0,
+  "top_contributing_edges": [],
+  "seconds": 11
+ },
+ "S2": {
+  "cross_source_KMDb_TMDb_pairs": {
+   "hop0": 242116,
+   "new1": 86484,
+   "new2": 0
+  },
+  "new_content_pairs_hop0_from_exact_merge": 501368,
+  "new_pairs_1hop_by_hub_tier": {
+   "df<=20": 5964,
+   "101-500": 54098,
+   "21-100": 21224,
+   ">500": 78289
+  },
+  "top10_edges_share_of_new_1hop_pairs": 0.826,
+  "edges_in_scenario": 546,
+  "groups": 19237,
+  "exact_groups_merged": 149,
+  "contents_with_keywords": 20351,
+  "isolated_contents": 172,
+  "isolated_contents_raw_graph": 192,
+  "new_content_pairs_1hop": 159575,
+  "new_content_pairs_1hop_weight_ge_0_5": 159575,
+  "new_content_pairs_2hop_beyond": 0,
+  "singleton_keywords": 8780,
+  "singleton_keywords_rescued": 331,
+  "edges_skipped_hub_cap": 0,
+  "mids_capped_2hop": 0,
+  "top_contributing_edges": [
+   [
+    "revenge ~ 복수",
+    78289
+   ],
+   [
+    "first love ~ 첫사랑",
+    14472
+   ],
+   [
+    "murder ~ 살인",
+    9648
+   ],
+   [
+    "납치 ~ 유괴",
+    7999
+   ],
+   [
+    "based on webcomic or webtoon ~ 웹툰원작",
+    6358
+   ]
+  ],
+  "seconds": 11
+ },
+ "S3": {
+  "cross_source_KMDb_TMDb_pairs": {
+   "hop0": 242116,
+   "new1": 248272,
+   "new2": 45494
+  },
+  "new_content_pairs_hop0_from_exact_merge": 501368,
+  "new_pairs_1hop_by_hub_tier": {
+   "df<=20": 14716,
+   "101-500": 563173,
+   "21-100": 263022,
+   ">500": 197685
+  },
+  "top10_edges_share_of_new_1hop_pairs": 0.331,
+  "edges_in_scenario": 1591,
+  "groups": 19237,
+  "exact_groups_merged": 149,
+  "contents_with_keywords": 20351,
+  "isolated_contents": 153,
+  "isolated_contents_raw_graph": 192,
+  "new_content_pairs_1hop": 1038596,
+  "new_content_pairs_1hop_weight_ge_0_5": 1038596,
+  "new_content_pairs_2hop_beyond": 191135,
+  "singleton_keywords": 8780,
+  "singleton_keywords_rescued": 633,
+  "edges_skipped_hub_cap": 1,
+  "mids_capped_2hop": 0,
+  "top_contributing_edges": [
+   [
+    "revenge ~ 복수",
+    78140
+   ],
+   [
+    "사랑 ~ 짝사랑",
+    62589
+   ],
+   [
+    "가족 ~ 부부",
+    40781
+   ],
+   [
+    "고등학생 ~ 여고생",
+    38779
+   ],
+   [
+    "독립영화 ~ 영화",
+    28001
+   ]
+  ],
+  "seconds": 13
+ },
+ "S4": {
+  "cross_source_KMDb_TMDb_pairs": {
+   "hop0": 242116,
+   "new1": 272656,
+   "new2": 65867
+  },
+  "new_content_pairs_hop0_from_exact_merge": 501368,
+  "new_pairs_1hop_by_hub_tier": {
+   "df<=20": 51398,
+   "101-500": 692214,
+   "21-100": 369283,
+   ">500": 218889
+  },
+  "top10_edges_share_of_new_1hop_pairs": 0.27,
+  "edges_in_scenario": 6234,
+  "groups": 19237,
+  "exact_groups_merged": 149,
+  "contents_with_keywords": 20351,
+  "isolated_contents": 89,
+  "isolated_contents_raw_graph": 192,
+  "new_content_pairs_1hop": 1331784,
+  "new_content_pairs_1hop_weight_ge_0_5": 1038596,
+  "new_content_pairs_2hop_beyond": 255493,
+  "singleton_keywords": 8780,
+  "singleton_keywords_rescued": 3793,
+  "edges_skipped_hub_cap": 1,
+  "mids_capped_2hop": 0,
+  "top_contributing_edges": [
+   [
+    "revenge ~ 복수",
+    78140
+   ],
+   [
+    "사랑 ~ 짝사랑",
+    62558
+   ],
+   [
+    "가족 ~ 부부",
+    40728
+   ],
+   [
+    "고등학생 ~ 여고생",
+    38748
+   ],
+   [
+    "여고생 ~ 여대생",
+    28431
+   ]
+  ],
+  "seconds": 15
+ }
+}

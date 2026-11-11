@@ -1,0 +1,283 @@
+{
+ "nodes": 19386,
+ "en_nodes": 4796,
+ "ko_nodes": 14590,
+ "en_attachments": 21982,
+ "ko_attachments": 102871,
+ "S0_current_translation_links": {
+  "en_with_ko": 669,
+  "en_share": 0.139,
+  "en_attachment_share": 0.297,
+  "ko_with_en": 675
+ },
+ "EN_frequency_tiers": {
+  "top100": {
+   "attachment_share_of_all_EN": 0.381,
+   "covered_now": 35,
+   "min_df": 34
+  },
+  "top300": {
+   "attachment_share_of_all_EN": 0.555,
+   "covered_now": 91,
+   "min_df": 13
+  },
+  "top1000": {
+   "attachment_share_of_all_EN": 0.763,
+   "covered_now": 240,
+   "min_df": 4
+  },
+  "top4796": {
+   "attachment_share_of_all_EN": 1.0,
+   "covered_now": 669,
+   "min_df": 1
+  }
+ },
+ "S1_wikidata_cache": {
+  "entities_in_cache": 8994,
+  "en_with_matching_item": 832,
+  "en_with_single_clean_item": 482,
+  "en_with_ko_label": 420,
+  "en_with_ko_alias": 233,
+  "ko_label_already_a_keyword": 306,
+  "new_over_S0": 258,
+  "attachment_share_new": 0.061,
+  "top_claim_properties": [
+   [
+    "P31",
+    7895
+   ],
+   [
+    "P646",
+    4851
+   ],
+   [
+    "P373",
+    3564
+   ],
+   [
+    "P18",
+    2980
+   ],
+   [
+    "P279",
+    2957
+   ],
+   [
+    "P910",
+    2874
+   ],
+   [
+    "P1476",
+    2560
+   ],
+   [
+    "P577",
+    2293
+   ],
+   [
+    "P1889",
+    2217
+   ],
+   [
+    "P244",
+    2132
+   ],
+   [
+    "P227",
+    2103
+   ],
+   [
+    "P495",
+    2037
+   ]
+  ]
+ },
+ "S2_parallel_works": {
+  "dual_source_works": 4215,
+  "with_both_language_keywords": 1422,
+  "en_with_mutual_best_ko": 211,
+  "new_over_S0": 152,
+  "attachment_share_new": 0.117,
+  "agree_with_existing_links": 26,
+  "differ_from_existing_links": 33,
+  "examples": [
+   [
+    "boys' love (bl)",
+    "동성애",
+    0.52,
+    14
+   ],
+   [
+    "joseon dynasty (1392–1910)",
+    "조선시대",
+    0.73,
+    55
+   ],
+   [
+    "based on novel or book",
+    "소설원작",
+    0.54,
+    47
+   ],
+   [
+    "japanese occupation of korea",
+    "일제강점기",
+    0.62,
+    32
+   ],
+   [
+    "inter-korean relations",
+    "북한",
+    0.46,
+    18
+   ],
+   [
+    "anthology",
+    "옴니버스영화",
+    0.68,
+    22
+   ],
+   [
+    "gay theme",
+    "퀴어무비",
+    0.53,
+    10
+   ],
+   [
+    "concert film",
+    "공연실황",
+    0.86,
+    3
+   ],
+   [
+    "korea president",
+    "대통령",
+    0.47,
+    7
+   ],
+   [
+    "based on true story",
+    "실화바탕",
+    0.45,
+    30
+   ],
+   [
+    "experimental",
+    "실험영화",
+    0.71,
+    6
+   ],
+   [
+    "unrequited love",
+    "킹카",
+    1.0,
+    2
+   ]
+  ]
+ },
+ "S3_translit_all_nodes": {
+  "en_with_ko_skeleton_match": 639,
+  "unique_match": 304,
+  "new_over_S0": 509,
+  "attachment_share_new": 0.08,
+  "examples": [
+   [
+    "LGBT",
+    [
+     "헬리콥터"
+    ]
+   ],
+   [
+    "anthology",
+    [
+     "흔들의자"
+    ]
+   ],
+   [
+    "cohabitation",
+    [
+     "곱등이",
+     "케이프타운"
+    ]
+   ],
+   [
+    "student",
+    [
+     "스턴트"
+    ]
+   ],
+   [
+    "secret",
+    [
+     "에스컬레이터",
+     "사기그릇"
+    ]
+   ],
+   [
+    "bullying",
+    [
+     "붉은기"
+    ]
+   ],
+   [
+    "flashback",
+    [
+     "플래시백",
+     "플레시백"
+    ]
+   ],
+   [
+    "office worker",
+    [
+     "벼슬길"
+    ]
+   ],
+   [
+    "musical",
+    [
+     "미스코리아"
+    ]
+   ],
+   [
+    "sismance",
+    [
+     "시민사회"
+    ]
+   ]
+  ]
+ },
+ "S4_e5_cross_existing": {
+  "en_with_mutual_top1_ko": 1393,
+  "with_content_cooc": 174,
+  "new_over_S0": 775,
+  "cooc_new_over_S0": 42
+ },
+ "union_candidate_coverage": {
+  "en_any_source": 1215,
+  "new_over_S0": 871,
+  "attachment_share_any_or_S0": 0.55,
+  "en_with_2plus_independent_sources": 199,
+  "new_with_2plus": 87,
+  "en_share_any_or_S0": 0.321,
+  "still_uncovered_en": 3256,
+  "still_uncovered_top300": 124,
+  "still_uncovered_examples": [
+   "6.25",
+   "romcom",
+   "investigation",
+   "seoul, south korea",
+   "k-pop",
+   "gay romance",
+   "historical",
+   "youth",
+   "martial arts",
+   "based on comic",
+   "hidden identity",
+   "thriller",
+   "family relationships",
+   "corruption",
+   "infidelity"
+  ]
+ },
+ "relation_sources_note": "BROADER from Wikidata P279 in cache is already in edges.csv (916); derivation (suffix) 103; no other relation source exists locally besides LLM verdicts (UNSURE 169) and E5/cooc candidates."
+}
