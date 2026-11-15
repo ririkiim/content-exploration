@@ -5,7 +5,7 @@ import argparse
 import json
 
 from paths import TMDB_RAW_DIR
-from tmdb_client import tmdb_get
+from legacy_poc.tmdb_client import tmdb_get
 
 # TMDB 에서 사용할 부가 정보를 함께 요청해 JSON 파일로 저장
 def fetch_tmdb_content(tmdb_id: int, media_type: str) -> None:

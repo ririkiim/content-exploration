@@ -5,7 +5,7 @@ import json
 import requests
 
 from paths import YES24_RAW_DIR
-from yes24_client import yes24_get
+from legacy_poc.yes24_client import yes24_get
 
 
 def fetch_yes24_content(yes24_item_id: int, title: str,) -> None:
