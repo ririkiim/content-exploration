@@ -10,7 +10,7 @@
 -- Target DB: PostgreSQL / content_exploration
 -- Run once per database after backup
 -- =========================================================
-s
+
 
 BEGIN;
 
@@ -30,7 +30,8 @@ CHECK (
         'KEYWORD',
         'TIME_PERIOD',
         'METADATA',
-        'WORK'
+        'WORK',
+        'GENRE'
     )
 );
 
@@ -52,7 +53,8 @@ CHECK (
         'screenwriter',
         'author',
         'original_author',
-        'original_story'
+        'original_story',
+        'genre'
     )
 );
 
@@ -72,7 +74,8 @@ CHECK (
         'screenwriter',
         'author',
         'original_author',
-        'original_story'
+        'original_story',
+        'genre'
     )
 );
 
@@ -101,7 +104,8 @@ CHECK (
         'screenwriter',
         'author',
         'original_author',
-        'original_story'
+        'original_story',
+        'genre'
     )
 );
 
@@ -120,7 +124,8 @@ CHECK (
         'screenwriter',
         'author',
         'original_author',
-        'original_story'
+        'original_story',
+        'genre'
     )
 );
 
