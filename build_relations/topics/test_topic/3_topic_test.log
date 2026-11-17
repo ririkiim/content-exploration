@@ -1,0 +1,795 @@
+============================================================
+Content Topic Extraction
+Prompt: topic-v5.0
+Model: gpt-5.6
+Temperature: 0.0
+Record Only: True
+Dry Run: False
+Targets: 11
+============================================================
+
+[1/11] 42431 | 무빙
+
+  추출된 토픽: 12개
+
+  ✓ 초능력 은폐
+     유형: subject
+     인용: 초능력을 숨긴 채 현재를 살아가는 아이들
+     설명: 아이들이 자신의 초능력을 감추고 살아간다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 과거의 비밀 은폐
+     유형: human_experience
+     인용: 과거의 아픈 비밀을 감춘 채 살아온 부모들
+     설명: 부모들이 고통스러운 과거를 숨기고 살아간다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 부모와 자녀
+     유형: human_experience
+     인용: parents and child
+     설명: 부모와 자녀 관계가 중심적인 인물 구도를 이룬다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 세대 간 공동 대응
+     유형: theme
+     인용: 아이들과, 과거의 아픈 비밀을 감춘 채 살아온 부모들이 시대와 세대를 넘어 닥치는 거대한 위험에 함께 맞서는
+     설명: 아이들과 부모가 세대를 넘어 위협에 함께 맞선다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 세대를 넘는 위협
+     유형: subject
+     인용: 시대와 세대를 넘어 닥치는 거대한 위험
+     설명: 여러 시대와 세대에 걸친 위험이 핵심 갈등이다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 고등학교
+     유형: subject
+     인용: high school
+     설명: 고등학교가 작품의 주요 배경 소재로 제시된다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 정보기관 요원
+     유형: subject
+     인용: agent
+     설명: 요원이 서사와 연결된 직업적 소재로 제시된다.
+     근거: explicit
+     신뢰도: medium
+     quote_valid: True
+
+  ✓ 국가정보원
+     유형: subject
+     인용: national intelligence service (nis)
+     설명: 국가정보원이 작품의 제도적 배경으로 등장한다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 치유 능력
+     유형: subject
+     인용: healing power
+     설명: 상처를 치유하는 초능력이 주요 능력으로 제시된다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 비행 능력
+     유형: subject
+     인용: flying man
+     설명: 비행하는 초능력자가 고유한 소재로 등장한다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 재생 능력
+     유형: subject
+     인용: regeneration
+     설명: 신체 재생이 구체적인 초능력 소재로 제시된다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 서울
+     유형: subject
+     인용: seoul, south korea
+     설명: 서울이 작품의 지리적 배경으로 제시된다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  상태: success
+  이력만 저장 / 서비스 미반영
+
+[2/11] 42544 | 옷소매 붉은 끝동
+
+  추출된 토픽: 7개
+
+  ✓ 궁녀
+     유형: subject
+     인용: 자신이 선택한 삶을 지키고자 한 궁녀
+     설명: 삶의 선택을 지키려는 중심인물의 역할이다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 삶의 자기결정
+     유형: theme
+     인용: 자신이 선택한 삶을 지키고자 한
+     설명: 스스로 선택한 삶을 지키려는 의지가 중심 갈등이다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 사랑과 국가의 충돌
+     유형: theme
+     인용: 사랑보다 나라가 우선이었던 제왕
+     설명: 제왕에게 사랑과 국가적 책임이 충돌한다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 궁중 로맨스
+     유형: subject
+     인용: 애절한 궁중 로맨스
+     설명: 궁녀와 제왕의 사랑이 궁중을 배경으로 전개된다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 트라우마
+     유형: human_experience
+     인용: trauma
+     설명: 인물의 인간적 경험을 이루는 심리적 상처다.
+     근거: explicit
+     신뢰도: medium
+     quote_valid: True
+
+  ✓ 부모의 죽음
+     유형: human_experience
+     인용: death of parent
+     설명: 부모를 잃는 경험이 서사의 소재로 제시된다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 조선 시대
+     유형: subject
+     인용: joseon dynasty (1392–1910)
+     설명: 궁중 서사의 역사적 시대 배경이다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  상태: success
+  이력만 저장 / 서비스 미반영
+
+[3/11] 43021 | 정년이
+
+  추출된 토픽: 12개
+
+  ✓ 1956년 목포
+     유형: subject
+     인용: 1956년 목포
+     설명: 주인공의 삶과 출발점을 이루는 시대·지역 배경이다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 고된 생계
+     유형: human_experience
+     인용: 바지락 캐고 생선 팔며 살아가는 고된 삶
+     설명: 주인공은 시장 노동으로 힘겹게 생계를 이어간다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 한국 전통음악
+     유형: subject
+     인용: traditional music
+     설명: 소리와 국극을 포괄하는 작품의 핵심 문화 소재다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 국극
+     유형: subject
+     인용: 난생처음 국극이란 걸 보게 된 정년
+     설명: 국극과의 만남이 주인공의 진로를 바꾸는 계기가 된다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 타고난 소리 재능
+     유형: subject
+     인용: 소리 하나만큼은 타고난 천재 소녀
+     설명: 천부적인 소리 실력이 국극 배우 도전의 기반이다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 새로운 예술의 발견
+     유형: human_experience
+     인용: 눈앞에 펼쳐지는 상상도 못한 세계에 충격과 전율을 느낀다
+     설명: 처음 접한 국극은 주인공에게 강렬한 예술적 각성을 준다.
+     근거: inferred
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 꿈과 부모의 반대
+     유형: theme
+     인용: 절대 소리를 못 하게 하는 엄마의 반대를 무릅쓰고
+     설명: 예술가의 꿈을 향한 선택이 어머니의 금지와 충돌한다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 국극단 입단
+     유형: subject
+     인용: 서울의 매란국극단에 들어가게 된 정년
+     설명: 국극단 입단을 통해 배우를 향한 본격적인 도전이 시작된다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 국극 배우의 꿈
+     유형: human_experience
+     인용: 문옥경의 뒤를 잇는 최고의 국극 배우가 되는 것!
+     설명: 최고의 배우가 되려는 열망이 주인공의 목표가 된다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 천재와 엘리트의 경쟁
+     유형: theme
+     인용: 소리라면 누구보다 자신 있던 정년이지만 엘리트 연구생 허영서의 출중한 실력에 긴장하게 되고
+     설명: 타고난 재능과 엘리트 연구생의 실력이 경쟁 구도를 이룬다.
+     근거: inferred
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 경쟁과 연대
+     유형: theme
+     인용: 최고의 국극 배우를 향한 경쟁과 연대
+     설명: 배우 지망생들은 경쟁하면서도 서로 연대한다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 예술가로의 성장
+     유형: human_experience
+     인용: 그리고 찬란한 성장기
+     설명: 난관과 경쟁을 거치며 국극 배우로 성장하는 과정이 중심이다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  상태: success
+  이력만 저장 / 서비스 미반영
+
+[4/11] 44465 | 미생
+
+  추출된 토픽: 9개
+
+  ✓ 프로 바둑기사
+     유형: subject
+     인용: 프로 바둑기사의 꿈
+     설명: 주인공이 포기한 본래의 진로다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 꿈의 포기
+     유형: human_experience
+     인용: 프로 바둑기사의 꿈을 접은
+     설명: 오랜 직업적 꿈을 접고 새 삶을 시작한다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 인턴 생활
+     유형: subject
+     인용: 인턴사원이 되어
+     설명: 인턴 신분으로 직장 생활에 진입한다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 험난한 직장 생활
+     유형: human_experience
+     인용: 험난한 직장 생활을 시작한다
+     설명: 새로 시작한 직장 생활에서 어려움을 겪는다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 동료 의존
+     유형: human_experience
+     인용: 입사 동기 영이에게 의존하며
+     설명: 직장 생활을 시작하며 입사 동기에게 의지한다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 팀워크
+     유형: theme
+     인용: teamwork
+     설명: 직장 내 협업이 주요 탐색 소재로 제시된다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 남성 간 우정
+     유형: human_experience
+     인용: bromance
+     설명: 남성 인물 사이의 친밀한 관계를 다룬다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 무역
+     유형: subject
+     인용: trade
+     설명: 직장 서사의 업무 소재로 무역이 제시된다.
+     근거: explicit
+     신뢰도: medium
+     quote_valid: True
+
+  ✓ 서울의 직장
+     유형: subject
+     인용: seoul, south korea
+     설명: 서울이 직장 생활 서사의 공간적 배경이다.
+     근거: inferred
+     신뢰도: medium
+     quote_valid: True
+
+  상태: success
+  이력만 저장 / 서비스 미반영
+
+[5/11] 44722 | 킹덤
+
+  추출된 토픽: 10개
+
+  ✓ 좀비
+     유형: subject
+     인용: 좀비물
+     설명: 역병 사태를 구성하는 핵심 존재다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+     review_flags: short_quote_review
+
+  ✓ 왕의 병을 둘러싼 미스터리
+     유형: subject
+     인용: 병든 왕을 둘러싸고 흉흉한 소문이 떠돈다.
+     설명: 왕의 이상 증세가 사건 추적의 발단이다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 조선 시대
+     유형: subject
+     인용: 어둠에 뒤덮인 조선
+     설명: 역병과 왕실 사건이 전개되는 시대 배경이다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 궁중 암투
+     유형: theme
+     인용: palace intrigue
+     설명: 왕실을 둘러싼 정치적 갈등 구조다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 전국적 역병 확산
+     유형: social_issue
+     인용: 이 병이 전국적으로 퍼져나가는 걸
+     설명: 역병이 지역을 넘어 전국적 위기로 번진다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 역병 확산 저지
+     유형: subject
+     인용: 이 병이 전국적으로 퍼져나가는 걸 막기 위해 싸운다.
+     설명: 역병을 막는 행동이 주요 서사를 이끈다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 역병으로 인한 고통
+     유형: social_issue
+     인용: 기이한 역병에 신음하는 산하.
+     설명: 역병이 사회 전반에 광범위한 고통을 준다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 생존
+     유형: human_experience
+     인용: survival
+     설명: 역병과 좀비의 위협에서 살아남아야 한다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 백성 구원의 책임
+     유형: theme
+     인용: 백성을 구원할 희망은 오직 세자뿐인데
+     설명: 왕세자가 백성을 구할 주체로 제시된다.
+     근거: inferred
+     신뢰도: medium
+     quote_valid: True
+
+  ✓ 정체불명의 악과 대결
+     유형: theme
+     인용: 정체 모를 악에 맞서
+     설명: 실체가 불분명한 위협과의 대결을 다룬다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  상태: success
+  이력만 저장 / 서비스 미반영
+
+[6/11] 45173 | 악의 꽃
+
+  추출된 토픽: 11개
+
+  ✓ 연쇄살인범 의혹
+     유형: subject
+     인용: 14년간 사랑해 온 남편이 피도 눈물도 없는 연쇄살인마로 의심된다면?
+     설명: 남편을 향한 연쇄살인 의혹이 핵심 사건이다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 부부의 사랑과 의심
+     유형: theme
+     인용: 사랑마저 연기한 남자 희성과 그의 실체를 의심하기 시작한 아내 지원.
+     설명: 사랑과 배우자에 대한 의심이 충돌한다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 사랑의 기만
+     유형: theme
+     인용: 사랑마저 연기한 남자
+     설명: 사랑이 진심인지 연기인지가 갈등을 만든다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 숨겨진 정체
+     유형: subject
+     인용: hidden identity
+     설명: 남편의 감춰진 실체가 추적의 중심에 놓인다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 외면하고 싶은 진실
+     유형: human_experience
+     인용: 외면하고 싶은 진실 앞에 마주 선 두 사람
+     설명: 두 사람이 피하고 싶은 진실과 대면한다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 범죄 수사
+     유형: subject
+     인용: 강력계 형사 지원은 희성의 생일파티 날 걸려온 긴급 호출로 아동 살인미수 사건을 조사하게 되고
+     설명: 형사가 살인미수 사건의 진상을 조사한다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 아동 살인미수
+     유형: subject
+     인용: 아동 살인미수 사건
+     설명: 형사와 기자가 쫓는 구체적인 범죄 사건이다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 강력계 형사
+     유형: subject
+     인용: 강력계 형사 지원
+     설명: 아내의 형사 역할이 사건 수사와 연결된다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 범죄 사건 취재
+     유형: subject
+     인용: 같은 사건을 쫓던 기자 무진
+     설명: 기자가 형사와 동일한 사건을 추적한다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 금속공예 공방
+     유형: subject
+     인용: 직접 만든 금속공예품들이 진열된 번듯한 공방.
+     설명: 남편의 평범한 일상을 구성하는 직업 공간이다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 반사회성 인격장애
+     유형: subject
+     인용: antisocial personality disorder
+     설명: 인물의 심리적 특성과 관련된 핵심 소재다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  상태: success
+  이력만 저장 / 서비스 미반영
+
+[7/11] 79014 | 부산행
+
+  추출된 토픽: 9개
+
+  ✓ 좀비
+     유형: subject
+     인용: 좀비
+     설명: 재난 상황을 구성하는 핵심 존재다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 정체불명 바이러스
+     유형: subject
+     인용: 정체불명의 바이러스가 전국으로 확산되고
+     설명: 전국적 재난을 일으키는 직접적 소재다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+     review_flags: duplicate_quote_review
+
+  ✓ 전국적 감염 확산
+     유형: social_issue
+     인용: 정체불명의 바이러스가 전국으로 확산되고
+     설명: 감염 확산이 국가적 재난으로 전개된다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+     review_flags: duplicate_quote_review
+
+  ✓ 긴급재난경보령
+     유형: subject
+     인용: 대한민국 긴급재난경보령이 선포된 가운데
+     설명: 국가적 비상사태를 보여주는 제도적 대응이다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ KTX 생존 사투
+     유형: subject
+     인용: KTX에 몸을 실은 사람들은 단 하나의 안전한 도시 부산까지
+ 살아가기 위한 치열한 사투를 벌이게 되는데
+     설명: 열차 여정이 생존 투쟁의 중심 무대가 된다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 안전 도시로의 피난
+     유형: subject
+     인용: 단 하나의 안전한 도시 부산까지
+     설명: 부산 도착이 재난 속 생존 목표로 제시된다.
+     근거: inferred
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 극한의 생존
+     유형: human_experience
+     인용: 살아가기 위한 치열한 사투를 벌이게 되는데
+     설명: 재난 속에서 살아남기 위한 경험이 핵심이다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 소중한 사람 지키기
+     유형: human_experience
+     인용: 지키고 싶은, 지켜야만 하는 사람들의 극한의 사투!
+     설명: 타인을 보호하려는 의지가 생존 행동을 이끈다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 이기심
+     유형: theme
+     인용: 이기심
+     설명: 재난 상황의 인간적 가치 문제로 제시된다.
+     근거: explicit
+     신뢰도: medium
+     quote_valid: True
+
+  상태: success
+  이력만 저장 / 서비스 미반영
+
+[8/11] 79301 | 기생충
+
+  추출된 토픽: 14개
+
+  ✓ 실업
+     유형: social_issue
+     인용: 전원백수로 살 길 막막하지만
+     설명: 온 가족이 실업 상태에 놓여 있다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+     review_flags: duplicate_quote_review
+
+  ✓ 생계 불안
+     유형: human_experience
+     인용: 전원백수로 살 길 막막하지만
+     설명: 수입이 없는 가족의 막막한 삶을 다룬다.
+     근거: inferred
+     신뢰도: high
+     quote_valid: True
+     review_flags: duplicate_quote_review
+
+  ✓ 가족의 협력
+     유형: human_experience
+     인용: 온 가족의 도움과 기대 속에
+     설명: 가족이 새로운 수입 기회를 함께 돕는다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 고액 과외
+     유형: subject
+     인용: 명문대생 친구가 연결시켜 준 고액 과외 자리
+     설명: 과외 자리가 두 가족의 만남을 촉발한다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 빈부격차
+     유형: social_issue
+     인용: 빈부격차
+     설명: 경제적 지위가 다른 가족들의 대비가 제시된다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 학력 위조
+     유형: subject
+     인용: 학력위조
+     설명: 학력을 거짓으로 꾸미는 행위가 소재다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 부유층 저택
+     유형: subject
+     인용: 글로벌 IT기업 CEO인 박사장의 저택
+     설명: 부유한 기업가의 저택이 주요 배경이다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 반지하 주거
+     유형: subject
+     인용: 반지하
+     설명: 반지하가 가족의 주거 환경으로 제시된다.
+     근거: explicit
+     신뢰도: medium
+     quote_valid: True
+
+  ✓ 잠입
+     유형: subject
+     인용: infiltration
+     설명: 다른 공간이나 집단에 스며드는 행위가 소재다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 가사노동자
+     유형: subject
+     인용: domestic worker
+     설명: 가정 내 노동을 수행하는 직업이 등장한다.
+     근거: explicit
+     신뢰도: medium
+     quote_valid: True
+
+  ✓ 물난리
+     유형: subject
+     인용: 물난리
+     설명: 침수성 재난이 서사의 사건으로 제시된다.
+     근거: explicit
+     신뢰도: medium
+     quote_valid: True
+
+  ✓ 모스부호
+     유형: subject
+     인용: 모스부호
+     설명: 부호를 이용한 통신 방식이 소재로 등장한다.
+     근거: explicit
+     신뢰도: medium
+     quote_valid: True
+
+  ✓ 카스트 폭력
+     유형: social_issue
+     인용: caste violence
+     설명: 사회적 위계와 연결된 폭력이 명시된다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  ✓ 반자본주의
+     유형: theme
+     인용: anti-capitalist
+     설명: 자본주의 질서를 비판하는 관점이 제시된다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  상태: success
+  이력만 저장 / 서비스 미반영
+
+[9/11] 84894 | 소년이 온다
+
+  추출된 토픽: 1개
+
+  ✓ 1980년 5월
+     유형: subject
+     인용: 1980년 5월을 새롭게 조명한다
+     설명: 작품이 집중적으로 조명하는 시대적 배경이다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  상태: success
+  이력만 저장 / 서비스 미반영
+
+[10/11] 84898 | 난장이가 쏘아올린 작은 공
+
+  추출된 토픽: 1개
+
+  ✓ 1970년대 도시 노동자
+     유형: subject
+     인용: 1970년대 난장이로 상징되는 도시 노동자들의 모습
+     설명: 1970년대 도시 노동자들이 작품의 중심 소재다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  상태: success
+  이력만 저장 / 서비스 미반영
+
+[11/11] 84903 | 82년생 김지영
+
+  추출된 토픽: 1개
+
+  ✓ 한국 30대 여성의 일상
+     유형: subject
+     인용: 30대를 살고 있는 한국 여성들의 보편적인 일상
+     설명: 한국 30대 여성의 일상을 재현한다.
+     근거: explicit
+     신뢰도: high
+     quote_valid: True
+
+  상태: success
+  이력만 저장 / 서비스 미반영
+
+============================================================
+성공: 11
+정상 빈 배열: 0
+실패: 0
+서비스 적재: 0
+============================================================

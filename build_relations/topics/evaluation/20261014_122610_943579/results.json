@@ -1,0 +1,129 @@
+[
+  {
+    "content_id": 79301,
+    "content_type": "movie",
+    "title": "기생충",
+    "model_requested": "claude-sonnet-5",
+    "model_returned": "claude-sonnet-5",
+    "prompt_version": "topic-v3",
+    "elapsed_seconds": 8.323,
+    "input_tokens": 4912,
+    "output_tokens": 807,
+    "total_tokens": 5719,
+    "topic_count": 6,
+    "topics": [
+      {
+        "name": "빈부격차",
+        "type": "subject",
+        "evidence": "전원백수인 기택 가족과 글로벌 IT기업 CEO인 박사장 가족의 대비, '빈부격차' 키워드와 'class differences' 키워드로 명시된다.",
+        "evidence_level": "explicit",
+        "confidence": "high"
+      },
+      {
+        "name": "계급 갈등",
+        "type": "theme",
+        "evidence": "'caste violence', 'anti-capitalist', 'social commentary' 등의 키워드와 두 가족의 만남 이후 벌어지는 사건을 통해 계급 간 갈등이 중심 주제로 드러난다.",
+        "evidence_level": "inferred",
+        "confidence": "high"
+      },
+      {
+        "name": "신분 위장과 침투",
+        "type": "subject",
+        "evidence": "'학력위조', '면접', 'infiltration', 'con artist' 키워드와 과외선생으로 위장해 박사장 집에 들어가는 설정이 이를 뒷받침한다.",
+        "evidence_level": "explicit",
+        "confidence": "high"
+      },
+      {
+        "name": "가족애와 생존",
+        "type": "human_experience",
+        "evidence": "사이좋은 기택 가족이 온 가족의 도움과 기대 속에서 고정수입을 위해 함께 움직이는 모습이 묘사된다.",
+        "evidence_level": "explicit",
+        "confidence": "medium"
+      },
+      {
+        "name": "사회적 불평등",
+        "type": "social_issue",
+        "evidence": "반지하에 사는 백수 가족과 저택에 사는 부유한 가족의 극명한 대비, 'working class', 'wealthy family' 키워드가 구조적 불평등을 드러낸다.",
+        "evidence_level": "explicit",
+        "confidence": "high"
+      },
+      {
+        "name": "욕망과 기만",
+        "type": "theme",
+        "evidence": "고정수입에 대한 희망으로 시작된 접근이 가족 전체의 위장과 기만으로 확대되는 서사 구조에서 드러난다.",
+        "evidence_level": "inferred",
+        "confidence": "medium"
+      }
+    ],
+    "raw_response": "```json\n{\n  \"content_id\": 79301,\n  \"topics\": [\n    {\n      \"name\": \"빈부격차\",\n      \"type\": \"subject\",\n      \"evidence\": \"전원백수인 기택 가족과 글로벌 IT기업 CEO인 박사장 가족의 대비, '빈부격차' 키워드와 'class differences' 키워드로 명시된다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"계급 갈등\",\n      \"type\": \"theme\",\n      \"evidence\": \"'caste violence', 'anti-capitalist', 'social commentary' 등의 키워드와 두 가족의 만남 이후 벌어지는 사건을 통해 계급 간 갈등이 중심 주제로 드러난다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"신분 위장과 침투\",\n      \"type\": \"subject\",\n      \"evidence\": \"'학력위조', '면접', 'infiltration', 'con artist' 키워드와 과외선생으로 위장해 박사장 집에 들어가는 설정이 이를 뒷받침한다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"가족애와 생존\",\n      \"type\": \"human_experience\",\n      \"evidence\": \"사이좋은 기택 가족이 온 가족의 도움과 기대 속에서 고정수입을 위해 함께 움직이는 모습이 묘사된다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"name\": \"사회적 불평등\",\n      \"type\": \"social_issue\",\n      \"evidence\": \"반지하에 사는 백수 가족과 저택에 사는 부유한 가족의 극명한 대비, 'working class', 'wealthy family' 키워드가 구조적 불평등을 드러낸다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"욕망과 기만\",\n      \"type\": \"theme\",\n      \"evidence\": \"고정수입에 대한 희망으로 시작된 접근이 가족 전체의 위장과 기만으로 확대되는 서사 구조에서 드러난다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"medium\"\n    }\n  ]\n}\n```",
+    "status": "success",
+    "error": null
+  },
+  {
+    "content_id": 77504,
+    "content_type": "movie",
+    "title": "살인의 추억",
+    "model_requested": "claude-sonnet-5",
+    "model_returned": "claude-sonnet-5",
+    "prompt_version": "topic-v3",
+    "elapsed_seconds": 8.413,
+    "input_tokens": 5702,
+    "output_tokens": 811,
+    "total_tokens": 6513,
+    "topic_count": 7,
+    "topics": [
+      {
+        "name": "연쇄살인",
+        "type": "subject",
+        "evidence": "비슷한 수법으로 여성을 강간살해하는 사건이 연이어 발생한다.",
+        "evidence_level": "explicit",
+        "confidence": "high"
+      },
+      {
+        "name": "미제사건",
+        "type": "subject",
+        "evidence": "유전자 감식 결과 용의자와 불일치하며 2003년까지 사건이 해결되지 않은 채 남아있다.",
+        "evidence_level": "explicit",
+        "confidence": "high"
+      },
+      {
+        "name": "경찰 수사의 한계",
+        "type": "subject",
+        "evidence": "형사들이 구타와 자백 강요, 함정수사 등 비과학적 방식으로 수사를 진행하며 번번이 실패한다.",
+        "evidence_level": "explicit",
+        "confidence": "high"
+      },
+      {
+        "name": "공권력의 폭력성",
+        "type": "social_issue",
+        "evidence": "지능이 모자란 용의자를 구타하며 자백을 강요하는 장면이 명시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high"
+      },
+      {
+        "name": "진실과 확신의 불일치",
+        "type": "theme",
+        "evidence": "형사들이 범인이라 확신한 용의자의 유전자가 실제로는 일치하지 않는다는 결과가 나온다.",
+        "evidence_level": "explicit",
+        "confidence": "high"
+      },
+      {
+        "name": "무력감과 좌절",
+        "type": "human_experience",
+        "evidence": "수사가 점점 미궁으로 빠지고 17년이 지난 후에도 사건 현장을 떠나지 못하는 박두만의 모습에서 드러난다.",
+        "evidence_level": "inferred",
+        "confidence": "medium"
+      },
+      {
+        "name": "시대적 억압과 사회 불안",
+        "type": "social_issue",
+        "evidence": "1980년대를 배경으로 반복되는 범죄와 무능한 수사 체계가 당시 사회 분위기를 반영한다.",
+        "evidence_level": "inferred",
+        "confidence": "medium"
+      }
+    ],
+    "raw_response": "```json\n{\n  \"content_id\": 77504,\n  \"topics\": [\n    {\n      \"name\": \"연쇄살인\",\n      \"type\": \"subject\",\n      \"evidence\": \"비슷한 수법으로 여성을 강간살해하는 사건이 연이어 발생한다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"미제사건\",\n      \"type\": \"subject\",\n      \"evidence\": \"유전자 감식 결과 용의자와 불일치하며 2003년까지 사건이 해결되지 않은 채 남아있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"경찰 수사의 한계\",\n      \"type\": \"subject\",\n      \"evidence\": \"형사들이 구타와 자백 강요, 함정수사 등 비과학적 방식으로 수사를 진행하며 번번이 실패한다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"공권력의 폭력성\",\n      \"type\": \"social_issue\",\n      \"evidence\": \"지능이 모자란 용의자를 구타하며 자백을 강요하는 장면이 명시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"진실과 확신의 불일치\",\n      \"type\": \"theme\",\n      \"evidence\": \"형사들이 범인이라 확신한 용의자의 유전자가 실제로는 일치하지 않는다는 결과가 나온다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"무력감과 좌절\",\n      \"type\": \"human_experience\",\n      \"evidence\": \"수사가 점점 미궁으로 빠지고 17년이 지난 후에도 사건 현장을 떠나지 못하는 박두만의 모습에서 드러난다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"name\": \"시대적 억압과 사회 불안\",\n      \"type\": \"social_issue\",\n      \"evidence\": \"1980년대를 배경으로 반복되는 범죄와 무능한 수사 체계가 당시 사회 분위기를 반영한다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"medium\"\n    }\n  ]\n}\n```",
+    "status": "success",
+    "error": null
+  }
+]

@@ -1,0 +1,108 @@
+============================================================
+Content Topic Extraction
+Prompt: topic-v4.8
+Model: claude-sonnet-5
+Temperature: 0.0
+Record Only: True
+Dry Run: False
+Targets: 11
+============================================================
+
+[1/11] 42431 | 무빙
+
+  오류: Error code: 401 - {'detail': {'code': 401, 'message': 'authentication_error - Invalid API key'}}
+Traceback (most recent call last):
+  File "/Users/rim/Desktop/workspace/content-exploration/build_relations/LLM/load_content_topics.py", line 1019, in run_pipeline
+    raw_response = call_llm(
+        content,
+    ...<2 lines>...
+        json_mode=json_mode,
+    )
+  File "/Users/rim/Desktop/workspace/content-exploration/build_relations/LLM/extract_content_topics.py", line 91, in call_llm
+    response = get_client().chat.completions.create(
+        **request
+    )
+  File "/Users/rim/Desktop/workspace/content-exploration/.venv/lib/python3.14/site-packages/openai/_utils/_utils.py", line 298, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/rim/Desktop/workspace/content-exploration/.venv/lib/python3.14/site-packages/openai/resources/chat/completions/completions.py", line 1318, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/chat/completions",
+        ^^^^^^^^^^^^^^^^^^^^
+    ...<53 lines>...
+        stream_cls=Stream[ChatCompletionChunk],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/rim/Desktop/workspace/content-exploration/.venv/lib/python3.14/site-packages/openai/_base_client.py", line 1440, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rim/Desktop/workspace/content-exploration/.venv/lib/python3.14/site-packages/openai/_base_client.py", line 1213, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.AuthenticationError: Error code: 401 - {'detail': {'code': 401, 'message': 'authentication_error - Invalid API key'}}
+
+[2/11] 42544 | 옷소매 붉은 끝동
+
+  오류: Error code: 401 - {'detail': {'code': 401, 'message': 'authentication_error - Invalid API key'}}
+Traceback (most recent call last):
+  File "/Users/rim/Desktop/workspace/content-exploration/build_relations/LLM/load_content_topics.py", line 1019, in run_pipeline
+    raw_response = call_llm(
+        content,
+    ...<2 lines>...
+        json_mode=json_mode,
+    )
+  File "/Users/rim/Desktop/workspace/content-exploration/build_relations/LLM/extract_content_topics.py", line 91, in call_llm
+    response = get_client().chat.completions.create(
+        **request
+    )
+  File "/Users/rim/Desktop/workspace/content-exploration/.venv/lib/python3.14/site-packages/openai/_utils/_utils.py", line 298, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/rim/Desktop/workspace/content-exploration/.venv/lib/python3.14/site-packages/openai/resources/chat/completions/completions.py", line 1318, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/chat/completions",
+        ^^^^^^^^^^^^^^^^^^^^
+    ...<53 lines>...
+        stream_cls=Stream[ChatCompletionChunk],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/rim/Desktop/workspace/content-exploration/.venv/lib/python3.14/site-packages/openai/_base_client.py", line 1440, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rim/Desktop/workspace/content-exploration/.venv/lib/python3.14/site-packages/openai/_base_client.py", line 1213, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.AuthenticationError: Error code: 401 - {'detail': {'code': 401, 'message': 'authentication_error - Invalid API key'}}
+
+[3/11] 43021 | 정년이
+
+  오류: Error code: 401 - {'detail': {'code': 401, 'message': 'authentication_error - Invalid API key'}}
+Traceback (most recent call last):
+  File "/Users/rim/Desktop/workspace/content-exploration/build_relations/LLM/load_content_topics.py", line 1019, in run_pipeline
+    raw_response = call_llm(
+        content,
+    ...<2 lines>...
+        json_mode=json_mode,
+    )
+  File "/Users/rim/Desktop/workspace/content-exploration/build_relations/LLM/extract_content_topics.py", line 91, in call_llm
+    response = get_client().chat.completions.create(
+        **request
+    )
+  File "/Users/rim/Desktop/workspace/content-exploration/.venv/lib/python3.14/site-packages/openai/_utils/_utils.py", line 298, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/rim/Desktop/workspace/content-exploration/.venv/lib/python3.14/site-packages/openai/resources/chat/completions/completions.py", line 1318, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/chat/completions",
+        ^^^^^^^^^^^^^^^^^^^^
+    ...<53 lines>...
+        stream_cls=Stream[ChatCompletionChunk],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/rim/Desktop/workspace/content-exploration/.venv/lib/python3.14/site-packages/openai/_base_client.py", line 1440, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rim/Desktop/workspace/content-exploration/.venv/lib/python3.14/site-packages/openai/_base_client.py", line 1213, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.AuthenticationError: Error code: 401 - {'detail': {'code': 401, 'message': 'authentication_error - Invalid API key'}}

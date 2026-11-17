@@ -1,0 +1,1688 @@
+[
+  {
+    "content_id": 79301,
+    "content_type": "movie",
+    "title": "기생충",
+    "model_requested": "claude-sonnet-5",
+    "model_returned": "claude-sonnet-5",
+    "prompt_version": "topic-v4",
+    "elapsed_seconds": 25.819,
+    "input_tokens": 5043,
+    "output_tokens": 2543,
+    "total_tokens": 7586,
+    "topic_count": 7,
+    "valid_quote_count": 7,
+    "invalid_quote_count": 0,
+    "quote_validation_rate": 1.0,
+    "validation_warnings": {},
+    "topics": [
+      {
+        "name": "빈부격차",
+        "type": "social_issue",
+        "evidence_quote": "빈부격차",
+        "evidence": "키워드에 빈부격차가 명시되어 있고, 전원백수 가족과 글로벌 IT기업 CEO 가족이 대비되어 묘사된다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "keywords[9]",
+        "evidence_location": {
+          "start": 0,
+          "end": 4
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "신분 위장과 기만",
+        "type": "subject",
+        "evidence_quote": "학력위조",
+        "evidence": "가족 구성원이 가짜 경력과 신분으로 부유한 가정에 차례로 침투하는 서사를 키워드(학력위조, con artist, infiltration)가 뒷받침한다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "keywords[13]",
+        "evidence_location": {
+          "start": 0,
+          "end": 4
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "계급 갈등",
+        "type": "theme",
+        "evidence_quote": "class differences",
+        "evidence": "두 가족의 만남 이후 벌어지는 사건을 통해 계급 간 대립과 긴장이 서사의 중심 문제의식으로 제시된다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "keywords[23]",
+        "evidence_location": {
+          "start": 0,
+          "end": 17
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "주거 환경 불평등",
+        "type": "social_issue",
+        "evidence_quote": "반지하",
+        "evidence": "반지하 거주와 물난리 키워드는 경제적 취약계층이 처한 열악한 주거 환경을 보여준다.",
+        "evidence_level": "explicit",
+        "confidence": "medium",
+        "quote_valid": true,
+        "evidence_source": "keywords[14]",
+        "evidence_location": {
+          "start": 0,
+          "end": 3
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "냄새를 통한 계급 구분",
+        "type": "subject",
+        "evidence_quote": "냄새",
+        "evidence": "냄새가 주요 키워드로 제시되어 있어 계급을 구분짓는 상징적 요소로 다뤄졌을 것으로 해석된다.",
+        "evidence_level": "inferred",
+        "confidence": "medium",
+        "quote_valid": true,
+        "evidence_source": "keywords[4]",
+        "evidence_location": {
+          "start": 0,
+          "end": 2
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "가족 간 유대",
+        "type": "human_experience",
+        "evidence_quote": "전원백수로 살 길 막막하지만 사이는 좋은 기택(송강호) 가족",
+        "evidence": "경제적으로 어려운 상황에서도 가족 구성원 간의 친밀함과 협력이 강조되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 20,
+          "end": 53
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "실업과 생계 불안",
+        "type": "social_issue",
+        "evidence_quote": "전원백수로 살 길 막막하지만",
+        "evidence": "가족 전원이 무직 상태로 생계를 걱정하는 상황이 명시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 20,
+          "end": 35
+        },
+        "validation_warning": null
+      }
+    ],
+    "raw_response": "{\n  \"content_id\": 79301,\n  \"topics\": [\n    {\n      \"name\": \"빈부격차\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"빈부격차\",\n      \"evidence\": \"키워드에 빈부격차가 명시되어 있고, 전원백수 가족과 글로벌 IT기업 CEO 가족이 대비되어 묘사된다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"신분 위장과 기만\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"학력위조\",\n      \"evidence\": \"가족 구성원이 가짜 경력과 신분으로 부유한 가정에 차례로 침투하는 서사를 키워드(학력위조, con artist, infiltration)가 뒷받침한다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"계급 갈등\",\n      \"type\": \"theme\",\n      \"evidence_quote\": \"class differences\",\n      \"evidence\": \"두 가족의 만남 이후 벌어지는 사건을 통해 계급 간 대립과 긴장이 서사의 중심 문제의식으로 제시된다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"주거 환경 불평등\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"반지하\",\n      \"evidence\": \"반지하 거주와 물난리 키워드는 경제적 취약계층이 처한 열악한 주거 환경을 보여준다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"name\": \"냄새를 통한 계급 구분\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"냄새\",\n      \"evidence\": \"냄새가 주요 키워드로 제시되어 있어 계급을 구분짓는 상징적 요소로 다뤄졌을 것으로 해석된다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"name\": \"가족 간 유대\",\n      \"type\": \"human_experience\",\n      \"evidence_quote\": \"전원백수로 살 길 막막하지만 사이는 좋은 기택(송강호) 가족\",\n      \"evidence\": \"경제적으로 어려운 상황에서도 가족 구성원 간의 친밀함과 협력이 강조되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"실업과 생계 불안\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"전원백수로 살 길 막막하지만\",\n      \"evidence\": \"가족 전원이 무직 상태로 생계를 걱정하는 상황이 명시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    }\n  ]\n}",
+    "status": "success",
+    "error": null
+  },
+  {
+    "content_id": 79301,
+    "content_type": "movie",
+    "title": "기생충",
+    "model_requested": "gpt-6-sol",
+    "model_returned": "gpt-6-sol",
+    "prompt_version": "topic-v4",
+    "elapsed_seconds": 11.93,
+    "input_tokens": 2993,
+    "output_tokens": 936,
+    "total_tokens": 3929,
+    "topic_count": 5,
+    "valid_quote_count": 5,
+    "invalid_quote_count": 0,
+    "quote_validation_rate": 1.0,
+    "validation_warnings": {},
+    "topics": [
+      {
+        "name": "빈부격차",
+        "type": "social_issue",
+        "evidence_quote": "빈부격차",
+        "evidence": "키워드에 빈부격차가 직접 제시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "keywords[9]",
+        "evidence_location": {
+          "start": 0,
+          "end": 4
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "가족의 실업",
+        "type": "subject",
+        "evidence_quote": "전원백수로 살 길 막막하지만",
+        "evidence": "가족 구성원 모두가 실업 상태임이 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 20,
+          "end": 35
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "가족 간 유대",
+        "type": "human_experience",
+        "evidence_quote": "온 가족의 도움과 기대 속에",
+        "evidence": "가족이 기우의 과외 자리를 함께 기대하고 돕는 모습이 드러난다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 117,
+          "end": 132
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "학력위조",
+        "type": "subject",
+        "evidence_quote": "학력위조",
+        "evidence": "작품 관련 키워드에 학력위조가 직접 제시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "keywords[13]",
+        "evidence_location": {
+          "start": 0,
+          "end": 4
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "고액 과외",
+        "type": "subject",
+        "evidence_quote": "고액 과외 자리는 모처럼 싹튼 고정수입의 희망이다",
+        "evidence": "과외 자리가 가족에게 고정수입을 얻을 기회로 제시된다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 86,
+          "end": 113
+        },
+        "validation_warning": null
+      }
+    ],
+    "raw_response": "{\n  \"content_id\": 79301,\n  \"topics\": [\n    {\n      \"name\": \"빈부격차\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"빈부격차\",\n      \"evidence\": \"키워드에 빈부격차가 직접 제시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"가족의 실업\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"전원백수로 살 길 막막하지만\",\n      \"evidence\": \"가족 구성원 모두가 실업 상태임이 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"가족 간 유대\",\n      \"type\": \"human_experience\",\n      \"evidence_quote\": \"온 가족의 도움과 기대 속에\",\n      \"evidence\": \"가족이 기우의 과외 자리를 함께 기대하고 돕는 모습이 드러난다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"학력위조\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"학력위조\",\n      \"evidence\": \"작품 관련 키워드에 학력위조가 직접 제시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"고액 과외\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"고액 과외 자리는 모처럼 싹튼 고정수입의 희망이다\",\n      \"evidence\": \"과외 자리가 가족에게 고정수입을 얻을 기회로 제시된다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    }\n  ]\n}",
+    "status": "success",
+    "error": null
+  },
+  {
+    "content_id": 79301,
+    "content_type": "movie",
+    "title": "기생충",
+    "model_requested": "gemini-3.8-flash",
+    "model_returned": "gemini-3.8-flash",
+    "prompt_version": "topic-v4",
+    "elapsed_seconds": 20.707,
+    "input_tokens": 3178,
+    "output_tokens": 528,
+    "total_tokens": 5982,
+    "topic_count": 5,
+    "valid_quote_count": 5,
+    "invalid_quote_count": 0,
+    "quote_validation_rate": 1.0,
+    "validation_warnings": {},
+    "topics": [
+      {
+        "name": "빈부격차",
+        "type": "social_issue",
+        "evidence_quote": "빈부격차",
+        "evidence": "키워드에 직접 명시되어 있으며, 전원 백수인 가족과 글로벌 IT기업 CEO 저택의 대비를 통해 계층 간 경제적 불평등을 다룬다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "keywords[9]",
+        "evidence_location": {
+          "start": 0,
+          "end": 4
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "공존과 상생",
+        "type": "theme",
+        "evidence_quote": "같이 잘 살면 안 될까요?",
+        "evidence": "서로 다른 경제적 처지에 놓인 두 가족이 함께 공존할 수 있는지에 대한 서사적 문제의식을 함축하고 있다.",
+        "evidence_level": "inferred",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 1,
+          "end": 15
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "학력위조",
+        "type": "subject",
+        "evidence_quote": "학력위조",
+        "evidence": "고액 과외 자리를 얻는 과정과 연결되는 핵심적인 사건 유형이자 구체적 소재로 키워드에 직접 제시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "keywords[13]",
+        "evidence_location": {
+          "start": 0,
+          "end": 4
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "가족 간 유대",
+        "type": "human_experience",
+        "evidence_quote": "전원백수로 살 길 막막하지만 사이는 좋은 기택",
+        "evidence": "살 길이 막막한 처지 속에서도 가족 간의 사이가 좋고 서로 돕고 의지하는 관계가 직접 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 20,
+          "end": 45
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "생존 불안",
+        "type": "human_experience",
+        "evidence_quote": "전원백수로 살 길 막막하지만",
+        "evidence": "온 가족이 실업 상태에 놓여 있어 생계를 유지하기 어려운 막막함과 심리적 불안을 겪고 있음을 나타낸다.",
+        "evidence_level": "inferred",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 20,
+          "end": 35
+        },
+        "validation_warning": null
+      }
+    ],
+    "raw_response": "{\n  \"content_id\": 79301,\n  \"topics\": [\n    {\n      \"name\": \"빈부격차\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"빈부격차\",\n      \"evidence\": \"키워드에 직접 명시되어 있으며, 전원 백수인 가족과 글로벌 IT기업 CEO 저택의 대비를 통해 계층 간 경제적 불평등을 다룬다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"공존과 상생\",\n      \"type\": \"theme\",\n      \"evidence_quote\": \"같이 잘 살면 안 될까요?\",\n      \"evidence\": \"서로 다른 경제적 처지에 놓인 두 가족이 함께 공존할 수 있는지에 대한 서사적 문제의식을 함축하고 있다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"학력위조\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"학력위조\",\n      \"evidence\": \"고액 과외 자리를 얻는 과정과 연결되는 핵심적인 사건 유형이자 구체적 소재로 키워드에 직접 제시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"가족 간 유대\",\n      \"type\": \"human_experience\",\n      \"evidence_quote\": \"전원백수로 살 길 막막하지만 사이는 좋은 기택\",\n      \"evidence\": \"살 길이 막막한 처지 속에서도 가족 간의 사이가 좋고 서로 돕고 의지하는 관계가 직접 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"생존 불안\",\n      \"type\": \"human_experience\",\n      \"evidence_quote\": \"전원백수로 살 길 막막하지만\",\n      \"evidence\": \"온 가족이 실업 상태에 놓여 있어 생계를 유지하기 어려운 막막함과 심리적 불안을 겪고 있음을 나타낸다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    }\n  ]\n}",
+    "status": "success",
+    "error": null
+  },
+  {
+    "content_id": 77504,
+    "content_type": "movie",
+    "title": "살인의 추억",
+    "model_requested": "claude-sonnet-5",
+    "model_returned": "claude-sonnet-5",
+    "prompt_version": "topic-v4",
+    "elapsed_seconds": 24.92,
+    "input_tokens": 5530,
+    "output_tokens": 2614,
+    "total_tokens": 8144,
+    "topic_count": 7,
+    "valid_quote_count": 7,
+    "invalid_quote_count": 0,
+    "quote_validation_rate": 1.0,
+    "validation_warnings": {},
+    "topics": [
+      {
+        "name": "연쇄살인",
+        "type": "subject",
+        "evidence_quote": "비슷한 수법의 사건이 연이어 발생한다",
+        "evidence": "동일 수법으로 반복되는 살인 사건이 작품의 핵심 소재로 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 41,
+          "end": 61
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "강압 수사",
+        "type": "social_issue",
+        "evidence_quote": "구타를 하며 자백을 강요한다",
+        "evidence": "용의자에게 폭력을 가하며 자백을 강요하는 수사 방식이 직접 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 159,
+          "end": 174
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "화성연쇄살인사건",
+        "type": "subject",
+        "evidence_quote": "1986년 가을, 경기도 화성에서 강간살해 당한 여성의 시체가 발견",
+        "evidence": "실제 사건을 배경으로 한 작품임이 시대와 지역, 키워드(화성연쇄살인사건)로 명시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 0,
+          "end": 37
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "확신과 증거의 충돌",
+        "type": "theme",
+        "evidence_quote": "범인이라 확신하지만, 마침내 도착한 감식 결과에는 그와 범인의 유전자가 일치하지 않는다",
+        "evidence": "형사들의 강한 확신과 과학적 증거 결과가 상충하는 서사 구조에서 도출되는 주제이다.",
+        "evidence_level": "inferred",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 527,
+          "end": 575
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "미해결 사건의 트라우마",
+        "type": "human_experience",
+        "evidence_quote": "박두만은 우연히 17년 전의 사건 현장을 지나게 되고, 첫 번째 시체가 발견된 곳을 들여다본다",
+        "evidence": "오랜 시간이 지나도 사건을 떨치지 못하고 현장을 되돌아보는 모습에서 해결되지 않은 사건이 남긴 심리적 여파를 추론할 수 있다.",
+        "evidence_level": "inferred",
+        "confidence": "medium",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 595,
+          "end": 647
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "함정수사",
+        "type": "subject",
+        "evidence_quote": "함정수사를 벌이지만, 다음날 아침 다른 여인의 사체가 발견된다",
+        "evidence": "범인을 잡기 위한 함정수사가 실패로 돌아가는 과정이 직접 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 372,
+          "end": 406
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "여성 대상 성폭력 범죄",
+        "type": "social_issue",
+        "evidence_quote": "강간살해 당한 여성의 시체가 발견",
+        "evidence": "여성을 대상으로 한 성폭행 및 살해가 사건의 핵심 범죄 형태로 명시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 19,
+          "end": 37
+        },
+        "validation_warning": null
+      }
+    ],
+    "raw_response": "```json\n{\n  \"content_id\": 77504,\n  \"topics\": [\n    {\n      \"name\": \"연쇄살인\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"비슷한 수법의 사건이 연이어 발생한다\",\n      \"evidence\": \"동일 수법으로 반복되는 살인 사건이 작품의 핵심 소재로 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"강압 수사\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"구타를 하며 자백을 강요한다\",\n      \"evidence\": \"용의자에게 폭력을 가하며 자백을 강요하는 수사 방식이 직접 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"화성연쇄살인사건\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"1986년 가을, 경기도 화성에서 강간살해 당한 여성의 시체가 발견\",\n      \"evidence\": \"실제 사건을 배경으로 한 작품임이 시대와 지역, 키워드(화성연쇄살인사건)로 명시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"확신과 증거의 충돌\",\n      \"type\": \"theme\",\n      \"evidence_quote\": \"범인이라 확신하지만, 마침내 도착한 감식 결과에는 그와 범인의 유전자가 일치하지 않는다\",\n      \"evidence\": \"형사들의 강한 확신과 과학적 증거 결과가 상충하는 서사 구조에서 도출되는 주제이다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"미해결 사건의 트라우마\",\n      \"type\": \"human_experience\",\n      \"evidence_quote\": \"박두만은 우연히 17년 전의 사건 현장을 지나게 되고, 첫 번째 시체가 발견된 곳을 들여다본다\",\n      \"evidence\": \"오랜 시간이 지나도 사건을 떨치지 못하고 현장을 되돌아보는 모습에서 해결되지 않은 사건이 남긴 심리적 여파를 추론할 수 있다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"name\": \"함정수사\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"함정수사를 벌이지만, 다음날 아침 다른 여인의 사체가 발견된다\",\n      \"evidence\": \"범인을 잡기 위한 함정수사가 실패로 돌아가는 과정이 직접 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"여성 대상 성폭력 범죄\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"강간살해 당한 여성의 시체가 발견\",\n      \"evidence\": \"여성을 대상으로 한 성폭행 및 살해가 사건의 핵심 범죄 형태로 명시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    }\n  ]\n}\n```",
+    "status": "success",
+    "error": null
+  },
+  {
+    "content_id": 77504,
+    "content_type": "movie",
+    "title": "살인의 추억",
+    "model_requested": "gpt-6-sol",
+    "model_returned": "gpt-6-sol",
+    "prompt_version": "topic-v4",
+    "elapsed_seconds": 11.376,
+    "input_tokens": 3321,
+    "output_tokens": 1077,
+    "total_tokens": 4398,
+    "topic_count": 6,
+    "valid_quote_count": 6,
+    "invalid_quote_count": 0,
+    "quote_validation_rate": 1.0,
+    "validation_warnings": {},
+    "topics": [
+      {
+        "name": "화성연쇄살인사건",
+        "type": "subject",
+        "evidence_quote": "경기도 화성에서 강간살해 당한 여성의 시체가 발견되고, 비슷한 수법의 사건이 연이어 발생한다.",
+        "evidence": "화성에서 비슷한 수법의 살인 사건이 연이어 발생한다고 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 10,
+          "end": 62
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "강압 수사",
+        "type": "social_issue",
+        "evidence_quote": "구타를 하며 자백을 강요한다",
+        "evidence": "형사들이 용의자를 구타하고 자백을 강요하는 행위가 직접 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 159,
+          "end": 174
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "함정수사",
+        "type": "subject",
+        "evidence_quote": "공통점을 밝혀내고 함정수사를 벌이지만",
+        "evidence": "범행 대상의 공통점을 토대로 함정수사를 벌인다고 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 362,
+          "end": 382
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "유전자 감식",
+        "type": "subject",
+        "evidence_quote": "수사본부는 미국으로 유전자 감식을 요청한다",
+        "evidence": "범인의 유전자 단서를 확인하기 위해 감식을 요청하는 과정이 제시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 487,
+          "end": 510
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "확신과 증거의 충돌",
+        "type": "theme",
+        "evidence_quote": "범인이라 확신하지만, 마침내 도착한 감식 결과에는 그와 범인의 유전자가 일치하지 않는다는 소견이 적혀 있다.",
+        "evidence": "형사들의 확신과 유전자 감식 결과가 어긋나므로, 확신과 증거 사이의 충돌을 도출할 수 있다.",
+        "evidence_level": "inferred",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 527,
+          "end": 587
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "미해결 사건",
+        "type": "subject",
+        "evidence_quote": "미해결사건",
+        "evidence": "키워드에 사건이 미해결 상태라는 정보가 직접 제시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "keywords[19]",
+        "evidence_location": {
+          "start": 0,
+          "end": 5
+        },
+        "validation_warning": null
+      }
+    ],
+    "raw_response": "{\n  \"content_id\": 77504,\n  \"topics\": [\n    {\n      \"name\": \"화성연쇄살인사건\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"경기도 화성에서 강간살해 당한 여성의 시체가 발견되고, 비슷한 수법의 사건이 연이어 발생한다.\",\n      \"evidence\": \"화성에서 비슷한 수법의 살인 사건이 연이어 발생한다고 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"강압 수사\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"구타를 하며 자백을 강요한다\",\n      \"evidence\": \"형사들이 용의자를 구타하고 자백을 강요하는 행위가 직접 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"함정수사\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"공통점을 밝혀내고 함정수사를 벌이지만\",\n      \"evidence\": \"범행 대상의 공통점을 토대로 함정수사를 벌인다고 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"유전자 감식\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"수사본부는 미국으로 유전자 감식을 요청한다\",\n      \"evidence\": \"범인의 유전자 단서를 확인하기 위해 감식을 요청하는 과정이 제시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"확신과 증거의 충돌\",\n      \"type\": \"theme\",\n      \"evidence_quote\": \"범인이라 확신하지만, 마침내 도착한 감식 결과에는 그와 범인의 유전자가 일치하지 않는다는 소견이 적혀 있다.\",\n      \"evidence\": \"형사들의 확신과 유전자 감식 결과가 어긋나므로, 확신과 증거 사이의 충돌을 도출할 수 있다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"미해결 사건\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"미해결사건\",\n      \"evidence\": \"키워드에 사건이 미해결 상태라는 정보가 직접 제시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    }\n  ]\n}",
+    "status": "success",
+    "error": null
+  },
+  {
+    "content_id": 77504,
+    "content_type": "movie",
+    "title": "살인의 추억",
+    "model_requested": "gemini-3.8-flash",
+    "model_returned": "gemini-3.8-flash",
+    "prompt_version": "topic-v4",
+    "elapsed_seconds": 18.644,
+    "input_tokens": 3513,
+    "output_tokens": 561,
+    "total_tokens": 6097,
+    "topic_count": 5,
+    "valid_quote_count": 5,
+    "invalid_quote_count": 0,
+    "quote_validation_rate": 1.0,
+    "validation_warnings": {},
+    "topics": [
+      {
+        "name": "연쇄살인",
+        "type": "subject",
+        "evidence_quote": "강간살해 당한 여성의 시체가 발견되고, 비슷한 수법의 사건이 연이어 발생한다",
+        "evidence": "비슷한 수법의 살해 사건이 연이어 일어나는 상황이 직접 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 19,
+          "end": 61
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "강압 수사",
+        "type": "social_issue",
+        "evidence_quote": "구타를 하며 자백을 강요한다",
+        "evidence": "용의자를 폭행하여 자백을 받아내려는 부당한 수사 관행이 명시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 159,
+          "end": 174
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "유전자 감식",
+        "type": "subject",
+        "evidence_quote": "범인의 유전자 단서가 나오고, 수사본부는 미국으로 유전자 감식을 요청한다",
+        "evidence": "사건 해결을 위해 유전자 단서를 확보하고 분석을 요청하는 과정이 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 470,
+          "end": 510
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "확신과 증거의 충돌",
+        "type": "theme",
+        "evidence_quote": "박현규가 범인이라 확신하지만, 마침내 도착한 감식 결과에는 그와 범인의 유전자가 일치하지 않는다는",
+        "evidence": "수사관들의 강한 심증 및 확신과 과학적 감식 결과가 일치하지 않아 발생하는 서사적 갈등을 보여준다.",
+        "evidence_level": "inferred",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 522,
+          "end": 576
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "미제사건",
+        "type": "subject",
+        "evidence_quote": "수사는 점점 미궁으로 빠지는 가운데",
+        "evidence": "수사가 미궁에 빠지고 17년이 지난 후에도 첫 시체 발견 장소를 찾는 모습에서 사건이 미해결 상태로 남았음을 유추할 수 있다.",
+        "evidence_level": "inferred",
+        "confidence": "medium",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 408,
+          "end": 427
+        },
+        "validation_warning": null
+      }
+    ],
+    "raw_response": "{\n  \"content_id\": 77504,\n  \"topics\": [\n    {\n      \"name\": \"연쇄살인\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"강간살해 당한 여성의 시체가 발견되고, 비슷한 수법의 사건이 연이어 발생한다\",\n      \"evidence\": \"비슷한 수법의 살해 사건이 연이어 일어나는 상황이 직접 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"강압 수사\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"구타를 하며 자백을 강요한다\",\n      \"evidence\": \"용의자를 폭행하여 자백을 받아내려는 부당한 수사 관행이 명시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"유전자 감식\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"범인의 유전자 단서가 나오고, 수사본부는 미국으로 유전자 감식을 요청한다\",\n      \"evidence\": \"사건 해결을 위해 유전자 단서를 확보하고 분석을 요청하는 과정이 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"확신과 증거의 충돌\",\n      \"type\": \"theme\",\n      \"evidence_quote\": \"박현규가 범인이라 확신하지만, 마침내 도착한 감식 결과에는 그와 범인의 유전자가 일치하지 않는다는\",\n      \"evidence\": \"수사관들의 강한 심증 및 확신과 과학적 감식 결과가 일치하지 않아 발생하는 서사적 갈등을 보여준다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"미제사건\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"수사는 점점 미궁으로 빠지는 가운데\",\n      \"evidence\": \"수사가 미궁에 빠지고 17년이 지난 후에도 첫 시체 발견 장소를 찾는 모습에서 사건이 미해결 상태로 남았음을 유추할 수 있다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"medium\"\n    }\n  ]\n}",
+    "status": "success",
+    "error": null
+  },
+  {
+    "content_id": 78732,
+    "content_type": "movie",
+    "title": "명량",
+    "model_requested": "claude-sonnet-5",
+    "model_returned": "claude-sonnet-5",
+    "prompt_version": "topic-v4",
+    "elapsed_seconds": 25.163,
+    "input_tokens": 5132,
+    "output_tokens": 2594,
+    "total_tokens": 7726,
+    "topic_count": 6,
+    "valid_quote_count": 5,
+    "invalid_quote_count": 1,
+    "quote_validation_rate": 0.8333,
+    "validation_warnings": {
+      "quote_not_found": 1
+    },
+    "topics": [
+      {
+        "name": "임진왜란",
+        "type": "subject",
+        "evidence_quote": "1597년 임진왜란 6년, 오랜 전쟁으로 인해 혼란이 극에 달한 조선",
+        "evidence": "작품의 시대적 배경이 임진왜란임을 명시적으로 서술하고 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 0,
+          "end": 38
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "명량해전",
+        "type": "subject",
+        "evidence_quote": "12척의 배를 이끌고 명량 바다를 향해 나서는데…! 12척의 조선 vs 330척의 왜군",
+        "evidence": "작품의 중심 사건이 명량해전이며 키워드에도 명량해전, 명량대첩이 명시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 317,
+          "end": 365
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "절대적 열세 극복",
+        "type": "theme",
+        "evidence_quote": "330척에 달하는 왜군의 배가 속속 집결하고 압도적인 수의 열세에 모두가 패배를 직감하는 순간",
+        "evidence": "압도적인 수적 열세에도 불구하고 전투에 나서는 상황이 서술되어 있어, 열세를 극복하려는 서사적 주제를 추론할 수 있다.",
+        "evidence_level": "inferred",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 253,
+          "end": 305
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "리더십과 신뢰",
+        "type": "theme",
+        "evidence_quote": "전의를 상실한 병사와 두려움에 가득 찬 백성, 그리고 12척의 배 뿐",
+        "evidence": "전의를 상실한 병사들을 이끌고 전투를 치르는 상황에서 지휘관의 리더십이 서사의 중심 문제로 드러난다.",
+        "evidence_level": "inferred",
+        "confidence": "medium",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 135,
+          "end": 173
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "두려움과 공포",
+        "type": "human_experience",
+        "evidence_quote": "두려움에 가득 찬 백성",
+        "evidence": "병사와 백성이 느끼는 두려움이 직접적으로 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 147,
+          "end": 159
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "누명과 복권",
+        "type": "subject",
+        "evidence_quote": "누명을 쓰고 파면 당했던 이순신 장군이 삼도수군통제사로 재임명된다",
+        "evidence": "누명으로 인한 파면과 재임명이라는 구체적 사건이 명시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": false,
+        "evidence_source": null,
+        "evidence_location": null,
+        "validation_warning": "quote_not_found"
+      }
+    ],
+    "raw_response": "{\n  \"content_id\": 78732,\n  \"topics\": [\n    {\n      \"name\": \"임진왜란\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"1597년 임진왜란 6년, 오랜 전쟁으로 인해 혼란이 극에 달한 조선\",\n      \"evidence\": \"작품의 시대적 배경이 임진왜란임을 명시적으로 서술하고 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"명량해전\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"12척의 배를 이끌고 명량 바다를 향해 나서는데…! 12척의 조선 vs 330척의 왜군\",\n      \"evidence\": \"작품의 중심 사건이 명량해전이며 키워드에도 명량해전, 명량대첩이 명시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"절대적 열세 극복\",\n      \"type\": \"theme\",\n      \"evidence_quote\": \"330척에 달하는 왜군의 배가 속속 집결하고 압도적인 수의 열세에 모두가 패배를 직감하는 순간\",\n      \"evidence\": \"압도적인 수적 열세에도 불구하고 전투에 나서는 상황이 서술되어 있어, 열세를 극복하려는 서사적 주제를 추론할 수 있다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"리더십과 신뢰\",\n      \"type\": \"theme\",\n      \"evidence_quote\": \"전의를 상실한 병사와 두려움에 가득 찬 백성, 그리고 12척의 배 뿐\",\n      \"evidence\": \"전의를 상실한 병사들을 이끌고 전투를 치르는 상황에서 지휘관의 리더십이 서사의 중심 문제로 드러난다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"name\": \"두려움과 공포\",\n      \"type\": \"human_experience\",\n      \"evidence_quote\": \"두려움에 가득 찬 백성\",\n      \"evidence\": \"병사와 백성이 느끼는 두려움이 직접적으로 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"누명과 복권\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"누명을 쓰고 파면 당했던 이순신 장군이 삼도수군통제사로 재임명된다\",\n      \"evidence\": \"누명으로 인한 파면과 재임명이라는 구체적 사건이 명시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    }\n  ]\n}",
+    "status": "success",
+    "error": null
+  },
+  {
+    "content_id": 78732,
+    "content_type": "movie",
+    "title": "명량",
+    "model_requested": "gpt-6-sol",
+    "model_returned": "gpt-6-sol",
+    "prompt_version": "topic-v4",
+    "elapsed_seconds": 11.314,
+    "input_tokens": 3058,
+    "output_tokens": 1133,
+    "total_tokens": 4191,
+    "topic_count": 6,
+    "valid_quote_count": 6,
+    "invalid_quote_count": 0,
+    "quote_validation_rate": 1.0,
+    "validation_warnings": {},
+    "topics": [
+      {
+        "name": "임진왜란",
+        "type": "subject",
+        "evidence_quote": "1597년 임진왜란 6년, 오랜 전쟁으로 인해 혼란이 극에 달한 조선",
+        "evidence": "임진왜란이 작품의 전쟁 배경으로 명시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 0,
+          "end": 38
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "명량해전",
+        "type": "subject",
+        "evidence_quote": "명량해전",
+        "evidence": "키워드에 명량해전이 직접 제시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "keywords[9]",
+        "evidence_location": {
+          "start": 0,
+          "end": 4
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "수적 열세 속 항전",
+        "type": "theme",
+        "evidence_quote": "압도적인 수의 열세에 모두가 패배를 직감하는 순간",
+        "evidence": "패배가 예상될 만큼 불리한 상황에서도 12척의 배를 이끌고 나서는 서사에서 도출된다.",
+        "evidence_level": "inferred",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 278,
+          "end": 305
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "누명으로 인한 파면",
+        "type": "subject",
+        "evidence_quote": "누명을 쓰고 파면 당했던 이순신 장군(최민식)이 삼도수군통제사로 재임명된다",
+        "evidence": "누명에 따른 파면과 이후 재임명이 직접 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 79,
+          "end": 120
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "전쟁 속 두려움",
+        "type": "human_experience",
+        "evidence_quote": "전의를 상실한 병사와 두려움에 가득 찬 백성",
+        "evidence": "병사와 백성이 전쟁의 위협 앞에서 겪는 심리 상태가 드러난다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 135,
+          "end": 159
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "국가 존망의 위기",
+        "type": "subject",
+        "evidence_quote": "왜군에 의해 국가존망의 위기에 처하자",
+        "evidence": "왜군의 북상으로 조선의 존속이 위협받는 상황이 직접 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 58,
+          "end": 78
+        },
+        "validation_warning": null
+      }
+    ],
+    "raw_response": "{\n  \"content_id\": 78732,\n  \"topics\": [\n    {\n      \"name\": \"임진왜란\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"1597년 임진왜란 6년, 오랜 전쟁으로 인해 혼란이 극에 달한 조선\",\n      \"evidence\": \"임진왜란이 작품의 전쟁 배경으로 명시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"명량해전\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"명량해전\",\n      \"evidence\": \"키워드에 명량해전이 직접 제시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"수적 열세 속 항전\",\n      \"type\": \"theme\",\n      \"evidence_quote\": \"압도적인 수의 열세에 모두가 패배를 직감하는 순간\",\n      \"evidence\": \"패배가 예상될 만큼 불리한 상황에서도 12척의 배를 이끌고 나서는 서사에서 도출된다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"누명으로 인한 파면\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"누명을 쓰고 파면 당했던 이순신 장군(최민식)이 삼도수군통제사로 재임명된다\",\n      \"evidence\": \"누명에 따른 파면과 이후 재임명이 직접 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"전쟁 속 두려움\",\n      \"type\": \"human_experience\",\n      \"evidence_quote\": \"전의를 상실한 병사와 두려움에 가득 찬 백성\",\n      \"evidence\": \"병사와 백성이 전쟁의 위협 앞에서 겪는 심리 상태가 드러난다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"국가 존망의 위기\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"왜군에 의해 국가존망의 위기에 처하자\",\n      \"evidence\": \"왜군의 북상으로 조선의 존속이 위협받는 상황이 직접 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    }\n  ]\n}",
+    "status": "success",
+    "error": null
+  },
+  {
+    "content_id": 78732,
+    "content_type": "movie",
+    "title": "명량",
+    "model_requested": "gemini-3.8-flash",
+    "model_returned": "gemini-3.8-flash",
+    "prompt_version": "topic-v4",
+    "elapsed_seconds": 33.63,
+    "input_tokens": 3234,
+    "output_tokens": 582,
+    "total_tokens": 7919,
+    "topic_count": 5,
+    "valid_quote_count": 5,
+    "invalid_quote_count": 0,
+    "quote_validation_rate": 1.0,
+    "validation_warnings": {},
+    "topics": [
+      {
+        "name": "임진왜란",
+        "type": "subject",
+        "evidence_quote": "1597년 임진왜란 6년, 오랜 전쟁으로 인해 혼란이 극에 달한 조선",
+        "evidence": "작품의 주요 역사적 배경이 되는 전쟁으로 임진왜란이 직접 명시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 0,
+          "end": 38
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "명량해전",
+        "type": "subject",
+        "evidence_quote": "12척의 배를 이끌고 명량 바다를 향해 나서는데…! 12척의 조선 vs 330척의 왜군",
+        "evidence": "12척의 배로 명량 바다에서 330척의 왜군과 맞서는 핵심 해전 상황이 직접 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 317,
+          "end": 365
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "수적 열세",
+        "type": "subject",
+        "evidence_quote": "압도적인 수의 열세에 모두가 패배를 직감하는 순간",
+        "evidence": "12척 대 330척이라는 압도적인 전력 차이와 불리한 상황이 직접 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 278,
+          "end": 305
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "국가적 위기",
+        "type": "theme",
+        "evidence_quote": "한양으로 북상하는 왜군에 의해 국가존망의 위기에 처하자",
+        "evidence": "외세의 침략으로 국가 존망 자체가 위협받는 서사적 위기 상황이 명시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 48,
+          "end": 78
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "두려움과 절망",
+        "type": "human_experience",
+        "evidence_quote": "남은 건 전의를 상실한 병사와 두려움에 가득 찬 백성",
+        "evidence": "전쟁의 공포 앞에서 병사들이 전의를 잃고 백성들이 두려움에 휩싸인 심리적 상태가 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 130,
+          "end": 159
+        },
+        "validation_warning": null
+      }
+    ],
+    "raw_response": "{\n  \"content_id\": 78732,\n  \"topics\": [\n    {\n      \"name\": \"임진왜란\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"1597년 임진왜란 6년, 오랜 전쟁으로 인해 혼란이 극에 달한 조선\",\n      \"evidence\": \"작품의 주요 역사적 배경이 되는 전쟁으로 임진왜란이 직접 명시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"명량해전\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"12척의 배를 이끌고 명량 바다를 향해 나서는데…! 12척의 조선 vs 330척의 왜군\",\n      \"evidence\": \"12척의 배로 명량 바다에서 330척의 왜군과 맞서는 핵심 해전 상황이 직접 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"수적 열세\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"압도적인 수의 열세에 모두가 패배를 직감하는 순간\",\n      \"evidence\": \"12척 대 330척이라는 압도적인 전력 차이와 불리한 상황이 직접 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"국가적 위기\",\n      \"type\": \"theme\",\n      \"evidence_quote\": \"한양으로 북상하는 왜군에 의해 국가존망의 위기에 처하자\",\n      \"evidence\": \"외세의 침략으로 국가 존망 자체가 위협받는 서사적 위기 상황이 명시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"두려움과 절망\",\n      \"type\": \"human_experience\",\n      \"evidence_quote\": \"남은 건 전의를 상실한 병사와 두려움에 가득 찬 백성\",\n      \"evidence\": \"전쟁의 공포 앞에서 병사들이 전의를 잃고 백성들이 두려움에 휩싸인 심리적 상태가 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    }\n  ]\n}",
+    "status": "success",
+    "error": null
+  },
+  {
+    "content_id": 79246,
+    "content_type": "movie",
+    "title": "1987",
+    "model_requested": "claude-sonnet-5",
+    "model_returned": "claude-sonnet-5",
+    "prompt_version": "topic-v4",
+    "elapsed_seconds": 20.469,
+    "input_tokens": 5303,
+    "output_tokens": 2073,
+    "total_tokens": 7376,
+    "topic_count": 8,
+    "valid_quote_count": 5,
+    "invalid_quote_count": 3,
+    "quote_validation_rate": 0.625,
+    "validation_warnings": {
+      "quote_not_found": 3
+    },
+    "topics": [
+      {
+        "name": "고문치사",
+        "type": "subject",
+        "evidence_quote": "물고문 도중 질식사",
+        "evidence": "대학생이 경찰 조사 중 고문으로 사망한 사건이 작품의 핵심 소재로 직접 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 238,
+          "end": 248
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "사건 은폐와 축소",
+        "type": "subject",
+        "evidence_quote": "형사 둘만 구속시키며 사건을 축소하려 한다",
+        "evidence": "권력자가 시신 화장을 요청하고 사건을 축소시키려는 시도가 명시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 275,
+          "end": 298
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "국가폭력",
+        "type": "social_issue",
+        "evidence_quote": "국가폭력",
+        "evidence": "키워드에 국가폭력이 직접 명시되어 있고, 고문 및 은폐 서사와 연결된다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "keywords[1]",
+        "evidence_location": {
+          "start": 0,
+          "end": 4
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "군부독재 체제",
+        "type": "social_issue",
+        "evidence_quote": "군부정권",
+        "evidence": "군부정권, 군부독재라는 키워드와 안기부 등장이 당시 체제적 억압을 뒷받침한다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "keywords[18]",
+        "evidence_location": {
+          "start": 0,
+          "end": 4
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "6월 민주항쟁",
+        "type": "subject",
+        "evidence_quote": "6월항쟁",
+        "evidence": "입력에 6월항쟁이라는 구체적 역사적 사건이 명시되어 있어 이를 그대로 토픽화한다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "keywords[9]",
+        "evidence_location": {
+          "start": 0,
+          "end": 4
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "진실규명과 은폐의 충돌",
+        "type": "theme",
+        "evidence_quote": "부검을 밀어붙인다... 거짓 발표를 이어가는 경찰",
+        "evidence": "진실을 밝히려는 인물과 이를 은폐하려는 세력 간의 대립이 서사의 중심 갈등으로 드러난다.",
+        "evidence_level": "inferred",
+        "confidence": "high",
+        "quote_valid": false,
+        "evidence_source": null,
+        "evidence_location": null,
+        "validation_warning": "quote_not_found"
+      },
+      {
+        "name": "언론의 진실 보도",
+        "type": "subject",
+        "evidence_quote": "사건을 취재하던 윤기자는 ‘물고문 도중 질식사’를 보도한다",
+        "evidence": "기자가 은폐된 진실을 취재하여 보도하는 과정이 명시적으로 서술된다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": false,
+        "evidence_source": null,
+        "evidence_location": null,
+        "validation_warning": "quote_not_found"
+      },
+      {
+        "name": "양심에 따른 위험한 선택",
+        "type": "human_experience",
+        "evidence_quote": "연희에게 위험한 부탁을 하게 되는데",
+        "evidence": "인물이 위험을 감수하며 진실 전달에 가담하는 상황은 양심적 선택에 따른 심리적 부담을 암시한다.",
+        "evidence_level": "inferred",
+        "confidence": "medium",
+        "quote_valid": false,
+        "evidence_source": null,
+        "evidence_location": null,
+        "validation_warning": "quote_not_found"
+      }
+    ],
+    "raw_response": "```json\n{\n  \"content_id\": 79246,\n  \"topics\": [\n    {\n      \"name\": \"고문치사\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"물고문 도중 질식사\",\n      \"evidence\": \"대학생이 경찰 조사 중 고문으로 사망한 사건이 작품의 핵심 소재로 직접 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"사건 은폐와 축소\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"형사 둘만 구속시키며 사건을 축소하려 한다\",\n      \"evidence\": \"권력자가 시신 화장을 요청하고 사건을 축소시키려는 시도가 명시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"국가폭력\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"국가폭력\",\n      \"evidence\": \"키워드에 국가폭력이 직접 명시되어 있고, 고문 및 은폐 서사와 연결된다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"군부독재 체제\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"군부정권\",\n      \"evidence\": \"군부정권, 군부독재라는 키워드와 안기부 등장이 당시 체제적 억압을 뒷받침한다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"6월 민주항쟁\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"6월항쟁\",\n      \"evidence\": \"입력에 6월항쟁이라는 구체적 역사적 사건이 명시되어 있어 이를 그대로 토픽화한다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"진실규명과 은폐의 충돌\",\n      \"type\": \"theme\",\n      \"evidence_quote\": \"부검을 밀어붙인다... 거짓 발표를 이어가는 경찰\",\n      \"evidence\": \"진실을 밝히려는 인물과 이를 은폐하려는 세력 간의 대립이 서사의 중심 갈등으로 드러난다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"언론의 진실 보도\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"사건을 취재하던 윤기자는 ‘물고문 도중 질식사’를 보도한다\",\n      \"evidence\": \"기자가 은폐된 진실을 취재하여 보도하는 과정이 명시적으로 서술된다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"양심에 따른 위험한 선택\",\n      \"type\": \"human_experience\",\n      \"evidence_quote\": \"연희에게 위험한 부탁을 하게 되는데\",\n      \"evidence\": \"인물이 위험을 감수하며 진실 전달에 가담하는 상황은 양심적 선택에 따른 심리적 부담을 암시한다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"medium\"\n    }\n  ]\n}\n```",
+    "status": "success",
+    "error": null
+  },
+  {
+    "content_id": 79246,
+    "content_type": "movie",
+    "title": "1987",
+    "model_requested": "gpt-6-sol",
+    "model_returned": "gpt-6-sol",
+    "prompt_version": "topic-v4",
+    "elapsed_seconds": 16.076,
+    "input_tokens": 3177,
+    "output_tokens": 1616,
+    "total_tokens": 4793,
+    "topic_count": 6,
+    "valid_quote_count": 6,
+    "invalid_quote_count": 0,
+    "quote_validation_rate": 1.0,
+    "validation_warnings": {},
+    "topics": [
+      {
+        "name": "고문치사",
+        "type": "social_issue",
+        "evidence_quote": "부검 소견은 고문에 의한 사망을 가리키고",
+        "evidence": "부검 결과가 고문에 의한 사망을 가리킨다고 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 194,
+          "end": 216
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "사건 은폐",
+        "type": "social_issue",
+        "evidence_quote": "단순 쇼크사인 것처럼 거짓 발표를 이어가는 경찰",
+        "evidence": "경찰이 사망 원인에 관해 거짓 발표를 이어간다고 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 150,
+          "end": 176
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "부검을 통한 진상규명",
+        "type": "subject",
+        "evidence_quote": "이를 거부하고 부검을 밀어붙인다",
+        "evidence": "시신 화장 요청에 맞서 부검을 추진하는 과정이 제시된다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 130,
+          "end": 147
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "언론의 사건 보도",
+        "type": "subject",
+        "evidence_quote": "‘물고문 도중 질식사’를 보도한다",
+        "evidence": "취재한 사건의 사망 경위가 보도된다고 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 237,
+          "end": 255
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "위험을 무릅쓴 진실 전달",
+        "type": "theme",
+        "evidence_quote": "이 사실을 수배 중인 재야인사에게 전달하기 위해 조카인 연희(김태리)에게 위험한 부탁을 하게 되는데",
+        "evidence": "사건의 진상을 전달하려는 시도가 위험한 부탁으로 이어져, 진실을 알리는 데 따르는 위험을 드러낸다.",
+        "evidence_level": "inferred",
+        "confidence": "medium",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 349,
+          "end": 404
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "6월항쟁",
+        "type": "subject",
+        "evidence_quote": "6월항쟁",
+        "evidence": "키워드에 명시된 역사적 사건으로, 작품의 1987년 배경과 관련된 토픽으로 제시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "medium",
+        "quote_valid": true,
+        "evidence_source": "keywords[9]",
+        "evidence_location": {
+          "start": 0,
+          "end": 4
+        },
+        "validation_warning": null
+      }
+    ],
+    "raw_response": "{\n  \"content_id\": 79246,\n  \"topics\": [\n    {\n      \"name\": \"고문치사\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"부검 소견은 고문에 의한 사망을 가리키고\",\n      \"evidence\": \"부검 결과가 고문에 의한 사망을 가리킨다고 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"사건 은폐\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"단순 쇼크사인 것처럼 거짓 발표를 이어가는 경찰\",\n      \"evidence\": \"경찰이 사망 원인에 관해 거짓 발표를 이어간다고 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"부검을 통한 진상규명\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"이를 거부하고 부검을 밀어붙인다\",\n      \"evidence\": \"시신 화장 요청에 맞서 부검을 추진하는 과정이 제시된다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"언론의 사건 보도\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"‘물고문 도중 질식사’를 보도한다\",\n      \"evidence\": \"취재한 사건의 사망 경위가 보도된다고 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"위험을 무릅쓴 진실 전달\",\n      \"type\": \"theme\",\n      \"evidence_quote\": \"이 사실을 수배 중인 재야인사에게 전달하기 위해 조카인 연희(김태리)에게 위험한 부탁을 하게 되는데\",\n      \"evidence\": \"사건의 진상을 전달하려는 시도가 위험한 부탁으로 이어져, 진실을 알리는 데 따르는 위험을 드러낸다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"name\": \"6월항쟁\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"6월항쟁\",\n      \"evidence\": \"키워드에 명시된 역사적 사건으로, 작품의 1987년 배경과 관련된 토픽으로 제시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"medium\"\n    }\n  ]\n}",
+    "status": "success",
+    "error": null
+  },
+  {
+    "content_id": 79246,
+    "content_type": "movie",
+    "title": "1987",
+    "model_requested": "gemini-3.8-flash",
+    "model_returned": "gemini-3.8-flash",
+    "prompt_version": "topic-v4",
+    "elapsed_seconds": 20.725,
+    "input_tokens": 3386,
+    "output_tokens": 590,
+    "total_tokens": 6190,
+    "topic_count": 5,
+    "valid_quote_count": 5,
+    "invalid_quote_count": 0,
+    "quote_validation_rate": 1.0,
+    "validation_warnings": {},
+    "topics": [
+      {
+        "name": "고문치사",
+        "type": "subject",
+        "evidence_quote": "부검 소견은 고문에 의한 사망을 가리키고",
+        "evidence": "경찰 조사를 받던 대학생이 고문으로 사망한 사건이 직접 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 194,
+          "end": 216
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "사건 은폐",
+        "type": "social_issue",
+        "evidence_quote": "형사 둘만 구속시키며 사건을 축소하려 한다",
+        "evidence": "경찰이 시신 화장 요청과 거짓 발표를 하고, 일부 인원만 구속해 사건을 축소하려는 정황이 제시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 275,
+          "end": 298
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "국가폭력",
+        "type": "social_issue",
+        "evidence_quote": "경찰 조사를 받던 스물두 살 대학생이 사망한다",
+        "evidence": "공권력 기관인 경찰의 조사 과정에서 발생한 가혹행위와 사망을 통해 국가 권력에 의한 폭력을 다룬다.",
+        "evidence_level": "inferred",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 37,
+          "end": 62
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "진실 규명",
+        "type": "theme",
+        "evidence_quote": "사건의 진상을 알게 된 교도관 한병용(유해진)은 이 사실을 수배 중인 재야인사에게 전달",
+        "evidence": "검사의 부검 진행, 기자의 취재 보도, 교도관의 진상 전달 등 은폐된 사실을 밝혀내려는 인물들의 노력이 중심 서사로 다뤄진다.",
+        "evidence_level": "inferred",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 322,
+          "end": 370
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "언론 보도",
+        "type": "subject",
+        "evidence_quote": "사건을 취재하던 윤기자(이희준)는 ‘물고문 도중 질식사’를 보도한다",
+        "evidence": "기자가 사건의 실체를 취재하여 물고문에 의한 질식사 사실을 언론에 보도하는 활동이 직접 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 218,
+          "end": 255
+        },
+        "validation_warning": null
+      }
+    ],
+    "raw_response": "{\n  \"content_id\": 79246,\n  \"topics\": [\n    {\n      \"name\": \"고문치사\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"부검 소견은 고문에 의한 사망을 가리키고\",\n      \"evidence\": \"경찰 조사를 받던 대학생이 고문으로 사망한 사건이 직접 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"사건 은폐\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"형사 둘만 구속시키며 사건을 축소하려 한다\",\n      \"evidence\": \"경찰이 시신 화장 요청과 거짓 발표를 하고, 일부 인원만 구속해 사건을 축소하려는 정황이 제시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"국가폭력\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"경찰 조사를 받던 스물두 살 대학생이 사망한다\",\n      \"evidence\": \"공권력 기관인 경찰의 조사 과정에서 발생한 가혹행위와 사망을 통해 국가 권력에 의한 폭력을 다룬다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"진실 규명\",\n      \"type\": \"theme\",\n      \"evidence_quote\": \"사건의 진상을 알게 된 교도관 한병용(유해진)은 이 사실을 수배 중인 재야인사에게 전달\",\n      \"evidence\": \"검사의 부검 진행, 기자의 취재 보도, 교도관의 진상 전달 등 은폐된 사실을 밝혀내려는 인물들의 노력이 중심 서사로 다뤄진다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"언론 보도\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"사건을 취재하던 윤기자(이희준)는 ‘물고문 도중 질식사’를 보도한다\",\n      \"evidence\": \"기자가 사건의 실체를 취재하여 물고문에 의한 질식사 사실을 언론에 보도하는 활동이 직접 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    }\n  ]\n}",
+    "status": "success",
+    "error": null
+  },
+  {
+    "content_id": 44816,
+    "content_type": "tv",
+    "title": "미스터 션샤인",
+    "model_requested": "claude-sonnet-5",
+    "model_returned": "claude-sonnet-5",
+    "prompt_version": "topic-v4",
+    "elapsed_seconds": 20.697,
+    "input_tokens": 4881,
+    "output_tokens": 2048,
+    "total_tokens": 6929,
+    "topic_count": 8,
+    "valid_quote_count": 7,
+    "invalid_quote_count": 1,
+    "quote_validation_rate": 0.875,
+    "validation_warnings": {
+      "quote_not_found": 1
+    },
+    "topics": [
+      {
+        "name": "신분 차별",
+        "type": "social_issue",
+        "evidence_quote": "노비 출신 소년 유진",
+        "evidence": "주인공이 노비 신분으로 태어나 이후 신분에 따른 차별적 상황에 놓인다는 점이 명시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 76,
+          "end": 87
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "이민자의 차별 극복",
+        "type": "human_experience",
+        "evidence_quote": "미국으로 건너가 갖은 차별을 이겨내고 군인이 된",
+        "evidence": "이국에서 겪는 차별과 이를 극복하는 과정이 직접 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 94,
+          "end": 120
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "구한말 외세 침탈",
+        "type": "subject",
+        "evidence_quote": "신미양요(1871년)때 부모를 잃고",
+        "evidence": "역사적 사건인 신미양요가 인물의 비극적 배경으로 명시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 28,
+          "end": 47
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "매국과 친일 행태",
+        "type": "social_issue",
+        "evidence_quote": "양반들이 개화의 탈을 쓰고 앞다투어 매국을 하는 야만의 나라",
+        "evidence": "지배층의 매국 행위가 작품 내 사회 문제로 직접 제시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 195,
+          "end": 228
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "독립운동",
+        "type": "subject",
+        "evidence_quote": "남들 몰래 조선의 독립을 위해 싸우는 조선 최고 명문가의 영애",
+        "evidence": "인물이 독립운동에 가담하고 있다는 내용이 명시적으로 드러난다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 245,
+          "end": 279
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "조국에 대한 애증",
+        "type": "human_experience",
+        "evidence_quote": "제 부모를 때려죽인 나라이자, 자신이 도망쳐 나온 나라였으며",
+        "evidence": "조국을 증오하면서도 그곳으로 돌아오는 인물의 복합적 감정을 추론할 수 있다.",
+        "evidence_level": "inferred",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 160,
+          "end": 193
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "신분을 초월한 사랑",
+        "type": "theme",
+        "evidence_quote": "노비 출신 소년 유진...조선 최고 명문가의 영애, 애신",
+        "evidence": "서로 다른 신분의 두 인물이 맺는 관계가 신분을 초월하는 서사적 주제로 해석된다.",
+        "evidence_level": "inferred",
+        "confidence": "medium",
+        "quote_valid": false,
+        "evidence_source": null,
+        "evidence_location": null,
+        "validation_warning": "quote_not_found"
+      },
+      {
+        "name": "적에서 동지로",
+        "type": "theme",
+        "evidence_quote": "enemies to friends",
+        "evidence": "키워드에 명시된 적대 관계에서 동지 관계로의 전환이라는 서사 구도를 보여준다.",
+        "evidence_level": "inferred",
+        "confidence": "medium",
+        "quote_valid": true,
+        "evidence_source": "keywords[6]",
+        "evidence_location": {
+          "start": 0,
+          "end": 18
+        },
+        "validation_warning": null
+      }
+    ],
+    "raw_response": "```json\n{\n  \"content_id\": 44816,\n  \"topics\": [\n    {\n      \"name\": \"신분 차별\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"노비 출신 소년 유진\",\n      \"evidence\": \"주인공이 노비 신분으로 태어나 이후 신분에 따른 차별적 상황에 놓인다는 점이 명시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"이민자의 차별 극복\",\n      \"type\": \"human_experience\",\n      \"evidence_quote\": \"미국으로 건너가 갖은 차별을 이겨내고 군인이 된\",\n      \"evidence\": \"이국에서 겪는 차별과 이를 극복하는 과정이 직접 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"구한말 외세 침탈\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"신미양요(1871년)때 부모를 잃고\",\n      \"evidence\": \"역사적 사건인 신미양요가 인물의 비극적 배경으로 명시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"매국과 친일 행태\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"양반들이 개화의 탈을 쓰고 앞다투어 매국을 하는 야만의 나라\",\n      \"evidence\": \"지배층의 매국 행위가 작품 내 사회 문제로 직접 제시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"독립운동\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"남들 몰래 조선의 독립을 위해 싸우는 조선 최고 명문가의 영애\",\n      \"evidence\": \"인물이 독립운동에 가담하고 있다는 내용이 명시적으로 드러난다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"조국에 대한 애증\",\n      \"type\": \"human_experience\",\n      \"evidence_quote\": \"제 부모를 때려죽인 나라이자, 자신이 도망쳐 나온 나라였으며\",\n      \"evidence\": \"조국을 증오하면서도 그곳으로 돌아오는 인물의 복합적 감정을 추론할 수 있다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"신분을 초월한 사랑\",\n      \"type\": \"theme\",\n      \"evidence_quote\": \"노비 출신 소년 유진...조선 최고 명문가의 영애, 애신\",\n      \"evidence\": \"서로 다른 신분의 두 인물이 맺는 관계가 신분을 초월하는 서사적 주제로 해석된다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"name\": \"적에서 동지로\",\n      \"type\": \"theme\",\n      \"evidence_quote\": \"enemies to friends\",\n      \"evidence\": \"키워드에 명시된 적대 관계에서 동지 관계로의 전환이라는 서사 구도를 보여준다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"medium\"\n    }\n  ]\n}\n```",
+    "status": "success",
+    "error": null
+  },
+  {
+    "content_id": 44816,
+    "content_type": "tv",
+    "title": "미스터 션샤인",
+    "model_requested": "gpt-6-sol",
+    "model_returned": "gpt-6-sol",
+    "prompt_version": "topic-v4",
+    "elapsed_seconds": 10.049,
+    "input_tokens": 2859,
+    "output_tokens": 1015,
+    "total_tokens": 3874,
+    "topic_count": 7,
+    "valid_quote_count": 7,
+    "invalid_quote_count": 0,
+    "quote_validation_rate": 1.0,
+    "validation_warnings": {},
+    "topics": [
+      {
+        "name": "신미양요",
+        "type": "subject",
+        "evidence_quote": "신미양요(1871년)때 부모를 잃고",
+        "evidence": "신미양요가 인물의 과거를 형성한 사건으로 명시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 28,
+          "end": 47
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "부모 상실",
+        "type": "human_experience",
+        "evidence_quote": "신미양요(1871년)때 부모를 잃고",
+        "evidence": "어린 시절 부모를 잃은 경험이 직접 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 28,
+          "end": 47
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "노비 신분",
+        "type": "subject",
+        "evidence_quote": "노비 출신 소년 유진(이병헌)",
+        "evidence": "주요 인물이 노비 출신이라는 신분적 배경이 명시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 76,
+          "end": 92
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "차별 경험",
+        "type": "social_issue",
+        "evidence_quote": "미국으로 건너가 갖은 차별을 이겨내고 군인이 된",
+        "evidence": "미국에서 여러 차별을 겪었다는 내용이 직접 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 94,
+          "end": 120
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "조국에 대한 반감",
+        "type": "human_experience",
+        "evidence_quote": "그에게 조선이란 제 부모를 때려죽인 나라이자, 자신이 도망쳐 나온 나라였으며",
+        "evidence": "조선을 바라보는 인물의 부정적인 인식에서 조국에 대한 반감을 읽을 수 있다.",
+        "evidence_level": "inferred",
+        "confidence": "medium",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 151,
+          "end": 193
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "매국",
+        "type": "subject",
+        "evidence_quote": "양반들이 개화의 탈을 쓰고 앞다투어 매국을 하는",
+        "evidence": "양반들의 매국 행위가 인물의 조선에 대한 인식을 설명하는 요소로 제시된다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 195,
+          "end": 221
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "조선 독립 투쟁",
+        "type": "subject",
+        "evidence_quote": "남들 몰래 조선의 독립을 위해 싸우는",
+        "evidence": "조선의 독립을 위한 비밀스러운 활동이 직접 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 245,
+          "end": 265
+        },
+        "validation_warning": null
+      }
+    ],
+    "raw_response": "{\n  \"content_id\": 44816,\n  \"topics\": [\n    {\n      \"name\": \"신미양요\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"신미양요(1871년)때 부모를 잃고\",\n      \"evidence\": \"신미양요가 인물의 과거를 형성한 사건으로 명시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"부모 상실\",\n      \"type\": \"human_experience\",\n      \"evidence_quote\": \"신미양요(1871년)때 부모를 잃고\",\n      \"evidence\": \"어린 시절 부모를 잃은 경험이 직접 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"노비 신분\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"노비 출신 소년 유진(이병헌)\",\n      \"evidence\": \"주요 인물이 노비 출신이라는 신분적 배경이 명시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"차별 경험\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"미국으로 건너가 갖은 차별을 이겨내고 군인이 된\",\n      \"evidence\": \"미국에서 여러 차별을 겪었다는 내용이 직접 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"조국에 대한 반감\",\n      \"type\": \"human_experience\",\n      \"evidence_quote\": \"그에게 조선이란 제 부모를 때려죽인 나라이자, 자신이 도망쳐 나온 나라였으며\",\n      \"evidence\": \"조선을 바라보는 인물의 부정적인 인식에서 조국에 대한 반감을 읽을 수 있다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"name\": \"매국\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"양반들이 개화의 탈을 쓰고 앞다투어 매국을 하는\",\n      \"evidence\": \"양반들의 매국 행위가 인물의 조선에 대한 인식을 설명하는 요소로 제시된다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"조선 독립 투쟁\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"남들 몰래 조선의 독립을 위해 싸우는\",\n      \"evidence\": \"조선의 독립을 위한 비밀스러운 활동이 직접 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    }\n  ]\n}",
+    "status": "success",
+    "error": null
+  },
+  {
+    "content_id": 44816,
+    "content_type": "tv",
+    "title": "미스터 션샤인",
+    "model_requested": "gemini-3.8-flash",
+    "model_returned": "gemini-3.8-flash",
+    "prompt_version": "topic-v4",
+    "elapsed_seconds": 29.915,
+    "input_tokens": 3011,
+    "output_tokens": 536,
+    "total_tokens": 7091,
+    "topic_count": 5,
+    "valid_quote_count": 5,
+    "invalid_quote_count": 0,
+    "quote_validation_rate": 1.0,
+    "validation_warnings": {},
+    "topics": [
+      {
+        "name": "신미양요",
+        "type": "subject",
+        "evidence_quote": "신미양요(1871년)때 부모를 잃고",
+        "evidence": "작품의 서사가 촉발되는 역사적 배경 사건으로 직접 명시되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 28,
+          "end": 47
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "독립운동",
+        "type": "subject",
+        "evidence_quote": "조선의 독립을 위해 싸우는",
+        "evidence": "조선의 독립을 목표로 비밀리에 싸우는 저항 활동이 직접 서술되어 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 251,
+          "end": 265
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "신분 차별",
+        "type": "social_issue",
+        "evidence_quote": "노비 출신 소년 유진(이병헌). 미국으로 건너가 갖은 차별을 이겨내고",
+        "evidence": "노비라는 출신 신분과 그로 인해 겪은 차별 경험이 서술되어 있다.",
+        "evidence_level": "inferred",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 76,
+          "end": 114
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "지배층의 매국",
+        "type": "theme",
+        "evidence_quote": "양반들이 개화의 탈을 쓰고 앞다투어 매국을 하는",
+        "evidence": "기득권인 양반 계층이 사익을 위해 나라를 팔아넘기는 행태에 대한 비판적 문제의식이 드러나 있다.",
+        "evidence_level": "explicit",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 195,
+          "end": 221
+        },
+        "validation_warning": null
+      },
+      {
+        "name": "조국에 대한 배신감",
+        "type": "human_experience",
+        "evidence_quote": "자신을 버린 조국인 조선으로 와 주둔하게 된다",
+        "evidence": "자신을 버리고 부모를 죽게 만든 조국을 향한 주인공의 원망과 내적 갈등을 보여준다.",
+        "evidence_level": "inferred",
+        "confidence": "high",
+        "quote_valid": true,
+        "evidence_source": "description",
+        "evidence_location": {
+          "start": 124,
+          "end": 149
+        },
+        "validation_warning": null
+      }
+    ],
+    "raw_response": "{\n  \"content_id\": 44816,\n  \"topics\": [\n    {\n      \"name\": \"신미양요\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"신미양요(1871년)때 부모를 잃고\",\n      \"evidence\": \"작품의 서사가 촉발되는 역사적 배경 사건으로 직접 명시되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"독립운동\",\n      \"type\": \"subject\",\n      \"evidence_quote\": \"조선의 독립을 위해 싸우는\",\n      \"evidence\": \"조선의 독립을 목표로 비밀리에 싸우는 저항 활동이 직접 서술되어 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"신분 차별\",\n      \"type\": \"social_issue\",\n      \"evidence_quote\": \"노비 출신 소년 유진(이병헌). 미국으로 건너가 갖은 차별을 이겨내고\",\n      \"evidence\": \"노비라는 출신 신분과 그로 인해 겪은 차별 경험이 서술되어 있다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"지배층의 매국\",\n      \"type\": \"theme\",\n      \"evidence_quote\": \"양반들이 개화의 탈을 쓰고 앞다투어 매국을 하는\",\n      \"evidence\": \"기득권인 양반 계층이 사익을 위해 나라를 팔아넘기는 행태에 대한 비판적 문제의식이 드러나 있다.\",\n      \"evidence_level\": \"explicit\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"조국에 대한 배신감\",\n      \"type\": \"human_experience\",\n      \"evidence_quote\": \"자신을 버린 조국인 조선으로 와 주둔하게 된다\",\n      \"evidence\": \"자신을 버리고 부모를 죽게 만든 조국을 향한 주인공의 원망과 내적 갈등을 보여준다.\",\n      \"evidence_level\": \"inferred\",\n      \"confidence\": \"high\"\n    }\n  ]\n}",
+    "status": "success",
+    "error": null
+  }
+]
